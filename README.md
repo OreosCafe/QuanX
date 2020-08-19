@@ -22,7 +22,9 @@
 
 
 一、使用方法：
-1、远程挂载到圈x
+1、远程挂载到圈x（挂载地址如下）
+https://raw.githubusercontent.com/sngxpro/QuanX/master/sngxpro.conf
+
 2、下载conf文件后分享到圈x
 
 二、注意事项：

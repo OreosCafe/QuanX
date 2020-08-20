@@ -66,3 +66,9 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/sngxpro.conf
 # Telegram资源发布群（禁言纯净）@shao66 
 # Telegram水友交流群（资源同步）@sngxpro
 # Telegram私聊群主 @shaogebot
+
+四、更新情况
+
+第一次更新：2020.8.20 12:19
+
+为腾讯视频、网易云音乐、b站cookie的获取方法添加了注释，不是打开app就自动获取的哦

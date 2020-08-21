@@ -1,5 +1,8 @@
 #更新说明
 
+2020.8.21 15:35 
+添加了@yichahucha的淘宝比价、京东比价
+
 2020.8.21 12:00
 为所有重写添加了详细注释，不能获取cookie的请在配置文本中对照rewite loacl部分的说明
 
@@ -23,6 +26,8 @@
 @vinewx 
 @chouchoui 
 @Orz-3
+@yichahucha
+@evilbutcher
 
 #特别感谢Orz-3的图标项目 美化效果杠杠的
 

@@ -1,5 +1,15 @@
 #更新说明
 
+2020.8.25 15:20
+
+增加了nasa每日一图
+
+2020.8.23 19:00
+
+增加了宠汪汪偷好友积分
+
+增加了京小超自动蓝币
+
 2020.8.22 17:00
 
 添加了热门监控
@@ -84,8 +94,6 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/sngxpro.conf
 # Telegram水友交流群（资源同步）@sngxpro
 # Telegram私聊群主 @shaogebot
 
-四、更新情况
+四、更新日志
 
-第一次更新：2020.8.20 12:19
-
-为腾讯视频、网易云音乐、b站cookie的获取方法添加了注释，不是打开app就自动获取的哦
+移动到最上方

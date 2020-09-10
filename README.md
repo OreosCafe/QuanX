@@ -64,7 +64,12 @@
 
 1、远程挂载到圈x（挂载地址如下）
 
+（1）重写+task+hostname等全部在同一个文件版本，方便调阅查看修改
+
 https://raw.githubusercontent.com/sngxpro/QuanX/master/sngxpro.conf
+
+（2）常规的task版本，重写、hostname、app破解规则等通过远程调用
+https://raw.githubusercontent.com/sngxpro/QuanX/master/sngx.conf
 
 #挂载时需要科学上网方式
 

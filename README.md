@@ -1,4 +1,4 @@
-# 当前自动脚本总数：158 个
+# 当前自动脚本总数：172 个
 # 当前破解app vip规则 15 个
 # 自动打卡赚钱脚本  14 个
 # app辅助显示脚本   2个
@@ -7,64 +7,80 @@
 
 #近2日更新
 
-2020.9.23  22:00
+2020.11.19  10:00
 
-增加解锁keep 私人课程,动作库,解锁运动课程页面会员精讲，解锁会员专属页面会员课程，解锁智能训练(胸背部无跑步无器材84天锻炼)
-仅针对Keep版本号6.24-6.27的版本
-
-增加iklear官方微商城自动签到脚本
-
-2020.9.23 9:00
-
-增加录丸 解锁vip规则 （appstore下载）
-
-增加奥利给直播 解锁vip规则  （https://ok6.app/）
-
-2020.9.11 1:00
-
-增加QX 远程订阅微信签到打卡小程序App签到
-
-增加Geekhub
-
-增加达美乐
-
-增加有道云笔记
-
+复更，主流脚本已更新到最新
 
 
 # QuanX
 一键配置懒人包
 
-内含分流+规则+2020年8月最全自动化脚本
+内含分流+规则+2020年11月最全自动化脚本
 
 #脚本调用下列大佬的资源，在此致谢，排名不分先后
-#@nobyda 
-@chavyleung 
-@zzpiglet 
-@songyangzz 
-@toulanboy 
+@nobyda 
+
+@chavyleung
+
+@zzpiglet
+
+@songyangzz
+
+@toulanboy
+
 @sunert
-@peng-ym 
-@iepngs 
-@lowking 
-@lxk0301 
-@vinewx 
-@chouchoui 
+
+@peng-ym
+
+@iepngs
+
+@lowking
+
+@lxk0301
+
+@vinewx
+
+@chouchoui
+
 @Orz-3
-@yichahucha
+
+@ZhiYi-N
+
 @evilbutcher
-@Zero-S1
-@ziye12
-@barrym-chen
-@iisams
-@浥轻尘
+
+@yichahucha
+
+@id77 
+
+@photonmang 
+
+@wangdelu2020
+
+@Zero-S1 
+
+@ziye12 
+
+@barrym-chen 
+
+@iisams 
+
+@LJJJia
+
+@congcong0806 
+
+@XidNDD 
+
+@passerby-b
+
+@photonmang
+ 
 
 #特别感谢Orz-3的图标项目 美化效果杠杠的
 
 
 主要包含以下内容：
 
-1、整合了2020年9月可用的几乎全网自动化定时脚本；
+1、整合了2020年11月可用的几乎全网自动化定时脚本；
 
 2、集成了多份实用分流规则；
 

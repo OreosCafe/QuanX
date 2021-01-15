@@ -1,0 +1,163 @@
+# Quantumult X小白配置 制作 by微信公众号：少年歌行PRO 2020/11/19更新
+# Telegram资源发布群（禁言纯净）@shao66 
+# Telegram水友交流群（资源同步）@sngxpro
+# Telegram私聊群主 @shaogebot
+#脚本调用下列大佬的资源，在此致谢，排名不分先后
+#@nobyda @chavyleung @zzpiglet @songyangzz @toulanboy @sunert @peng-ym @iepngs @lowking @lxk0301 @vinewx @chouchoui @Orz-3 @ZhiYi-N @evilbutcher @yichahucha @id77 @photonmang @wangdelu2020 @Zero-S1 @ziye12 @barrym-chen @iisams @LJJJia @congcong0806 @XidNDD @passerby-b @photonmang
+
+#特别感谢Orz-3的图标项目 美化效果杠杠的
+
+[dns]
+no-ipv6
+server=119.29.29.29
+address=/mtalk.google.com/108.177.125.188
+
+[policy]
+static=新加坡, server-tag-regex=(?=.*(新加坡|狮城|SG|(?i)Singapore))^((?!(专线|手游|游戏|(?i)IPLC|IEPL|game)).)*$, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/SG.png
+static=美国, server-tag-regex=(?=.*(美国|美國|US|(?i)States|American))^((?!(专线|手游|游戏|(?i)IPLC|IEPL|game)).)*$, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/US.png
+static=日本, server-tag-regex=(?=.*(日本|JP|(?i)Japan))^((?!(专线|手游|游戏|(?i)IPLC|IEPL|game)).)*$, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/JP.png
+static=韩国, server-tag-regex=(?=.*(韩国|韓國|南朝鲜|KR|(?i)Korean))^((?!(专线|手游|游戏|(?i)IPLC|IEPL|game)).)*$, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/KR.png
+static=香港, server-tag-regex=(?=.*(香港|HK|(?i)Hong))^((?!(专线|手游|游戏|(?i)IPLC|IEPL|game)).)*$, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/HK.png
+static=台湾, server-tag-regex=(?=.*(台湾|台灣|TW|(?i)Taiwan))^((?!(专线|手游|游戏|(?i)IPLC|IEPL|game)).)*$, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/TW.png
+static=特殊, server-tag-regex=^((?!(专线|手游|游戏|香港|台湾|日本|新加坡|美国|韩国|狮城|南朝鲜|US|SG|JP|KR|HK|TW|台灣|美國|韓國|獅城|账号|试用|流量|电报|网址|最新|域名|剩余|(?i)IPLC|IEPL|game|States|American|Singapore|Japan|Korea|Hong|Taiwan|data|date|website)).)*$, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/UN.png
+static=IPLC, server-tag-regex=(手游|游戏|专线|(?i)IPLC|IEPL|game), img-url=https://raw.githubusercontent.com/Orz-3/mini/master/IPLC.png
+static=苹果服务, direct, 美国, 香港, proxy, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Apple.png
+static=全球加速, proxy, 美国, 新加坡, 日本, 韩国, 香港, 台湾, 特殊, IPLC, direct, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Global.png
+static=港台番剧, direct, 香港, 台湾, proxy, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/StreamingSE.png
+static=国际媒体, proxy, 美国, 新加坡, 日本, 韩国, 香港, 台湾, 特殊, direct, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Streaming.png
+static=声田音乐, proxy, 美国, 香港, 日本, direct, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Spotify.png
+static=网飞影视, proxy, 新加坡, 香港, 台湾, direct, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Netflix.png
+static=电报代理, proxy, direct, 新加坡, IPLC, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Telegram.png
+static=黑白名单, proxy, direct, 美国, 新加坡, 日本, 韩国, 香港, 台湾, 特殊, IPLC, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Final.png
+
+[server_remote]
+
+[filter_remote]
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Unbreak.list, tag=规则修正, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Guard/Advertising.list, tag=广告拦截, force-policy=reject, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/AdRule.list, tag=广告拦截, force-policy=reject, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Guard/Privacy.list, tag=隐私保护, force-policy=reject, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Guard/Hijacking.list, tag=运营劫持, force-policy=reject, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Telegram/Telegram.list, tag=电报代理, force-policy=电报代理, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/StreamingMedia/Music/Spotify.list, tag=声田音乐, force-policy=声田音乐, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/StreamingMedia/Video/Netflix.list, tag=网飞影视, force-policy=网飞影视, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/StreamingMedia/Video/TikTok.list, tag=海外抖音, force-policy=国际媒体, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/StreamingMedia/Video/Bahamut.list, tag=动画疯, force-policy=台湾, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/StreamingMedia/Streaming.list, tag=国际媒体, force-policy=国际媒体, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/StreamingMedia/StreamingSE.list, tag=港台番剧, force-policy=港台番剧, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Global.list, tag=全球加速, force-policy=全球加速, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Apple/AppStoreConnect.list, tag=苹果服务, force-policy=苹果服务, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Apple/AppStore.list, tag=苹果服务, force-policy=苹果服务, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Apple/TestFlight.list, tag=苹果服务, force-policy=苹果服务, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/China.list, tag=国内网站, force-policy=direct, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/ChinaIP.list, tag=ChinaIP, update-interval=86400, enabled=true
+
+[rewrite_remote]
+
+
+[general]
+server_check_url=http://bing.com/
+dns_exclusion_list=*.cmpassport.com, *.jegotrip.com.cn, *.icitymobile.mobi, id6.me, *.icitymobile.mobi, *.pingan.com.cn, *.cmbchina.com, *.localnetwork.uop, mfs.ykimg.com*.ttf
+geo_location_checker=http://ip-api.com/json/?lang=zh-CN, https://raw.githubusercontent.com/Orz-3/QuantumultX/master/IP.js
+resource_parser_url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js
+profile_img_url=https://raw.githubusercontent.com/Orz-3/mini/none/qikuo.png
+
+[dns]
+no-ipv6
+server=119.29.29.29
+address=/mtalk.google.com/108.177.125.188
+
+[policy]
+static=新加坡, server-tag-regex=(?=.*(新加坡|狮城|SG|(?i)Singapore))^((?!(专线|手游|游戏|(?i)IPLC|IEPL|game)).)*$, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/SG.png
+static=美国, server-tag-regex=(?=.*(美国|美國|US|(?i)States|American))^((?!(专线|手游|游戏|(?i)IPLC|IEPL|game)).)*$, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/US.png
+static=日本, server-tag-regex=(?=.*(日本|JP|(?i)Japan))^((?!(专线|手游|游戏|(?i)IPLC|IEPL|game)).)*$, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/JP.png
+static=韩国, server-tag-regex=(?=.*(韩国|韓國|南朝鲜|KR|(?i)Korean))^((?!(专线|手游|游戏|(?i)IPLC|IEPL|game)).)*$, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/KR.png
+static=香港, server-tag-regex=(?=.*(香港|HK|(?i)Hong))^((?!(专线|手游|游戏|(?i)IPLC|IEPL|game)).)*$, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/HK.png
+static=台湾, server-tag-regex=(?=.*(台湾|台灣|TW|(?i)Taiwan))^((?!(专线|手游|游戏|(?i)IPLC|IEPL|game)).)*$, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/TW.png
+static=特殊, server-tag-regex=^((?!(专线|手游|游戏|香港|台湾|日本|新加坡|美国|韩国|狮城|南朝鲜|US|SG|JP|KR|HK|TW|台灣|美國|韓國|獅城|账号|试用|流量|电报|网址|最新|域名|剩余|(?i)IPLC|IEPL|game|States|American|Singapore|Japan|Korea|Hong|Taiwan|data|date|website)).)*$, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/UN.png
+static=IPLC, server-tag-regex=(手游|游戏|专线|(?i)IPLC|IEPL|game), img-url=https://raw.githubusercontent.com/Orz-3/mini/master/IPLC.png
+static=苹果服务, direct, 美国, 香港, proxy, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Apple.png
+static=全球加速, proxy, 美国, 新加坡, 日本, 韩国, 香港, 台湾, 特殊, IPLC, direct, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Global.png
+static=港台番剧, direct, 香港, 台湾, proxy, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/StreamingSE.png
+static=国际媒体, proxy, 美国, 新加坡, 日本, 韩国, 香港, 台湾, 特殊, direct, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Streaming.png
+static=声田音乐, proxy, 美国, 香港, 日本, direct, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Spotify.png
+static=网飞影视, proxy, 新加坡, 香港, 台湾, direct, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Netflix.png
+static=电报代理, proxy, direct, 新加坡, IPLC, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Telegram.png
+static=黑白名单, proxy, direct, 美国, 新加坡, 日本, 韩国, 香港, 台湾, 特殊, IPLC, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Final.png
+
+[server_remote]
+#公众号少年歌行PRO提示您：这个位置用于填写您的机场订阅地址（请回车另起一行）
+
+[filter_remote]
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Unbreak.list, tag=规则修正, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Guard/Advertising.list, tag=广告拦截, force-policy=reject, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/AdRule.list, tag=广告拦截, force-policy=reject, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Guard/Privacy.list, tag=隐私保护, force-policy=reject, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Guard/Hijacking.list, tag=运营劫持, force-policy=reject, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Telegram/Telegram.list, tag=电报代理, force-policy=电报代理, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/StreamingMedia/Music/Spotify.list, tag=声田音乐, force-policy=声田音乐, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/StreamingMedia/Video/Netflix.list, tag=网飞影视, force-policy=网飞影视, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/StreamingMedia/Video/TikTok.list, tag=海外抖音, force-policy=国际媒体, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/StreamingMedia/Video/Bahamut.list, tag=动画疯, force-policy=台湾, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/StreamingMedia/Streaming.list, tag=国际媒体, force-policy=国际媒体, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/StreamingMedia/StreamingSE.list, tag=港台番剧, force-policy=港台番剧, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Global.list, tag=全球加速, force-policy=全球加速, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Apple/AppStoreConnect.list, tag=苹果服务, force-policy=苹果服务, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Apple/AppStore.list, tag=苹果服务, force-policy=苹果服务, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Apple/TestFlight.list, tag=苹果服务, force-policy=苹果服务, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/China.list, tag=国内网站, force-policy=direct, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/ChinaIP.list, tag=ChinaIP, update-interval=86400, enabled=true
+
+[rewrite_remote]
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/TikTok.conf, tag=Tiktok解锁, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/YouTube.conf , tag=YouTube去广告, update-interval=86400, opt-parser=false, enabled=true
+https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.quanx.tf.conf, tag=BoxJS, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/noads.conf, tag=国内去广告和比价格, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/Cookie.conf, tag=获取Cookie, update-interval=86400, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/General.conf, tag=神机重定向, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/Advertising.conf, tag=神机去广告, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Rewrite_lhie1.conf, tag=lhie1去广告, update-interval=86400, opt-parser=false, enabled=true
+
+[server_local]
+#公众号少年歌行PRO提示您：这个位置用于填写您非机场订阅的固定节点信息（请回车另起一行）
+#公众号少年歌行PRO赠送您：5个高速节点，订阅中保持更新（请回车另起一行）
+
+http=a2.ap.fastqvpn.com:29980, username=339351151927361536, password=352f1887-55fc-4d33-bea7-66fbba8a2207, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=公众号少年歌行pro赠送高速1
+
+http=a3.ap.fastqvpn.com:29980, username=339351151927361536, password=352f1887-55fc-4d33-bea7-66fbba8a2207, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=公众号少年歌行pro赠送高速2🙂
+
+http=a4.ap.fastqvpn.com:29980, username=339351151927361536, password=352f1887-55fc-4d33-bea7-66fbba8a2207, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=公众号少年歌行pro赠送高速3🥺
+
+http=a1.er3.xyz:29980, username=339351151927361536, password=352f1887-55fc-4d33-bea7-66fbba8a2207, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=公众号少年歌行pro赠送高速4🤪
+
+http=a1.ap.fastqvpn.com:29980, username=339351151927361536, password=352f1887-55fc-4d33-bea7-66fbba8a2207, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=公众号少年歌行pro赠送高速5😎
+
+
+
+
+[filter_local]
+host-suffix, local, direct
+ip-cidr, 192.168.0.0/16, direct
+ip-cidr, 10.0.0.0/8, direct
+ip-cidr, 172.16.0.0/12, direct
+ip-cidr, 127.0.0.0/8, direct
+ip-cidr, 100.64.0.0/10, direct
+ip-cidr, 224.0.0.0/4, direct
+ip6-cidr, fe80::/10, direct
+-geoip, cn, direct
+final, 黑白名单
+
+[rewrite_local]
+#公众号少年歌行PRO提示您：这个位置用于填写您自己找到的其他未被此懒人包收录的脚本（请回车另起一行）
+#公众号少年歌行PRO提示您：关注公众号或加入交流群可以获得群友分享的各种新脚本（请回车另起一行）
+
+[task_local]
+#公众号少年歌行PRO提示您：这个位置用于填写您自己找到的其他自动化脚本定时信息（请回车另起一行）
+#公众号少年歌行PRO提示您：关注公众号或加入交流群可以获得群友分享的各种自动化脚本定时信息（请回车另起一行）
+
+[http_backend]
+#公众号少年歌行PRO提示您：如您不了解，请不要填写
+
+[mitm]
+#公众号少年歌行PRO提示您：需要在圈x设置中生成mitm证书并安装后，这里才会显示证书信息，有证书信息后圈x才能正常工作。
+skip_validating_cert = true

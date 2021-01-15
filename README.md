@@ -246,6 +246,12 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/photonmang.json
   
   ☆【@photonmang的仓库】
   (https://github.com/photonmang) 
+  
+  #### 致谢：本仓库使用的图标logo脚本，原作者仓库在下方：
+  
+  ☆【@orz-3的仓库】
+  （https://github.com/Orz-3/mini）
+   
  
   
   

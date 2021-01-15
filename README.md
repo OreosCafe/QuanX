@@ -41,7 +41,7 @@
   
   6.注意：第一次点击上一步的好，有可能不出现我们粘贴进去的新仓库，而是出现一个叫sample的空仓库，这是圈x的示例功能，请重复操作一遍即可
   
-  ### （三）可用仓库地址对照表
+  ### （三）可用仓库地址对照表【目前共22个】
   
 ❤ 【NobyDa的仓库】
 
@@ -115,6 +115,12 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/chouchoui.json
 https://raw.githubusercontent.com/sngxpro/QuanX/master/task/evilbutcher.json
 
 NASA每日一图|微博超话|Funboat|App价格监控|热门监控|每日环球视野|九木杂物社
+
+❤ 【congcong0806的仓库】
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/congcong0806.json
+
+倒数日|今日时间
 
 ❤ 【id77的仓库】
 

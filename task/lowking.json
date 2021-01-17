@@ -1,6 +1,6 @@
 {
     "name": "lowking",
-    "description": "https://github.com/lowking/Scripts",
+    "description": "公众号少年歌行pro整理",
     "task": [
         "0 0 0,1 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/QQPet/lkQQPet.js, tag=QQ萌宠, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/QQ.png, enabled=true",
         "0 0 0,1 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/QQVip/qqVipCheckIn.js, tag=qq会员成长值, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/qqvip.png, enabled=true",

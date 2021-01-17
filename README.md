@@ -184,9 +184,15 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/photonmang.json
 
 ❤ 【sheylock的仓库订阅地址】
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/shylocks.conf
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/shylocks.json
 
 宝洁美发屋|工业品爱消除|超级直播间红包雨|盲盒抽京豆|超级直播间抽京豆|京东秒秒币|神券京豆|京东粉丝专享
+
+❤ 【adwttk的仓库订阅地址】
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/adwktt.json
+
+一刻视频
   
  
   #### 致谢：本仓库使用的Task脚本，原作者仓库在下方：

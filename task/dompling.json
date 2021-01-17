@@ -1,6 +1,6 @@
 {
     "name": "dompling",
-    "description": "https://github.com/dompling/Script",
+    "description": "公众号少年歌行pro整理",
     "task": [
         "1 0 * * * https://raw.githubusercontent.com/dompling/Script/master/birthdayCountDown/index.js, tag=生日倒计时, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/birthday.png, enabled=true",
         "1 0 * * * https://raw.githubusercontent.com/dompling/Script/master/biyao/biyao.js, tag=必要, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/biyao.png, enabled=true",

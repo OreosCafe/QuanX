@@ -1,6 +1,6 @@
 {
     "name": "zZPiglet",
-    "description": "https://github.com/zZPiglet/Task/tree/master",
+    "description": "公众号少年歌行pro整理",
     "task": [
         "1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/115/115.js, tag=115, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/115.png, enabled=true",
         "1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Blibee/Blibee.js, tag=便利蜂, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Blibee.png, enabled=true",

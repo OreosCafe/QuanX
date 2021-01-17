@@ -1,3 +1,9 @@
+# 2021年1月17日  8:54，新增了sheylock的京东脚本库（task）订阅，相关重写已随之更新<br>
+包括以下脚本<br>
+宝洁美发屋|工业品爱消除|超级直播间红包雨|盲盒抽京豆|超级直播间抽京豆|京东秒秒币|神券京豆|京东粉丝专享<br>
+
+
+
 ## 重要说明：2021年1月对懒人包进行了重新整理更新，task等均改为订阅模式（老懒人包的时代还没有订阅task功能）<br>
 
 ## 原来的旧懒人包依然保留可以继续使用，但内容有的已陈旧过时，以后不再更新<br>
@@ -41,7 +47,7 @@
   
   6.注意：第一次点击上一步的好，有可能不出现我们粘贴进去的新仓库，而是出现一个叫sample的空仓库，这是圈x的示例功能，请重复操作一遍即可
   
-  ### （三）可用仓库订阅地址对照表【目前共22个】
+  ### （三）可用仓库订阅地址对照表【目前共23个】
   
 ❤ 【NobyDa的仓库订阅地址】
 
@@ -177,6 +183,12 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/photonmang.json
 
 
 途虎养车
+
+❤ 【sheylock的仓库订阅地址】
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/shylocks.conf
+
+宝洁美发屋|工业品爱消除|超级直播间红包雨|盲盒抽京豆|超级直播间抽京豆|京东秒秒币|神券京豆|京东粉丝专享
   
  
   #### 致谢：本仓库使用的Task脚本，原作者仓库在下方：
@@ -246,6 +258,9 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/photonmang.json
   
   ☆【@photonmang的仓库】
   (https://github.com/photonmang) 
+  
+    ☆【@sheylocks的仓库】
+  (https://github.com/sheylocks/loon) 
   
   #### 致谢：本仓库使用的图标logo脚本，原作者仓库在下方：
   

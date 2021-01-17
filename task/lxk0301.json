@@ -1,6 +1,6 @@
 {
   "name": "lxk0301",
-  "description": "https://gitee.com/lxk0301",
+  "description": "公众号少年歌行pro整理",
   "task": [
     "5 6-18/6 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_fruit.js, tag=东东农场, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
     "20 7-19/6 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_pet.js, tag=东东萌宠, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",

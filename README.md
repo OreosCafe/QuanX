@@ -194,68 +194,57 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/shylocks.conf
   ☆【@NobyDa的仓库】
    (https://github.com/NobyDa)
 
-    ☆【@chavyleung的仓库】
-  (https://github.com/chavyleung)
+    ☆【@chavyleung的仓库】  (https://github.com/chavyleung)
 
   ☆【@Peng-YM的仓库】
   (https://github.com/Peng-YM)
 
-  ☆【@zZPiglet的仓库】
-  (https://github.com/zZPiglet)
+    ☆【@zZPiglet的仓库】  (https://github.com/zZPiglet)
 
   ☆【@Sunert的仓库】
   (https://github.com/Sunert)
   
-  ☆【@lowking的仓库】
-  (https://github.com/lowking)
+    ☆【@lowking的仓库】  (https://github.com/lowking)
   
   ☆【@songyangzz的仓库】
   (https://github.com/songyangzz)
     
-  ☆【@toulanboy的仓库】
-  (https://github.com/toulanboy)
+    ☆【@toulanboy的仓库】  (https://github.com/toulanboy)
   
   ☆【@lxk0301的仓库】
   (https://gitee.com/lxk0301)
   
-  ☆【@vinewx的仓库】
-  (https://ooxx.be/js/)
+    ☆【@vinewx的仓库】  (https://ooxx.be/js/)
   
   ☆【@chouchoui的仓库】
   (https://github.com/chouchoui)
   
-  ☆【@evilbutcher的仓库】
-  (https://github.com/evilbutcher)  
+    ☆【@evilbutcher的仓库】  (https://github.com/evilbutcher)  
   
   ☆【@id77的仓库】
   (https://github.com/id77)   
   
-  ☆【@dompling的仓库】
-  (https://github.com/dompling)  
+    ☆【@dompling的仓库】  (https://github.com/dompling)  
   
   ☆【@iepngs的仓库】
   (https://github.com/iepngs)  
   
-  ☆【@barrym-chen的仓库】
-  (https://github.com/barrym-chen) 
+    ☆【@barrym-chen的仓库】  (https://github.com/barrym-chen) 
 
   ☆【@iisams的仓库】
   (https://github.com/iisams)
   
-  ☆【@congcong0806的仓库】
-  (https://github.com/congcong0806)
+    ☆【@congcong0806的仓库】  (https://github.com/congcong0806)
   
   ☆【@DD-D1的仓库】
   (https://github.com/DD-D1) 
   
-  ☆【@wangdelu2020的仓库】
-  (https://github.com/wangdelu2020) 
+    ☆【@wangdelu2020的仓库】  (https://github.com/wangdelu2020) 
   
   ☆【@passerby-b的仓库】
   (https://gitee.com/passerby-b) 
   
-  ☆【@photonmang的仓库】
-  (https://github.com/photonmang) 
+    ☆【@photonmang的仓库】  (https://github.com/photonmang) 
   
   ☆【@sheylocks的仓库】
   (https://github.com/sheylocks/loon) 

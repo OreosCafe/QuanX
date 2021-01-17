@@ -1,6 +1,6 @@
 {
     "name": "barrym-chen",
-    "description": "https://github.com/barrym-chen/Script",
+    "description": "公众号少年歌行pro整理",
     "task": [
         "0 0 * * * https://raw.githubusercontent.com/barrym-chen/Script/master/ctrip/ctrip.js, tag=携程旅行, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/ctrip.png, enabled=true",
         "0 0 * * * https://raw.githubusercontent.com/barrym-chen/Script/master/ctrip_wx/ct_sign.js, tag=携程小程序, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/ctrip.png, enabled=true",

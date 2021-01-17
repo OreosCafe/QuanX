@@ -1,6 +1,6 @@
 {
     "name": "DD-D1",
-    "description": "https://github.com/DD-D1/2020scripts",
+    "description": "公众号少年歌行pro整理",
     "task": [
         "0 10 0 * * * https://github.com/DD-D1/2020scripts/blob/master/QQReadSign.js, tag=QQ阅读, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/QQRead.png, enabled=true",    
         "0 10 0 * * * https://raw.githubusercontent.com/DD-D1/2020scripts/master/hdhycSign.js, tag=海德汇一城, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/hdhyc.png, enabled=true",    

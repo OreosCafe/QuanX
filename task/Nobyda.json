@@ -1,6 +1,6 @@
 {
     "name": "Nobyda",
-    "description": "https://github.com/NobyDa/Script/tree/master",
+    "description": "公众号少年歌行pro整理",
     "task": [
         "0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js, tag=吾爱破解, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/52pj.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js, tag=百度贴吧, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/tieba.png, enabled=true",

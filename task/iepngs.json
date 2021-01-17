@@ -1,6 +1,6 @@
 {
     "name": "iepngs",
-    "description": "https://raw.githubusercontent.com/iepngs/Script/master",
+    "description": "公众号少年歌行pro整理",
     "task": [
         "1 8,12,17 * * * https://raw.githubusercontent.com/iepngs/Script/master/dingdong/index.js, tag=叮咚农场, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/mcdd.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/iepngs/Script/master/lxhealth/manual.js, tag=步数上传, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/lxhealth.png, enabled=true",

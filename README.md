@@ -194,7 +194,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/shylocks.conf
   ☆【@NobyDa的仓库】
    (https://github.com/NobyDa)
 
-  ☆【@chavyleung的仓库】
+    ☆【@chavyleung的仓库】
   (https://github.com/chavyleung)
 
   ☆【@Peng-YM的仓库】

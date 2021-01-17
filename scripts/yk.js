@@ -1,19 +1,20 @@
 /*
+下载app后，打开，注册账号，登录（如果挂代理不能正常注册请直连）
 打开'我的'获取Cookie
-邀请码：12642334
+邀请码：34544195
 圈x
 [rewrite_local]
 #一刻视频
-https://api.yikeapp.com url script-request-body https://raw.githubusercontent.com/adwktt/adwktt/master/yk.js
+https://api.yikeapp.com url script-request-body https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/yk.js
 
 [task_local]
-0,30 0-12 * * * https://raw.githubusercontent.com/adwktt/adwktt/master/yk.js, tag=一刻, 
+0,30 0-12 * * * https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/yk.js, tag=一刻, 
 
 loon
 [Script]
-http-request https://api.yikeapp.com script-path= https://raw.githubusercontent.com/adwktt/adwktt/master/yk.js, requires-body=true, timeout=10, tag= 一刻
+http-request https://api.yikeapp.com script-path= https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/yk.js, requires-body=true, timeout=10, tag= 一刻
 
-cron "0,30 0-12 * * *" script-path= https://raw.githubusercontent.com/adwktt/adwktt/master/yk.js, tag= 一刻
+cron "0,30 0-12 * * *" script-path= https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/yk.js, tag= 一刻
 
 hostname = api.yikeapp.com,
 

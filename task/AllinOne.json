@@ -195,7 +195,7 @@
         "0 0 0 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/sony/sonyClub.js, tag=索尼俱乐部, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/SONY.png, enabled=true",
         "0 0 0,1 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/weibo/weiboSTCookie.js, tag=微博超话, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/weibo.png, enabled=true",
         "0 9 * * * https://gitee.com/passerby-b/javascript/raw/master/unipay.js, tag=云闪付, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/unipay.png, enabled=true",
-        "10 0 8 * * * https://raw.githubusercontent.com/photonmang/quantumultX/master/tuhu/tuhu.js, tag=途虎养车, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/tuhu.png, enabled=true"
+        "10 0 8 * * * https://raw.githubusercontent.com/photonmang/quantumultX/master/tuhu/tuhu.js, tag=途虎养车, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/tuhu.png, enabled=true",
         "1 8,9 14-31/1 1 * https://raw.githubusercontent.com/shylocks/Loon/main/jd_bj.js, tag=宝洁美发屋, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
         "30 * * * * https://raw.githubusercontent.com/shylocks/Loon/main/jd_gyec.js, tag=工业品爱消除, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
         "0,1 19-21/1 * * * https://raw.githubusercontent.com/shylocks/Loon/main/jd_live_redrain2.js, tag=超级直播间红包雨, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",

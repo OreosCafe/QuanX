@@ -1,6 +1,6 @@
 {
     "name": "shylocks",
-    "description": "微信公众号少年歌行pro整理汇总",
+    "description": "已停用",
     "task": [
         "1 8,9 14-31/1 1 * https://raw.githubusercontent.com/shylocks/Loon/main/jd_bj.js, tag=宝洁美发屋, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
         "30 * * * * https://raw.githubusercontent.com/shylocks/Loon/main/jd_gyec.js, tag=工业品爱消除, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",

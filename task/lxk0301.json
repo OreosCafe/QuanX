@@ -37,6 +37,7 @@
     "5 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jx_sign.js, tag=京喜签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
     "2 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_cash.js, tag=签到领现金, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
     "1 7 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nh.js, tag=京东年货节, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
-    "20 * * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nianCollect.js, tag=炸年兽, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true"
+    "20 * * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nianCollect.js, tag=炸年兽收鞭炮, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true"
+    "0 8 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nian.js, tag=炸年兽做任务🧨, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true"
   ]
 }

@@ -1,5 +1,5 @@
-
-#   2021年1月18日  7:20，lxk0301的仓库订阅中增加了京东炸年兽自动脚本的task订阅，请食用~已使用懒人包task订阅的，重新联网后无需手动操作，会自动出现在您的构造请求仓库中，点击加号激活即可<br>
+# 应部分懒虫群友要求，新增1个全网所有脚本合一的task订阅，目前包含230个脚本。订阅地址请下拉到文末或直接搜索“多网合一订阅”
+##   2021年1月18日  7:20，lxk0301的仓库订阅中增加了京东炸年兽自动脚本的task订阅，请食用~已使用懒人包task订阅的，重新联网后无需手动操作，会自动出现在您的构造请求仓库中，点击加号激活即可<br>
 ##  2021年1月17日  17:50，新增了adwttk的一刻视频脚本（task）订阅，相关重写已随之更新。请在圈x设置中更新一次重写规则，然后订阅文末最后的adwttk仓库订阅即可<br>
 
 ### 包括以下脚本<br>
@@ -196,7 +196,11 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/shylocks.json
 https://raw.githubusercontent.com/sngxpro/QuanX/master/task/adwktt.json
 
 一刻视频
-  
+
+❤ 【多网合一订阅地址】 
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+内含上文所有仓库的所有脚本，1月18日共计230个
  
   #### 致谢：本仓库使用的Task脚本，原作者仓库在下方：
   

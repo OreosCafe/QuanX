@@ -197,7 +197,8 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/adwktt.json
 
 一刻视频
 
-❤ 【多网合一订阅地址】 
+❤ 【公众号少年歌行pro多网合一订阅地址】 
+
 https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
 
 内含上文所有仓库的所有脚本，1月18日共计230个

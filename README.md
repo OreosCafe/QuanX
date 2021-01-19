@@ -256,8 +256,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
   
     ☆【@photonmang的仓库】  (https://github.com/photonmang) 
   
-  ☆【@sheylocks的仓库】
-  (https://github.com/sheylocks/loon) 
+
   
   #### 致谢：本仓库使用的图标logo脚本，原作者仓库在下方：
   

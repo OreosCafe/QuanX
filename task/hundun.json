@@ -8,7 +8,7 @@
       "config": "30 8-20/1 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/caiyun.js, tag=彩云天气, img-url=https://raw.githubusercontent.com/Orz-3/task/master/caiyun.png, enabled=true"
     },
     {
-      "config": "15 18 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/donate-step.js, tag=捐步数, img-url=https://raw.githubusercontent.com/Orz-3/task/master/alipay.png, enabled=true"
+      "config": "15 18 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/donate-step.js, tag=捐步数（点击弹窗）, img-url=https://raw.githubusercontent.com/Orz-3/task/master/alipay.png, enabled=true"
     },   
     {
       "config": "3 9 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/daymatter.js, tag=倒数日, img-url=https://raw.githubusercontent.com/Orz-3/task/master/daysmatter.png, enabled=true"

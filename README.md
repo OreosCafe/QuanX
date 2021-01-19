@@ -191,6 +191,14 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/adwktt.json
 
 一刻视频
 
+❤ 【jiang的仓库订阅地址】
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/Jiang.json
+
+获取并上传互助码
+
+一刻视频
+
 ❤ 【公众号少年歌行pro多网合一订阅地址】 
 
 https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json

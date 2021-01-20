@@ -2,3 +2,8 @@
 
 [复制链接即为图片地址](https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/DRAGON%20BALL/1.PNG) 
 ![预览图](https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/DRAGON%20BALL/1.PNG)
+
+-------------
+
+[复制链接即为图片地址](https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/DRAGON%20BALL/2.PNG) 
+![预览图](https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/DRAGON%20BALL/2.PNG)

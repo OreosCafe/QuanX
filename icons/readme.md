@@ -1,33 +1,26 @@
 
-## 说明文档 (引用并修改自@Koolson ，https://github.com/Koolson/Qure )
+## 说明文档 
 
-本项目是一套专为 [Quantumult X](https://github.com/crossutility/Quantumult-X/) 内策略组而精心设计的图标组。<br>
+1、上面每个文件夹中，都是一套策略图标组。根据文件名选择任意喜欢的。
 
-## 使用说明
+2、进入文件夹后，选择喜欢的图标，复制左侧的链接地址。
 
-### 方式一：远程图标<br>
-*跨设备同步策略组图标，及时获取图标更新*<br>
+3、打开圈x app，找到策略组，长按，在弹出的窗口中找到“图标”，并在下方粘贴上复制的地址，保存。
 
-1. 在 本仓库 中找到需要的策略组图标并记下**图标名称**；<br>
-2. 在 Quantumult X 的“配置文件-编辑”中找到[policy]下的策略组字段，并在该策略组的最后一个节点后方加上：<br>
-`img-url=图标地址`<br>
-例如：<br>
-`static=Hong Kong, 🇭🇰01, img-url=Hong_Kong.png`<br>
+4、回到圈x首页，即可看到修改效果。
 
-```ruby
-注意：此处“img”前的英文逗号和空格以及“Hong_Kong.png”图标名称中的下划短横线和字母大小写不能写错哦
-```
+5、少数策略组在第3步时无法保存，可以直接修改配置文件。方法如下：
+   
+   5-1、打开圈x的设置--配置文件
+   
+   5-2、找到[policy]标签
+   
+   5-3、找到对应想修改的策略组，将其“img=” 后面的链接替换为第3步中复制的链接
+   
+   5-4、保存配置文件，并回到圈x首页即可看到效果。
 
-3. 重启 Quantumult X 即可见到效果。<br>
 
-><font color=red>更新方法：当远程图标更新时，请手动清理本地图标缓存(打开“文件”应用，依次进入“**我的 iPhone 或 iCloud Drive-Quantumult X-Images**”，删除Images文件夹内所有缓存文件)，并重启 Quantumult X，远程图标会重新下载并生效。</font>
+## 其他说明
 
-[查看大图](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Remote_Icon.png)<br>
-![Image text](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Remote_Icon.png)
-
-### 方式二：本地图标<br>
-*不支持多设备同步图标；图标更新时，需要手动下载图标并进行本地替换操作*<br>
-
-1. 打开"文件"应用后，依次进入“我的 iPhone 或 iCloud Drive→Quantumult X→Images”；<br>
-2. 将**个人设定**的策略组名称 **同名的.png** 图标文件根据个人需求自行下载粘贴到 Images 文件夹内，重启 Quantumult X 即可见到效果。<br>
+### 必须保持科学上网状态，才能正常读取远程图标样式。
 

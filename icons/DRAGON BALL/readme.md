@@ -1,4 +1,4 @@
 ## 七龙珠系列策略组图标，资源来自网络。
 
 [示例图预览](https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/DRAGON%20BALL/1.PNG) 
-![123](https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/DRAGON%20BALL/1.PNG)
+![预览图](https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/DRAGON%20BALL/1.PNG)

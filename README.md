@@ -5,8 +5,7 @@
 
 2、仓库中新建了一个策略组图标文件夹，未来将ps一些有趣的策略组图标放进去，也欢迎拿去使用。目前懒人包中的策略组图标更换为【王者荣耀系列】<br>
 
-![预览图](https://raw.githubusercontent.com/sngxpro/QuanX/master/icon.jpg)
-<img src="https://raw.githubusercontent.com/sngxpro/QuanX/master/icon.jpg" style="zoom:50%" />
+<img src="https://raw.githubusercontent.com/sngxpro/QuanX/master/icon.jpg" width="60%">
 
 3、常规脚本更新<br>
 

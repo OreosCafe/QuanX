@@ -3,9 +3,12 @@
 1、修复了懒人包中赠送节点失效的问题，且数量增加到9个<br>
 注意：重新下载懒人包将会覆盖掉您的圈x配置，如果不想覆盖，请在浏览器中打开懒人包地址，手动复制其中的节点信息并粘贴到自己的配置文件。<br>
 
+<img src="https://raw.githubusercontent.com/sngxpro/QuanX/master/node.jpg" width="30%">
+
+
 2、仓库中新建了一个策略组图标文件夹，未来将ps一些有趣的策略组图标放进去，也欢迎拿去使用。目前懒人包中的策略组图标更换为【王者荣耀系列】<br>
 
-<img src="https://raw.githubusercontent.com/sngxpro/QuanX/master/icon.jpg" width="60%">
+<img src="https://raw.githubusercontent.com/sngxpro/QuanX/master/icon.jpg" width="40%">
 
 3、常规脚本更新<br>
 

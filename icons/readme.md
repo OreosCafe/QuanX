@@ -1,3 +1,8 @@
+## 效果展示
+
+<img src="https://raw.githubusercontent.com/sngxpro/QuanX/master/icon.jpg" width="40%">
+
+
 
 ## 说明文档 
 

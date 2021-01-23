@@ -1,4 +1,7 @@
-## 2021年1月21日  15:45 ，进行了较大更新，主要内容如下。<br>
+## 2021年1月23日 8:45 ，更新了10个京东相关脚本(如京东家庭号、ar打年兽等)，可订阅[lxk0301仓库](https://raw.githubusercontent.com/sngxpro/QuanX/master/task/lxk0301.json)，<br>或者直接订阅[全网合一仓库](https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json)。<br>
+
+
+#### 2021年1月21日  15:45 ，进行了较大更新，主要内容如下。<br>
 
 1、修复了懒人包中赠送节点失效的问题，且数量增加到9个<br>
 注意：重新下载懒人包将会覆盖掉您的圈x配置，如果不想覆盖，请在浏览器中打开懒人包地址，手动复制其中的节点信息并粘贴到自己的配置文件。<br>

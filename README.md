@@ -1,4 +1,4 @@
-## 2021年1月23日 8:45 ，更新了10个京东相关脚本(如京东家庭号、ar打年兽等)，可订阅[lxk0301仓库](https://raw.githubusercontent.com/sngxpro/QuanX/master/task/lxk0301.json)，<br>或者直接订阅[全网合一仓库](https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json)。<br>
+## 2021年1月23日 8:45 ，更新了10个京东相关脚本(如京东家庭号、ar打年兽等)，<br>可订阅[lxk0301仓库](https://raw.githubusercontent.com/sngxpro/QuanX/master/task/lxk0301.json)，<br>或者直接订阅[全网合一仓库](https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json)。<br>
 
 
 #### 2021年1月21日  15:45 ，进行了较大更新，主要内容如下。<br>

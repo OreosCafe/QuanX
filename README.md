@@ -1,4 +1,8 @@
-## 2021年1月23日 8:45 ，更新了10个京东相关脚本(如京东家庭号、ar打年兽等)，<br>可订阅[lxk0301仓库](https://raw.githubusercontent.com/sngxpro/QuanX/master/task/lxk0301.json)，<br>或者直接订阅[全网合一仓库](https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json)。<br>
+## 2021年1月24日 17:45 ，将懒人包自带赠送节点修改为订阅模式，可以由我在远程维护了。原来的本地节点信息随之删除
+
+## 如果您只想使用赠送节点，不想使用懒人包，可关注我的订阅节点仓库https://github.com/sngxpro/proxies
+
+#### 2021年1月23日 8:45 ，更新了10个京东相关脚本(如京东家庭号、ar打年兽等)，<br>可订阅[lxk0301仓库](https://raw.githubusercontent.com/sngxpro/QuanX/master/task/lxk0301.json)，<br>或者直接订阅[全网合一仓库](https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json)。<br>
 
 
 #### 2021年1月21日  15:45 ，进行了较大更新，主要内容如下。<br>

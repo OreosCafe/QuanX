@@ -1,8 +1,15 @@
+#### 2021年1月27日 20:45 ，更新了whyour/hudun的脚本，修改了大量定时，并新增了部分脚本<br>
+可订阅[hundun仓库]，<br>
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/hundun.json<br>
+或者直接订阅[全网合一仓库]<br>
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json<br>
+
+
 #### 2021年1月27日 17:45 ，更新了神仙书院答题脚本，<br>
 可订阅[i-chenzhe仓库](https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json)，<br>
 或者直接订阅[全网合一仓库](https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json)。<br>
 
-
+---------------------
 #### 2021年1月24日 17:45 ，将懒人包自带赠送节点修改为订阅模式，可以由我在远程维护了。原来的本地节点信息随之删除
 
 #### 如果您只想使用赠送节点，不想使用懒人包，可关注我的订阅节点仓库https://github.com/sngxpro/proxies

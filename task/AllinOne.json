@@ -2,7 +2,7 @@
     "name": "全网合一",
     "description": "公众号少年歌行pro汇总整理",
     "task": [
-        "10 10 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_products_detail.js, tag=京喜工厂商品列表详情, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=true"
+        "10 10 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_products_detail.js, tag=京喜工厂商品列表详情, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=true",
         "10 * * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_zjd_tuan.js, tag=京东赚京东开团, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png, enabled=true",
         "30 18 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_zjd.js, tag=半自动领京豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/didi.js, tag=滴滴出行, img-url=https://raw.githubusercontent.com/Orz-3/task/master/didi.png, enabled=true",

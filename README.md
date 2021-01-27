@@ -1,6 +1,11 @@
-## 2021年1月24日 17:45 ，将懒人包自带赠送节点修改为订阅模式，可以由我在远程维护了。原来的本地节点信息随之删除
+#### 2021年1月27日 17:45 ，更新了神仙书院答题脚本，<br>
+可订阅[i-chenzhe仓库](https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json)，<br>
+或者直接订阅[全网合一仓库](https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json)。<br>
 
-## 如果您只想使用赠送节点，不想使用懒人包，可关注我的订阅节点仓库https://github.com/sngxpro/proxies
+
+#### 2021年1月24日 17:45 ，将懒人包自带赠送节点修改为订阅模式，可以由我在远程维护了。原来的本地节点信息随之删除
+
+#### 如果您只想使用赠送节点，不想使用懒人包，可关注我的订阅节点仓库https://github.com/sngxpro/proxies
 
 #### 2021年1月23日 8:45 ，更新了10个京东相关脚本(如京东家庭号、ar打年兽等)，<br>可订阅[lxk0301仓库](https://raw.githubusercontent.com/sngxpro/QuanX/master/task/lxk0301.json)，<br>或者直接订阅[全网合一仓库](https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json)。<br>
 
@@ -257,6 +262,10 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/Jiang.json
 https://raw.githubusercontent.com/sngxpro/QuanX/master/task/hundun.json
 
 虎课|彩云天气|支付宝捐步数|倒数日|工厂商品|滴滴出行|京东赚赚|京喜农场|京喜财富岛|京喜工厂plus|金牌厂长|泡泡大作战|等等
+
+
+❤[i-chenzhe仓库]
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json
 
 ---------
 ❤ 【公众号少年歌行pro多网合一订阅地址】 

@@ -17,28 +17,31 @@
       "config": "1 9 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_products_detail.js, tag=工厂商品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=true"
     },
     {
-      "config": "1 9 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/didi.js, tag=滴滴出行, img-url=https://raw.githubusercontent.com/Orz-3/task/master/didi.png, enabled=true"
+      "config": "0 9 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/didi.js, tag=滴滴出行, img-url=https://raw.githubusercontent.com/Orz-3/task/master/didi.png, enabled=true"
     },
     {
-      "config": "0 0 0 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jdzz.js, tag=京东赚赚, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzz.png, enabled=true"
+      "config": "0 9 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jdzz.js, tag=京东赚赚, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzz.png, enabled=true"
     },
     {
-      "config": "10 9,18 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.js, tag=京喜农场, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxnc.png, enabled=true"
+      "config": "0 9,12,18 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.js, tag=京喜农场, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxnc.png, enabled=true"
     },
     {
-      "config": "10 1,6,10 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory_component.js, tag=京喜工厂plus, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=true"
+      "config": "0 1,18 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory_component.js, tag=京喜工厂plus, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=true"
     },
     {
-      "config": "30 */4 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_story.js, tag=金牌厂长, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=true"
+      "config": "10 *\/4 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_story.js, tag=京喜金牌厂长, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=true"
     },
     {
-      "config": "30 * * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory.js, tag=京喜工厂, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=true"
+      "config": "10 * * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory.js, tag=京喜工厂, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=true"
+    },
+     {
+      "config": "10 10 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_products_detail.js, tag=京喜工厂商品列表详情, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=true"
     },
     {
       "config": "30 0 0 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/ddxw.js, tag=东东小窝, img-url=https://raw.githubusercontent.com/58xinian/icon/master/ddxw.png, enabled=true"
     },
     {
-      "config": "30 1 * * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/dd_factory.js, tag=东东工厂, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_factory.png, enabled=true"
+      "config": "0 * * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/dd_factory.js, tag=东东工厂, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_factory.png, enabled=true"
     },
     {
       "config": "5 5 * * * https://raw.githubusercontent.com/799953468/Quantumult-X/master/Scripts/JD/jd_paopao.js, tag=泡泡大作战, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_paopao.png, enabled=true"
@@ -57,6 +60,12 @@
     },
     {
       "config": "11 0 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js, tag=京东排行榜, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=false"
+    },
+    {
+      "config": "30 18 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_zjd.js, tag=半自动领京豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png, enabled=true"
+    },
+     {
+      "config": "10 * * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_zjd_tuan.js, tag=京东赚京东开团, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png, enabled=true"
     },
   ],
   "description": "公众号少年歌行pro整理"

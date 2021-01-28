@@ -1,3 +1,6 @@
+#### 2021年1月28日 8:45，暂时修复了失效的lxk的脚本，请手动删除已添加在构造请求中的脚本，刷新订阅仓库后，重新添加新刷出来的即可
+
+
 #### 2021年1月27日 20:45 ，更新了whyour/hudun的脚本，修改了大量定时，并新增了赚京豆开团、半自动领豆等部分脚本<br>
 可订阅[hundun仓库]，<br>
 https://raw.githubusercontent.com/sngxpro/QuanX/master/task/hundun.json<br>

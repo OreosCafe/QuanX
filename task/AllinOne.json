@@ -821,6 +821,22 @@
         }, 
         {
             "config": "*/30 * * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baidu_speed.js, tag=百度极速版, img-url=https://github.com/Sunert/ProxyConfig/raw/master/QuantumultX/Rules/Images/ICON/baiduspeed.png, enabled=true"
-        }	
+        },
+	{
+            "config": "0 9 * * * https://raw.githubusercontent.com/ZhiYi-N/script/master/kkd.js, tag=快看点, img-url=https://qxzy.top/rules/QuantumultX/img/kkd.png, enabled=true",
+            "addons": "https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/addons/kkd/qx_rewite.txt, tag=txnews_rewite, update-interval=-1, opt-parser=false, enabled=true"
+        }, 
+		{
+            "config": "0 9 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/xp.js, tag=笑谱, img-url=https://qxzy.top/rules/QuantumultX/img/xp.png, enabled=true",
+            "addons": "https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/addons/xiaopu/qx_rewite.txt, tag=txnews_rewite, update-interval=-1, opt-parser=false, enabled=true"
+        }, 
+		{
+            "config": "*/5 6-23 * * * https://raw.githubusercontent.com/ZhiYi-N/script/master/hotsoon.js, tag=火山极速版, img-url=https://qxzy.top/rules/QuantumultX/img/hotsoon.png, enabled=true", 
+            "addons": "https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/addons/huoshan/qx_rewite.txt, tag=txnews_rewite, update-interval=-1, opt-parser=false, enabled=true"
+        }, 
+		{
+            "config": "40 * * * * https://qxzy.top/rules/QuantumultX/js/zy/dyjsb.js, tag=抖音极速版, img-url=https://qxzy.top/rules/QuantumultX/img/dyjsb.png, enabled=true",
+            "addons": "https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/addons/douyin/qx_rewite.txt, tag=txnews_rewite, update-interval=-1, opt-parser=false, enabled=true"
+        }, 
     ]
 }

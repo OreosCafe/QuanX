@@ -1,14 +1,20 @@
-### 2021年1月30日，更新了sunert的全部脚本，如中青玩儿法等，并解决了懒人包cookie重写中有2个sunnert脚本显示红点的问题，<br>
+### 2021年1月30日，更新了sunert仓库中的全部脚本，如中青玩儿法等，并解决了懒人包cookie重写中有2个sunert脚本显示红点的问题，全网合一仓库同步更新完成<br>
+
+可订阅[sunert仓库]，<br>
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/Sunert.json<br>
+或者直接订阅[全网合一仓库]<br>
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json<br>
 
 ### 2021年1月30日, 重要更新！！全网合一任务包全部重新改写了格式，在task仓库中更新了组件功能。
 ### 目前在task仓库中添加脚本时，会提示您是否添加附加组件，如果遇到提示，请选择添加，这个组件就是获取cookie用的。不使用该脚本后，随时移除组件即可。如图所示。
 
-<img src="https://pan.meitudou.cn/pic/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210130103100.jpg" width="40%">
+<img src="https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/1301.jpg" width="40%">
 
-<img src="https://pan.meitudou.cn/pic/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210130103110.jpg" width="40%">
+<img src="https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/1302.jpg" width="40%">
 
 
-
+### 只需首页长按风车按钮，点左下角的全部更新即可更新task订阅仓库。
+### 已添加到构造请求的旧脚本需要手动移除后重新在task添加，没有进行改动的脚本（sunert之外的）无需此操作。
 
 ---------------------------------------------
 

@@ -1,0 +1,820 @@
+{
+    "name": "全网合一",
+    "description": "公众号少年歌行pro汇总整理",
+    "task": [
+	 {
+		  "config": "10 10 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_products_detail.js, tag=京喜工厂商品列表详情, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=true"
+		},
+		{
+		 "config": "10 * * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_zjd_tuan.js, tag=京东赚京东开团, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png, enabled=true"
+		},
+		{
+		 "config": "30 18 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_zjd.js, tag=半自动领京豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png, enabled=true"
+		},
+		{
+		 "config": "0 9 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/didi.js, tag=滴滴出行, img-url=https://raw.githubusercontent.com/Orz-3/task/master/didi.png, enabled=true"
+		},
+		{
+		 "config": "2 9 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_bean_change.js, tag=京豆变动通知, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
+		},
+		{
+		 "config": "10 7 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_bean_home.js, tag=领京豆额外奖励, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_bean_home.png, enabled=true"
+		},
+		{
+		 "config": "0 0 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_blueCoin.js, tag=东东超市兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxc.png, enabled=true"
+		},
+		{
+		 "config": "1 8,12,18 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_bookshop.js, tag=口袋书店, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
+		},
+		{
+		 "config": "10 7 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_car.js, tag=京东汽车, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true"
+		},
+		{
+		 "config": "0 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_car_exchange.js, tag=京东汽车兑换, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true"
+		},
+		{
+		 "config": "2 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_cash.js, tag=签到领现金, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
+		},
+		{
+		 "config": "5 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_club_lottery.js, tag=摇京豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdyjd.png, enabled=true"
+		},
+		{
+		 "config": "0 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_coupon.js, tag=源头好物红包, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_coupon.jpg, enabled=true"
+		},
+		{
+		 "config": "10 7 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_crazy_joy.js, tag=crazyJoy任务, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_crazy_joy.png, enabled=true"
+		},
+		{
+		 "config": "10 * * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_daily_egg.js, tag=天天提鹅, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdte.png, enabled=true"
+		},
+		{
+		 "config": "10 * * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_dreamFactory.js, tag=京喜工厂, img-url=https://github.com/58xinian/icon/raw/master/jdgc.png, enabled=true"
+		},
+		{
+		 "config": "15 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_festival.js, tag=京东手机年终奖, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_festival2.jpg, enabled=true"
+		},
+		{
+		 "config": "10 8,21 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_firecrackers.js, tag=集鞭炮赢京豆, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
+		},
+		{
+		 "config": "5 6-18/6 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_fruit.js, tag=东东农场, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdnc.png, enabled=true"
+		},
+		{
+		 "config": "20 13 * * 6 https://gitee.com/lxk0301/jd_scripts/raw/master/jd_get_share_code.js, tag=获取互助码, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
+		},
+		{
+		 "config": "20 8 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_immortal.js, tag=京东神仙书院, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
+		},
+		{
+		 "config": "20 8 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_immortal_answer.js, tag=京东神仙书院答题, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
+		},
+		{
+		 "config": "10 * * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_jdfactory.js, tag=东东工厂, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_factory.png, enabled=true"
+		},
+		{
+		 "config": "10 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_jdzz.js, tag=京东赚赚, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzz.png, enabled=true"
+		},
+		{
+		 "config": "15 0-23/2 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_joy.js, tag=京东宠汪汪, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true"
+		},
+		{
+		 "config": "15 0-23/1 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_joy_feedPets.js, tag=京东宠汪汪喂食, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true"
+		},
+		{
+		 "config": "0 0-16/8 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_joy_reward.js, tag=宠汪汪积分兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true"
+		},
+		{
+		 "config": "15 10 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_joy_run.js, tag=宠汪汪邀请助力与赛跑助力, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true"
+		},
+		{
+		 "config": "0 0-10/2 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_joy_steal.js, tag=宠汪汪偷好友积分与狗粮, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true"
+		},
+		{
+		 "config": "0 9,12,18 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_jxnc.js, tag=京喜农场, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxnc.png, enabled=true"
+		},
+		{
+		 "config": "10 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_kd.js, tag=京东快递签到, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_kd.png, enabled=true"
+		},
+		{
+		 "config": "10-20/5 12 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_live.js, tag=京东直播, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
+		},
+		{
+		 "config": "1 7 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_mh.js, tag=盲盒抽京豆, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_mh.jpg, enabled=true"
+		},
+		{
+		 "config": "3 0-23/2 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_moneyTree.js, tag=京东摇钱树, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdyqs.png, enabled=true"
+		},
+		{
+		 "config": "10 7 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_ms.js, tag=京东秒秒币, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_ms.jpg, enabled=true"
+		},
+		{
+		 "config": "10 0,20 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_necklace.js, tag=点点券, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
+		},
+		{
+		 "config": "1 7 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nh.js, tag=京东年货节, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
+		},
+		{
+		 "config": "0 9,12,20,21 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nian.js, tag=京东炸年兽🧨, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_nian.png, enabled=true"
+		},
+		{
+		 "config": "50 * * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nianCollect.js, tag=京东收🧨, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_nianCollect.png, enabled=true"
+		},
+		{
+		 "config": "0 9 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nian_ar.js, tag=京东炸年兽AR, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_nian.png, enabled=true"
+		},
+		{
+		 "config": "30 8 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nian_sign.js, tag=京东炸年兽签到任务🧨, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_nian.png, enabled=true"
+		},
+		{
+		 "config": "50 8 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nian_wechat.js, tag=京东炸年兽小程序🧨, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_nian.png, enabled=true"
+		},
+		{
+		 "config": "15 6-18/6 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_pet.js, tag=东东萌宠, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdmc.png, enabled=true"
+		},
+		{
+		 "config": "12 * * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_pigPet.js, tag=京东金融养猪猪, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdyz.png, enabled=true"
+		},
+		{
+		 "config": "1 7-21/2 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_plantBean.js, tag=种豆得豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzd.png, enabled=true"
+		},
+		{
+		 "config": "1 1 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_redPacket.js, tag=京东全民开红包, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true"
+		},
+		{
+		 "config": "20 8 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_sgmh.js, tag=闪购盲盒, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
+		},
+		{
+		 "config": "10 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_shop.js, tag=进店领豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_shop.png, enabled=true"
+		},
+		{
+		 "config": "16 22 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_small_home.js, tag=东东小窝, img-url=https://raw.githubusercontent.com/58xinian/icon/master/ddxw.png, enabled=true"
+		},
+		{
+		 "config": "8 0-23/3 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_speed.js, tag=京东天天加速, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdjs.png, enabled=true"
+		},
+		{
+		 "config": "11 1-23/5 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_superMarket.js, tag=东东超市, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxc.png, enabled=true"
+		},
+		{
+		 "config": "20 7 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_super_box.js, tag=京东超级盒子, enabled=true"
+		},
+		{
+		 "config": "10 7 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_syj.js, tag=赚京豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png, enabled=true"
+		},
+		{
+		 "config": "55 23 * * 6 https://gitee.com/lxk0301/jd_scripts/raw/master/jd_unbind.js, tag=注销京东会员卡, img-url= https://raw.githubusercontent.com/58xinian/icon/master/jd_unbind.png, enabled=true"
+		},
+		{
+		 "config": "55 23 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_unsubscribe.js, tag=取关京东店铺商品, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
+		},
+		{
+		 "config": "5 7 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_xg.js, tag=小鸽有礼, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_xg.jpg, enabled=true"
+		},
+		{
+		 "config": "5 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jx_sign.js, tag=京喜签到, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
+		},
+		{
+		 "config": "15 17 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/backUp/xmSports.js, tag=小米运动, img-url=https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png, enabled=true"
+		},
+		{
+		 "config": "0 10 0 * * * https://raw.githubusercontent.com/DD-D1/2020scripts/blob/master/QQReadSign.js, tag=QQ阅读, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/QQRead.png, enabled=true"    
+		},
+		{
+		 "config": "0 10 0 * * * https://raw.githubusercontent.com/DD-D1/2020scripts/master/hdhycSign.js, tag=海德汇一城, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/hdhyc.png, enabled=true"    
+		},
+		{
+		 "config": "0 10 0 * * * https://raw.githubusercontent.com/DD-D1/2020scripts/master/jddsSign.js, tag=京东读书签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jdds.png, enabled=true"    
+		},
+		{
+		 "config": "0 10 0 * * * https://raw.githubusercontent.com/DD-D1/2020scripts/master/mygmcSign.js, tag=民盈国贸城, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/mygmc.png, enabled=true"   
+		},
+		{
+		 "config": "0 10 0 * * * https://raw.githubusercontent.com/DD-D1/2020scripts/master/qczjSign.js, tag= 汽车之家极速版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/qczj.png, enabled=true"    
+		},
+		{
+		 "config": "0 10 0 * * * https://raw.githubusercontent.com/DD-D1/2020scripts/master/qkylck.js, tag=趣客有礼, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/qkyl.png, enabled=true"
+		},
+		{
+		 "config": "0 10 0 * * * https://raw.githubusercontent.com/XidNDD/2020scripts/master/sdcbxscSign.js, tag=水滴筹保险商城小程序, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/sdc.png, enabled=true"
+		},
+		{
+		 "config": "0 10 0 * * * https://raw.githubusercontent.com/XidNDD/2020scripts/master/sjdjSign.js, tag=水晶DJ, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/sjdj.png, enabled=true"
+		},
+		{
+		 "config": "0 10 0 * * * https://raw.githubusercontent.com/DD-D1/2020scripts/master/ttwbxcxSign.js, tag=天天挖矿小程序, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/ttwkxcx.png, enabled=true"
+		},
+		{
+		 "config": "0 10 0 * * * https://raw.githubusercontent.com/DD-D1/2020scripts/master/wsxqSign.js, tag= 微商星球, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/wsxq.png, enabled=true"
+		},
+		{
+		 "config": "0 10 0 * * * https://raw.githubusercontent.com/DD-D1/2020scripts/master/yzkbSign.js, tag= 柚子快报, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/yzkb.png, enabled=true"    
+		},
+		{
+		 "config": "0 10 0 * * * https://raw.githubusercontent.com/DD-D1/2020scripts/master/zscdbSign.js, tag=追书畅读版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/zscdb.png, enabled=true"
+		},
+		{
+		 "config": "0 10 0 * * * https://raw.githubusercontent.com/DD-D1/2020scripts/master/zymkSign.js, tag= 知音漫客, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/zymk.png, enabled=true"    
+		},
+		{
+		 "config": "0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js, tag=吾爱破解, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/52pj.png, enabled=true"
+		},
+		{
+		 "config": "0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js, tag=百度贴吧, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/tieba.png, enabled=true"
+		},
+		{
+		 "config": "0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/Bilibili-DailyBonus/Manga.js, tag=哔哩哔哩漫画, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/manga.png, enabled=true"
+		},
+		{
+		 "config": "0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true"
+		},
+		{
+		 "config": "0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/KuaiKan-DailyBonus/KKMH.js, tag=快看漫画, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/KuaiKan.png, enabled=true"
+		},
+		{
+		 "config": "0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/iQIYI.png, enabled=true"
+		},
+		{
+		 "config": "10 8-22/2 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js, tag=彩云天气, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/caiyun.png, enabled=true"
+		},
+		{
+		 "config": "0 9 */7 * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/epic.js, tag=Epic周免, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/epic.png, enabled=true"
+		},
+		{
+		 "config": "0 9 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/exchange.js, tag=汇率监控, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/exchangerate.png, enabled=true"
+		},
+		{
+		 "config": "0 9 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/flow.js, tag=机场流量, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/airport.png, enabled=true"
+		},
+		{
+		 "config": "0 9 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/github.js, tag=GitHub, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/github.png, enabled=true"
+		},
+		{
+		 "config": "0 9 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/nCov.js, tag=疫情日报, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/COVID-19.png, enabled=true"
+		},
+		{
+		 "config": "0 9 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/psn.js, tag=PSN会免, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/PSN.png, enabled=true"
+		},
+		{
+		 "config": "0 9 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/steam.js, tag=Steam价格, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/steam.png, enabled=true"
+		},
+		{
+		 "config": "0 21 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/telegram.js, tag=Telegram频道图片推送, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/tgpic.png, enabled=true"
+		},
+		{
+		 "config": "0 9 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/zongheng.js, tag=纵横小说, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/zongheng.png, enabled=true"
+		},
+		{
+		 "config": "0,30 0-12 * * * https://raw.githubusercontent.com/adwktt/adwktt/master/yk.js, tag=一刻视频, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/115.png, enabled=true"    
+		},
+		{
+		 "config": "0 0 * * * https://raw.githubusercontent.com/barrym-chen/Script/master/ctrip/ctrip.js, tag=携程旅行, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/ctrip.png, enabled=true"
+		},
+		{
+		 "config": "0 0 * * * https://raw.githubusercontent.com/barrym-chen/Script/master/ctrip_wx/ct_sign.js, tag=携程小程序, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/ctrip.png, enabled=true"
+		},
+		{
+		 "config": "0 0 * * * https://raw.githubusercontent.com/barrym-chen/Script/master/elong/elong_draw.js, tag=艺龙酒店, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/elong.png, enabled=true"
+		},
+		{
+		 "config": "0 0 * * * https://raw.githubusercontent.com/barrym-chen/Script/master/fcz/fcz_sign.js, tag=飞常准, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/fcz.png, enabled=true"
+		},
+		{
+		 "config": "0 0 * * * https://raw.githubusercontent.com/barrym-chen/Script/master/icbc/icbc_sign.js, tag=工银e生活, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/icbc.png, enabled=true"
+		},
+		{
+		 "config": "0 0 * * * https://raw.githubusercontent.com/barrym-chen/Script/master/jdczf/jdczf.js, tag=京东成长分, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jdczf.png, enabled=true"
+		},
+		{
+		 "config": "0 0 * * * https://raw.githubusercontent.com/barrym-chen/Script/master/tongc/tongc_sign.js, tag=同程小程序, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/tongc.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/barrym-chen/Script/master/tongc/tongc_info.js, tag=同程小程序, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/tongc.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10000/10000.js, tag=中国电信, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/10000.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.js, tag=中国联通, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/10010.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10086/10086.js, tag=中国移动, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/10086.png, enabled=true"
+		},
+		{
+		 "config": "10 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10086/10086.fee.js, tag=10086查话费, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/10086fee.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/acfun/acfun.js, tag=AcFun, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/acfun.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/apktw/apktw.js, tag=APK.TW, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/apktw.png, enabled=true"
+		},
+		{
+		 "config": "50 23 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/bcz/bcz.js, tag=百词斩, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/bcz.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.js, tag=bilibili, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/bilibili.png, enabled=true"
+		},
+		{
+		 "config": "* * * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/box.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/bubei/bubei.js, tag=不背单词, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/bubei.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/csdn/csdn.js, tag=CSDN, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/csdn.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/dbsj/dbsj.js, tag=豆瓣时间, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/dbsj.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/dongqiudi/dongqiudi.js, tag=懂球帝, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/dongqiudi.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/duokan/duokan.js, tag=多看阅读, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/duokan.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/everphoto/everphoto.js, tag=时光相册, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/everphoto.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/fandeng/fandeng.js, tag=樊登读书, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/fandeng.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/feng/feng.js, tag=威锋网, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/feng.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/fenqile/fenqile.js, tag=分期乐, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/fenqile.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/flyertea/flyertea.js, tag=飞客茶馆, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/flyertea.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/gdoil/gdoil.js, tag=加油广东, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/gdoil.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/haidilao/hdl.js, tag=海底捞, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/haidilao.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/hellobike/hellobike.js, tag=哈啰出行, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/hellbike.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/hycan/hycan.js, tag=HYCAN合创, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/hycan.png, enabled=true"
+		},
+		{
+		 "config": "10 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/ithome/ithome.js, tag=IT之家, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/ithome.png, enabled=true"
+		},
+		{
+		 "config": "0 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/jd/JD_BaiTiao.js, tag=京东白条, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/jddj/jddj.js, tag=京东到家, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jddj.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/maomicd/maomicd.js, tag=猫咪音乐, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/maomicd.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/mcdd/mcdd.js, tag=叮咚买菜, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/mcdd.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/meituan/meituan.js, tag=美团, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/meituan.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/mgtv/mgtv.js, tag=芒果TV, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/mgtv.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/midu/miduSign.js, tag=米读签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/midu.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/midu/miduRead.js, tag=米读阅读时长, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/midu.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/mihoyo/mihoyo.js, tag=米游社, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/mihoyo.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/neteasemusic/quanx/neteasemusic.js, tag=网易云音乐, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/neteasemusic.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/neteasenews/neteasenews.js, tag=网易新闻, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/neteasenews.png, enabled=true"
+		},
+		{
+		 "config": "10 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/nfzm/nfzm.js, tag=南方周末, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/nfzm.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/nio/nio.js, tag=蔚来, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/nio.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/noteyoudao/noteyoudao.js, tag=有道云笔记, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/noteyoudao.png, enabled=true"
+		},
+		{
+		 "config": "10 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/pagoda/pagoda.js, tag=百果园, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/pagoda.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/qimao/qmnovel.js, tag=七猫小说, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/qimao.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/qmkg/qmkg.js, tag=全民K歌, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/qmkg.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/qqmusic/qqmusic.js, tag=QQ音乐, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/qqmusic.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/qtt/qtt.js, tag=趣头条, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/qtt.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/qunar/qunar.js, tag=去哪儿, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/qunar.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/rrtv/rrtv.js, tag=人人视频, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/rrtv.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/sfexpress/sfexpress.js, tag=顺丰速运, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/sfexpress.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/smzdm/quanx/smzdm.js, tag=什么值得买, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/smzdm.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/suning/suning.js, tag=苏宁易购, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/suning.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/tieba/tieba.js, tag=百度签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/baidu.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/v2ex/quanx/v2ex.js, tag=V2EX, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/v2ex.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.js, tag=腾讯视频, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/videoqq.png, enabled=true"
+		},
+		{
+		 "config": "10 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/wanda/wanda.js, tag=万达电影, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/wanda.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/wmmeituan/wmmeituan.js, tag=美团外卖, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/wmmeituan.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/wps/wps.js, tag=WPS, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/wps.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/wykl/wykl.js, tag=网易考拉, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/wykl.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/ximalaya/ximalaya.js, tag=喜马拉雅, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/ximalaya.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/zaker/zaker.js, tag=Zaker, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/zaker.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/zimuzu/zimuzu.js, tag=字幕组, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/zimuzu.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/zsfc/zsfc.js, tag=掌上飞车, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/zsfc.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/zxhc/zxhc.js, tag=智行火车, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/zxhc.png, enabled=true"
+		},
+		{
+		 "config": "30 8,13,19 * * * https://raw.githubusercontent.com/chouchoui/QuanX/master/Scripts/angelalign/angelalign.task.js, tag=时代天使, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/angelalign.png, enabled=true"
+		},
+		{
+		 "config": "10 0 * * * https://raw.githubusercontent.com/chouchoui/QuanX/master/Scripts/nga/nga.js, tag=NGA刮墙, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/nga.png, enabled=true"
+		},
+		{
+		 "config": "0 8 * * * https://github.com/congcong0806/surge-list/raw/master/Script/daysmatter.js, tag= 倒数日, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/daysmatter.png, enabled=true"
+		},
+		{
+		 "config": "0 7-23 * * * https://github.com/congcong0806/surge-list/raw/master/Script/time.js, tag= 今日时间, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/time.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/dompling/Script/master/birthdayCountDown/index.js, tag=生日倒计时, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/birthday.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/dompling/Script/master/biyao/biyao.js, tag=必要, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/biyao.png, enabled=true"
+		},
+		{
+		 "config": "1 9 * * * https://raw.githubusercontent.com/dompling/Script/master/historyToday/index.js, tag=历史上的今天, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/historyToday.png, enabled=true"
+		},
+		{
+		 "config": "1 9 * * * https://raw.githubusercontent.com/dompling/Script/master/oneSay/oneSay.js, tag=每日一言, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/calendar.png, enabled=true"
+		},
+		{
+		 "config": "1 9 * * * https://raw.githubusercontent.com/dompling/Script/master/xiaomiyp/xiaomiyp.js, tag=小米有品, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/xiaomiyp.png, enabled=true"
+		},
+		{
+		 "config": "10 0 * * * https://raw.githubusercontent.com/dompling/Script/master/ymatou/ymatou.js, tag=洋码头, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/ymatou.png, enabled=true"
+		},
+		{
+		 "config": "0 0 6 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/nasa/nasapic.js, tag=NASA每日一图, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/nasa.png, enabled=true"
+		},
+		{
+		 "config": "0 0 6 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/idaily/idaily.js, tag=iDaily每日环球视野, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/idaily.png, enabled=true"
+		},
+		{
+		 "config": "30 7-22 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/appstore/AppMonitor.js, tag=App价格监控, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/appstore.png, enabled=true"
+		},
+		{
+		 "config": "30 0 8-22/2 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/hotsearch/hot.js, tag=热门监控, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/hot.png, enabled=true"
+		},
+		{
+		 "config": "45 3 8 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/weibo/weibotalk.js, tag=微博超话, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/weibo.png, enabled=true"
+		},
+		{
+		 "config": "0 4 8 * * *  https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/funboat/funboat.js, tag=Funboat, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/funboat.png, enabled=true"
+		},
+		{
+		 "config": "25 4 8 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/jiumu/jiumu.js, tag=九木杂物社, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jiumu.png, enabled=true"
+		},
+		{
+		 "config": "10 12,18 * * * https://raw.githubusercontent.com/id77/QuantumultX/master/task/jdWuLiu.js, tag=京东物流派件提醒, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true"
+		},
+		{
+		 "config": "10 0 * * * https://raw.githubusercontent.com/id77/QuantumultX/master/task/yiLi.js, tag=伊利乳品, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/yiLi.png, enabled=true"
+		},
+		{
+		 "config": "0 1 * * * https://raw.githubusercontent.com/id77/QuantumultX/master/task/thg.js, tag=太好购, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/thg.png, enabled=true"
+		},
+		{
+		 "config": "5 10 * * * https://raw.githubusercontent.com/id77/QuantumultX/master/task/163GameVip.js, tag=网易游戏会员签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/163GameVip.png, enabled=true"
+		},
+		{
+		 "config": "6 0 * * * https://raw.githubusercontent.com/id77/QuantumultX/master/task/geekhub.js, tag=geekhub, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/geekhub.png, enabled=true"
+		},
+		{
+		 "config": "1 8,12,17 * * * https://raw.githubusercontent.com/iepngs/Script/master/dingdong/index.js, tag=叮咚农场, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/mcdd.png, enabled=true"
+		},
+		{
+		 "config": "0 9 * * * https://raw.githubusercontent.com/iepngs/Script/master/lxhealth/manual.js, tag=步数上传, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/lxhealth.png, enabled=true"
+		},
+		{
+		 "config": "0 9 * * * https://raw.githubusercontent.com/iepngs/Script/master/studygolang/index.js, tag=go语言中文网, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/studygolang.png, enabled=true"
+		},
+		{
+		 "config": "29 8 * * * https://raw.githubusercontent.com/iepngs/Script/master/ctrip/index.js,tag=携程旅行, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/ctrip.png, enabled=true"
+		},
+		{
+		 "config": "5,35 8-21 * * * https://raw.githubusercontent.com/iepngs/Script/master/jrtt/index.js,tag=今日头条极速版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jrtt.png, enabled=true"
+		},
+		{
+		 "config": "0 9 * * * https://raw.githubusercontent.com/iepngs/Script/master/lxsj/index.js,tag=旅行世界购物版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/lxsj.png, enabled=true"
+		},
+		{
+		 "config": "7 0 * * * https://raw.githubusercontent.com/iisams/Scripts/master/liwo/7days.js,tag=梨涡签到领现金, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/liwo.png, enabled=true"
+		},
+		{
+		 "config": "5 8 * * * https://raw.githubusercontent.com/iisams/Scripts/master/liwo/jdtqz.js, tag= 京东特权值, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=false",
+		},
+		{
+		 "config": "0 0 0,1 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/QQPet/lkQQPet.js, tag=QQ萌宠, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/QQ.png, enabled=true"
+		},
+		{
+		 "config": "0 0 0,1 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/QQVip/qqVipCheckIn.js, tag=qq会员成长值, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/qqvip.png, enabled=true"
+		},
+		{
+		 "config": "0 0 0,1 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/bilibili/bangumiMonitor.js, tag=哔哩哔哩番剧监控, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/bilibili.png, enabled=true"
+		},
+		{
+		 "config": "0 1 0 1 * ? https://raw.githubusercontent.com/lowking/Scripts/master/bilibili/privilegeReceive.js, tag=哔哩哔哩大会员特权领取, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/bilibili.png, enabled=true"
+		},
+		{
+		 "config": "0 10 0 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/pupu/pupuCheckIn.js, tag=朴朴, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/pupu.png, enabled=true"
+		},
+		{
+		 "config": "0 0 0,1 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/douyu/yubaSign.js, tag=斗鱼鱼吧, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/douyu.png, enabled=true"
+		},
+		{
+		 "config": "0 0 0 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/sony/sonyClub.js, tag=索尼俱乐部, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/SONY.png, enabled=true"
+		},
+		{
+		 "config": "0 0 0,1 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/weibo/weiboSTCookie.js, tag=微博超话, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/weibo.png, enabled=true"
+		},
+		{
+		 "config": "0 9 * * * https://gitee.com/passerby-b/javascript/raw/master/unipay.js, tag=云闪付, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/unipay.png, enabled=true"
+		},
+		{
+		 "config": "10 0 8 * * * https://raw.githubusercontent.com/photonmang/quantumultX/master/tuhu/tuhu.js, tag=途虎养车, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/tuhu.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/songyangzz/QuantumultX/master/elem/elemSign.js, tag=饿了么, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/elem.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/songyangzz/QuantumultX/master/lol.js, tag=LOL排行查询, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/lol.png, enabled=true"
+		},
+		{
+		 "config": "0 0-23/1 * * * https://raw.githubusercontent.com/songyangzz/QuantumultX/master/testflight.js, tag=testflight公测监控, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/testflight.png, enabled=true"
+		},
+		{
+		 "config": "5 0 * * * https://raw.githubusercontent.com/toulanboy/scripts/master/jd_price_detect/jd_price_detect.js, tag=京东价格提醒, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true"
+		},
+		{
+		 "config": "5 0 * * * https://raw.githubusercontent.com/toulanboy/scripts/master/muchong/muchong.js, tag=小木虫论坛, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/muchong.png, enabled=true"
+		},
+		{
+		 "config": "5 0 * * * https://raw.githubusercontent.com/toulanboy/scripts/master/weibo/weibotalk.js, tag=微博超话, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/weibo.png, enabled=true"
+		},
+		{
+		 "config": "0 9 * * * https://ooxx.be/js/jegotrip.js, tag=无忧行, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jegotrip.png, enabled=true"
+		},
+		{
+		 "config": "0 18 * * * https://ooxx.be/js/maoyan.js, tag=猫眼电影, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/maoyan.png, enabled=true"
+		},
+		{
+		 "config": "0 9 * * * https://ooxx.be/js/umer.js, tag=优麦医生, img-url=https://raw.githubusercontent.com/Orz-3/mini/master//umer.png, enabled=true"
+		},
+		{
+		 "config": "0 2,13,25,45,55 0-23 * * ? https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/momosign.js, tag=陌陌极速版签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/momo.png, enabled=true"
+		},
+		{
+		 "config": "0 9 * * * https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/quwalk2.2.js, tag=趣走签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/quwalk.png, enabled=true"
+		},
+		{
+		 "config": "0 0/2 * * * ? https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/htt_task_4.js, tag=惠头条, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/htt.png, enabled=true"
+		},
+		{
+		 "config": "0 21,31,50 0-22 * * ? https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/qktx_task3.js, tag=趣看天下, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/qktx.png, enabled=true"
+		},
+		{
+		 "config": "0 2,13,25,45,55 0-23 * * ? https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/wxdaka.js, tag=微信小程序打卡签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/wxdaka.png, enabled=true"
+		},
+		{
+		 "config": "0 30 6-23 * * ? https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/liantongnotice.js, tag=联通流量话费提醒, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/10010.png, enabled=true"
+		},
+		{
+		 "config": "0 30 0,6 * * ? https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/newsinachaohua.js, tag=新浪微博超话签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/weibo.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/115/115.js, tag=115, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/115.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Blibee/Blibee.js, tag=便利蜂, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Blibee.png, enabled=true"
+		},
+		{
+		 "config": "0 1,20 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/DiDi/DiDi_new.js, tag=滴滴出行, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/didi.png, enabled=true"
+		},
+		{
+		 "config": "0 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Domino/Domino_getSMS.js, tag=达美乐, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Domino.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Haidilao/Haidilao.js, tag=海底捞, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/haidilao.png, enabled=true"
+		},
+		{
+		 "config": "0 7 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/MovieCalendar/MovieCalendar.js, tag=电影日历, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/MovieCalendar.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Naixue/Naixue.js, tag=奈雪, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Naixue.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean.js, tag=欧可林, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Oclean.png, enabled=true"
+		},
+		{
+		 "config": "0 * * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Weibo/Weibo.js, tag=微博通知, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/weibo.png, enabled=true"    
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/ZMTeacher/ZMTeacher.js, tag=掌门好老师, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/ZMTeacher.png, enabled=true"
+		},
+		{
+		 "config": "1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/elem/elemCheckIn.js, tag=饿了么-打卡领红包, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/elem.png, enabled=true"
+		},
+		{
+		 "config": "0 * * * * https://raw.githubusercontent.com/zZPiglet/Task/master/heybox/heybox.js, tag=小黑盒, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/heybox.png, enabled=true"
+		},
+		{
+		 "config": "0 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/umetrip/umetrip.js, tag=航旅纵横, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/umetrip.png, enabled=true"    
+		},
+		{
+		 "config": "0 8-23/2 * * * https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js, tag=步步宝, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/115.png, enabled=true" 
+		},
+		{
+		 "config": "20 * 0/1 1,8,16,24 * ? https://gitee.com/qq34347476/quantumult-x/raw/master/format_share_jd_code.js, tag=获取并提交助力码, img-url=https://raw.githubusercontent.com/yogayyy/task/master/huzhucode.png, enabled=true" 
+		},
+		{
+		 "config": "0 9 * * * https://raw.githubusercontent.com/58xinian/Surge/master/Script/huke.js, tag=虎课网, img-url=https://raw.githubusercontent.com/58xinian/icon/master/huke.png, enabled=true"
+		},
+		{
+		 "config": "30 8-20/1 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/caiyun.js, tag=彩云天气, img-url=https://raw.githubusercontent.com/Orz-3/task/master/caiyun.png, enabled=true"
+		},
+		{
+		 "config": "15 18 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/donate-step.js, tag=捐步数（点击弹窗）, img-url=https://raw.githubusercontent.com/Orz-3/task/master/alipay.png, enabled=true"
+		},
+		{
+		 "config": "3 9 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/daymatter.js, tag=倒数日, img-url=https://raw.githubusercontent.com/Orz-3/task/master/daysmatter.png, enabled=true"   
+		},
+		{
+		 "config": "1 9 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_products_detail.js, tag=工厂商品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxgc.png, enabled=true"  
+		},
+		{
+		 "config": "1 9 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/didi.js, tag=滴滴出行, img-url=https://raw.githubusercontent.com/Orz-3/task/master/didi.png, enabled=true"  
+		},
+		{
+		 "config": "0 9 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jdzz.js, tag=京东赚赚, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzz.png, enabled=true"  
+		},
+		{
+		 "config": "0 9,12,18 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.js, tag=京喜农场, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxnc.png, enabled=true"   
+		},
+		{
+		 "config": "30 * * * * https://raw.githubusercontent.com/MoPoQAQ/Script/main/Me/jx_cfd.js, tag=京喜财富岛, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true"   
+		},
+		{
+		 "config": "0 1,18 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory_component.js, tag=京喜工厂plus, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=true"  
+		},
+		{
+		 "config": "10 *\/4 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_story.js, tag=京喜金牌厂长, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=true"   
+		},
+		{
+		 "config": "10 * * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory.js, tag=京喜工厂, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=true"  
+		},
+		{
+		 "config": "30 0 0 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/ddxw.js, tag=东东小窝, img-url=https://raw.githubusercontent.com/58xinian/icon/master/ddxw.png, enabled=true"   
+		},
+		{
+		 "config": "0 * * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/dd_factory.js, tag=东东工厂, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_factory.png, enabled=true"  
+		},
+		{
+		 "config": "5 5 * * * https://raw.githubusercontent.com/799953468/Quantumult-X/master/Scripts/JD/jd_paopao.js, tag=泡泡大作战, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_paopao.png, enabled=true"  
+		},
+		{
+		 "config": "0 9 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/upgrade-product.js, tag=升级商品, img-url=https://raw.githubusercontent.com/Xirou/Script/master/jxc.PNG, enabled=true"  
+		},
+		{
+		 "config": "0 9 */2 * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/upgrade-shelf.js, tag=升级货架, img-url=https://raw.githubusercontent.com/Xirou/Script/master/jxc.PNG, enabled=true"   
+		},
+		{
+		 "config": "10 0 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_collectBlueCoin.js, tag=🐶京小超领蓝币, img-url=https://raw.githubusercontent.com/Xirou/Script/master/jxc.PNG, enabled=true"  
+		},
+		{
+		 "config": "11 1 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, tag=京东抽奖机, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=false", 
+		},
+		{
+		 "config": "11 0 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js, tag=京东排行榜, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=false",
+		},
+		{
+		 "config": "20 8 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_dati.js, tag=神仙书院答题, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
+		}, 
+	    {
+            "config": "0 8 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/moji.js, tag=墨迹天气, img-url=https://raw.githubusercontent.com/Sunert/ProxyConfig/master/QuantumultX/Rules/Images/ICON/moji.png, enabled=true"
+        }, 
+        {
+            "config": "0 0 8 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/tvpreview.js, tag=节目预告, img-url=https://raw.githubusercontent.com/Sunert/ProxyConfig/master/QuantumultX/Rules/Images/ICON/tvpreview.png, enabled=true"
+        }, 
+        {
+            "config": "0 0 8 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/trainquery.js, tag=12306火车时刻, img-url=https://raw.githubusercontent.com/Orz-3/task/master/12306.png, enabled=false"
+        }, 
+        {
+            "config": "4 0 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/exchangeRate.js, tag=实时货币换算, img-url=https://raw.githubusercontent.com/Orz-3/task/master/exchangerate.png, enabled=false"
+        }, 
+        {
+            "config": "0 0 8 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/telecomInfinity.js, tag=中国电信套餐, img-url=https://raw.githubusercontent.com/Orz-3/task/master/telecominfinty.png, enabled=true", 
+            "addons": "https://raw.githubusercontent.com/Sunert/Scripts/master/TaskConf/dianxin/qx_rewite.txt, tag=dianxin_rewite, update-interval=-1, opt-parser=false, enabled=true"
+        }, 
+        {
+            "config": "30 9 8 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/txnews.js, tag=腾讯新闻, img-url= https://raw.githubusercontent.com/Orz-3/task/master/txnews.png, enabled=true", 
+            "addons": "https://raw.githubusercontent.com/Sunert/Scripts/master/TaskConf/txnews/qx_rewite.txt, tag=txnews_rewite, update-interval=-1, opt-parser=false, enabled=true"
+        }, 
+        {
+            "config": "30 10 8 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jddj.js, tag=京东到家, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jddj.png, enabled=true", 
+            "addons": "https://raw.githubusercontent.com/Sunert/Scripts/master/TaskConf/jd/qx_rewite.txt, tag=jd_rewite, update-interval=-1, opt-parser=false, enabled=true"
+        }, 
+        {
+            "config": "7 10 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/translate.js, tag=谷歌中英互译, img-url= https://raw.githubusercontent.com/Orz-3/task/master/translate.png, enabled=false"
+        }, 
+        {
+            "config": "40 10 8 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/lkyl.js, tag=来客有礼, img-url=https://raw.githubusercontent.com/Orz-3/task/master/lkyl.png, enabled=true", 
+            "addons": "https://raw.githubusercontent.com/Sunert/Scripts/master/TaskConf/jd/qx_rewite.txt, tag=jd_rewite, update-interval=-1, opt-parser=false, enabled=true"
+        }, 
+        {
+            "config": "0 0 7,22 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/dianshijia.js, tag=电视家, img-url=https://raw.githubusercontent.com/Orz-3/task/master/dianshijia.png, enabled=true", 
+            "addons": "https://raw.githubusercontent.com/Sunert/Scripts/master/TaskConf/dianshijia/qx_rewite.txt, tag=dianshijia_rewite, update-interval=-1, opt-parser=false, enabled=true"
+        }, 
+        {
+            "config": "0 11 8 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/kuaishou.js, tag=快手, img-url=https://raw.githubusercontent.com/Orz-3/task/master/kuaishou.png, enabled=true", 
+            "addons": "https://raw.githubusercontent.com/Sunert/Scripts/master/TaskConf/kuaishou/qx_rewite.txt, tag=kuaishou_rewite, update-interval=-1, opt-parser=false, enabled=true"
+        }, 
+        {
+            "config": "0 11 8 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/weibo.js, tag=微博&钱包, img-url=https://raw.githubusercontent.com/Orz-3/task/master/weibo.png, enabled=true", 
+            "addons": "https://raw.githubusercontent.com/Sunert/Scripts/master/TaskConf/sina/qx_rewite.txt, tag=sina_rewite, update-interval=-1, opt-parser=false, enabled=true"
+        }, 
+        {
+            "config": "10 11 8 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/sinanews.js, tag=新浪新闻, img-url=https://raw.githubusercontent.com/Orz-3/task/master/sinanews.png, enabled=true", 
+            "addons": "https://raw.githubusercontent.com/Sunert/Scripts/master/TaskConf/sina/qx_rewite.txt, tag=sina_rewite, update-interval=-1, opt-parser=false, enabled=true"
+        }, 
+        {
+            "config": "20 11 8 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png, enabled=true", 
+            "addons": "https://raw.githubusercontent.com/Sunert/Scripts/master/TaskConf/youth/qx_rewite.txt, tag=youth_rewite, update-interval=-1, opt-parser=false, enabled=true"
+        }, 
+        {
+            "config": "20 15 */2 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js, tag=中青自动阅读, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png, enabled=true", 
+            "addons": "https://raw.githubusercontent.com/Sunert/Scripts/master/TaskConf/youth/qx_rewite.txt, tag=youth_rewite, update-interval=-1, opt-parser=false, enabled=true"
+        }, 
+        {
+            "config": "20 5 10 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js, tag=中青浏览赚, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png, enabled=true", 
+            "addons": "https://raw.githubusercontent.com/Sunert/Scripts/master/TaskConf/youth/qx_rewite.txt, tag=youth_rewite, update-interval=-1, opt-parser=false, enabled=true"
+        }, 
+        {
+            "config": "4 0 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/mydigit.js, tag=数码之家, img-url=https://raw.githubusercontent.com/Orz-3/task/master/mydigit.png, enabled=true", 
+            "addons": "https://raw.githubusercontent.com/Sunert/Scripts/master/TaskConf/digit_home/qx_rewite.txt, tag=mydigit_rewite, update-interval=-1, opt-parser=false, enabled=true"
+        }, 
+        {
+            "config": "*/10 */3 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jukan.js, tag=聚看点, img-url=https://github.com/Sunert/ProxyConfig/raw/master/QuantumultX/Rules/Images/ICON/jukan.png, enabled=true", 
+            "addons": "https://raw.githubusercontent.com/Sunert/Scripts/master/TaskConf/jukan/qx_rewite.txt, tag=jkd_rewite, update-interval=-1, opt-parser=false, enabled=true"
+        }, 
+        {
+            "config": "*/30 * * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baidu_speed.js, tag=百度极速版, img-url=https://github.com/Sunert/ProxyConfig/raw/master/QuantumultX/Rules/Images/ICON/baiduspeed.png, enabled=true"
+        }	
+    ]
+}

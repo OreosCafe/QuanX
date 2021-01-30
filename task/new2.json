@@ -815,7 +815,6 @@
 		},
 		{
 		 "config": "20 8 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_dati.js, tag=神仙书院答题, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
-		}, 
-		
+		}, 		
     ]
 }

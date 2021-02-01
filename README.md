@@ -1,3 +1,25 @@
+### 2021年2月1日，增加了bigfun连续签到脚本，脚本已加入了age174仓库和我的全网合一仓库，
+#### lxk0301仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
+#### 全网合一仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+#### 添加脚本时会提示添加附件组件，请添加，是获取cookie用的，获取cookie后回到仓库再点一下，选择移除组件，就不再获取cookie了
+仓库订阅的一键使用方法可参见群公告具体说明
+
+### 如果您是ios12用户无法使用仓库订阅功能，请复制下方代码，并粘贴到圈x配置文件的对应标签下：
+
+[rewrite_local]
+#获取bigfunCookie
+^https:\/\/api\.bigfun\.cn\/webview\/iphone? url script-request-body https://raw.githubusercontent.com/age174/-/main/bigfun.js
+
+[task_local]
+#bigfun
+5 1 * * * https://raw.githubusercontent.com/age174/-/main/bigfun.js, tag=bigfun签到, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z003.png, enabled=true
+
+[MITM]
+hostname = api.bigfun.cn
+
+
+------------------------------------
+
 ### 2021年2月1日，增加了京东压岁钱脚本，脚本已加入了lxk0301仓库和我的全网合一仓库，
 #### lxk0301仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/lxk0301.json
 #### 全网合一仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
@@ -6,8 +28,8 @@
 ### 如果您是ios12用户无法使用仓库订阅功能，请复制下方代码，并粘贴到圈x配置文件的对应标签下：
 
 [task local]
-"20 8,12 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_newYearMoney.js, tag=京东压岁钱, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
-"0 0 9,12,16,20 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_newYearMoney_lottery.js, tag=京东压岁钱抢百元卡, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
+20 8,12 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_newYearMoney.js, tag=京东压岁钱, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true
+0 0 9,12,16,20 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_newYearMoney_lottery.js, tag=京东压岁钱抢百元卡, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true
 
 
 ------------------------------------------

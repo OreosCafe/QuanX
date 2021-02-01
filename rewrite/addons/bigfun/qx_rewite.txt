@@ -1,0 +1,5 @@
+## 请添加此组件
+
+hostname = api.bigfun.cn
+
+^https:\/\/api\.bigfun\.cn\/webview\/iphone? url script-request-body https://raw.githubusercontent.com/age174/-/main/bigfun.js

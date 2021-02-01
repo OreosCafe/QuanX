@@ -1,0 +1,5 @@
+#这是获取cookie组件，请添加
+
+hostname = dkd-api.dysdk.com
+
+^http:\/\/dkd-api\.dysdk\.com\/user\/index url script-request-body https://raw.githubusercontent.com/age174/-/main/dkd.js

@@ -1,0 +1,10 @@
+{
+    "name": "age174",
+    "description": "公众号少年歌行pro整理，附加组件是获取cookie",
+    "task": [
+	     {
+            "config": "0 8 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/moji.js, tag=墨迹天气, img-url=https://raw.githubusercontent.com/Sunert/ProxyConfig/master/QuantumultX/Rules/Images/ICON/moji.png, enabled=true"
+            "addons": "https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/addons/bigfun/qx_rewite.txt, tag=bigfun_rewite, update-interval=-1, opt-parser=false, enabled=true"
+        }, 
+		]
+}

@@ -1,6 +1,6 @@
 {
     "name": "少年歌行全网合一",
-    "description": "添加时提示添加附加组件的一律添加，是重写",
+    "description": "添加时提示添加附加组件的一律添加，是重写，获得cookie就移除",
     "task": [
 	 {
 		  "config": "10 10 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_products_detail.js, tag=京喜工厂商品列表详情, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=true"

@@ -6,16 +6,16 @@
 
 ### 如果您是ios12用户无法使用仓库订阅功能，请复制下方代码，并粘贴到圈x配置文件的对应标签下：
 
-[rewrite_local]
-#获取bigfunCookie
-^https:\/\/api\.bigfun\.cn\/webview\/iphone? url script-request-body https://raw.githubusercontent.com/age174/-/main/bigfun.js
+[rewrite_local]<br>
+#获取bigfunCookie<br>
+^https:\/\/api\.bigfun\.cn\/webview\/iphone? url script-request-body https://raw.githubusercontent.com/age174/-/main/bigfun.js<br>
 
-[task_local]
-#bigfun
-5 1 * * * https://raw.githubusercontent.com/age174/-/main/bigfun.js, tag=bigfun签到, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z003.png, enabled=true
+[task_local]<br>
+#bigfun<br>
+5 1 * * * https://raw.githubusercontent.com/age174/-/main/bigfun.js, tag=bigfun签到, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z003.png, enabled=true<br>
 
-[MITM]
-hostname = api.bigfun.cn
+[MITM]<br>
+hostname = api.bigfun.cn<br>
 
 
 ------------------------------------
@@ -27,8 +27,8 @@ hostname = api.bigfun.cn
 
 ### 如果您是ios12用户无法使用仓库订阅功能，请复制下方代码，并粘贴到圈x配置文件的对应标签下：
 
-[task local]
-20 8,12 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_newYearMoney.js, tag=京东压岁钱, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true
+[task local]<br>
+20 8,12 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_newYearMoney.js, tag=京东压岁钱, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true<br>
 0 0 9,12,16,20 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_newYearMoney_lottery.js, tag=京东压岁钱抢百元卡, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true
 
 

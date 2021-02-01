@@ -1,3 +1,18 @@
+### 2021年2月1日，增加了京东压岁钱脚本，脚本已加入了lxk0301仓库和我的全网合一仓库，
+#### lxk0301仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/lxk0301.json
+#### 全网合一仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+仓库订阅的一键使用方法可参见群公告具体说明
+
+### 如果您是ios12用户无法使用仓库订阅功能，请复制下方代码，并粘贴到圈x配置文件的对应标签下：
+
+[task local]
+"20 8,12 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_newYearMoney.js, tag=京东压岁钱, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
+"0 0 9,12,16,20 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_newYearMoney_lottery.js, tag=京东压岁钱抢百元卡, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
+
+
+------------------------------------------
+
+
 ### 2021年1月30日，对懒人包的基础订阅包进行了更新（非自动脚本哦），订阅地址：
   https://raw.githubusercontent.com/sngxpro/QuanX/master/sngx2021.conf
 ### 主要更新内容有：
@@ -12,84 +27,6 @@ sngxpro@111.com  接受邮件中
 
 ------------------------------------
 
-### 2021年1月30日，更新了sunert仓库中的全部脚本，如中青玩儿法等，并解决了懒人包cookie重写中有2个sunert脚本显示红点的问题，全网合一仓库同步更新完成<br>
-
-可订阅[sunert仓库]，<br>
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/Sunert.json<br>
-或者直接订阅[全网合一仓库]<br>
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json<br>
-
-### 2021年1月30日, 重要更新！！全网合一任务包全部重新改写了格式，在task仓库中更新了组件功能。
-### 目前在task仓库中添加脚本时，会提示您是否添加附加组件，如果遇到提示，请选择添加，这个组件就是获取cookie用的。不使用该脚本后，随时移除组件即可。如图所示。
-
-<img src="https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/1301.jpg" width="40%">
-
-<img src="https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/1302.jpg" width="40%">
-
-
-### 只需首页长按风车按钮，点左下角的全部更新即可更新task订阅仓库。
-### 已添加到构造请求的旧脚本需要手动移除后重新在task添加，没有进行改动的脚本（sunert之外的）无需此操作。
-
----------------------------------------------
-
-
-
-#### 2021年1月28日 8:45，暂时修复了失效的lxk的脚本，请手动删除已添加在构造请求中的脚本，刷新订阅仓库后，重新添加新刷出来的即可
-
-
-#### 2021年1月27日 20:45 ，更新了whyour/hudun的脚本，修改了大量定时，并新增了赚京豆开团、半自动领豆等部分脚本<br>
-可订阅[hundun仓库]，<br>
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/hundun.json<br>
-或者直接订阅[全网合一仓库]<br>
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json<br>
-
---------------
-
-#### 2021年1月27日 17:45 ，更新了神仙书院答题脚本，<br>
-可订阅[i-chenzhe仓库](https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json)，<br>
-或者直接订阅[全网合一仓库](https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json)。<br>
-
----------------------
-#### 2021年1月24日 17:45 ，将懒人包自带赠送节点修改为订阅模式，可以由我在远程维护了。原来的本地节点信息随之删除
-
-#### 如果您只想使用赠送节点，不想使用懒人包，可关注我的订阅节点仓库https://github.com/sngxpro/proxies
-
-#### 2021年1月23日 8:45 ，更新了10个京东相关脚本(如京东家庭号、ar打年兽等)，<br>可订阅[lxk0301仓库](https://raw.githubusercontent.com/sngxpro/QuanX/master/task/lxk0301.json)，<br>或者直接订阅[全网合一仓库](https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json)。<br>
-
-
-#### 2021年1月21日  15:45 ，进行了较大更新，主要内容如下。<br>
-
-1、修复了懒人包中赠送节点失效的问题，且数量增加到9个<br>
-注意：重新下载懒人包将会覆盖掉您的圈x配置，如果不想覆盖，请在浏览器中打开懒人包地址，手动复制其中的节点信息并粘贴到自己的配置文件。<br>
-
-<img src="https://raw.githubusercontent.com/sngxpro/QuanX/master/node.jpg" width="30%">
-
-
-2、仓库中新建了一个策略组图标文件夹，未来将ps一些有趣的策略组图标放进去，也欢迎拿去使用。目前懒人包中的策略组图标更换为【王者荣耀系列】<br>
-
-<img src="https://raw.githubusercontent.com/sngxpro/QuanX/master/icon.jpg" width="40%">
-
-3、常规脚本更新<br>
-
-----------------------
-
-### 2021年1月19日  22:45 ，新增了hundun（混沌）的脚本仓库，相关重写已随之更新。<br>
-
-脚本仓库订阅地址请翻到文末获取。
----------
-2021年1月19日  8:20，新增了Jiang的自动获取并提交互助码（task）订阅，相关重写已随之更新。请在圈x设置中更新一次重写规则，然后订阅文末最后的Jiang仓库订阅即可（全网合一订阅中也已同步更新）<br>
-2021年1月19日  7:50，新增了adwttk的步步宝脚本（task）订阅，相关重写已随之更新。请在圈x设置中更新一次重写规则，然后订阅文末最后的adwttk仓库订阅即可（全网合一订阅中也已同步更新）<br>
-
----------
-
-## 应部分懒虫群友要求，新增1个全网所有脚本合一的task订阅（除sheylock的脚本外），目前包含245个脚本。订阅地址请下拉到文末或直接搜索“多网合一订阅”
----------
-
-
-## 重要说明：2021年1月对懒人包进行了重新整理更新，task等均改为订阅模式（老懒人包的时代还没有订阅task功能）<br>
-
-## 原来的旧懒人包依然保留可以继续使用，但内容有的已陈旧过时，以后不再更新<br>
- 
 ## 以下为新懒人包仓库使用说明<br>
 
 ---------

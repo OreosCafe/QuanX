@@ -1,6 +1,6 @@
 {
     "name": "Sunert",
-    "description": "公众号少年歌行pro整理",
+    "description": "公众号少年歌行pro提醒：点击后提示有添加组件的请添加，是获取cookie",
     "task": [
         {
             "config": "0 8 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/moji.js, tag=墨迹天气, img-url=https://raw.githubusercontent.com/Sunert/ProxyConfig/master/QuantumultX/Rules/Images/ICON/moji.png, enabled=true"

@@ -17,14 +17,20 @@ http://m.a8fdj.cn/Invite/promotion?id=775&spm=page_name.h5.pty-wxzcpv~std-65354&
 ⑥脚本已可正常运行。注意提现必须关注官方公众号手动提现。<br>
 ⑦防止黑号，兑换时间限制在10点到11点之间<br>
 
-[rewrite_local]<br>
-#返利网获取header<br>
-https:\/\/(huodong\.fanli\.com\/*||passport\.fanli\.com\/*||gw\.fanli\.com\/*) url script-request-header https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.js<br>   
-#返利网获取body<br>
-https:\/\/(huodong\.fanli\.com\/*||passport\.fanli\.com\/*||gw\.fanli\.com\/*) url script-request-body https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.js <br>  
+[rewrite_local]
 
-[task_local]<br>
-0 1-16 10 5,9,10,11,12 * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.js, tag=返利网, enabled=true<br>
+#返利网获取header
+
+https:\/\/(huodong\.fanli\.com\/*||passport\.fanli\.com\/*||gw\.fanli\.com\/*) url script-request-header https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.js
+
+#返利网获取body
+
+https:\/\/(huodong\.fanli\.com\/*||passport\.fanli\.com\/*||gw\.fanli\.com\/*) url script-request-body https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.js 
+
+
+[task_local]
+
+0 1-16 10 5,9,10,11,12 * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.js, tag=返利网, enabled=true
 
 hostname=huodong.fanli.com,passport.fanli.com,gw.fanli.com,
 
@@ -43,14 +49,21 @@ hostname=huodong.fanli.com,passport.fanli.com,gw.fanli.com,
 ③重新回到app，打开我的或者翻看视频，会再次提示你一次获取成功；<br>
 ④脚本已可正常运行。<br>
 
-[rewrite_local]<br>
-#笑谱获取header<br>
-#https:\/\/veishop\.iboxpay\.com\/* url script-request-header https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js<br>
-#笑谱获取更新TOKEN<br>
-https:\/\/veishop\.iboxpay\.com\/nf_gateway\/nf-user-auth-web\/ignore_tk\/veishop\/v1\/* url script-response-body https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js<br>
+[rewrite_local]
 
-[task_local]<br>
-0 9 * * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js, tag=笑谱, img-url=https://qxzy.top/rules/QuantumultX/img/xp.png, enabled=true<br>
+#笑谱获取header
+
+#https:\/\/veishop\.iboxpay\.com\/* url script-request-header https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js
+
+#笑谱获取更新TOKEN
+
+https:\/\/veishop\.iboxpay\.com\/nf_gateway\/nf-user-auth-web\/ignore_tk\/veishop\/v1\/* url script-response-body https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js
+
+
+[task_local]
+
+0 9 * * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js, tag=笑谱, img-url=https://qxzy.top/rules/QuantumultX/img/xp.png, enabled=true
+
 
 hostname=veishop.iboxpay.com,
 
@@ -68,10 +81,13 @@ hostname=veishop.iboxpay.com,
 
 #### 如果您是ios12用户无法使用仓库订阅功能，请复制下方代码，并粘贴到圈x配置文件的对应标签下：
 
-[task_local]<br>
-#京东新年压岁钱<br>
-10 10 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_newYearMoney.js,  img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, tag=京东新年压岁钱, enabled=true<br>
-#京东直播雨<br>
+[task_local
+
+#京东新年压岁钱
+
+10 10 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_newYearMoney.js,  img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, tag=京东新年压岁钱, enabled=true
+
+#京东直播雨
 0,1 19-21 3-5 2 * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_half_red_rain.js, tag=京东直播雨, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png,  enabled=true
 
 
@@ -86,16 +102,22 @@ app下载地址：http://dkd-api.dysdk.com/share.html?uid=13179965<br>
 
 #### 如果您是ios12用户无法使用仓库订阅功能，请复制下方代码，并粘贴到圈x配置文件的对应标签下：
 
-[task_local]<br>
-#多看点<br>
-10 * * * * https://raw.githubusercontent.com/age174/-/main/dkd.js, tag=多看点, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png, enabled=true<br>
+[task_local]
+#多看点
 
-[rewrite_local]<br>
-#获取多看点Cookie<br>
-^http:\/\/dkd-api\.dysdk\.com\/user\/index url script-request-body https://raw.githubusercontent.com/age174/-/main/dkd.js<br>
+10 * * * * https://raw.githubusercontent.com/age174/-/main/dkd.js, tag=多看点, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png, enabled=true
 
-[MITM]<br>
-hostname = dkd-api.dysdk.com<br>
+
+[rewrite_local]
+
+#获取多看点Cookie
+
+^http:\/\/dkd-api\.dysdk\.com\/user\/index url script-request-body https://raw.githubusercontent.com/age174/-/main/dkd.js
+
+
+[MITM]
+
+hostname = dkd-api.dysdk.com
 
 ----------------------------
 
@@ -107,16 +129,24 @@ hostname = dkd-api.dysdk.com<br>
 
 ### 如果您是ios12用户无法使用仓库订阅功能，请复制下方代码，并粘贴到圈x配置文件的对应标签下：
 
-[rewrite_local]<br>
-#获取bigfunCookie<br>
-^https:\/\/api\.bigfun\.cn\/webview\/iphone? url script-request-body https://raw.githubusercontent.com/age174/-/main/bigfun.js<br>
+[rewrite_local]
 
-[task_local]<br>
-#bigfun<br>
-5 1 * * * https://raw.githubusercontent.com/age174/-/main/bigfun.js, tag=bigfun签到, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z003.png, enabled=true<br>
+#获取bigfunCookie
 
-[MITM]<br>
-hostname = api.bigfun.cn<br>
+^https:\/\/api\.bigfun\.cn\/webview\/iphone? url script-request-body https://raw.githubusercontent.com/age174/-/main/bigfun.js
+
+
+[task_local]
+
+#bigfun
+
+5 1 * * * https://raw.githubusercontent.com/age174/-/main/bigfun.js, tag=bigfun签到, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z003.png, enabled=true
+
+
+[MITM]
+
+hostname = api.bigfun.cn
+
 
 
 

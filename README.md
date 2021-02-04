@@ -8,10 +8,10 @@
 
 ## 如果您是ios12用户无法使用仓库订阅功能，请复制下方代码，并粘贴到圈x配置文件的对应标签下：
 
-[task_local]
-#京东新年压岁钱
-10 10 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_newYearMoney.js,  img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, tag=京东新年压岁钱, enabled=true
-#京东直播雨
+[task_local]<br>
+#京东新年压岁钱<br>
+10 10 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_newYearMoney.js,  img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, tag=京东新年压岁钱, enabled=true<br>
+#京东直播雨<br>
 0,1 19-21 3-5 2 * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_half_red_rain.js, tag=京东直播雨, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png,  enabled=true
 
 
@@ -26,16 +26,16 @@ app下载地址：http://dkd-api.dysdk.com/share.html?uid=13179965<br>
 
 ### 如果您是ios12用户无法使用仓库订阅功能，请复制下方代码，并粘贴到圈x配置文件的对应标签下：
 
-[task_local]
-#多看点
-10 * * * * https://raw.githubusercontent.com/age174/-/main/dkd.js, tag=多看点, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png, enabled=true
+[task_local]<br>
+#多看点<br>
+10 * * * * https://raw.githubusercontent.com/age174/-/main/dkd.js, tag=多看点, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png, enabled=true<br>
 
-[rewrite_local]
-#获取多看点Cookie
-^http:\/\/dkd-api\.dysdk\.com\/user\/index url script-request-body https://raw.githubusercontent.com/age174/-/main/dkd.js
+[rewrite_local]<br>
+#获取多看点Cookie<br>
+^http:\/\/dkd-api\.dysdk\.com\/user\/index url script-request-body https://raw.githubusercontent.com/age174/-/main/dkd.js<br>
 
-[MITM]
-hostname = dkd-api.dysdk.com
+[MITM]<br>
+hostname = dkd-api.dysdk.com<br>
 
 ----------------------------
 

@@ -1,3 +1,22 @@
+
+### 2021年2月1日，增加了i-chenzhe大佬的 京东压岁钱 脚本和 京东直播红包雨脚本 ，您可订阅c-chenzhe单独订阅仓库，或直接订阅我的全网合一仓库
+
+#### i-chenzhe仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json
+#### 全网合一仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+#### 添加脚本时会提示添加附件组件，请添加，是获取cookie用的，获取cookie后回到仓库再点一下，选择移除组件，就不再获取cookie了
+仓库订阅的一键使用方法可参见群公告具体说明
+
+## 如果您是ios12用户无法使用仓库订阅功能，请复制下方代码，并粘贴到圈x配置文件的对应标签下：
+
+[task_local]
+#京东新年压岁钱
+10 10 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_newYearMoney.js,  img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, tag=京东新年压岁钱, enabled=true
+#京东直播雨
+0,1 19-21 3-5 2 * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_half_red_rain.js, tag=京东直播雨, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png,  enabled=true
+
+
+-------------------------------------------
+
 ### 2021年2月1日，增加了多看点app自动任务脚本，脚本已加入了age174仓库和我的全网合一仓库，
 app下载地址：http://dkd-api.dysdk.com/share.html?uid=13179965<br>
 #### lxk0301仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
@@ -39,22 +58,6 @@ hostname = dkd-api.dysdk.com
 [MITM]<br>
 hostname = api.bigfun.cn<br>
 
-
-------------------------------------
-
-### 2021年2月1日，增加了京东压岁钱脚本，脚本已加入了lxk0301仓库和我的全网合一仓库，
-#### lxk0301仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/lxk0301.json
-#### 全网合一仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
-仓库订阅的一键使用方法可参见群公告具体说明
-
-### 如果您是ios12用户无法使用仓库订阅功能，请复制下方代码，并粘贴到圈x配置文件的对应标签下：
-
-[task local]<br>
-20 8,12 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_newYearMoney.js, tag=京东压岁钱, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true<br>
-0 0 9,12,16,20 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_newYearMoney_lottery.js, tag=京东压岁钱抢百元卡, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true
-
-
-------------------------------------------
 
 
 ### 2021年1月30日，对懒人包的基础订阅包进行了更新（非自动脚本哦），订阅地址：

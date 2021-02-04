@@ -12,8 +12,8 @@ http://m.a8fdj.cn/Invite/promotion?id=775&spm=page_name.h5.pty-wxzcpv~std-65354&
 
 ②点击 首页--签到赚钱 获取flwheaderVal<br>
 ③在[rewrite_local]标签下的第一个https前面输入一个#，保存配置文件。<br>
-④回到返利网app，点击 首页--- 签到赚钱---- 视频任务，等待视频悬浮窗转圈一周后， 获取flwspbodyVal<br>
-⑤点击 首页----签到赚钱---- 火山热门视频， 获取flwqwbodyVal<br>
+④回到返利网app，点击 首页--- 签到赚钱---- 视频任务，完整看完一个视频广告 ，获取flwspbodyVal<br>
+⑤点击 首页----签到赚钱---- 火山热门视频，等待视频悬浮窗转圈一周后， 获取flwqwbodyVal<br>
 ⑥脚本已可正常运行。注意提现必须关注官方公众号手动提现。<br>
 ⑦防止黑号，兑换时间限制在10点到11点之间<br>
 

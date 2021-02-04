@@ -1,5 +1,32 @@
+## 2月4日，新增了子夜大佬的【笑谱自动化脚本】，请认真查看使用说明
 
-### 2021年2月1日，增加了i-chenzhe大佬的 京东压岁钱 脚本和 京东直播红包雨脚本 ，您可订阅c-chenzhe单独订阅仓库，或直接订阅我的全网合一仓库
+## 【笑谱自动化脚本】
+
+## 请将下方代码粘贴到圈x配置文件的对应位置，因子夜的脚本需要手动注释重写，故无法提供懒人一键订阅，请手动添加并注意下方使用说明
+
+## 使用说明（必须看，少看一行你都有可能使用不了！）
+①添加下方代码完成后，打开圈x开关，再打开笑谱app并登陆，会提示你一次获取成功；<br>
+②回到圈x，打开配置文件，将下方[rewrite_local]标签下，第一个https签名的#删除，并保存配置文件；<br>
+③重新回到app，打开我的或者翻看视频，会再次提示你一次获取成功；<br>
+④脚本已可正常运行。<br>
+
+[rewrite_local]<br>
+#笑谱获取header<br>
+#https:\/\/veishop\.iboxpay\.com\/* url script-request-header https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js<br>
+#笑谱获取更新TOKEN<br>
+https:\/\/veishop\.iboxpay\.com\/nf_gateway\/nf-user-auth-web\/ignore_tk\/veishop\/v1\/* url script-response-body https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js<br>
+
+[task_local]<br>
+0 9 * * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js, tag=笑谱, img-url=https://qxzy.top/rules/QuantumultX/img/xp.png, enabled=true<br>
+
+hostname=veishop.iboxpay.com,
+
+
+
+
+-------------------------------------------------------
+
+### 2021年2月4日，增加了i-chenzhe大佬的 京东压岁钱 脚本和 京东直播红包雨脚本 ，您可订阅c-chenzhe单独订阅仓库，或直接订阅我的全网合一仓库
 
 #### i-chenzhe仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json
 #### 全网合一仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json

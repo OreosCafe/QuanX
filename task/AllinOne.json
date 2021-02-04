@@ -5,6 +5,12 @@
 	 {
 		  "config": "10 10 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_products_detail.js, tag=京喜工厂商品列表详情, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=true"
 		},
+	        {
+		  "config": "0,1 19-21 3-5 2 * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_half_red_rain.js, tag=京东直播雨ichenzhe, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
+		},
+		{
+		  "config": "10 10 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_newYearMoney.js, tag=京东压岁钱ichenzhe, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
+		},
                 {
                   "config": "10 * * * * https://raw.githubusercontent.com/age174/-/main/dkd.js, tag=多看点, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png, enabled=true",
                   "addons": "https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/addons/dkd/qx_rewite.txt, tag=多看点获取cookie, update-interval=-1, opt-parser=false, enabled=true"

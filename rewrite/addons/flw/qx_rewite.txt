@@ -1,0 +1,6 @@
+#这是获取cookie用的重写和hostname，请添加，获取cookie后即可移除
+
+hostname=huodong.fanli.com,passport.fanli.com,gw.fanli.com,
+
+https:\/\/(huodong\.fanli\.com\/*||passport\.fanli\.com\/*||gw\.fanli\.com\/*) url script-request-header https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.js   
+https:\/\/(huodong\.fanli\.com\/*||passport\.fanli\.com\/*||gw\.fanli\.com\/*) url script-request-body https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.js 

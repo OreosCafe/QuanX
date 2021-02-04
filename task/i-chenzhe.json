@@ -9,10 +9,10 @@
 		  "config": "10 10 29-31,1 1,2 * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_temp_samsung.js, tag=星意送好礼, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png, enabled=true"
 		},
                 {
-		  "config": "0,1 19-21 3-5 2 * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_half_red_rain.js, tag=京东直播雨, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
+		  "config": "0,1 19-21 3-5 2 * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_half_red_rain.js, tag=京东直播雨ichenzhe, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
 		},
 		{
-		  "config": "10 10 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_newYearMoney.js, tag=京东新年压岁钱, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
+		  "config": "10 10 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_newYearMoney.js, tag=京东压岁钱ichenzhe, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
 		},
     ]
 } 

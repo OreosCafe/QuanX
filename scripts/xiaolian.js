@@ -3,7 +3,7 @@
 ==========Quantumult X==========
 [task_local]
 
-0 0 * * * https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/xiaolian.js, tag=京东新年压岁钱, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true
+0 0 * * * https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/xiaolian.js, tag=笑脸cracked, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true
 
  */
 const $ = new Env('新年压岁钱');

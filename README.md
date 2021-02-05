@@ -1,3 +1,40 @@
+##  公众号少年歌行pro：2月4日，新增了子夜大佬的【返利网自动化脚本】，请认真查看使用说明
+
+#### 【返利网自动化脚本】
+
+#### 请将下方代码粘贴到圈x配置文件的对应位置，因子夜的脚本需要手动注释重写，故无法提供懒人一键订阅，请手动添加并注意下方使用说明
+
+#### 使用说明（必须看，少看一行你都有可能使用不了！）
+
+①打开圈x开关后，进入返利网，点击 我的 获取flwurlVal。返利网地址：<br>
+
+http://m.a8fdj.cn/Invite/promotion?id=775&spm=page_name.h5.pty-wxzcpv~std-65354&go=http%3A%2F%2Fhuodong.a8fdj.cn%2Fh5%2FInvitefriendsreward%2FregisterCallback%3Fuserid%3D373511081%26id%3D775%26sn%3D47ecab06aba43e015082e531d8214eb5<br>
+
+②点击 首页--签到赚钱 获取flwheaderVal<br>
+③在[rewrite_local]标签下的第一个https前面输入一个#，保存配置文件。<br>
+④回到返利网app，点击 首页--- 签到赚钱---- 视频任务，完整看完一个视频广告 ，获取flwspbodyVal<br>
+⑤点击 首页----签到赚钱---- 火山热门视频，等待视频悬浮窗转圈一周后， 获取flwqwbodyVal<br>
+⑥脚本已可正常运行。注意提现必须关注官方公众号手动提现。<br>
+⑦防止黑号，兑换时间限制在10点到11点之间<br>
+
+[rewrite_local]
+
+#返利网获取header
+
+https:\/\/(huodong\.fanli\.com\/*||passport\.fanli\.com\/*||gw\.fanli\.com\/*) url script-request-header https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.js
+
+#返利网获取body
+
+https:\/\/(huodong\.fanli\.com\/*||passport\.fanli\.com\/*||gw\.fanli\.com\/*) url script-request-body https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.js 
+
+
+[task_local]
+
+0 1-16 10 5,9,10,11,12 * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.js, tag=返利网, enabled=true
+
+hostname=huodong.fanli.com,passport.fanli.com,gw.fanli.com,
+
+-------------------------------------
 
 ##  公众号少年歌行pro：2月4日，新增了子夜大佬的【笑谱自动化脚本】，请认真查看使用说明
 

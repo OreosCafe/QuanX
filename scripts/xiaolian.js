@@ -1,19 +1,10 @@
 /*
-京东新年压岁钱
-活动入口：首页搜索栏-压岁钱直达
-脚本更新地址：https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_newYearMoney.js
-脚本兼容: Quantumult X, Surge, Loon, JSBox, Node.js
+
 ==========Quantumult X==========
 [task_local]
-#京东新年压岁钱
-0 0 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_newYearMoney.js, tag=京东新年压岁钱, enabled=true
-=======Loon========
-[Script]
-cron "0 0 * * *" script-path=https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_newYearMoney.js,tag=京东新年压岁钱
-========Surge==========
-京东新年压岁钱 = type=cron,cronexp="0 0 * * *",wake-system=1,timeout=620,script-path=https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_newYearMoney.js
-=======小火箭=====
-京东新年压岁钱 = type=cron,script-path=https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_newYearMoney.js, cronexpr="0 0 * * *", timeout=200, enable=true
+
+0 0 * * * https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/xiaolian.js, tag=京东新年压岁钱, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true
+
  */
 const $ = new Env('新年压岁钱');
 //Node.js用户请在jdCookie.js处填写京东ck;

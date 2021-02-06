@@ -99,7 +99,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
   
   6.注意：第一次点击上一步的好，有可能不出现我们粘贴进去的新仓库，而是出现一个叫sample的空仓库，这是圈x的示例功能，请重复操作一遍即可
   
-  ### （三）可用仓库订阅地址对照表【目前共25个】
+  ### （三）可用仓库订阅地址对照表【目前共25个，其中全网合一仓库包含所有仓库内容】
   
 ❤ 【NobyDa的仓库订阅地址】
 

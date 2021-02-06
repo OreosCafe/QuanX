@@ -2,10 +2,7 @@
     "name": "i-chenzhe",
     "description": "公众号少年歌行pro整理",
     "task": [
-	 {
-		  "config": "20 8 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_dati.js, tag=京东神仙书院答题, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
-		},
-	        {
+	   {
 		  "config": "10 10 29-31,1 1,2 * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_temp_samsung.js, tag=星意送好礼, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png, enabled=true"
 		},
                 {

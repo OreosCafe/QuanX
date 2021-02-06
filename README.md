@@ -52,168 +52,9 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
 
 
 
--------------------
+---------------------------------
 
-##  公众号少年歌行pro：2月4日，新增了子夜大佬的【返利网自动化脚本】，请认真查看使用说明
-
-#### 【返利网自动化脚本】
-
-#### 请将下方代码粘贴到圈x配置文件的对应位置，因子夜的脚本需要手动注释重写，故无法提供懒人一键订阅，请手动添加并注意下方使用说明
-
-#### 使用说明（必须看，少看一行你都有可能使用不了！）
-
-①打开圈x开关后，进入返利网，点击 我的 获取flwurlVal。返利网地址：<br>
-
-http://m.a8fdj.cn/Invite/promotion?id=775&spm=page_name.h5.pty-wxzcpv~std-65354&go=http%3A%2F%2Fhuodong.a8fdj.cn%2Fh5%2FInvitefriendsreward%2FregisterCallback%3Fuserid%3D373511081%26id%3D775%26sn%3D47ecab06aba43e015082e531d8214eb5<br>
-
-②点击 首页--签到赚钱 获取flwheaderVal<br>
-③在[rewrite_local]标签下的第一个https前面输入一个#，保存配置文件。<br>
-④回到返利网app，点击 首页--- 签到赚钱---- 视频任务，完整看完一个视频广告 ，获取flwspbodyVal<br>
-⑤点击 首页----签到赚钱---- 火山热门视频，等待视频悬浮窗转圈一周后， 获取flwqwbodyVal<br>
-⑥脚本已可正常运行。注意提现必须关注官方公众号手动提现。<br>
-⑦防止黑号，兑换时间限制在10点到11点之间<br>
-
-[rewrite_local]
-
-#返利网获取header
-
-https:\/\/(huodong\.fanli\.com\/*||passport\.fanli\.com\/*||gw\.fanli\.com\/*) url script-request-header https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.js
-
-#返利网获取body
-
-https:\/\/(huodong\.fanli\.com\/*||passport\.fanli\.com\/*||gw\.fanli\.com\/*) url script-request-body https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.js 
-
-
-[task_local]
-
-0 1-16 10 5,9,10,11,12 * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.js, tag=返利网, enabled=true
-
-hostname=huodong.fanli.com,passport.fanli.com,gw.fanli.com,
-
--------------------------------------
-
-##  公众号少年歌行pro：2月4日，新增了子夜大佬的【笑谱自动化脚本】，请认真查看使用说明
-
-#### 【笑谱自动化脚本】
-
-#### 请将下方代码粘贴到圈x配置文件的对应位置，因子夜的脚本需要手动注释重写，故无法提供懒人一键订阅，请手动添加并注意下方使用说明
-
-#### 使用说明（必须看，少看一行你都有可能使用不了！）
-①添加下方代码完成后，打开圈x开关，再打开笑谱app并登陆，会提示你一次获取成功；<br>
-②回到圈x，打开配置文件，将下方[rewrite_local]标签下，第一个https签名的#删除，并保存配置文件；<br>
-③重新回到app，打开我的或者翻看视频，会再次提示你一次获取成功；<br>
-④脚本已可正常运行。<br>
-
-[rewrite_local]
-
-#笑谱获取header
-
-#https:\/\/veishop\.iboxpay\.com\/* url script-request-header https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js
-
-#笑谱获取更新TOKEN
-
-https:\/\/veishop\.iboxpay\.com\/nf_gateway\/nf-user-auth-web\/ignore_tk\/veishop\/v1\/* url script-response-body https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js
-
-
-[task_local]
-
-0 9 * * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js, tag=笑谱, img-url=https://qxzy.top/rules/QuantumultX/img/xp.png, enabled=true
-
-
-hostname=veishop.iboxpay.com,
-
-
-
-
--------------------------------------------------------
-
-### 2021年2月4日，增加了i-chenzhe大佬的 京东压岁钱 脚本和 京东直播红包雨脚本 ，您可订阅c-chenzhe单独订阅仓库，或直接订阅我的全网合一仓库
-
-#### i-chenzhe仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json
-#### 全网合一仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
-#### 添加脚本时会提示添加附件组件，请添加，是获取cookie用的，获取cookie后回到仓库再点一下，选择移除组件，就不再获取cookie了
-仓库订阅的一键使用方法可参见群公告具体说明
-
-#### 如果您是ios12用户无法使用仓库订阅功能，请复制下方代码，并粘贴到圈x配置文件的对应标签下：
-
-[task_local
-
-#京东新年压岁钱
-
-10 10 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_newYearMoney.js,  img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, tag=京东新年压岁钱, enabled=true
-
-#京东直播雨
-0,1 19-21 3-5 2 * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_half_red_rain.js, tag=京东直播雨, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png,  enabled=true
-
-
--------------------------------------------
-
-### 2021年2月1日，增加了多看点app自动任务脚本，脚本已加入了age174仓库和我的全网合一仓库，
-app下载地址：http://dkd-api.dysdk.com/share.html?uid=13179965<br>
-#### lxk0301仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
-#### 全网合一仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
-#### 添加脚本时会提示添加附件组件，请添加，是获取cookie用的，获取cookie后回到仓库再点一下，选择移除组件，就不再获取cookie了
-仓库订阅的一键使用方法可参见群公告具体说明
-
-#### 如果您是ios12用户无法使用仓库订阅功能，请复制下方代码，并粘贴到圈x配置文件的对应标签下：
-
-[task_local]
-#多看点
-
-10 * * * * https://raw.githubusercontent.com/age174/-/main/dkd.js, tag=多看点, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png, enabled=true
-
-
-[rewrite_local]
-
-#获取多看点Cookie
-
-^http:\/\/dkd-api\.dysdk\.com\/user\/index url script-request-body https://raw.githubusercontent.com/age174/-/main/dkd.js
-
-
-[MITM]
-
-hostname = dkd-api.dysdk.com
-
-----------------------------
-
-### 2021年2月1日，增加了bigfun连续签到脚本，脚本已加入了age174仓库和我的全网合一仓库，
-#### lxk0301仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
-#### 全网合一仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
-#### 添加脚本时会提示添加附件组件，请添加，是获取cookie用的，获取cookie后回到仓库再点一下，选择移除组件，就不再获取cookie了
-仓库订阅的一键使用方法可参见群公告具体说明
-
-### 如果您是ios12用户无法使用仓库订阅功能，请复制下方代码，并粘贴到圈x配置文件的对应标签下：
-
-[rewrite_local]
-
-#获取bigfunCookie
-
-^https:\/\/api\.bigfun\.cn\/webview\/iphone? url script-request-body https://raw.githubusercontent.com/age174/-/main/bigfun.js
-
-
-[task_local]
-
-#bigfun
-
-5 1 * * * https://raw.githubusercontent.com/age174/-/main/bigfun.js, tag=bigfun签到, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z003.png, enabled=true
-
-
-[MITM]
-
-hostname = api.bigfun.cn
-
-
-
-
-### 2021年1月30日，对懒人包的基础订阅包进行了更新（非自动脚本哦），订阅地址：
-  https://raw.githubusercontent.com/sngxpro/QuanX/master/sngx2021.conf
-### 主要更新内容有：
-### 1、增加了网易云解锁灰色功能,按配置的策略和对应节点，白色风车和蓝色风车下可以解锁网易云灰色歌曲。
-### 2、修复了抖音去广告和去水印脚本造成的黑屏问题，目前去广告和去水印都正常了。
-### 3、最近在外开会，脚本不太有时间掌握新动向，如果您有新脚本，请群内联系我。
-### 4、开会间隙更新，如有bug，非常正常，烦请通知我修改。
-
-sngxpro@111.com  接受邮件中
+### 更多历史更新内容，请翻阅最本页面最底部
 
 
 
@@ -518,6 +359,174 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
  
    ☆【@58xinian的仓库】
  https://github.com/58xinian/icon
+ 
+ 
+ --------------------------------
+ 
+ ### 下面是历史更新列表
+ 
+ -------------------
+
+##  公众号少年歌行pro：2月4日，新增了子夜大佬的【返利网自动化脚本】，请认真查看使用说明
+
+#### 【返利网自动化脚本】
+
+#### 请将下方代码粘贴到圈x配置文件的对应位置，因子夜的脚本需要手动注释重写，故无法提供懒人一键订阅，请手动添加并注意下方使用说明
+
+#### 使用说明（必须看，少看一行你都有可能使用不了！）
+
+①打开圈x开关后，进入返利网，点击 我的 获取flwurlVal。返利网地址：<br>
+
+http://m.a8fdj.cn/Invite/promotion?id=775&spm=page_name.h5.pty-wxzcpv~std-65354&go=http%3A%2F%2Fhuodong.a8fdj.cn%2Fh5%2FInvitefriendsreward%2FregisterCallback%3Fuserid%3D373511081%26id%3D775%26sn%3D47ecab06aba43e015082e531d8214eb5<br>
+
+②点击 首页--签到赚钱 获取flwheaderVal<br>
+③在[rewrite_local]标签下的第一个https前面输入一个#，保存配置文件。<br>
+④回到返利网app，点击 首页--- 签到赚钱---- 视频任务，完整看完一个视频广告 ，获取flwspbodyVal<br>
+⑤点击 首页----签到赚钱---- 火山热门视频，等待视频悬浮窗转圈一周后， 获取flwqwbodyVal<br>
+⑥脚本已可正常运行。注意提现必须关注官方公众号手动提现。<br>
+⑦防止黑号，兑换时间限制在10点到11点之间<br>
+
+[rewrite_local]
+
+#返利网获取header
+
+https:\/\/(huodong\.fanli\.com\/*||passport\.fanli\.com\/*||gw\.fanli\.com\/*) url script-request-header https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.js
+
+#返利网获取body
+
+https:\/\/(huodong\.fanli\.com\/*||passport\.fanli\.com\/*||gw\.fanli\.com\/*) url script-request-body https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.js 
+
+
+[task_local]
+
+0 1-16 10 5,9,10,11,12 * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.js, tag=返利网, enabled=true
+
+hostname=huodong.fanli.com,passport.fanli.com,gw.fanli.com,
+
+-------------------------------------
+
+##  公众号少年歌行pro：2月4日，新增了子夜大佬的【笑谱自动化脚本】，请认真查看使用说明
+
+#### 【笑谱自动化脚本】
+
+#### 请将下方代码粘贴到圈x配置文件的对应位置，因子夜的脚本需要手动注释重写，故无法提供懒人一键订阅，请手动添加并注意下方使用说明
+
+#### 使用说明（必须看，少看一行你都有可能使用不了！）
+①添加下方代码完成后，打开圈x开关，再打开笑谱app并登陆，会提示你一次获取成功；<br>
+②回到圈x，打开配置文件，将下方[rewrite_local]标签下，第一个https签名的#删除，并保存配置文件；<br>
+③重新回到app，打开我的或者翻看视频，会再次提示你一次获取成功；<br>
+④脚本已可正常运行。<br>
+
+[rewrite_local]
+
+#笑谱获取header
+
+#https:\/\/veishop\.iboxpay\.com\/* url script-request-header https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js
+
+#笑谱获取更新TOKEN
+
+https:\/\/veishop\.iboxpay\.com\/nf_gateway\/nf-user-auth-web\/ignore_tk\/veishop\/v1\/* url script-response-body https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js
+
+
+[task_local]
+
+0 9 * * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js, tag=笑谱, img-url=https://qxzy.top/rules/QuantumultX/img/xp.png, enabled=true
+
+
+hostname=veishop.iboxpay.com,
+
+
+
+
+-------------------------------------------------------
+
+### 2021年2月4日，增加了i-chenzhe大佬的 京东压岁钱 脚本和 京东直播红包雨脚本 ，您可订阅c-chenzhe单独订阅仓库，或直接订阅我的全网合一仓库
+
+#### i-chenzhe仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json
+#### 全网合一仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+#### 添加脚本时会提示添加附件组件，请添加，是获取cookie用的，获取cookie后回到仓库再点一下，选择移除组件，就不再获取cookie了
+仓库订阅的一键使用方法可参见群公告具体说明
+
+#### 如果您是ios12用户无法使用仓库订阅功能，请复制下方代码，并粘贴到圈x配置文件的对应标签下：
+
+[task_local
+
+#京东新年压岁钱
+
+10 10 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_newYearMoney.js,  img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, tag=京东新年压岁钱, enabled=true
+
+#京东直播雨
+0,1 19-21 3-5 2 * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_half_red_rain.js, tag=京东直播雨, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png,  enabled=true
+
+
+-------------------------------------------
+
+### 2021年2月1日，增加了多看点app自动任务脚本，脚本已加入了age174仓库和我的全网合一仓库，
+app下载地址：http://dkd-api.dysdk.com/share.html?uid=13179965<br>
+#### lxk0301仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
+#### 全网合一仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+#### 添加脚本时会提示添加附件组件，请添加，是获取cookie用的，获取cookie后回到仓库再点一下，选择移除组件，就不再获取cookie了
+仓库订阅的一键使用方法可参见群公告具体说明
+
+#### 如果您是ios12用户无法使用仓库订阅功能，请复制下方代码，并粘贴到圈x配置文件的对应标签下：
+
+[task_local]
+#多看点
+
+10 * * * * https://raw.githubusercontent.com/age174/-/main/dkd.js, tag=多看点, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png, enabled=true
+
+
+[rewrite_local]
+
+#获取多看点Cookie
+
+^http:\/\/dkd-api\.dysdk\.com\/user\/index url script-request-body https://raw.githubusercontent.com/age174/-/main/dkd.js
+
+
+[MITM]
+
+hostname = dkd-api.dysdk.com
+
+----------------------------
+
+### 2021年2月1日，增加了bigfun连续签到脚本，脚本已加入了age174仓库和我的全网合一仓库，
+#### lxk0301仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
+#### 全网合一仓库订阅地址：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+#### 添加脚本时会提示添加附件组件，请添加，是获取cookie用的，获取cookie后回到仓库再点一下，选择移除组件，就不再获取cookie了
+仓库订阅的一键使用方法可参见群公告具体说明
+
+### 如果您是ios12用户无法使用仓库订阅功能，请复制下方代码，并粘贴到圈x配置文件的对应标签下：
+
+[rewrite_local]
+
+#获取bigfunCookie
+
+^https:\/\/api\.bigfun\.cn\/webview\/iphone? url script-request-body https://raw.githubusercontent.com/age174/-/main/bigfun.js
+
+
+[task_local]
+
+#bigfun
+
+5 1 * * * https://raw.githubusercontent.com/age174/-/main/bigfun.js, tag=bigfun签到, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z003.png, enabled=true
+
+
+[MITM]
+
+hostname = api.bigfun.cn
+
+
+
+
+### 2021年1月30日，对懒人包的基础订阅包进行了更新（非自动脚本哦），订阅地址：
+  https://raw.githubusercontent.com/sngxpro/QuanX/master/sngx2021.conf
+### 主要更新内容有：
+### 1、增加了网易云解锁灰色功能,按配置的策略和对应节点，白色风车和蓝色风车下可以解锁网易云灰色歌曲。
+### 2、修复了抖音去广告和去水印脚本造成的黑屏问题，目前去广告和去水印都正常了。
+### 3、最近在外开会，脚本不太有时间掌握新动向，如果您有新脚本，请群内联系我。
+### 4、开会间隙更新，如有bug，非常正常，烦请通知我修改。
+
+sngxpro@111.com  接受邮件中
  
   
   

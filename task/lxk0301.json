@@ -2,7 +2,6 @@
   "name": "lxk0301",
   "description": "公众号少年歌行pro整理",
   "task": [
-   "20 7 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_super_box.js, tag=京东超级盒子, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     "11 * * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_superMarket.js, tag=东东超市, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxc.png, enabled=true",
     "2 9 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_bean_change.js, tag=京豆变动通知, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     "20 8,12,22 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_immortal.js, tag=京东神仙书院, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
@@ -20,7 +19,6 @@
     "10 7 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_crazy_joy.js, tag=crazyJoy任务, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_crazy_joy.png, enabled=true",
     "10 * * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_daily_egg.js, tag=天天提鹅, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdte.png, enabled=true",
     "10 * * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_dreamFactory.js, tag=京喜工厂, img-url=https://github.com/58xinian/icon/raw/master/jdgc.png, enabled=true",
-    "15 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_festival.js, tag=京东手机年终奖, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_festival2.jpg, enabled=true",
     "5 6-18/6 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_fruit.js, tag=东东农场, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdnc.png, enabled=true",
     "20 13 * * 6 https://gitee.com/lxk0301/jd_scripts/raw/master/jd_get_share_code.js, tag=获取互助码, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     "10 * * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_jdfactory.js, tag=东东工厂, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_factory.png, enabled=true",

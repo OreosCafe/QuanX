@@ -62,13 +62,9 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
 
 ## 以下为新懒人包仓库使用说明<br>
 
----------
 
-本懒人包赠送5个高速节点，并随订阅长期更新（不被封ip的话)
 
----------
-
-## 2021版懒人包使用方法（共2步）：<br>
+## 2021版懒人包使用方法（共2步）：
 
 ### （一）订阅基础懒人包配置
 

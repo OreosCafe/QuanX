@@ -1,8 +1,9 @@
+
 const $ = new Env('获取tg互助码');
 
 
 tgbotid="1625528356:AAGmIVdG8uX3rW0kAGtr_CwJQYzYr-vPpY0"
-//tg机器人的id.大概格式数字:字母这种，通过@BotFather获取
+//tg机器人的id
 
 
 
@@ -42,10 +43,10 @@ data = JSON.parse(data);
 if (data.ok===true&&data.result.length>0)
 {
 
-tg_bot(data,"ya")
+tg_bot(data,"ya","压岁钱")
 
 
-//tg_bot(data,"ya","压岁钱")
+//tg_bot(data,"year","压岁钱")
 }
 
      
@@ -85,7 +86,7 @@ JDjson.data=JDlist
 JDjson["2021"]="测试"
 JDjson["helpcode"]=codename+"互助码返回数据"
 
-console.log("测试")
+console.log("定时获取互助码数据")
 console.log(JSON.stringify((JDjson)))
 return JDjson
 }

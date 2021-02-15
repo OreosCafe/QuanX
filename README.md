@@ -22,9 +22,9 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json
 
 2、公众号少年歌行Pro整理的【ag174】 task仓库订阅地址，只包含上述脚本4-7：
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
 
-公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述1-7都有：
+3、公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述1-7都有：
 https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
      
 

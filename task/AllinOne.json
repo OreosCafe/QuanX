@@ -12,6 +12,25 @@
 		  "config": "5 0 10-15 2 * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_gjmh.js, tag=国际盲盒ichenzhe, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
 		},
 	        {
+                  "config": "10 * * * * https://raw.githubusercontent.com/age174/-/main/dkd.js, tag=多看点(查看脚本有用法), img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png, enabled=true",
+               },
+	       {
+        	 "config": "5 1 * * * https://raw.githubusercontent.com/age174/-/main/bigfun.js, tag=bigfun签到(查看脚本有用法), img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z003.png, enabled=true",
+         	"addons": "https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/addons/bigfun/qx_rewite.txt, tag=bigfun_rewite, update-interval=-1, opt-parser=false, enabled=true"
+               }, 
+       	       {
+           	 "config": "15 0 * * * https://raw.githubusercontent.com/age174/-/main/jqb.js, tag=金钱豹(查看脚本有用法),, img-url=https://ftp.bmp.ovh/imgs/2021/02/9e6d449acb9b6889.png, enabled=true",
+      	       }, 
+		{
+                "config": "15 50 */3 * * * https://raw.githubusercontent.com/age174/-/main/zmsp.js, tag=芝嫲视频(查看脚本有用法),, img-url= https://s3.ax1x.com/2021/02/06/yYzeWn.png, enabled=true",
+        	},     
+		{
+                "config": "15 10 * * * https://raw.githubusercontent.com/age174/-/main/ymz.js, tag=羊毛赚(查看脚本有用法),, img-url=https://s3.ax1x.com/2021/02/06/yYzYWR.png, enabled=true",
+       		 }, 
+		{
+      	       "config": "15 10 * * * https://raw.githubusercontent.com/age174/-/main/mhdsp.js, tag=陌嗨短视频(查看脚本有用法),, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/mhdsp.png, enabled=true",
+         	 },  
+	        {
 		  "config": "10 10 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_products_detail.js, tag=京喜工厂商品列表详情, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=true"
 		},
                 {
@@ -20,14 +39,6 @@
 		{
 		  "config": "11 * * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_superMarket.js, tag=东东超市, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxc.png, enabled=true"
 		},
-		{
-         "config": "10 * * * * https://raw.githubusercontent.com/age174/-/main/dkd.js, tag=多看点, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png, enabled=true",
-         "addons": "https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/addons/dkd/qx_rewite.txt, tag=多看点获取cookie, update-interval=-1, opt-parser=false, enabled=true"
-        }, 
-	    {
-         "config": "5 1 * * * https://raw.githubusercontent.com/age174/-/main/bigfun.js, tag=bigfun签到, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z003.png, enabled=true",
-         "addons": "https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/addons/bigfun/qx_rewite.txt, tag=bigfun_rewite, update-interval=-1, opt-parser=false, enabled=true"
-        }, 
 		{
 		 "config": "10 * * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_zjd_tuan.js, tag=京东赚京东开团, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png, enabled=true"
 		},

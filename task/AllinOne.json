@@ -2,7 +2,16 @@
     "name": "少年歌行全网合一",
     "description": "添加时提示添加附加组件的一律添加，是重写，获得cookie就移除",
     "task": [
-	    {
+	        {
+		  "config": "0,50 0,9,11,13,15,17,19,20,21,23 8-18 2 * https://raw.githubusercontent.com/i-chenzhe/qx/main/red_rain.js, tag=京东直播雨ichenzhe, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
+		},
+		{
+		  "config": "10 0 * * *   https://raw.githubusercontent.com/i-chenzhe/qx/master/jd_xmf.js, tag= 京东小魔方ichenzhe, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
+		},
+	        {
+		  "config": "5 0 10-15 2 * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_gjmh.js, tag=国际盲盒ichenzhe, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
+		},
+	        {
 		  "config": "10 10 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_products_detail.js, tag=京喜工厂商品列表详情, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=true"
 		},
                 {

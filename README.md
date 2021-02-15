@@ -1,3 +1,40 @@
+##  公众号少年歌行pro：2月15日，对部分【自动化脚本】和【重写规则】进行了重新同步增删，主要包括：
+
+#### （一）删除过期活动自动化脚本，含：
+      1、lxk的神仙书院系列脚本；
+      2、i-chenzhe和lxk的压岁钱系列脚本；
+      3、lxk0301的京东盲盒等过期脚本；
+     
+
+#### （二）新增部分脚本，已同步加入我整理的作者独立仓库和我的全网合一仓库
+     1、新增 i-chenzhe 的 京东直播雨 脚本，
+     2、新增 i-chenzhe 的 国际盲盒 脚本，
+     3、新增 i-chenzhe 的 小魔方 脚本，
+     4、新增 age174 的 羊毛赚 脚本（请查看脚本学习详细用法），
+     5、新增 age174 的 芝嫲视频 脚本（请查看脚本学习详细用法），
+     6、新增 age174 的 金钱豹 脚本（请查看脚本学习详细用法），
+     7、新增 age174 的 陌嗨短视频 脚本（请查看脚本学习详细用法），
+     
+##### 以上所述脚本可订阅以下仓库获得：
+     1、公众号少年歌行Pro整理的【i-chenzhe】 task仓库订阅地址，只包含上述脚本1-3：
+     
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json
+
+2、公众号少年歌行Pro整理的【ag174】 task仓库订阅地址，只包含上述脚本4-7：
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json
+
+公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述1-7都有：
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+     
+
+#### 有bug或其他事宜，请发送邮件到sngxpro@111.com
+
+
+
+
+--------------------------------------------
+
 ##  公众号少年歌行pro：2月7日，对部分【自动化脚本】和【重写规则】进行了重新同步增删，主要包括：
 
 #### （一）删除过期活动自动化脚本，含：

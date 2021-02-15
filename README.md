@@ -11,7 +11,7 @@
      https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
      
 #### 可引用以下地址作为脚本图标
-https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/ranlv.png
+https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/ranlv.jpg
 
 
 -------------------------------------------------------

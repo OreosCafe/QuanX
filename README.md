@@ -2,7 +2,7 @@
 
 #### 为这个脚本制作了一个图标（下图），美化了一下，可以自行引用
 
-<img src="https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/ranlv.png" width="20%">
+<img src="https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/ranlv.jpg" width="20%">
 
 #### 可订阅以下仓库获得脚本：
      1、公众号少年歌行Pro整理的【ZhiYi-N】 task仓库订阅地址，只包含上述脚本；

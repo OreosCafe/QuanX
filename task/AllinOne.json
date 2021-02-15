@@ -3,7 +3,7 @@
     "description": "添加时提示添加附加组件的一律添加，是重写，获得cookie就移除",
     "task": [
 	        {
-		  "config": "1,30 10-20 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/ranlv.js, tag=燃旅视频, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/ranlv.png, enabled=true"
+		  "config": "1,30 10-20 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/ranlv.js, tag=燃旅视频, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/ranlv.jpg, enabled=true"
 		},
 	        {
 		  "config": "0,50 0,9,11,13,15,17,19,20,21,23 8-18 2 * https://raw.githubusercontent.com/i-chenzhe/qx/main/red_rain.js, tag=京东直播雨ichenzhe, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"

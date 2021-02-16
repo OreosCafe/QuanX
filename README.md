@@ -6,7 +6,8 @@
 #### 可订阅以下仓库获得脚本：
      1、公众号少年歌行Pro整理的【age174】 task仓库订阅地址，只包含上述脚本；
      https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
-     2、公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本都有：
+     
+     2、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本都有：
      https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
      
 #### APP下载地址

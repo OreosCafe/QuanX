@@ -131,9 +131,6 @@
 		},
 		{
 		 "config": "10 0,20 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_necklace.js, tag=点点券, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
-		},
-		{
-		 "config": "1 7 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nh.js, tag=京东年货节, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
 		},		
 		{
 		 "config": "15 6-18/6 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_pet.js, tag=东东萌宠, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdmc.png, enabled=true"
@@ -163,9 +160,6 @@
 		 "config": "10 7 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_syj.js, tag=赚京豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png, enabled=true"
 		},
 		{
-		 "config": "55 23 * * 6 https://gitee.com/lxk0301/jd_scripts/raw/master/jd_unbind.js, tag=注销京东会员卡, img-url= https://raw.githubusercontent.com/58xinian/icon/master/jd_unbind.png, enabled=true"
-		},
-		{
 		 "config": "55 23 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_unsubscribe.js, tag=取关京东店铺商品, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
 		},
 		{
@@ -191,9 +185,6 @@
 		},
 		{
 		 "config": "0 10 0 * * * https://raw.githubusercontent.com/DD-D1/2020scripts/master/qczjSign.js, tag= 汽车之家极速版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/qczj.png, enabled=true"    
-		},
-		{
-		 "config": "0 10 0 * * * https://raw.githubusercontent.com/DD-D1/2020scripts/master/qkylck.js, tag=趣客有礼, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/qkyl.png, enabled=true"
 		},
 		{
 		 "config": "0 10 0 * * * https://raw.githubusercontent.com/XidNDD/2020scripts/master/sdcbxscSign.js, tag=水滴筹保险商城小程序, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/sdc.png, enabled=true"
@@ -709,9 +700,6 @@
 		 "config": "0 9,12,18 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.js, tag=京喜农场, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxnc.png, enabled=true"   
 		},
 		{
-		 "config": "30 * * * * https://raw.githubusercontent.com/MoPoQAQ/Script/main/Me/jx_cfd.js, tag=京喜财富岛, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true"   
-		},
-		{
 		 "config": "0 1,18 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory_component.js, tag=京喜工厂plus, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=true"  
 		},
 		{
@@ -725,12 +713,6 @@
 		},
 		{
 		 "config": "5 5 * * * https://raw.githubusercontent.com/799953468/Quantumult-X/master/Scripts/JD/jd_paopao.js, tag=泡泡大作战, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_paopao.png, enabled=true"  
-		},
-		{
-		 "config": "0 9 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/upgrade-product.js, tag=升级商品, img-url=https://raw.githubusercontent.com/Xirou/Script/master/jxc.PNG, enabled=true"  
-		},
-		{
-		 "config": "0 9 */2 * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/upgrade-shelf.js, tag=升级货架, img-url=https://raw.githubusercontent.com/Xirou/Script/master/jxc.PNG, enabled=true"   
 		},
 		{
 		 "config": "10 0 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_collectBlueCoin.js, tag=🐶京小超领蓝币, img-url=https://raw.githubusercontent.com/Xirou/Script/master/jxc.PNG, enabled=true"  

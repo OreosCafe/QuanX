@@ -13,6 +13,15 @@
 #### APP下载地址
 http://snail2020.com/feyu
 
+#### 注意
+以上订阅仓库中仅包含task订阅，必须要配合懒人包中的重写订阅才能使用，<br>
+如果您没有使用我的懒人包，仅想使用我的task仓库订阅，
+可以手动在自己圈x配置文件的[rewrite remote]标签下粘贴下面的远程获取cookie地址即可：
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+
+获取cookie后可禁用此重写哦~
+
 
 ----------------------------
 

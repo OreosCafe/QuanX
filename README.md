@@ -62,38 +62,6 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/ranlv.jpg
 
 -------------------------------------------------------
 
-##  公众号少年歌行pro：2月15日，对部分【自动化脚本】和【重写规则】进行了重新同步增删，主要包括：
-
-#### （一）删除过期活动自动化脚本，含：
-      1、lxk的神仙书院系列脚本；
-      2、i-chenzhe和lxk的压岁钱系列脚本；
-      3、lxk0301的京东盲盒等过期脚本；
-     
-
-#### （二）新增部分脚本，已同步加入我整理的作者独立仓库和我的全网合一仓库
-     1、新增 i-chenzhe 的 京东直播雨 脚本，
-     2、新增 i-chenzhe 的 国际盲盒 脚本，
-     3、新增 i-chenzhe 的 小魔方 脚本，
-     4、新增 age174 的 羊毛赚 脚本（请查看脚本学习详细用法），
-     5、新增 age174 的 芝嫲视频 脚本（请查看脚本学习详细用法），
-     6、新增 age174 的 金钱豹 脚本（请查看脚本学习详细用法），
-     7、新增 age174 的 陌嗨短视频 脚本（请查看脚本学习详细用法），
-     
-##### 以上所述脚本可订阅以下仓库获得：
-     1、公众号少年歌行Pro整理的【i-chenzhe】 task仓库订阅地址，只包含上述脚本1-3；
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json
-     2、公众号少年歌行Pro整理的【ag174】 task仓库订阅地址，只包含上述脚本4-7：
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
-     3、公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述1-7都有：
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
-     
-
-#### 有bug或其他事宜，请发送邮件到sngxpro@111.com
-
-
-
-
-
 ---------------------------------
 
 ### 更多历史更新内容，请翻阅最本页面最底部
@@ -141,7 +109,17 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/ranlv.jpg
   
   6.注意：第一次点击上一步的好，有可能不出现我们粘贴进去的新仓库，而是出现一个叫sample的空仓库，这是圈x的示例功能，请重复操作一遍即可
   
-  ### （三）可用仓库订阅地址对照表【目前共25个，其中全网合一仓库包含所有仓库内容】
+### （三）可用仓库订阅地址对照表【为每个脚本作者的脚本制作了独立订阅仓库，其中全网合一仓库包含出shylocks大佬外所有仓库内容】
+
+#### 强烈推荐，真懒人配置，一劳永逸
+
+❤ 【公众号少年歌行pro多网合一订阅地址，包含下方全部仓库的脚本】 
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+
+#### 各位脚本作者大佬的单独订阅仓库位置，方便大家知道该感谢谁
+#### 排名不分先后，仅按我收录的时间排序
   
 ❤ 【NobyDa的仓库订阅地址】
 
@@ -319,73 +297,35 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/hundun.json
 虎课|彩云天气|支付宝捐步数|倒数日|工厂商品|滴滴出行|京东赚赚|京喜农场|京喜财富岛|京喜工厂plus|金牌厂长|泡泡大作战|等等
 
 
-❤[i-chenzhe仓库]
+❤【i-chenzhe 仓库订阅地址】
+
 https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json
 
----------
-❤ 【公众号少年歌行pro多网合一订阅地址】 
+ 京东小魔方| 国际盲盒
+ 
+ --------------
+ 
+ ❤【ziye12 仓库订阅地址】
+ 
+ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/ziye.json
+ 
+ QQ阅读
+ 
+ -----------------
+ 
+ ❤【执意 仓库订阅地址】
+ 
+ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/ZhiYi-N.json
+ 
+ 燃旅视频
+ 
+ -----------------
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
-
-内含上文所有仓库的所有脚本，1月19日共计245个
-
---------- 
-  #### 致谢：本仓库使用的Task脚本，原作者仓库在下方：
-  
-  ☆【@NobyDa的仓库】
-   (https://github.com/NobyDa)
-
-    ☆【@chavyleung的仓库】  (https://github.com/chavyleung)
-
-  ☆【@Peng-YM的仓库】
-  (https://github.com/Peng-YM)
-
-    ☆【@zZPiglet的仓库】  (https://github.com/zZPiglet)
-
-  ☆【@Sunert的仓库】
-  (https://github.com/Sunert)
-  
-    ☆【@lowking的仓库】  (https://github.com/lowking)
-  
-  ☆【@songyangzz的仓库】
-  (https://github.com/songyangzz)
-    
-    ☆【@toulanboy的仓库】  (https://github.com/toulanboy)
-  
-  ☆【@lxk0301的仓库】
-  (https://gitee.com/lxk0301)
-  
-    ☆【@vinewx的仓库】  (https://ooxx.be/js/)
-  
-  ☆【@chouchoui的仓库】
-  (https://github.com/chouchoui)
-  
-    ☆【@evilbutcher的仓库】  (https://github.com/evilbutcher)  
-  
-  ☆【@id77的仓库】
-  (https://github.com/id77)   
-  
-    ☆【@dompling的仓库】  (https://github.com/dompling)  
-  
-  ☆【@iepngs的仓库】
-  (https://github.com/iepngs)  
-  
-    ☆【@barrym-chen的仓库】  (https://github.com/barrym-chen) 
-
-  ☆【@iisams的仓库】
-  (https://github.com/iisams)
-  
-    ☆【@congcong0806的仓库】  (https://github.com/congcong0806)
-  
-  ☆【@DD-D1的仓库】
-  (https://github.com/DD-D1) 
-  
-    ☆【@wangdelu2020的仓库】  (https://github.com/wangdelu2020) 
-  
-  ☆【@passerby-b的仓库】
-  (https://gitee.com/passerby-b) 
-  
-    ☆【@photonmang的仓库】  (https://github.com/photonmang) 
+ ❤【age174 仓库订阅地址】
+ 
+ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
+ 
+蜗牛吧|多看点|bigfun|金钱豹|芝嫲视频|羊毛赚|陌嗨短视频|
   
 
   
@@ -403,13 +343,40 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
  
  ### 下面是历史更新列表
  
- -------------------
- 
- 
 
 --------------------------------------------
 
-##  公众号少年歌行pro：2月7日，对部分【自动化脚本】和【重写规则】进行了重新同步增删，主要包括：
+##  公众号少年歌行pro：2月15日，对部分【自动化脚本】和【重写规则】进行了重新同步增删，主要包括：
+
+#### （一）删除过期活动自动化脚本，含：
+      1、lxk的神仙书院系列脚本；
+      2、i-chenzhe和lxk的压岁钱系列脚本；
+      3、lxk0301的京东盲盒等过期脚本；
+     
+
+#### （二）新增部分脚本，已同步加入我整理的作者独立仓库和我的全网合一仓库
+     1、新增 i-chenzhe 的 京东直播雨 脚本，
+     2、新增 i-chenzhe 的 国际盲盒 脚本，
+     3、新增 i-chenzhe 的 小魔方 脚本，
+     4、新增 age174 的 羊毛赚 脚本（请查看脚本学习详细用法），
+     5、新增 age174 的 芝嫲视频 脚本（请查看脚本学习详细用法），
+     6、新增 age174 的 金钱豹 脚本（请查看脚本学习详细用法），
+     7、新增 age174 的 陌嗨短视频 脚本（请查看脚本学习详细用法），
+     
+##### 以上所述脚本可订阅以下仓库获得：
+     1、公众号少年歌行Pro整理的【i-chenzhe】 task仓库订阅地址，只包含上述脚本1-3；
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json
+     2、公众号少年歌行Pro整理的【ag174】 task仓库订阅地址，只包含上述脚本4-7：
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
+     3、公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述1-7都有：
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+     
+
+#### 有bug或其他事宜，请发送邮件到sngxpro@111.com
+
+------------------------
+
+###  公众号少年歌行pro：2月7日，对部分【自动化脚本】和【重写规则】进行了重新同步增删，主要包括：
 
 #### （一）删除过期活动自动化脚本，含：
       1、i-chenzhe的神仙书院答题脚本；

@@ -73,7 +73,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf
 
   7.此时基础懒人包已订阅完成<br>
   
-  8.基础懒人包赠送了5个高速节点，可以拿来即用<br>
+  8.基础懒人包赠送了5个高速节点，可以拿来即用【失效中，待更新】<br>
 
 ### （二）订阅懒人包任务（task）配置
 

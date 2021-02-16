@@ -1,41 +1,35 @@
-###  公众号少年歌行pro：2月15日22:00，增加了原创的 电子请柬制作 - 婚礼邀请函制作必备APP 破解vip 规则 ：
 
-#### 已使用本懒人包的，首页刷新即可，规则已加入远程订阅重写，后台即可生效；
+###  公众号少年歌行pro：2月16日7:00，增加了age174的 蜗牛吧 脚本 ：
 
-#### 未使用本懒人包的，可以引用本懒人包的破解规则合集订阅，复制下面链接并粘贴到您圈x配置文件的[rewrite remote]标签下即可
+<img src="https://ftp.bmp.ovh/imgs/2021/02/221a7d94eaa0dddf.jpeg" width="20%">
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf
-
-#### 下载地址：appstore下载，https:\/\/apps.apple.com\/cn\/app\/%E7%94%B5%E5%AD%90%E8%AF%B7%E6%9F%AC%E5%88%B6%E4%BD%9C-%E5%A9%9A%E7%A4%BC%E9%82%80%E8%AF%B7%E5%87%BD%E5%88%B6%E4%BD%9C%E5%BF%85%E5%A4%87app\/id1354806829
-
-
-
-----------------------
-
-###  公众号少年歌行pro：2月15日21:30，增加了原创的 儿童睡前故事破解vip 规则 ：
-
-#### 已使用本懒人包的，首页刷新即可，规则已加入远程订阅重写，后台即可生效；
-
-#### 未使用本懒人包的，可以引用本懒人包的破解规则合集订阅，复制下面链接并粘贴到您圈x配置文件的[rewrite remote]标签下即可
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf
-
-#### 下载地址：appstore下载，https:\/\/apps.apple.com\/cn\/app\/%E5%84%BF%E7%AB%A5%E7%9D%A1%E5%89%8D%E6%95%85%E4%BA%8B-%E7%AB%A5%E5%B9%B4%E5%BF%85%E5%90%AC%E7%9A%84%E5%A5%BD%E6%95%85%E4%BA%8B\/id1458435477
+#### 可订阅以下仓库获得脚本：
+     1、公众号少年歌行Pro整理的【age174】 task仓库订阅地址，只包含上述脚本；
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
+     2、公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本都有：
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+     
+#### APP下载地址
+http://snail2020.com/feyu
 
 
+----------------------------
+
+###  公众号少年歌行pro：2月15日22:00，增加了
+1、电子请柬制作 - 婚礼邀请函制作必备APP 破解vip 规则 ；
+下载地址：appstore下载，https:\/\/apps.apple.com\/cn\/app\/%E7%94%B5%E5%AD%90%E8%AF%B7%E6%9F%AC%E5%88%B6%E4%BD%9C-%E5%A9%9A%E7%A4%BC%E9%82%80%E8%AF%B7%E5%87%BD%E5%88%B6%E4%BD%9C%E5%BF%85%E5%A4%87app\/id1354806829
+2、儿童睡前故事破解vip规则；
+下载地址：appstore下载，https:\/\/apps.apple.com\/cn\/app\/%E5%84%BF%E7%AB%A5%E7%9D%A1%E5%89%8D%E6%95%85%E4%BA%8B-%E7%AB%A5%E5%B9%B4%E5%BF%85%E5%90%AC%E7%9A%84%E5%A5%BD%E6%95%85%E4%BA%8B\/id1458435477
+3、咪哩视频破解 规则 ：
+下载地址：似乎tf测试名额满了
 
 
------------------
-
-###  公众号少年歌行pro：2月15日19:30，增加了ios黑科技的 咪哩视频破解 规则 ：
-
-#### 已使用本懒人包的，首页刷新即可，规则已加入远程订阅重写，后台即可生效；
-
-#### 未使用本懒人包的，可以引用本懒人包的破解规则合集订阅，复制下面链接并粘贴到您圈x配置文件的[rewrite remote]标签下即可
+#### 使用方法
+使用了本懒人包的，首页刷新即可，规则已加入远程订阅重写，后台即可生效；<br>
+未使用本懒人包的，可以引用本懒人包的破解规则合集订阅，复制下面链接并粘贴到您圈x配置文件的[rewrite remote]标签下即可
 
 https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf
 
-### 鸣谢：ios黑科技
 
 
 ------------------------------

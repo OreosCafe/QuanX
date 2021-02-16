@@ -3,6 +3,9 @@
     "description": "公众号少年歌行pro整理，附加组件是获取cookie",
     "task": [
         {
+            "config": "15,45 10-22 * * * https://raw.githubusercontent.com/age174/-/main/wnb.js, tag=蜗牛吧(查看脚本有用法), img-url=https://ftp.bmp.ovh/imgs/2021/02/221a7d94eaa0dddf.jpeg, enabled=true",
+         },
+	 {
             "config": "10 * * * * https://raw.githubusercontent.com/age174/-/main/dkd.js, tag=多看点(查看脚本有用法), img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png, enabled=true",
          },
 	 {

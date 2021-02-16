@@ -91,14 +91,14 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf
   
 ### （三）可用仓库订阅地址对照表【为每个脚本作者的脚本制作了独立订阅仓库，其中全网合一仓库包含出shylocks大佬外所有仓库内容】
 
-#### 强烈推荐，真懒人配置，一劳永逸
+#### 1、强烈推荐，真懒人配置，一劳永逸
 
 ❤ 【公众号少年歌行pro多网合一订阅地址，包含下方全部仓库的脚本】 
 
 https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
 
 
-#### 各位脚本作者大佬的单独订阅仓库位置，方便大家知道该感谢谁
+#### 2、各位脚本作者大佬的单独订阅仓库位置，方便大家知道该感谢谁
 #### 排名不分先后，仅按我收录的时间排序
   
 ❤ 【NobyDa的仓库订阅地址】

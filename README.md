@@ -27,9 +27,11 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 
 ###  公众号少年歌行pro：2月15日22:00，增加了
 1、电子请柬制作 - 婚礼邀请函制作必备APP 破解vip 规则 ；
-下载地址：appstore下载，https:\/\/apps.apple.com\/cn\/app\/%E7%94%B5%E5%AD%90%E8%AF%B7%E6%9F%AC%E5%88%B6%E4%BD%9C-%E5%A9%9A%E7%A4%BC%E9%82%80%E8%AF%B7%E5%87%BD%E5%88%B6%E4%BD%9C%E5%BF%85%E5%A4%87app\/id1354806829
+下载地址：appstore下载，https:\/\/apps.apple.com\/cn\/app\/%E7%94%B5%E5%AD%90%E8%AF%B7%E6%9F%AC%E5%88%B6%E4%BD%9C-%E5%A9%9A%E7%A4%BC%E9%82%80%E8%AF%B7%E5%87%BD%E5%88%B6%E4%BD%9C%E5%BF%85%E5%A4%87app\/id1354806829.
+
 2、儿童睡前故事破解vip规则；
 下载地址：appstore下载，https:\/\/apps.apple.com\/cn\/app\/%E5%84%BF%E7%AB%A5%E7%9D%A1%E5%89%8D%E6%95%85%E4%BA%8B-%E7%AB%A5%E5%B9%B4%E5%BF%85%E5%90%AC%E7%9A%84%E5%A5%BD%E6%95%85%E4%BA%8B\/id1458435477
+
 3、咪哩视频破解 规则 ：
 下载地址：似乎tf测试名额满了
 

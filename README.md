@@ -41,27 +41,6 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf
 
 
-
-------------------------------
-
-###  公众号少年歌行pro：2月15日15:00，增加了执意的 燃旅视频 脚本 ：
-
-#### 为这个脚本制作了一个图标（下图），美化了一下，可以自行引用
-
-<img src="https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/ranlv.jpg" width="20%">
-
-#### 可订阅以下仓库获得脚本：
-     1、公众号少年歌行Pro整理的【ZhiYi-N】 task仓库订阅地址，只包含上述脚本；
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/ZhiYi-N.json
-     2、公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本都有：
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
-     
-#### 可引用以下地址作为脚本图标
-https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/ranlv.jpg
-
-
--------------------------------------------------------
-
 ---------------------------------
 
 ### 更多历史更新内容，请翻阅最本页面最底部
@@ -71,7 +50,6 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/ranlv.jpg
 ------------------------------------
 
 ## 以下为新懒人包仓库使用说明<br>
-
 
 
 ## 2021版懒人包使用方法（共2步）：
@@ -339,12 +317,31 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json
  https://github.com/58xinian/icon
  
  
+ 
+ 
  --------------------------------
  
  ### 下面是历史更新列表
  
 
 --------------------------------------------
+
+
+###  公众号少年歌行pro：2月15日15:00，增加了执意的 燃旅视频 脚本 ：
+
+#### 为这个脚本制作了一个图标（下图），美化了一下，可以自行引用
+
+<img src="https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/ranlv.jpg" width="20%">
+
+#### 可订阅以下仓库获得脚本：
+     1、公众号少年歌行Pro整理的【ZhiYi-N】 task仓库订阅地址，只包含上述脚本；
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/ZhiYi-N.json
+     2、公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本都有：
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+     
+#### 可引用以下地址作为脚本图标
+https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/ranlv.jpg
+
 
 ##  公众号少年歌行pro：2月15日，对部分【自动化脚本】和【重写规则】进行了重新同步增删，主要包括：
 

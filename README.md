@@ -1,13 +1,11 @@
-###  公众号少年歌行pro：2月17日16:00，增加了以下脚本 ：
+###  公众号少年歌行pro：2月18日7:00，增加了以下脚本 ：
 
-1.age174的 刷福卡脚本（请点击查看脚本，查看详细的脚本用法说明）；
+1.age174的 闪挣 脚本（请点击查看脚本，查看详细的脚本用法说明）；
 
-2.age174的 宝石星球脚本（请点击查看脚本，查看详细的脚本用法说明）；
 
-#### 同步移除了部分显示404的重写规则
 
 #### 可订阅以下仓库获得脚本：
-     1、公众号少年歌行Pro整理的【ichenzhe】 task仓库订阅地址，只包含上述脚本；
+     1、公众号少年歌行Pro整理的【age174】 task仓库订阅地址，只包含上述脚本；
      https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
      
      2、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
@@ -24,35 +22,6 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 获取cookie后可禁用此重写哦~     
 
 
--------------------------------
-
-###  公众号少年歌行pro：2月17日15:00，增加了以下脚本 ：
-
-1、ichenzhe的 京东沃尔玛粉丝互动脚本；
-2、ichenzhe的 百变大咖秀脚本；
-
-#### 同步移除了部分显示404的重写规则
-
-#### 可订阅以下仓库获得脚本：
-     1、公众号少年歌行Pro整理的【ichenzhe】 task仓库订阅地址，只包含上述脚本；
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json
-     
-     2、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
-     
-#### 注意
-以上订阅仓库中仅包含task订阅，必须要配合京东cookie才能正确使用，<br>
-懒人包中的重写订阅中包含获取京东cookie的重写，<br>
-如果您没有使用我的懒人包，仅想使用我的task仓库订阅，
-可以手动在自己圈x配置文件的[rewrite remote]标签下粘贴下面的远程获取cookie地址即可：
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
-
-获取cookie后可禁用此重写哦~     
-     
-
-
---------------------------------
 
 
 
@@ -341,7 +310,36 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json
  ### 下面是历史更新列表
  
 
---------------------------------------------
+
+-------------------------------
+
+###  公众号少年歌行pro：2月17日15:00，增加了以下脚本 ：
+
+1、ichenzhe的 京东沃尔玛粉丝互动脚本；
+2、ichenzhe的 百变大咖秀脚本；
+
+#### 同步移除了部分显示404的重写规则
+
+#### 可订阅以下仓库获得脚本：
+     1、公众号少年歌行Pro整理的【age174】 task仓库订阅地址，只包含上述脚本；
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json
+     
+     2、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+     
+#### 注意
+以上订阅仓库中仅包含task订阅，必须要配合京东cookie才能正确使用，<br>
+懒人包中的重写订阅中包含获取京东cookie的重写，<br>
+如果您没有使用我的懒人包，仅想使用我的task仓库订阅，
+可以手动在自己圈x配置文件的[rewrite remote]标签下粘贴下面的远程获取cookie地址即可：
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+
+获取cookie后可禁用此重写哦~     
+     
+
+
+--------------------------------
 
 
 ###  公众号少年歌行pro：2月16日7:00，增加了age174的 蜗牛吧 脚本 ：

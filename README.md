@@ -1,46 +1,32 @@
+###  公众号少年歌行pro：2月17日15:00，增加了以下脚本 ：
+1、ichenzhe的 京东沃尔玛粉丝互动脚本
+2、ichenzhe的 百变大咖秀脚本
 
-###  公众号少年歌行pro：2月16日7:00，增加了age174的 蜗牛吧 脚本 ：
-
-<img src="https://ftp.bmp.ovh/imgs/2021/02/221a7d94eaa0dddf.jpeg" width="20%">
+#### 同步移除了部分显示404的重写规则
 
 #### 可订阅以下仓库获得脚本：
-     1、公众号少年歌行Pro整理的【age174】 task仓库订阅地址，只包含上述脚本；
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
+     1、公众号少年歌行Pro整理的【ichenzhe】 task仓库订阅地址，只包含上述脚本；
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json
      
-     2、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本都有：
+     2、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
      https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
      
-#### APP下载地址
-http://snail2020.com/feyu
-
 #### 注意
-以上订阅仓库中仅包含task订阅，必须要配合懒人包中的重写订阅才能使用，<br>
+以上订阅仓库中仅包含task订阅，必须要配合京东cookie才能正确使用，<br>
+懒人包中的重写订阅中包含获取京东cookie的重写，<br>
 如果您没有使用我的懒人包，仅想使用我的task仓库订阅，
 可以手动在自己圈x配置文件的[rewrite remote]标签下粘贴下面的远程获取cookie地址即可：
 
 https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 
-获取cookie后可禁用此重写哦~
+获取cookie后可禁用此重写哦~     
+     
 
 
-----------------------------
-
-###  公众号少年歌行pro：2月15日22:00，增加了
-1、电子请柬制作 - 婚礼邀请函制作必备APP 破解vip 规则 ；
-下载地址：appstore下载，https:\/\/apps.apple.com\/cn\/app\/%E7%94%B5%E5%AD%90%E8%AF%B7%E6%9F%AC%E5%88%B6%E4%BD%9C-%E5%A9%9A%E7%A4%BC%E9%82%80%E8%AF%B7%E5%87%BD%E5%88%B6%E4%BD%9C%E5%BF%85%E5%A4%87app\/id1354806829.
-
-2、儿童睡前故事破解vip规则；
-下载地址：appstore下载，https:\/\/apps.apple.com\/cn\/app\/%E5%84%BF%E7%AB%A5%E7%9D%A1%E5%89%8D%E6%95%85%E4%BA%8B-%E7%AB%A5%E5%B9%B4%E5%BF%85%E5%90%AC%E7%9A%84%E5%A5%BD%E6%95%85%E4%BA%8B\/id1458435477
-
-3、咪哩视频破解 规则 ：
-下载地址：似乎tf测试名额满了
+--------------------------------
 
 
-#### 使用方法
-使用了本懒人包的，首页刷新即可，规则已加入远程订阅重写，后台即可生效；<br>
-未使用本懒人包的，可以引用本懒人包的破解规则合集订阅，复制下面链接并粘贴到您圈x配置文件的[rewrite remote]标签下即可
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf
 
 
 ---------------------------------
@@ -327,6 +313,50 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json
  
 
 --------------------------------------------
+
+
+###  公众号少年歌行pro：2月16日7:00，增加了age174的 蜗牛吧 脚本 ：
+
+<img src="https://ftp.bmp.ovh/imgs/2021/02/221a7d94eaa0dddf.jpeg" width="20%">
+
+#### 可订阅以下仓库获得脚本：
+     1、公众号少年歌行Pro整理的【age174】 task仓库订阅地址，只包含上述脚本；
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
+     
+     2、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本都有：
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+     
+#### APP下载地址
+http://snail2020.com/feyu
+
+#### 注意
+以上订阅仓库中仅包含task订阅，必须要配合懒人包中的重写订阅才能使用，<br>
+如果您没有使用我的懒人包，仅想使用我的task仓库订阅，
+可以手动在自己圈x配置文件的[rewrite remote]标签下粘贴下面的远程获取cookie地址即可：
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+
+获取cookie后可禁用此重写哦~
+
+
+----------------------------
+
+###  公众号少年歌行pro：2月15日22:00，增加了
+1、电子请柬制作 - 婚礼邀请函制作必备APP 破解vip 规则 ；
+下载地址：appstore下载，https:\/\/apps.apple.com\/cn\/app\/%E7%94%B5%E5%AD%90%E8%AF%B7%E6%9F%AC%E5%88%B6%E4%BD%9C-%E5%A9%9A%E7%A4%BC%E9%82%80%E8%AF%B7%E5%87%BD%E5%88%B6%E4%BD%9C%E5%BF%85%E5%A4%87app\/id1354806829.
+
+2、儿童睡前故事破解vip规则；
+下载地址：appstore下载，https:\/\/apps.apple.com\/cn\/app\/%E5%84%BF%E7%AB%A5%E7%9D%A1%E5%89%8D%E6%95%85%E4%BA%8B-%E7%AB%A5%E5%B9%B4%E5%BF%85%E5%90%AC%E7%9A%84%E5%A5%BD%E6%95%85%E4%BA%8B\/id1458435477
+
+3、咪哩视频破解 规则 ：
+下载地址：似乎tf测试名额满了
+
+
+#### 使用方法
+使用了本懒人包的，首页刷新即可，规则已加入远程订阅重写，后台即可生效；<br>
+未使用本懒人包的，可以引用本懒人包的破解规则合集订阅，复制下面链接并粘贴到您圈x配置文件的[rewrite remote]标签下即可
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf
 
 
 ###  公众号少年歌行pro：2月15日15:00，增加了执意的 燃旅视频 脚本 ：

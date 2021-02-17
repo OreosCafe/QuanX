@@ -3,10 +3,10 @@
     "description": "添加时提示添加附加组件的一律添加，是重写，获得cookie就移除",
     "task": [
 	        {
-                "config": "1 * * * * https://raw.githubusercontent.com/age174/-/main/baosxq.js, tag=宝石星球(查看脚本有用法), enabled=true",
+                "config": "1 * * * * https://raw.githubusercontent.com/age174/-/main/baosxq.js, tag=宝石星球(查看脚本有用法), img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/mona.png, enabled=true",
                 },   
 	        {
-                "config": "1 * * * * https://raw.githubusercontent.com/age174/-/main/sfk.js, tag=刷福卡(查看脚本有用法), img-url=https://raw.githubusercontent.com/age174/-/main/38600B49-DE8D-40CE-9BD2-09825DE8FB95.jpeg, enabled=true",
+                "config": "1 * * * * https://raw.githubusercontent.com/age174/-/main/sfk.js, tag=刷福卡(查看脚本有用法), img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/mona.png, enabled=true",
                 },    
 	        {
 		  "config": "10 10,11 * * 2-5 https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_entertainment.js, tag=百变大咖秀, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"

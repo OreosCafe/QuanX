@@ -3,6 +3,9 @@
     "description": "公众号少年歌行pro整理，附加组件是获取cookie",
     "task": [
 	 {
+            "config": "*/10 * * * * https://raw.githubusercontent.com/age174/-/main/sz.js, tag=闪挣, img-url=https://ae01.alicdn.com/kf/U0eeed99dbe9a4cf99b73aaed7902a3a9z.jpg, enabled=true",
+         },  
+	 {
             "config": "1 * * * * https://raw.githubusercontent.com/age174/-/main/baosxq.js, tag=宝石星球(查看脚本有用法), img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/mona.png, enabled=true",
          },   
 	 {

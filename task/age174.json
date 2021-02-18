@@ -7,9 +7,6 @@
          },  
 	 {
             "config": "1 * * * * https://raw.githubusercontent.com/age174/-/main/baosxq.js, tag=宝石星球(查看脚本有用法), img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/mona.png, enabled=true",
-         },   
-	 {
-            "config": "1 * * * * https://raw.githubusercontent.com/age174/-/main/sfk.js, tag=刷福卡(查看脚本有用法), img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/mona.png, enabled=true",
          },
          {
             "config": "15,45 10-22 * * * https://raw.githubusercontent.com/age174/-/main/wnb.js, tag=蜗牛吧(查看脚本有用法), img-url=https://ftp.bmp.ovh/imgs/2021/02/221a7d94eaa0dddf.jpeg, enabled=true",

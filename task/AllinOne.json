@@ -2,6 +2,12 @@
     "name": "少年歌行全网合一",
     "description": "添加时提示添加附加组件的一律添加，是重写，获得cookie就移除",
     "task": [
+	       {
+		  "config": "3 10 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_fanslove.js, tag=粉丝互动,  img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
+		},
+	        {
+		  "config": "23 9,13,20 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_mlyjy.js, tag=美丽研究院（不支持圈x仅作新增提示）,  img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
+		},
 	        {
                 "config": "0 7 19-25 2 * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nzmh.js, tag=女装盲盒, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
                 }, 
@@ -14,20 +20,11 @@
 	        {
 		  "config": "10 10,11 * * 2-5 https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_entertainment.js, tag=百变大咖秀, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
 		},
-	        {
-		  "config": "3 10 17-28 2 * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_walmart.js, tag=沃尔玛互动（点查看脚本看说明）,  img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
-		},
-	        {
+	       {
                  "config": "15,45 10-22 * * * https://raw.githubusercontent.com/age174/-/main/wnb.js, tag=蜗牛吧(查看脚本有用法), img-url=https://ftp.bmp.ovh/imgs/2021/02/221a7d94eaa0dddf.jpeg, enabled=true",
                 },
 	        {
 		  "config": "1,30 10-20 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/ranlv.js, tag=燃旅视频, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/ranlv.jpg, enabled=true"
-		},	        
-		{
-		  "config": "10 0 * * *   https://raw.githubusercontent.com/i-chenzhe/qx/master/jd_xmf.js, tag= 京东小魔方ichenzhe, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
-		},
-	        {
-		  "config": "5 0 10-15 2 * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_gjmh.js, tag=国际盲盒ichenzhe, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
 		},
 	        {
                   "config": "10 * * * * https://raw.githubusercontent.com/age174/-/main/dkd.js, tag=多看点(查看脚本有用法), img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png, enabled=true",

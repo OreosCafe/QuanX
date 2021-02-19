@@ -1,3 +1,35 @@
+###  公众号少年歌行pro：2月20日7:00，增加了以下脚本 ：
+
+1.i-chenzhe的 粉丝互动 脚本；
+2.i-chenzhe的 美丽研究院脚本（不支持圈x，仅添加做提示之用，可使用nodejs挂载）
+
+### 2月20日7:00，移除以下脚本 ：
+1.i-chenzhe的 小魔方脚本；
+2.i-chenzhe的 沃尔玛互动脚本；
+3.i-chenzhe的 国际盲盒脚本。
+
+
+
+#### 可订阅以下仓库获得脚本：
+     1、公众号少年歌行Pro整理的【i-chenzhe】 task仓库订阅地址，只包含上述脚本；
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json
+     
+     2、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+     
+#### 注意
+以上订阅仓库中仅包含task订阅，必须要配合京东cookie才能正确使用，<br>
+懒人包中的重写订阅中包含所有获取cookie重写，使用本懒人包的无需其他操作，后台已生效，开启状态下去抓取京东cookie即可<br>
+如果您没有使用我的懒人包，仅想使用我的task仓库订阅，<br>
+可以手动在自己圈x配置文件的[rewrite remote]标签下粘贴下面的远程获取cookie地址即可：
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+
+获取cookie后可禁用此重写哦~     
+
+
+---------------------------------
+
 ###  公众号少年歌行pro：2月18日7:00，增加了以下脚本 ：
 
 1.age174的 闪挣 脚本（请点击查看脚本，查看详细的脚本用法说明）；

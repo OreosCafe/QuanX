@@ -3,6 +3,9 @@
     "description": "添加时提示添加附加组件的一律添加，是重写，获得cookie就移除",
     "task": [
 	       {
+                "config": "15 12,14,16,20 * * * https://raw.githubusercontent.com/age174/-/main/fqkk.js, tag=番茄看看, img-url=https://ftp.bmp.ovh/imgs/2021/02/f8306006536eb49c.jpeg, enabled=true",
+                }, 
+	        {
 		  "config": "3 10 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_fanslove.js, tag=粉丝互动,  img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
 		},
 	        {

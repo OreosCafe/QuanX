@@ -3,7 +3,7 @@
     "description": "添加时提示添加附加组件的一律添加，是重写，获得cookie就移除",
     "task": [
 	       {
-                "config": "15 12,14,16,20 * * * https://raw.githubusercontent.com/age174/-/main/fqkk.js, tag=番茄看看（点击查看脚本阅读详细用法）, img-url=https://ftp.bmp.ovh/imgs/2021/02/f8306006536eb49c.jpeg, enabled=true",
+                "config": "15 12,14,16,20 * * * https://raw.githubusercontent.com/age174/-/main/fqkk.js, tag=番茄看看（点击查看脚本阅读详细用法）, img-url=https://ftp.bmp.ovh/imgs/2021/02/f8306006536eb49c.jpeg, enabled=true"
                 }, 
 	        {
 		  "config": "3 10 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_fanslove.js, tag=粉丝互动,  img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
@@ -12,38 +12,38 @@
 		  "config": "23 9,13,20 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_mlyjy.js, tag=美丽研究院（不支持圈x仅作新增提示）,  img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
 		},
 	        {
-                "config": "*/10 * * * * https://raw.githubusercontent.com/age174/-/main/sz.js, tag=闪挣, img-url=https://ae01.alicdn.com/kf/U0eeed99dbe9a4cf99b73aaed7902a3a9z.jpg, enabled=true",
+                "config": "*/10 * * * * https://raw.githubusercontent.com/age174/-/main/sz.js, tag=闪挣, img-url=https://ae01.alicdn.com/kf/U0eeed99dbe9a4cf99b73aaed7902a3a9z.jpg, enabled=true"
                 }, 
 	        {
-                "config": "1 * * * * https://raw.githubusercontent.com/age174/-/main/baosxq.js, tag=宝石星球(查看脚本有用法), img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/mona.png, enabled=true",
+                "config": "1 * * * * https://raw.githubusercontent.com/age174/-/main/baosxq.js, tag=宝石星球(查看脚本有用法), img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/mona.png, enabled=true"
                 },  
 	        {
 		  "config": "10 10,11 * * 2-5 https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_entertainment.js, tag=百变大咖秀, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true"
 		},
 	       {
-                 "config": "15,45 10-22 * * * https://raw.githubusercontent.com/age174/-/main/wnb.js, tag=蜗牛吧(查看脚本有用法), img-url=https://ftp.bmp.ovh/imgs/2021/02/221a7d94eaa0dddf.jpeg, enabled=true",
+                 "config": "15,45 10-22 * * * https://raw.githubusercontent.com/age174/-/main/wnb.js, tag=蜗牛吧(查看脚本有用法), img-url=https://ftp.bmp.ovh/imgs/2021/02/221a7d94eaa0dddf.jpeg, enabled=true"
                 },
 	        {
 		  "config": "1,30 10-20 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/ranlv.js, tag=燃旅视频, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/ranlv.jpg, enabled=true"
 		},
 	        {
-                  "config": "10 * * * * https://raw.githubusercontent.com/age174/-/main/dkd.js, tag=多看点(查看脚本有用法), img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png, enabled=true",
+                  "config": "10 * * * * https://raw.githubusercontent.com/age174/-/main/dkd.js, tag=多看点(查看脚本有用法), img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png, enabled=true"
                },
 	       {
-        	 "config": "5 1 * * * https://raw.githubusercontent.com/age174/-/main/bigfun.js, tag=bigfun签到(查看脚本有用法), img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z003.png, enabled=true",
+        	 "config": "5 1 * * * https://raw.githubusercontent.com/age174/-/main/bigfun.js, tag=bigfun签到(查看脚本有用法), img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z003.png, enabled=true"
          	"addons": "https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/addons/bigfun/qx_rewite.txt, tag=bigfun_rewite, update-interval=-1, opt-parser=false, enabled=true"
                }, 
        	       {
-           	 "config": "15 0 * * * https://raw.githubusercontent.com/age174/-/main/jqb.js, tag=金钱豹(查看脚本有用法),, img-url=https://ftp.bmp.ovh/imgs/2021/02/9e6d449acb9b6889.png, enabled=true",
+           	 "config": "15 0 * * * https://raw.githubusercontent.com/age174/-/main/jqb.js, tag=金钱豹(查看脚本有用法),, img-url=https://ftp.bmp.ovh/imgs/2021/02/9e6d449acb9b6889.png, enabled=true"
       	       }, 
 		{
-                "config": "15 50 */3 * * * https://raw.githubusercontent.com/age174/-/main/zmsp.js, tag=芝嫲视频(查看脚本有用法),, img-url= https://s3.ax1x.com/2021/02/06/yYzeWn.png, enabled=true",
+                "config": "15 50 */3 * * * https://raw.githubusercontent.com/age174/-/main/zmsp.js, tag=芝嫲视频(查看脚本有用法),, img-url= https://s3.ax1x.com/2021/02/06/yYzeWn.png, enabled=true"
         	},     
 		{
-                "config": "15 10 * * * https://raw.githubusercontent.com/age174/-/main/ymz.js, tag=羊毛赚(查看脚本有用法),, img-url=https://s3.ax1x.com/2021/02/06/yYzYWR.png, enabled=true",
+                "config": "15 10 * * * https://raw.githubusercontent.com/age174/-/main/ymz.js, tag=羊毛赚(查看脚本有用法),, img-url=https://s3.ax1x.com/2021/02/06/yYzYWR.png, enabled=true"
        		 }, 
 		{
-      	       "config": "15 10 * * * https://raw.githubusercontent.com/age174/-/main/mhdsp.js, tag=陌嗨短视频(查看脚本有用法),, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/mhdsp.png, enabled=true",
+      	       "config": "15 10 * * * https://raw.githubusercontent.com/age174/-/main/mhdsp.js, tag=陌嗨短视频(查看脚本有用法),, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/mhdsp.png, enabled=true"
          	 },  
 	        {
 		  "config": "10 10 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_products_detail.js, tag=京喜工厂商品列表详情, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=true"

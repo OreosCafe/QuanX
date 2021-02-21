@@ -3,6 +3,7 @@
     "description": "添加时提示添加附加组件的一律添加，是重写，获得cookie就移除",
     "task": [
 	        "*/30 * * * * https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.js, tag=笑谱ziye版(点击查看脚本阅读详细用法), img-url=https://qxzy.top/rules/QuantumultX/img/xp.png, enabled=true",
+	        "0 9 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/xp.js, tag=笑谱执意版（点击查看脚本阅读详细用法, img-url=https://qxzy.top/rules/QuantumultX/img/xp.png, enabled=true",
 	        "0 * * * * https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_cfd.js, tag=京喜财富岛, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true",
 	        "0 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_speed_redpocke.js, tag=京东极速版红包, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 	        "2 9 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_bean_change.js, tag=京豆变动通知, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
@@ -268,7 +269,6 @@
 		"*/10 */3 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jukan.js, tag=聚看点, img-url=https://github.com/Sunert/ProxyConfig/raw/master/QuantumultX/Rules/Images/ICON/jukan.png, enabled=true",
 		"*/30 * * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baidu_speed.js, tag=百度极速版, img-url=https://github.com/Sunert/ProxyConfig/raw/master/QuantumultX/Rules/Images/ICON/baiduspeed.png, enabled=true",
 		"0 9 * * * https://raw.githubusercontent.com/ZhiYi-N/script/master/kkd.js, tag=快看点, img-url=https://qxzy.top/rules/QuantumultX/img/kkd.png, enabled=true",
-		"0 9 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/xp.js, tag=笑谱, img-url=https://qxzy.top/rules/QuantumultX/img/xp.png, enabled=true",
 		"*/5 6-23 * * * https://raw.githubusercontent.com/ZhiYi-N/script/master/hotsoon.js, tag=火山极速版, img-url=https://qxzy.top/rules/QuantumultX/img/hotsoon.png, enabled=true",
 		"40 * * * * https://qxzy.top/rules/QuantumultX/js/zy/dyjsb.js, tag=抖音极速版, img-url=https://qxzy.top/rules/QuantumultX/img/dyjsb.png, enabled=true",
     ]

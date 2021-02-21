@@ -4,10 +4,10 @@
 
 
 #### 可订阅以下仓库获得脚本：
-     1、公众号少年歌行Pro整理的【lxk0301】 task仓库订阅地址，只包含lxk0301大佬的所有脚本（目前41个）；
+ 1、公众号少年歌行Pro整理的【lxk0301】 task仓库订阅地址，只包含lxk0301大佬的所有脚本（目前41个）；
      https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
      
-     2、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，lxk0301大佬的脚本当然也有（目前270个）：
+2、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，lxk0301大佬的脚本当然也有（目前264个）：
      https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
      
 

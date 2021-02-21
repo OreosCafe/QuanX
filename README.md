@@ -1,3 +1,18 @@
+## 公众号少年歌行pro：2月21日15:30，lxk0301大佬的脚本已全部替换为临时链接，懒人包现已恢复正常（cookie和task均已更新）
+
+### 请您将已添加到构造请求的lxk0301脚本全部移除，并重新在仓库中添加一次。
+
+
+#### 可订阅以下仓库获得脚本：
+     1、公众号少年歌行Pro整理的【lxk0301】 task仓库订阅地址，只包含lxk0301大佬的所有脚本（目前41个）；
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
+     
+     2、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，lxk0301大佬的脚本当然也有（目前270个）：
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+     
+
+----------------------------------------------
+
 ###  公众号少年歌行pro：2月21日15:00，增加了以下脚本【lxk0301脚本修复中】 ：
 
 1、age174的  番茄看看 脚本（请点击查看脚本，了解详细用法）

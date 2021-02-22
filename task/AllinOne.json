@@ -1,6 +1,6 @@
 {
-    "name": "少年歌行全网合一",
-    "description": "添加时提示添加附加组件的一律添加，是重写，获得cookie就移除",
+    "name": "公众号少年歌行pro全网合一整理",
+    "description": "感谢所有脚本作者，真正的懒人仓库",
     "task": [
 	        "*/30 * * * * https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.js, tag=笑谱ziye版(查看脚本学用法，请挂全局用方法一), img-url=https://qxzy.top/rules/QuantumultX/img/xp.png, enabled=true",
 	        "0 9 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/xp.js, tag=笑谱执意版（查看脚本学用法，推荐子夜版）, img-url=https://qxzy.top/rules/QuantumultX/img/xp.png, enabled=true",

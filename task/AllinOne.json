@@ -56,7 +56,7 @@
 		"10 10,11 * * 2-5 https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_entertainment.js, tag=百变大咖秀, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
 	   	"15,45 10-22 * * * https://raw.githubusercontent.com/age174/-/main/wnb.js, tag=蜗牛吧(查看脚本有用法), img-url=https://ftp.bmp.ovh/imgs/2021/02/221a7d94eaa0dddf.jpeg, enabled=true",
         	"1,30 10-20 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/ranlv.js, tag=燃旅视频, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/ranlv.jpg, enabled=true",
-	  	"10 * * * * https://raw.githubusercontent.com/age174/-/main/dkd.js, tag=多看点(查看脚本有用法), img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png, enabled=true",
+	  	"0 0/10 * * * ? https://raw.githubusercontent.com/age174/-/main/dkd.js, tag=多看点(查看脚本有用法), img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png, enabled=true",
 		"5 1 * * * https://raw.githubusercontent.com/age174/-/main/bigfun.js, tag=bigfun签到(查看脚本有用法), img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z003.png, enabled=true",
 		"15 0 * * * https://raw.githubusercontent.com/age174/-/main/jqb.js, tag=金钱豹(查看脚本有用法),, img-url=https://ftp.bmp.ovh/imgs/2021/02/9e6d449acb9b6889.png, enabled=true",
 		"15 50 */3 * * * https://raw.githubusercontent.com/age174/-/main/zmsp.js, tag=芝嫲视频(查看脚本有用法),, img-url= https://s3.ax1x.com/2021/02/06/yYzeWn.png, enabled=true",

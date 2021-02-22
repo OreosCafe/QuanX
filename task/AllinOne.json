@@ -2,7 +2,7 @@
     "name": "少年歌行全网合一",
     "description": "添加时提示添加附加组件的一律添加，是重写，获得cookie就移除",
     "task": [
-	        "*/30 * * * * https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.js, tag=笑谱ziye版(点击查看脚本阅读详细用法), img-url=https://qxzy.top/rules/QuantumultX/img/xp.png, enabled=true",
+	        "*/30 * * * * https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.js, tag=笑谱ziye版(查看脚本学用法，请用方法一), img-url=https://qxzy.top/rules/QuantumultX/img/xp.png, enabled=true",
 	        "0 9 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/xp.js, tag=笑谱执意版（点击查看脚本阅读详细用法, img-url=https://qxzy.top/rules/QuantumultX/img/xp.png, enabled=true",
 	        "0 * * * * https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_cfd.js, tag=京喜财富岛, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true",
 	        "0 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_speed_redpocke.js, tag=京东极速版红包, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",

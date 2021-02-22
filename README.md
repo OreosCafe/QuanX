@@ -1,27 +1,16 @@
-## 公众号少年歌行pro：2月21日15:30，lxk0301大佬的脚本已全部替换为临时链接，懒人包现已恢复正常（cookie和task均已更新）
+###  公众号少年歌行pro：2月22日11:00，增加了以下脚本 ：
 
-### 请您将已添加到构造请求的lxk0301脚本全部移除，并重新在仓库中添加一次。
+1、ziye 的 小乐忧券微信小程序 脚本（请点击查看脚本，了解详细用法）
+
+2、ziye 的 笑谱 自动脚本 （请使用boxjs方法获取cookie）
+
+ziye的boxjs订阅地址：https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/ziye.boxjs.json
 
 
-#### 可订阅以下仓库获得脚本：
- 1、公众号少年歌行Pro整理的【lxk0301】 task仓库订阅地址，只包含lxk0301大佬的所有脚本（目前41个）；
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/lxk0301.json
-     
-2、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，lxk0301大佬的脚本当然也有（目前264个）：
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
-     
-
-----------------------------------------------
-
-###  公众号少年歌行pro：2月21日15:00，增加了以下脚本【lxk0301脚本修复中】 ：
-
-1、age174的  番茄看看 脚本（请点击查看脚本，了解详细用法）
-
-<img src="https://ftp.bmp.ovh/imgs/2021/02/f8306006536eb49c.jpeg" width="20%">
 
 #### 可订阅以下仓库获得脚本：
-     1、公众号少年歌行Pro整理的【age174】 task仓库订阅地址，只包含上述脚本；
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
+     1、公众号少年歌行Pro整理的【ziye】 task仓库订阅地址，只包含上述脚本；
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/ziye.json
      
      2、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
      https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
@@ -35,6 +24,9 @@
 https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 
 获取cookie后可禁用此重写哦~     
+
+
+
 
 
 
@@ -321,6 +313,47 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json
  ### 下面是历史更新列表
  
 --------------------------
+
+
+-----------------------------------------------
+
+## 公众号少年歌行pro：2月21日15:30，lxk0301大佬的脚本已全部替换为临时链接，懒人包现已恢复正常（cookie和task均已更新）
+
+### 请您将已添加到构造请求的lxk0301脚本全部移除，并重新在仓库中添加一次。
+
+
+#### 可订阅以下仓库获得脚本：
+ 1、公众号少年歌行Pro整理的【lxk0301】 task仓库订阅地址，只包含lxk0301大佬的所有脚本（目前41个）；
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/lxk0301.json
+     
+2、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，lxk0301大佬的脚本当然也有（目前264个）：
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+     
+
+----------------------------------------------
+
+###  公众号少年歌行pro：2月21日15:00，增加了以下脚本【lxk0301脚本修复中】 ：
+
+1、age174的  番茄看看 脚本（请点击查看脚本，了解详细用法）
+
+<img src="https://ftp.bmp.ovh/imgs/2021/02/f8306006536eb49c.jpeg" width="20%">
+
+#### 可订阅以下仓库获得脚本：
+     1、公众号少年歌行Pro整理的【age174】 task仓库订阅地址，只包含上述脚本；
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
+     
+     2、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+     
+#### 注意
+以上订阅仓库中仅包含task订阅，必须要配合cookie才能正确使用，<br>
+懒人包中的重写订阅中包含所有获取cookie重写，使用本懒人包的无需其他操作，后台已生效<br>
+如果您没有使用我的懒人包，仅想使用我的task仓库订阅，<br>
+可以手动在自己圈x配置文件的[rewrite remote]标签下粘贴下面的远程获取cookie地址即可：
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+
+获取cookie后可禁用此重写哦~     
 
 ###  公众号少年歌行pro：2月20日7:00，增加了以下脚本 ：
 

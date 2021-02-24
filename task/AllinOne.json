@@ -2,7 +2,9 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "感谢所有脚本作者，真正的懒人仓库",
     "task": [
-	        "0 0/10 * * * ? https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/duokandian.js, tag=多看点ziye版(查看脚本学用法), img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png, enabled=true",
+	        "5 0 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/wechatsubs/wechatsubs.js, tag=公众号监控, img-url=https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/wechat.png,  enabled=true"
+  		"5 0 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/klcw/klcw-app.js, tag=酷乐潮玩App, img-url=https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/klcw.png, enabled=true",
+    	        "0 0/10 * * * ? https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/duokandian.js, tag=多看点ziye版(查看脚本学用法), img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png, enabled=true",
 	        "0 0/10 0,1,2 * * ? https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/xiaole.js, tag=小乐优券微信小程序，img-url=https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/xiaole.js，enabled=true",
 	        "*/30 * * * * https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.js, tag=笑谱ziye版(查看脚本学用法，请挂全局用方法一), img-url=https://qxzy.top/rules/QuantumultX/img/xp.png, enabled=true",
 	        "0 9 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/xp.js, tag=笑谱执意版（查看脚本学用法，推荐子夜版）, img-url=https://qxzy.top/rules/QuantumultX/img/xp.png, enabled=true",

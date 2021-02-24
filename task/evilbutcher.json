@@ -3,6 +3,7 @@
   "name": "evilbutcher",
   "description": "公众号少年歌行pro整理",
   "task": [
+    "5 0 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/wechatsubs/wechatsubs.js, tag=公众号监控, img-url=https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/wechat.png,  enabled=true"
     "5 0 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/klcw/klcw-app.js, tag=酷乐潮玩App, img-url=https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/klcw.png, enabled=true",
     "0 0 6 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/nasa/nasapic.js, tag=NASA每日一图, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/nasa.png, enabled=true",
     "0 0 6 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/idaily/idaily.js, tag=iDaily每日环球视野, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/idaily.png, enabled=true",

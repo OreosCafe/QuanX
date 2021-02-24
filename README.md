@@ -1,16 +1,14 @@
-###  公众号少年歌行pro：2月22日11:00，增加了以下脚本 ：
+###  公众号少年歌行pro：2月24日20:30，增加了以下脚本 ：
 
-1、ziye 的 小乐忧券微信小程序 脚本（请点击查看脚本，了解详细用法）
+1、evilbutcher 的 微信公众号监控 脚本（需boxjs填关键词）；
 
-2、ziye 的 笑谱 自动脚本 （请使用boxjs方法获取cookie）
+2、evilbutcher 的 酷乐潮玩App 脚本；
 
-ziye的boxjs订阅地址：https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/ziye.boxjs.json
-
-
+【evilbutcher 的 BoxJs订阅】https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/evilbutcher.boxjs.json
 
 #### 可订阅以下仓库获得脚本：
-     1、公众号少年歌行Pro整理的【ziye】 task仓库订阅地址，只包含上述脚本；
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/ziye.json
+     1、公众号少年歌行Pro整理的【evilbutcher】 task仓库订阅地址，只包含evilbutcher大佬制作的脚本；
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/evilbutcher.json
      
      2、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
      https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
@@ -25,10 +23,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 
 获取cookie后可禁用此重写哦~     
 
-
-
-
-
+------------------------------
 
 ---------------------------------
 
@@ -316,6 +311,42 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json
 
 
 -----------------------------------------------
+
+
+###  公众号少年歌行pro：2月22日11:00，增加了以下脚本 ：
+
+1、ziye 的 小乐忧券微信小程序 脚本（请点击查看脚本，了解详细用法）
+
+2、ziye 的 笑谱 自动脚本 （请使用boxjs方法获取cookie）
+
+ziye的boxjs订阅地址：https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/ziye.boxjs.json
+
+
+
+#### 可订阅以下仓库获得脚本：
+     1、公众号少年歌行Pro整理的【ziye】 task仓库订阅地址，只包含上述脚本；
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/ziye.json
+     
+     2、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+     
+#### 注意
+以上订阅仓库中仅包含task订阅，必须要配合cookie才能正确使用，<br>
+懒人包中的重写订阅中包含所有获取cookie重写，使用本懒人包的无需其他操作，后台已生效<br>
+如果您没有使用我的懒人包，仅想使用我的task仓库订阅，<br>
+可以手动在自己圈x配置文件的[rewrite remote]标签下粘贴下面的远程获取cookie地址即可：
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+
+获取cookie后可禁用此重写哦~     
+
+
+
+
+
+
+
+
 
 ## 公众号少年歌行pro：2月21日15:30，lxk0301大佬的脚本已全部替换为临时链接，懒人包现已恢复正常（cookie和task均已更新）
 

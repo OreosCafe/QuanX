@@ -10,15 +10,21 @@
 
 5、中青看点看看赚脚本
 
-其中，中青看点看看赚脚本需配合作者重写订阅使用，已整合进懒人包的基本配置，<br>
-如果您不想覆盖安装配置，可以手动添加到您配置文件的[reweite remote]标签下
-https://raw.githubusercontent.com/ztxtop/x/main/rewrite-zqkkz.plugin, tag=中青看点看看赚&浏览赚Cookie获取, update-interval=86400, opt-parser=true, enabled=false
-
 
 #### 可订阅以下仓库获得脚本：
      1、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
 
+
+#### 注意
+以上订阅仓库中仅包含task订阅，必须要配合cookie才能正确使用，<br>
+懒人包中的重写订阅中包含所有获取cookie重写，使用本懒人包的无需其他操作，后台已生效<br>
+如果您没有使用我的懒人包，仅想使用我的task仓库订阅，<br>
+可以手动在自己圈x配置文件的[rewrite remote]标签下粘贴下面的远程获取cookie地址即可：
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+
+获取cookie后可禁用此重写哦~  
 
 
 

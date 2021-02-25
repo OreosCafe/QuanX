@@ -1,3 +1,26 @@
+###  公众号少年歌行pro：2月25日12:00，修复了以下脚本 ：
+
+1、lxk0301修复了京东极速版红包在ios设备上运行输出“bad url” 的bug
+
+更新方法：
+
+1、删除构造请求中，已经添加的 京东极速版红包 脚本
+
+2、在task仓库订阅中，重新添加上 京东极速版红包 脚本
+
+修复已完成
+
+
+#### 可订阅以下仓库获得脚本：
+     1、公众号少年歌行Pro整理的【lxk0301】 task仓库订阅地址，只包含evilbutcher大佬制作的脚本；
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/lxk0301.json
+     
+     2、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/lxk0301.json
+
+
+--------------------------------------
+
 ###  公众号少年歌行pro：2月24日20:30，增加了以下脚本 ：
 
 1、evilbutcher 的 微信公众号监控 脚本（需boxjs填关键词）；

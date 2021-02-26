@@ -1,3 +1,32 @@
+
+###  公众号少年歌行pro：2月26日16:00，增加了以下脚本 
+
+1、执意大佬的 TT语音打卡脚本
+
+<img src="https://img.qqxiazai.com/uploadfile/2018/0613/20180613040430379.jpg" width="20%">
+
+
+#### 可订阅以下仓库获得脚本：
+     1、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
+    https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+    
+     2、公众号少年歌行Pro整理的【ZhiYi-N】 task仓库订阅地址，只包含上述脚本；
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/ZhiYi-N.json
+
+
+#### 注意
+以上订阅仓库中仅包含task订阅，必须要配合cookie才能正确使用，<br>
+懒人包中的重写订阅中包含所有获取cookie重写，使用本懒人包的刷新一下设置即可无需其他操作，后台已生效<br>
+如果您没有使用我的懒人包，仅想使用我的task仓库订阅，<br>
+可以手动加入我的远程获取cookie订阅：
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+
+获取cookie后可禁用此重写哦~  
+
+
+-----------------------------------
+
 ###  公众号少年歌行pro：2月26日6:00，增加了以下脚本 
 
 1、京东plus盲盒领京豆脚本 

@@ -1,6 +1,6 @@
 ###  公众号少年歌行pro：2月26日16:00，增加了以下脚本 
 
-1、肥皂执意大佬的 任性猫 脚本，查看脚本学用法，这是个资金盘，千万别充值
+1、肥皂大佬的 任性猫 脚本，查看脚本学用法，这是个资金盘，千万别充值
 
 <img src="https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z005.png" width="20%">
 

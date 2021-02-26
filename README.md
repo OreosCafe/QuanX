@@ -15,6 +15,10 @@
      3、公众号少年歌行Pro整理的【LXK0301】 task仓库订阅地址，只包含lxk0301大佬的脚本；
      https://raw.githubusercontent.com/sngxpro/QuanX/master/task/lxk0301.json
 
+#### 注意
+
+以上脚本都需要配合jd cookie使用。
+
 
 -----------------------------------
 

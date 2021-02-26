@@ -2,6 +2,7 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "感谢所有脚本作者，真正的懒人仓库",
     "task": [
+                "0 8 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/TT.js, tag=TT语音打卡(打卡一次获取ck）, img-url=https://img.qqxiazai.com/uploadfile/2018/0613/20180613040430379.jpg,  enabled=true",   
 	        "55 0,12 * * * https://gitee.com/shuye72/MyActions/raw/59f5d53e6a9ba858d07c7c63385621685dc949b7/jd_plus_bean.js, tag=京东plus领豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_bean_home.png, enabled=true",
 	        "*/15 * * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/RUNSTEP/runstep.js, tag=走路赚钱, img-url=https://gitee.com/ydj0602/hym/raw/img/ZLZQ1.png, enabled=true",
 	        "0 0 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/RUNSTEP/cash.js, tag=走路赚钱-提现专用, img-url=https://gitee.com/ydj0602/hym/raw/img/ZLZQ1.png, enabled=true",

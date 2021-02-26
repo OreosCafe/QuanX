@@ -48,8 +48,9 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 
 ---------------------------------
 
-### 更多历史更新内容，请点击下方链接查看最本页面最底部
+### 更多历史更新内容，请点击下方链接查看
 
+https://github.com/sngxpro/QuanX/blob/master/updata.md
 
 ------------------------------------
 

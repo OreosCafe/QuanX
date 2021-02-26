@@ -3,7 +3,7 @@
 
 1、执意大佬的 TT语音打卡脚本
 
-<img src="https://img.qqxiazai.com/uploadfile/2018/0613/20180613040430379.jpg" width="20%">
+<img src="https://raw.githubusercontent.com/sngxpro/icons/main/orthers/1.jpg" width="20%">
 
 
 #### 可订阅以下仓库获得脚本：

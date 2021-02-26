@@ -1,3 +1,24 @@
+###  公众号少年歌行pro：2月27日6:00，增加了以下脚本 
+
+1、lxk0301大佬的 女装盲盒  脚本
+
+2、i-chenzhe大佬的 京东摇一摇 脚本
+
+
+#### 可订阅以下仓库获得脚本：
+     1、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
+    https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+    
+     2、公众号少年歌行Pro整理的【i-chenzhe】 task仓库订阅地址，只包含ichenzhe大佬的脚本；
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json
+     
+     3、公众号少年歌行Pro整理的【LXK0301】 task仓库订阅地址，只包含lxk0301大佬的脚本；
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/lxk0301.json
+
+
+-----------------------------------
+
+
 ###  公众号少年歌行pro：2月26日16:00，增加了以下脚本 
 
 1、肥皂大佬的 任性猫 脚本，查看脚本学用法，这是个资金盘，千万别充值
@@ -25,99 +46,9 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 
 
 
--------------------------------
-
-###  公众号少年歌行pro：2月26日16:00，增加了以下脚本 
-
-1、执意大佬的 TT语音打卡脚本
-
-<img src="https://raw.githubusercontent.com/sngxpro/icons/main/orthers/1.jpg" width="20%">
-
-
-#### 可订阅以下仓库获得脚本：
-     1、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
-    https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
-    
-     2、公众号少年歌行Pro整理的【ZhiYi-N】 task仓库订阅地址，只包含上述脚本；
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/ZhiYi-N.json
-
-
-#### 注意
-以上订阅仓库中仅包含task订阅，必须要配合cookie才能正确使用，<br>
-懒人包中的重写订阅中包含所有获取cookie重写，使用本懒人包的刷新一下设置即可无需其他操作，后台已生效<br>
-如果您没有使用我的懒人包，仅想使用我的task仓库订阅，<br>
-可以手动加入我的远程获取cookie订阅：
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
-
-获取cookie后可禁用此重写哦~  
-
-
------------------------------------
-
-###  公众号少年歌行pro：2月26日6:00，增加了以下脚本 
-
-1、京东plus盲盒领京豆脚本 
-
-2、走路赚钱脚本
-
-3、走路赚钱提现脚本
-
-4、中青看点签到、自动阅读脚本
-
-5、中青看点看看赚脚本
-
-
-#### 可订阅以下仓库获得脚本：
-     1、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
-    https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
-
-
-#### 注意
-以上订阅仓库中仅包含task订阅，必须要配合cookie才能正确使用，<br>
-懒人包中的重写订阅中包含所有获取cookie重写，使用本懒人包的刷新一下设置即可无需其他操作，后台已生效<br>
-如果您没有使用我的懒人包，仅想使用我的task仓库订阅，<br>
-可以手动在自己圈x配置文件的[rewrite remote]标签下粘贴下面的远程获取cookie地址即可：
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
-
-获取cookie后可禁用此重写哦~  
-
-
-
-
-
---------------------------------------
-
-###  公众号少年歌行pro：2月24日20:30，增加了以下脚本 ：
-
-1、evilbutcher 的 微信公众号监控 脚本（需boxjs填关键词）；
-
-2、evilbutcher 的 酷乐潮玩App 脚本；
-
-【evilbutcher 的 BoxJs订阅】https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/evilbutcher.boxjs.json
-
-#### 可订阅以下仓库获得脚本：
-     1、公众号少年歌行Pro整理的【evilbutcher】 task仓库订阅地址，只包含evilbutcher大佬制作的脚本；
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/evilbutcher.json
-     
-     2、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
-     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
-     
-#### 注意
-以上订阅仓库中仅包含task订阅，必须要配合cookie才能正确使用，<br>
-懒人包中的重写订阅中包含所有获取cookie重写，使用本懒人包的无需其他操作，后台已生效<br>
-如果您没有使用我的懒人包，仅想使用我的task仓库订阅，<br>
-可以手动在自己圈x配置文件的[rewrite remote]标签下粘贴下面的远程获取cookie地址即可：
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
-
-获取cookie后可禁用此重写哦~     
-
-
 ---------------------------------
 
-### 更多历史更新内容，请翻阅最本页面最底部
+### 更多历史更新内容，请点击下方链接查看最本页面最底部
 
 
 ------------------------------------
@@ -397,6 +328,97 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json
  ### 下面是历史更新列表
  
 -------------------------------------
+
+
+-------------------------------
+
+###  公众号少年歌行pro：2月26日16:00，增加了以下脚本 
+
+1、执意大佬的 TT语音打卡脚本
+
+<img src="https://raw.githubusercontent.com/sngxpro/icons/main/orthers/1.jpg" width="20%">
+
+
+#### 可订阅以下仓库获得脚本：
+     1、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
+    https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+    
+     2、公众号少年歌行Pro整理的【ZhiYi-N】 task仓库订阅地址，只包含上述脚本；
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/ZhiYi-N.json
+
+
+#### 注意
+以上订阅仓库中仅包含task订阅，必须要配合cookie才能正确使用，<br>
+懒人包中的重写订阅中包含所有获取cookie重写，使用本懒人包的刷新一下设置即可无需其他操作，后台已生效<br>
+如果您没有使用我的懒人包，仅想使用我的task仓库订阅，<br>
+可以手动加入我的远程获取cookie订阅：
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+
+获取cookie后可禁用此重写哦~  
+
+
+-----------------------------------
+
+###  公众号少年歌行pro：2月26日6:00，增加了以下脚本 
+
+1、京东plus盲盒领京豆脚本 
+
+2、走路赚钱脚本
+
+3、走路赚钱提现脚本
+
+4、中青看点签到、自动阅读脚本
+
+5、中青看点看看赚脚本
+
+
+#### 可订阅以下仓库获得脚本：
+     1、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
+    https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+
+#### 注意
+以上订阅仓库中仅包含task订阅，必须要配合cookie才能正确使用，<br>
+懒人包中的重写订阅中包含所有获取cookie重写，使用本懒人包的刷新一下设置即可无需其他操作，后台已生效<br>
+如果您没有使用我的懒人包，仅想使用我的task仓库订阅，<br>
+可以手动在自己圈x配置文件的[rewrite remote]标签下粘贴下面的远程获取cookie地址即可：
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+
+获取cookie后可禁用此重写哦~  
+
+
+
+
+
+--------------------------------------
+
+###  公众号少年歌行pro：2月24日20:30，增加了以下脚本 ：
+
+1、evilbutcher 的 微信公众号监控 脚本（需boxjs填关键词）；
+
+2、evilbutcher 的 酷乐潮玩App 脚本；
+
+【evilbutcher 的 BoxJs订阅】https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/evilbutcher.boxjs.json
+
+#### 可订阅以下仓库获得脚本：
+     1、公众号少年歌行Pro整理的【evilbutcher】 task仓库订阅地址，只包含evilbutcher大佬制作的脚本；
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/evilbutcher.json
+     
+     2、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+     
+#### 注意
+以上订阅仓库中仅包含task订阅，必须要配合cookie才能正确使用，<br>
+懒人包中的重写订阅中包含所有获取cookie重写，使用本懒人包的无需其他操作，后台已生效<br>
+如果您没有使用我的懒人包，仅想使用我的task仓库订阅，<br>
+可以手动在自己圈x配置文件的[rewrite remote]标签下粘贴下面的远程获取cookie地址即可：
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+
+获取cookie后可禁用此重写哦~     
+
 
 ###  公众号少年歌行pro：2月25日12:00，修复了以下脚本 ：
 

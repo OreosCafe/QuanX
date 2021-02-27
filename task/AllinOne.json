@@ -1,6 +1,6 @@
 {
     "name": "公众号少年歌行pro全网合一整理",
-    "description": "感谢所有脚本作者，目前脚本总数：285个",
+    "description": "感谢所有脚本作者，目前脚本总数：286个",
     "task": [
                 "15 12 * * * https://raw.githubusercontent.com/age174/-/main/yyxs.js, tag=阅友小说, img-url=https://s3.ax1x.com/2021/02/27/6pouiF.jpg, enabled=true",
 	        "3 20 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_shake.js, tag=摇一摇, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",

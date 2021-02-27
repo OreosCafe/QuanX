@@ -5,7 +5,7 @@
 const suburl = 'https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json'
 
 const webhook = {
-  url: 'https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json',              // 远程： http://sss.xxxx.com/webhook
+  url: '/webhook',              // 远程： http://sss.xxxx.com/webhook
   token: 'f422723c-1613-4c93-8cc4-af41ef6aa87c',     // 在 webUI->SETTING 界面查找
 }
 

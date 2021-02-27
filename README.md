@@ -9,7 +9,7 @@
      1、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
     
-     2、公众号少年歌行Pro整理的【age174】 task仓库订阅地址，只包含上述脚本；
+     2、公众号少年歌行Pro整理的【age174】 task仓库订阅地址，只包含肥皂大佬的脚本；
      https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
      
      

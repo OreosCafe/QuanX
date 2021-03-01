@@ -1,7 +1,8 @@
 {
     "name": "公众号少年歌行pro全网合一整理",
-    "description": "感谢所有脚本作者，目前脚本总数：290个",
+    "description": "感谢所有脚本作者，目前脚本总数：291个",
     "task": [                
+	        "15 12,14,16,20,22 * * * https://raw.githubusercontent.com/age174/-/main/ysm.js, tag=云扫码, img-url=https://s3.ax1x.com/2021/02/28/6CRWb8.jpg, enabled=true",
 	        "30 8,13,19 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_cfd.js, tag=京喜财富岛(改), img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true",
 	        "15 12,14,16,20 * * * https://raw.githubusercontent.com/age174/-/main/dka.js, tag=蛋咖, img-url=https://s3.ax1x.com/2021/02/28/6C3Gpn.jpg, enabled=true",
 	        "0 0/10 * * * ? https://qxzy.top/rules/QuantumultX/js/ZIYE/Task/duokandian.js, tag=多看点ziye版(查看脚本学用法), img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png, enabled=true",

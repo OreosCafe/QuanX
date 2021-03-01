@@ -5,6 +5,149 @@
 -------------------------------------
 
 
+
+-------------------------
+
+###  公众号少年歌行pro：2月28日19:00，增加了以下脚本 
+
+1、肥皂大佬的 蛋咖 脚本，查看脚本学用法
+
+<img src="https://s3.ax1x.com/2021/02/28/6C3Gpn.jpg" width="12%">
+
+
+#### 可订阅以下仓库获得脚本：
+     1、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
+    https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+    
+     2、公众号少年歌行Pro整理的【age174】 task仓库订阅地址，只包含肥皂大佬的脚本；
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
+     
+     
+#### 注意
+以上订阅仓库中仅包含task订阅，必须要配合cookie才能正确使用，<br>
+懒人包中的重写订阅中包含所有获取cookie重写，使用本懒人包的刷新一下设置即可无需其他操作，后台已生效<br>
+如果您没有使用我的懒人包，仅想使用我的task仓库订阅，<br>
+可以手动加入我的远程获取cookie订阅：
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+
+获取cookie后可禁用此重写哦~  
+
+
+---------------------
+
+###  公众号少年歌行pro：2月28日10:30，增加和更新了以下脚本
+
+1、修复了  抖音极速版 不能正常使用的问题
+
+2、修复了  抖音火山版 不能正常使用的问题
+
+3、修复了  好几个什么极速版 不能正常使用的问题
+
+4、增加了  京东财富岛提现
+
+5、增加了  京东财富岛提现提醒
+
+
+
+#### 可订阅以下仓库获得脚本：
+     1、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
+    https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+    
+    一次添加，以后后台自动更新 （全局代理模式下）
+    
+ #### 注意
+以上订阅仓库中仅包含task订阅，必须要配合cookie才能正确使用，<br>
+懒人包中的重写订阅中包含所有获取cookie重写，使用本懒人包的刷新一下设置即可无需其他操作，后台已生效<br>
+如果您没有使用我的懒人包，仅想使用我的task仓库订阅，<br>
+可以手动加入我的远程获取cookie订阅：
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf   
+
+
+
+
+---------------------
+
+###  公众号少年歌行pro：2月27日22:00，增加了以下脚本 
+
+1、肥皂大佬的 阅友小说 脚本，查看脚本学用法
+
+<img src="https://s3.ax1x.com/2021/02/27/6pouiF.jpg" width="12%">
+
+
+#### 可订阅以下仓库获得脚本：
+     1、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
+    https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+    
+     2、公众号少年歌行Pro整理的【age174】 task仓库订阅地址，只包含肥皂大佬的脚本；
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
+     
+     
+#### 注意
+以上订阅仓库中仅包含task订阅，必须要配合cookie才能正确使用，<br>
+懒人包中的重写订阅中包含所有获取cookie重写，使用本懒人包的刷新一下设置即可无需其他操作，后台已生效<br>
+如果您没有使用我的懒人包，仅想使用我的task仓库订阅，<br>
+可以手动加入我的远程获取cookie订阅：
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+
+获取cookie后可禁用此重写哦~  
+
+---------------
+
+###  公众号少年歌行pro：2月27日6:00，增加或修正了以下脚本 
+
+1、（修正更新）lxk0301大佬的 女装盲盒  脚本 ，请删除构造请求中已添加的，换为最新添加的这个，不再报错
+
+2、（新增）i-chenzhe大佬的 京东摇一摇 脚本  ，不定期有豆，完全看脸的活动
+
+
+#### 可订阅以下仓库获得脚本：
+     1、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
+    https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+    
+     2、公众号少年歌行Pro整理的【i-chenzhe】 task仓库订阅地址，只包含ichenzhe大佬的脚本；
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/i-chenzhe.json
+     
+     3、公众号少年歌行Pro整理的【LXK0301】 task仓库订阅地址，只包含lxk0301大佬的脚本；
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/lxk0301.json
+
+#### 注意
+
+以上脚本都需要配合jd cookie使用。
+
+
+-----------------------------------
+
+
+###  公众号少年歌行pro：2月26日16:00，增加了以下脚本 
+
+1、肥皂大佬的 任性猫 脚本，查看脚本学用法，这是个资金盘，千万别充值
+
+<img src="https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z005.png" width="20%">
+
+
+#### 可订阅以下仓库获得脚本：
+     1、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
+    https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+    
+     2、公众号少年歌行Pro整理的【age174】 task仓库订阅地址，只包含上述脚本；
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
+
+
+#### 注意
+以上订阅仓库中仅包含task订阅，必须要配合cookie才能正确使用，<br>
+懒人包中的重写订阅中包含所有获取cookie重写，使用本懒人包的刷新一下设置即可无需其他操作，后台已生效<br>
+如果您没有使用我的懒人包，仅想使用我的task仓库订阅，<br>
+可以手动加入我的远程获取cookie订阅：
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+
+获取cookie后可禁用此重写哦~  
+
+
+
 -------------------------------
 
 ###  公众号少年歌行pro：2月26日16:00，增加了以下脚本 

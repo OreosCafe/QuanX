@@ -12,7 +12,13 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
 https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 
-#### 注意：需配合jd 的cookie使用
+#### 注意：
+
+1、需配合jd 的cookie使用
+
+2、v2p订阅需要在挂v的设备上登录v2p后台才能订阅或更新成功
+
+3、圈x订阅需要在挂v的手机上才能更新成功
 
 
 

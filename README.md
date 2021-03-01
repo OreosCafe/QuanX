@@ -1,4 +1,22 @@
+###  公众号少年歌行pro：3月1日12:00，仓库增加以下脚本 
 
+1、增加了 lxk0301 大佬的 京东她的节 脚本，全部完成140豆左右
+
+
+#### 仓库订阅地址：
+
+【圈x订阅地址】
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+
+#### 注意：需配合jd 的cookie使用
+
+
+
+---------------------------------------
 
 ##  公众号少年歌行pro：3月1日9:00，新上线v2p专用task订阅仓库，目前有可用脚本约290个
 

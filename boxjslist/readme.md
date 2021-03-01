@@ -1,5 +1,6 @@
 ### 全网各大佬boxjs地址查询对照
 
+https://jdsharedresourcescdn.azureedge.net/jdresource/lxk0301.boxjs.json
 
 https://raw.githubusercontent.com/toulanboy/scripts/master/toulanboy.boxjs.json
 

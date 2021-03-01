@@ -1,0 +1,57 @@
+{
+  "name": "公众号少年歌行pro 定时任务订阅",     // 订阅名称
+  "author": "https://t.me/sngxpro",    // 订阅制作者，可省略
+  "date": "2021-03-1 8:32:04",      // 订阅生成时间，可省略
+  "surl": "https://raw.githubusercontent.com/sngxpro/QuanX/master/task/sngxprov2p.json.json",  // 原始订阅链接，可省略
+  "desc": "该订阅由公众号少年歌行pro维护，仅可用于 elecV2P, 与其他软件并不兼容。",
+  "list": [                           // 任务列表。任务格式参考上面的 task.list 部分
+    {
+      "name": "软更新",
+      "type": "cron",
+      "time": "30 18 23 * * *",
+      "running": true,                // running 状态可省略。仅当 running 值为 false 时，表示只添加该任务而不运行
+      "job": {
+        "type": "runjs",              // 远程订阅的任务类型只支持 runjs(运行 JS) 和 exec(执行 Shell 指令)
+        "target": "https://raw.githubusercontent.com/elecV2/elecV2P/master/script/JSFile/softupdate.js"
+      }
+    },
+    {
+      "name": "清空日志",            // 当 running 值省略时，添加任务也会自动执行
+      "type": "cron",
+      "time": "30 58 23 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/elecV2/elecV2P/master/script/JSFile/deletelog.js"
+      }
+    },
+    {
+      "name": "Python 安装(Docker下)",
+      "type": "schedule",
+      "time": "0",
+      "running": false,               // 当 running 值为 false 时，任务只添加不运行
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/elecV2/elecV2P/master/script/JSFile/python-install.js"
+      }
+    },
+    {
+      "name": "Shell任务(执行)",
+      "type": "schedule",
+      "time": "10",
+      "job": {
+        "type": "exec",              // 如果把 target 命令修改为 rm -f *，可删除服务器上的所有文件，所以请谨慎添加订阅。
+        "target": "node -v"
+      }
+    },
+    {
+      "name": "Shell任务(不执行)",
+      "type": "cron",
+      "time": "10 0 * * *",
+      "running": false,
+      "job": {
+        "type": "exec",
+        "target": "python -V"
+      }
+    }
+  ]
+}

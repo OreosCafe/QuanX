@@ -20,6 +20,8 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 
 3、圈x订阅需要在挂v的手机上才能更新成功
 
+4、上述两种订阅不兼容，只能特定设备使用特定订阅
+
 
 
 ---------------------------------------

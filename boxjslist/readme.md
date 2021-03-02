@@ -26,4 +26,4 @@ https://raw.githubusercontent.com/DD-D1/2020scripts/master/box/dd.signboxjs.js
 
 https://raw.githubusercontent.com/age174/-/main/feizao.box.json
 
-https://qxzy.top/rules/QuantumultX/js/ZIYE/Task/ziye.boxjs.json
+https://github.com/ziye11/JavaScriptss/blob/main/Task/ziye.boxjs.json

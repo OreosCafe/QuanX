@@ -1,6 +1,6 @@
 {
     "name": "公众号少年歌行pro全网合一整理",
-    "description": "感谢所有脚本作者，目前脚本总数：291个",
+    "description": "感谢所有脚本作者，目前脚本总数：292个",
     "task": [                
               	"0,30 0-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.js, tag=悦动族（手机可能不支持，查看阅读说明）, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X004.png, enabled=true",
 	        "0 8,21 1-8/1 3 * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_firecrackers.js, tag=京东她的节, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",

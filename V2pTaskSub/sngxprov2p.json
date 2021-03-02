@@ -5,15 +5,6 @@
   "date": "2021-03-02 09:05:02",
   "list": [
      {
-      "name": "京东3天临时红包雨",
-      "type": "cron",
-      "time": "30,31 20-23/1 2,5 3 *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jd_live_redrain3day.js"
-      }
-    },
-    {
       "name": "悦动族",
       "type": "cron",
       "time": "0,30 0-23 * * *",

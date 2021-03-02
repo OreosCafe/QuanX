@@ -5,6 +5,14 @@
   "date": "2021-03-02 09:05:02",
   "list": [
      {
+      "name": "京东母婴跳一跳第二期",
+      "type": "cron",
+      "time": "5 8,14,20 2-7 3 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_jump-jump.js"
+      }
+    {
       "name": "京东会员摇一摇领京豆",
       "type": "cron",
       "time": "3 10 1 * *",

@@ -1,3 +1,36 @@
+
+###  公众号少年歌行pro：3月2日8:30，仓库进行如下调整，并增加以下脚本 
+
+1、子夜大佬的脚本全部更换为作者的原地址，不再使用替代方案
+
+2、子夜大佬的boxjs地址更正为作者的原地址，不再使用替代方案
+
+3、增加了 子夜 大佬的  悦动族 脚本，可能不支持手机运行
+
+
+#### 仓库订阅地址：
+
+【圈x订阅地址】
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+
+#### 注意
+
+1、以上仓库仅包含定时任务，cookie需配合我的获取cookie订阅得到
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+
+
+2、子夜大佬的boxjs更换地址为
+https://github.com/ziye11/JavaScriptss/blob/main/Task/ziye.boxjs.json
+
+
+
+--------------------------
+
 ###  公众号少年歌行pro：3月1日12:00，仓库增加以下脚本 
 
 1、增加了 lxk0301 大佬的 京东她的节 脚本，全部完成140豆左右

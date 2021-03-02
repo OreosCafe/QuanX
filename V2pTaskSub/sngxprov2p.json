@@ -4,8 +4,17 @@
   "desc": "当前脚本数量：296个。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
   "date": "2021-03-03 06:05:02",
   "list": [
+    {
+      "name": "芝麻视频ziye版",
+      "type": "cron",
+      "time": "0 * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/zhima.js"
+      }
+    },
      {
-      "name": "羊毛赚",
+      "name": "羊毛赚ziye版",
       "type": "cron",
       "time": "0 8,12 * * *",
       "job": {

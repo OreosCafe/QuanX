@@ -5,6 +5,15 @@
   "date": "2021-03-03 06:05:02",
   "list": [
     {
+      "name": "步步宝ziye版",
+      "type": "cron",
+      "time": "0,30 0-23 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/bububao.js"
+      }
+    },
+    {
       "name": "芝麻视频ziye版",
       "type": "cron",
       "time": "0 * * * *",

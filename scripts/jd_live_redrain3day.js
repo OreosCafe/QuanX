@@ -1,5 +1,7 @@
 /*
 30,31 20-23/1 2,5 3 * jd_live_redrain.js
+
+仅3月2日-5日 3天
 */
 const $ = new Env('超级直播间红包雨');
 let bodyList = {

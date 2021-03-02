@@ -2,7 +2,160 @@
  
  ### 下面是历史更新列表
  
--------------------------------------
+-------------
+
+###  公众号少年歌行pro：3月2日11:30，仓库增加以下脚本 
+<br>
+1、i-chenzhe大佬的 京东母婴跳一跳二期 脚本
+
+
+#### 仓库订阅地址：
+
+【圈x订阅地址】<br>
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】<br>
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+
+#### 注意：需配合jd的ck使用
+
+-------------
+
+###  公众号少年歌行pro：3月2日9:50，仓库增加以下脚本 
+<br>
+1、i-chenzhe大佬的京东会员摇京豆脚本
+
+支持本地多账号之间循环助力，无其他互助，每月运行一次即可
+
+#### 仓库订阅地址：
+
+【圈x订阅地址】<br>
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】<br>
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+
+#### 注意：需配合jd的ck使用
+
+-----------------
+
+###  公众号少年歌行pro：3月2日8:30，仓库进行如下调整，并增加以下脚本 
+
+1、子夜大佬的脚本全部更换为作者的原地址，不再使用替代方案
+
+2、子夜大佬的boxjs地址更正为作者的原地址，不再使用替代方案
+
+3、增加了 子夜 大佬的  悦动族 脚本，可能不支持手机运行
+
+
+#### 仓库订阅地址：
+
+【圈x订阅地址】<br>
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】<br>
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+
+#### 注意
+
+1、以上仓库仅包含定时任务，cookie需配合我的获取cookie订阅得到
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+
+
+2、子夜大佬的boxjs更换地址为
+https://raw.githubusercontent.com/ziye11/JavaScriptss/main/Task/ziye.boxjs.json
+
+
+
+--------------------------
+
+###  公众号少年歌行pro：3月1日12:00，仓库增加以下脚本 
+
+1、增加了 lxk0301 大佬的 京东她的节 脚本，全部完成140豆左右
+
+
+#### 仓库订阅地址：
+
+【圈x订阅地址】
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+
+#### 注意：
+
+1、需配合jd 的cookie使用
+
+2、v2p订阅需要在挂v的设备上登录v2p后台才能订阅或更新成功
+
+3、圈x订阅需要在挂v的手机上才能更新成功
+
+4、上述两种订阅不兼容，只能特定设备使用特定订阅
+
+
+
+---------------------------------------
+
+##  公众号少年歌行pro：3月1日9:00，新上线v2p专用task订阅仓库，目前有可用脚本约290个
+
+### 注意！！该仓库仅支持v2p ，不支持圈x、loon、sugre！
+
+### 后期我会根据脚本类型整理分库，如京东订阅库、网赚订阅库等，敬请期待！
+
+公众号少年歌行pro v2p 专用定时任务订阅
+
+由公众号少年歌行pro维护 https://t.me/sngxpro
+
+#### 订阅地址：
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+#### 使用方法：
+
+1、登录最新版本v2p后台
+
+2、选择task
+
+3、选择添加订阅
+
+4、输入上面的订阅地址
+
+5、确定并保存
+
+------------------------------
+
+###  公众号少年歌行pro：3月1日8:00，增加和修复了以下脚本 
+
+1、修复了肥皂大佬的 蛋咖 脚本 不能获取cookie 的bug
+<br>
+2、增加了肥皂大佬的云扫码 脚本
+
+<img src="https://s3.ax1x.com/2021/02/28/6CRWb8.jpg" width="12%">
+
+
+#### 可订阅以下仓库获得脚本：
+     1、【推荐】公众号少年歌行Pro整理的【全网合一】 task仓库订阅地址，包含收集自全网的所有脚本，上述脚本当然也有：
+    https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+    
+     2、公众号少年歌行Pro整理的【age174】 task仓库订阅地址，只包含肥皂大佬的脚本；
+     https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
+     
+     
+#### 注意
+以上订阅仓库中仅包含task订阅，必须要配合cookie才能正确使用，<br>
+懒人包中的重写订阅中包含所有获取cookie重写，使用本懒人包的刷新一下设置即可无需其他操作，后台已生效<br>
+如果您没有使用我的懒人包，仅想使用我的task仓库订阅，<br>
+可以手动加入我的远程获取cookie订阅：
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+
+获取cookie后可禁用此重写哦~  
+
 
 
 

@@ -1,3 +1,21 @@
+###  公众号少年歌行pro：3月2日11:30，仓库增加以下脚本 
+<br>
+1、i-chenzhe大佬的 京东母婴跳一跳二期 脚本
+
+
+#### 仓库订阅地址：
+
+【圈x订阅地址】<br>
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】<br>
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+
+#### 注意：需配合jd的ck使用
+
+-------------
+
 ###  公众号少年歌行pro：3月2日9:50，仓库增加以下脚本 
 <br>
 1、i-chenzhe大佬的京东会员摇京豆脚本

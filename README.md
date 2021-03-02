@@ -10,10 +10,10 @@
 
 #### 仓库订阅地址：
 
-【圈x订阅地址】
+【圈x订阅地址】<br>
 https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
 
-【v2p订阅地址】
+【v2p订阅地址】<br>
 https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 
@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 
 
 2、子夜大佬的boxjs更换地址为
-https://github.com/ziye11/JavaScriptss/blob/main/Task/ziye.boxjs.json
+https://raw.githubusercontent.com/ziye11/JavaScriptss/main/Task/ziye.boxjs.json
 
 
 

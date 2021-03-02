@@ -12,6 +12,7 @@
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_jump-jump.js"
       }
+    },
     {
       "name": "京东会员摇一摇领京豆",
       "type": "cron",
@@ -20,6 +21,7 @@
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_shakeBean.js"
       }
+    },
     {
       "name": "悦动族",
       "type": "cron",

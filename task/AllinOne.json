@@ -2,7 +2,7 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "感谢所有脚本作者，目前脚本总数：295个",
     "task": [                
-	        "0 8,12 * * * http://raw.githubusercontent.com/ziye11/JavaScript/main/Task/ymzhuan.js, tag=羊毛赚（关闭重写才能注册）, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/qiqi.png, enabled=true",
+	        "0 8,12 * * * http://raw.githubusercontent.com/ziye11/JavaScript/main/Task/ymzhuan.js, tag=羊毛赚子夜版（关闭重写才能注册）, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/qiqi.png, enabled=true",
 	        "5 8,14,20 2-7 3 * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_jump-jump.js, tag=京东母婴-跳一跳二期, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
 	        "30,31 20-23/1 2,5 3 * https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jd_live_redrain3day.js, tag=测试红包雨, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
 	        "3 10 1 * * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_shakeBean.js, tag=京东会员-摇京豆, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",

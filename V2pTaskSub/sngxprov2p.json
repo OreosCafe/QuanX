@@ -5,6 +5,15 @@
   "date": "2021-03-03 06:05:02",
   "list": [
     {
+      "name": "京东疯狂的joy挂机",
+      "type": "cron",
+      "time": "10 7 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://gitee.com/shuye72/MyActions/raw/main/jd_crazy_joy_coin.js"
+      }
+    },
+    {
       "name": "步步宝ziye版",
       "type": "cron",
       "time": "0,30 0-23 * * *",

@@ -1,6 +1,6 @@
 {
     "name": "公众号少年歌行pro全网合一整理",
-    "description": "感谢所有脚本作者，目前脚本总数：299个",
+    "description": "感谢所有脚本作者，目前脚本总数：301个",
     "task": [                
                 "10 00 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_daily.js, tag=饿了么领豆（到超级吃货卡抓ck）, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/elem.png, enabled=true",
 	        "00 10 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_mission.js, tag=饿了么会员任务（到超级吃货卡抓ck）, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/elem.png, enabled=true",

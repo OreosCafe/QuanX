@@ -1,3 +1,41 @@
+###  公众号少年歌行pro：3月3日14:30，仓库增加了以下脚本；重写增加了以下功能
+<br>
+
+
+1、新增了 肥皂 大佬的  悬赏喵喵 脚本 【注意，必须配合获取cookie订阅，附后】
+
+2、新增了 python ai 解锁vip 规则 【注意，需配合解锁vip重写订阅，附后】
+
+3、新增了 百度云盘 解锁在线看视频和倍速播放规则【同上】
+
+#### 仓库订阅地址：
+
+【圈x订阅地址】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+#### 获取cookie订阅
+
+[rewrite_remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie, update-interval=86400, opt-parser=false, enabled=true
+
+
+#### 解锁vip订阅
+
+[rewrite_remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=解锁vip, update-interval=86400, opt-parser=false, enabled=true
+
+
+
+
+
+-------------------
 
 ###  公众号少年歌行pro：3月3日16:30，
 <br>

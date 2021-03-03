@@ -12,9 +12,11 @@
 #### 仓库订阅地址：
 
 【圈x订阅地址】<br>
+
 https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】<br>
+
 https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 
@@ -27,7 +29,9 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 （与zzzpiglet、songyangzz两位大佬的饿了么脚本ck不兼容，需要重新提示写入cookie成功才行）
 
 #### 获取cookie订阅
+
 [rewrite_remote]
+
 https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie, update-interval=86400, opt-parser=false, enabled=true
 
 
@@ -38,7 +42,9 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=
 2、增加了 blackmatrix7大佬的 bilibili 去广告和优化规则
 
 #### 解锁vip订阅
+
 [rewrite_remote]
+
 https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=解锁vip, update-interval=86400, opt-parser=false, enabled=true
 
 

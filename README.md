@@ -8,7 +8,7 @@
 
 我为 blackmatrix7 的饿了么脚本 写了一个boxjs订阅
 
-https://github.com/sngxpro/QuanX/blob/master/boxjslist/blackmatrix7.boxjs.json
+https://raw.githubusercontent.com/sngxpro/QuanX/master/boxjslist/blackmatrix7.boxjs.json
 
 -----------------
 

@@ -2,7 +2,9 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "感谢所有脚本作者，目前脚本总数：299个",
     "task": [                
-        	"0,30 0-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/bububao.js, tag=步步宝ziye版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/115.png, enabled=true",
+                "10 00 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_daily.js, tag=饿了么_领取吃货豆, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/elem.png, enabled=true",
+	        "00 10 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_mission.js, tag=饿了么_领取会员任务, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/elem.png, enabled=true",
+	        "0,30 0-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/bububao.js, tag=步步宝ziye版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/115.png, enabled=true",
 	        "0 8-23/2 * * * https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js, tag=步步宝adwktt版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/115.png, enabled=true",
 	        "0 * * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/zhima.js, tag=芝嫲视频ziye版(查看脚本有用法), img-url=https://s3.ax1x.com/2021/02/06/yYzeWn.png, enabled=true",
 	        "15 50 */3 * * * https://raw.githubusercontent.com/age174/-/main/zmsp.js, tag=芝嫲视频肥皂版(查看脚本有用法), img-url=https://s3.ax1x.com/2021/02/06/yYzeWn.png, enabled=true",

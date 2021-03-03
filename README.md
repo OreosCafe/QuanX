@@ -1,3 +1,30 @@
+###  公众号少年歌行pro：3月4日6:00，仓库增加了以下脚本；重写增加了以下功能
+<br>
+
+
+1、新增了 肥皂 大佬的  嘀嗒星球 脚本 【注意，必须配合获取cookie订阅，附后】
+
+
+#### 仓库订阅地址：
+
+【圈x订阅地址】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+#### 获取cookie订阅
+
+[rewrite_remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie, update-interval=86400, opt-parser=false, enabled=true
+
+
+
+----------------------
+
 ###  公众号少年歌行pro：3月3日21:30，仓库增加了以下脚本；重写增加了以下功能
 <br>
 
@@ -33,92 +60,6 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, t
 
 
 
-
-
--------------------
-
-###  公众号少年歌行pro：3月3日16:30，
-<br>
-
-鉴于  blackmatrix7  没有写boxjs，
-
-为了方便v2p用户导cookie，
-
-我为 blackmatrix7 的饿了么脚本 写了一个boxjs订阅
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/boxjslist/blackmatrix7.boxjs.json
-
------------------
-
-###  公众号少年歌行pro：3月3日14:30，仓库增加了以下脚本；重写增加了以下功能
-<br>
-
-###  （一）TASk 仓库 更新说明
-
-1、新增了 blackmatrix7 大佬的饿了么领吃货豆 脚本 【注意，必须配合专用重写获取cookie，附后】
-
-2、新增了 blackmatrix7 大佬的饿了么领会员任务 脚本 【注意，必须配合专用重写获取cookie，附后】
-
-3、新增了 疯狂的joy挂机脚本 【仅v2p仓库，从docker面板提取】
-
-#### 仓库订阅地址：
-
-【圈x订阅地址】<br>
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
-
-【v2p订阅地址】<br>
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
-
-
-### （二）获取cookie订阅 更新说明
-
-增加了对 blackmatrix7 脚本ck获取的支持。
-
-配置完成后，到饿了么---我的--超级吃货卡  可以获取ck 
-
-（与zzzpiglet、songyangzz两位大佬的饿了么脚本ck不兼容，需要重新提示写入cookie成功才行）
-
-#### 获取cookie订阅
-
-[rewrite_remote]
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie, update-interval=86400, opt-parser=false, enabled=true
-
-
-### （三）解锁vip订阅 更新说明
-
-1、增加了ios黑科技的 FainTV解锁会员去广告规则
-
-2、增加了 blackmatrix7大佬的 bilibili 去广告和优化规则
-
-#### 解锁vip订阅
-
-[rewrite_remote]
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=解锁vip, update-interval=86400, opt-parser=false, enabled=true
-
-
-
-
-
-
-------------------
-
-###  公众号少年歌行pro：3月3日7:30，仓库修复一下问题 
-<br>
-
-1、收录了ziye和其他作者重复的脚本，现在可以自行选择使用谁的了
-
-
-#### 仓库订阅地址：
-
-【圈x订阅地址】<br>
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
-
-【v2p订阅地址】<br>
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 
 ---------------------------------

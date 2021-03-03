@@ -5,6 +5,15 @@
   "date": "2021-03-03 14:05:02",
   "list": [
      {
+      "name": "悬赏喵喵",
+      "type": "cron",
+      "time": "15 0,6,12,18, * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/age174/-/main/xsmm.js"
+      }
+    },
+    {
       "name": "饿了么_领取吃货豆",
       "type": "cron",
       "time": "10 00 * * *",

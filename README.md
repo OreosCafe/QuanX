@@ -1,3 +1,17 @@
+
+###  公众号少年歌行pro：3月3日16:30，仓库增加了以下脚本；重写增加了以下功能
+<br>
+
+鉴于  blackmatrix7  没有写boxjs，
+
+为了方便v2p用户导cookie，
+
+我为 blackmatrix7 的饿了么脚本 写了一个boxjs订阅
+
+https://github.com/sngxpro/QuanX/blob/master/boxjslist/blackmatrix7.boxjs.json
+
+-----------------
+
 ###  公众号少年歌行pro：3月3日14:30，仓库增加了以下脚本；重写增加了以下功能
 <br>
 

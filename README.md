@@ -6,6 +6,8 @@ app下载地址：http://app.exxanz.com/?code=SQDDAH
 
 #### 解锁vip订阅（已添加的首页长按风车图标、再点左下角刷新按钮刷新一次即可自动添加生效）
 
+#### 转载请注明出处！
+
 [rewrite_remote]
 
 https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true

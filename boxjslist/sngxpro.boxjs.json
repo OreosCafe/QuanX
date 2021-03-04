@@ -1,0 +1,17 @@
+{
+  "id": "sngxpro.app.sub",
+  "name": "sngxpro v2p迁移ck 中转工具",
+  "author": "@sngxpro",
+  "icon": "https://avatars.githubusercontent.com/u/69911266?s=460&u=e5f306b3fb2860b898f12e87baa91b42eede535c&v=4",
+  "repo": "https://github.com/sngxpro/QuanX",
+  "apps": [{
+    "id": "ydz",
+    "name": "悦动族",
+    "keys": ["yuedongzutoken"],
+    "author": "@ziye",
+    "repo": "https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.js",
+    "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/elem.png", "https://raw.githubusercontent.com/Orz-3/mini/master/elem.png"],
+    "script": "https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.js"
+    }    
+ ]
+}

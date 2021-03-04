@@ -2,7 +2,8 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "感谢所有脚本作者，目前脚本总数：304个",
     "task": [   
-         	"0,30 0-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/qmyd.js, tag=全民悦动(查看脚本下载), img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X005.png, enabled=true",
+                "1 10 3 * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/telecomSky.js, tag=电信天翼套餐查询, img-url=https://raw.githubusercontent.com/Orz-3/task/master/telecominfinty.png, enabled=true",	
+	        "0,30 0-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/qmyd.js, tag=全民悦动(查看脚本下载), img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X005.png, enabled=true",
                 "15 0,6,12,18, * * * https://raw.githubusercontent.com/age174/-/main/ddxq.js, tag=嘀嗒星球, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Yunsaoma.png, enabled=true",
 	        "15 0,6,12,18, * * * https://raw.githubusercontent.com/age174/-/main/xsmm.js, tag=悬赏喵喵, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Yunsaoma.png, enabled=true",
 	        "10 00 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_daily.js, tag=饿了么领豆（到超级吃货卡抓ck）, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/elem.png, enabled=true",
@@ -292,7 +293,6 @@
 		"0 0 8 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/tvpreview.js, tag=节目预告, img-url=https://raw.githubusercontent.com/Sunert/ProxyConfig/master/QuantumultX/Rules/Images/ICON/tvpreview.png, enabled=true",
 		"0 0 8 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/trainquery.js, tag=12306火车时刻, img-url=https://raw.githubusercontent.com/Orz-3/task/master/12306.png, enabled=false",
 		"4 0 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/exchangeRate.js, tag=实时货币换算, img-url=https://raw.githubusercontent.com/Orz-3/task/master/exchangerate.png, enabled=false",
-		"0 0 8 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/telecomInfinity.js, tag=中国电信套餐, img-url=https://raw.githubusercontent.com/Orz-3/task/master/telecominfinty.png, enabled=true",
 		"30 9 8 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/txnews.js, tag=腾讯新闻, img-url= https://raw.githubusercontent.com/Orz-3/task/master/txnews.png, enabled=true",
 		"30 10 8 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jddj.js, tag=京东到家, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jddj.png, enabled=true",
 		"7 10 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/translate.js, tag=谷歌中英互译, img-url= https://raw.githubusercontent.com/Orz-3/task/master/translate.png, enabled=false",

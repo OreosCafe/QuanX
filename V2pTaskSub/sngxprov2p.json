@@ -5,6 +5,15 @@
   "date": "2021-03-04 6:05:02",
   "list": [
     {
+      "name": "小乐优券微信小程序",
+      "type": "cron",
+      "time": "0/15 1-6 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/ziye11/JavaScriptss/main/Task/xiaole.js"
+      }
+    },
+    {
       "name": "云扫码",
       "type": "cron",
       "time": "15 */4 * * *",

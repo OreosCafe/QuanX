@@ -4,7 +4,16 @@
   "desc": "当前脚本数量：303个。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
   "date": "2021-03-04 6:05:02",
   "list": [
-     {
+    {
+      "name": "全民悦动(查看脚本下载)",
+      "type": "cron",
+      "time": "0,30 0-23 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/qmyd.js"
+      }
+    },
+    {
       "name": "嘀嗒星球",
       "type": "cron",
       "time": "15 0,6,12,18, * * *",

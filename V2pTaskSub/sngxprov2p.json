@@ -4,6 +4,15 @@
   "desc": "当前脚本数量：305个。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
   "date": "2021-03-05 0:05:02",
   "list": [
+     {
+      "name": "番茄看看",
+      "type": "cron",
+      "time": "15 12,14,16,20 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/age174/-/main/fqkk.js"
+      }
+    },
     {
       "name": "小乐优券微信小程序",
       "type": "cron",

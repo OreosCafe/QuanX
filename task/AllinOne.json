@@ -25,7 +25,7 @@
 	        "30 8,13,19 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_cfd.js, tag=京喜财富岛(改), img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true",
 	        "15 12,14,16,20 * * * https://raw.githubusercontent.com/age174/-/main/dka.js, tag=蛋咖, img-url=https://s3.ax1x.com/2021/02/28/6C3Gpn.jpg, enabled=true",
 	        "0 0/10 * * * ? https://raw.githubusercontent.com/ziye11/JavaScriptss/main/Task/duokandian.js, tag=多看点ziye版(查看脚本学用法), img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png, enabled=true",
-        	"0 0/10 0,1,2 * * ? https://raw.githubusercontent.com/ziye11/JavaScriptss/main/Task/xiaole.js, tag=小乐优券微信小程序, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/qiqi.png，enabled=true",
+        	"0/15 1-6 * * * https://raw.githubusercontent.com/ziye11/JavaScriptss/main/Task/xiaole.js, tag=小乐优券微信小程序, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/qiqi.png，enabled=true",
 	 	"*/30 * * * * https://raw.githubusercontent.com/ziye11/JavaScriptss/main/Task/iboxpay.js, tag=笑谱ziye版(查看脚本学用法，请挂全局用方法一), img-url=https://qxzy.top/rules/QuantumultX/img/xp.png, enabled=true",  
         	"0 */10 * * * ? https://raw.githubusercontent.com/ziye11/JavaScriptss/main/Task/QQread.js, tag=QQ阅读, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/QQRead.png, enabled=true",
 	        "0 0 * * * https://qxzy.top/rules/QuantumultX/js/jx_cfdtx.js, tag=京喜财富岛提现, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jx_cfd_exchange.png, enabled=true",

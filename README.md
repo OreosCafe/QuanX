@@ -1,3 +1,30 @@
+###  公众号少年歌行pro：3月4日9:30，仓库增加了以下脚本；重写增加了以下功能
+<br>
+
+
+1、新增了 ziye 大佬的  全民悦动 脚本 【注意，必须配合获取cookie订阅，附后】
+
+
+#### 仓库订阅地址：
+
+【圈x订阅地址】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱，當前腳本總數304個】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+#### 获取cookie订阅
+
+[rewrite_remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie, update-interval=86400, opt-parser=false, enabled=true
+
+
+
+-------------------
+
 ###  公众号少年歌行pro：3月4日8:00，增加了以下解鎖vip規則：
 
 1、 69視頻解鎖vip規則（沒有營養快線的同學請離開這裡！危險！）

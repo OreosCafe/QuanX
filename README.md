@@ -1,3 +1,22 @@
+###  公众号少年歌行pro：3月4日8:00，增加了以下解鎖vip規則：
+
+1、 辣椒视频 解锁vip规则（质量很高，没有营养快线顶不住的！相信我！）
+
+下载地址：http://sdfvs.cxfbhy.live/?code=67JALF
+
+
+#### 解锁vip订阅（已添加的首页长按风车图标、再点左下角刷新按钮刷新一次即可自动添加生效）
+
+#### 转载请注明出处！
+
+[rewrite_remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+
+
+------------------
+
+
 ###  公众号少年歌行pro：3月4日9:30，仓库增加了以下脚本；重写增加了以下功能
 <br>
 

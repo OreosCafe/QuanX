@@ -5,6 +5,24 @@
   "date": "2021-03-04 6:05:02",
   "list": [
     {
+      "name": "云扫码",
+      "type": "cron",
+      "time": "15 */4 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/age174/-/main/ysm.js"
+      }
+    },
+    {
+      "name": "蛋咖",
+      "type": "cron",
+      "time": "15 */6 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/age174/-/main/dka.js"
+      }
+    },
+    {
       "name": "文旅看点",
       "type": "cron",
       "time": "*/8 */1 * * *",

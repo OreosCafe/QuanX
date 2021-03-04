@@ -1,3 +1,18 @@
+###  公众号少年歌行pro：3月4日8:00，增加了以下解鎖vip規則：
+
+1、 69視頻解鎖vip規則（沒有營養快線的同學請離開這裡！危險！）
+
+app下载地址：http://app.exxanz.com/?code=SQDDAH
+
+#### 解锁vip订阅（已添加的首页长按风车图标、再点左下角刷新按钮刷新一次即可自动添加生效）
+
+[rewrite_remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+
+
+----------------------
+
 ###  公众号少年歌行pro：3月4日6:00，仓库增加了以下脚本；重写增加了以下功能
 <br>
 

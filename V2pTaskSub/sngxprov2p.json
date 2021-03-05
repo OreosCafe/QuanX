@@ -5,6 +5,15 @@
   "date": "2021-03-05 0:05:02",
   "list": [
      {
+      "name": "京东删除优惠券",
+      "type": "cron",
+      "time": "11 0 * * 1",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_deleteCoupon.js"
+      }
+    },
+    {
       "name": "京东试用(取关200个店铺再用)",
       "type": "cron",
       "time": "30 10 * * *",

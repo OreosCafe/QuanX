@@ -12,6 +12,15 @@
     "repo": "https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.js",
     "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/elem.png", "https://raw.githubusercontent.com/Orz-3/mini/master/elem.png"],
     "script": "https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.js"
-    }    
+    },
+    {
+    "id": "ydz",
+    "name": "全民悦动",
+    "keys": ["qmydtoken"],
+    "author": "@ziye",
+    "repo": "https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.js",
+    "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/elem.png", "https://raw.githubusercontent.com/Orz-3/mini/master/elem.png"],
+    "script": "https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.js"
+    }   
  ]
 }

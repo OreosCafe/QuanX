@@ -4,7 +4,7 @@
     "task": [   
                 "11 0 * * 1 https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_deleteCoupon.js, tag=京东删除优惠券, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
 	        "30 10 * * * https://raw.githubusercontent.com/ZCY01/daily_scripts/main/jd/jd_try.js, tag=京东试用(取关200个店铺再用), img-url=https://raw.githubusercontent.com/ZCY01/img/master/jdtryv1.png, enabled=true",
-	        "10 10 * * *   https://raw.githubusercontent.com/i-chenzhe/qx/master/jd_xmf.js, tag=京东小魔方, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
+	        "10 10 * * * https://raw.githubusercontent.com/i-chenzhe/qx/master/jd_xmf.js, tag=京东小魔方, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 	        "*/8 */1 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/WLAPP/wlapp.js, tag=文旅看点, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/WLAPP/IMG_1068.JPG, enabled=true",
 	        "*/20 0-23 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js, tag=葱花视频, img-url=https://raw.githubusercontent.com/58xinian/icon/master/chsp.png, enabled=true",
 	        "1 10 3 * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/telecomSky.js, tag=电信天翼套餐查询, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/telecominfinty.png, enabled=true",	

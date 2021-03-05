@@ -1,3 +1,26 @@
+###  公众号少年歌行pro：3月5日18:00，增加了以下脚本：
+
+1、 yangtingxiao 大佬的 京东删除优惠券 脚本 ，误删请从电脑版恢复；
+
+2、 zy01大佬的  京东试用 脚本， 请先取关200+个店铺再用；
+
+3、 i-chenzhe 大佬的 京东小魔方 脚本
+
+#### 仓库订阅地址：
+
+【圈x订阅地址】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱，當前腳本總數304個】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+### 注意：以上脚本需配合jd的cookie使用
+
+
+------------------
+
 ###  公众号少年歌行pro：3月4日8:00，增加了以下解鎖vip規則：
 
 1、 辣椒视频 解锁vip规则（质量很高，没有营养快线顶不住的！相信我！）

@@ -181,7 +181,7 @@
       "time": "*/30 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://qxzy.top/rules/QuantumultX/js/ZIYE/Task/iboxpay.js"
+        "target": "https://raw.githubusercontent.com/ziye11/JavaScriptss/main/Task/iboxpay.js"
       }
     },
     {

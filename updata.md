@@ -2,6 +2,134 @@
  
  ### 下面是历史更新列表
  
+ ----------------
+ 
+###  公众号少年歌行pro：3月4日8:00，增加了以下解鎖vip規則：
+
+1、 辣椒视频 解锁vip规则（质量很高，没有营养快线顶不住的！相信我！）
+
+下载地址：http://sdfvs.cxfbhy.live/?code=67JALF
+
+
+#### 解锁vip订阅（已添加的首页长按风车图标、再点左下角刷新按钮刷新一次即可自动添加生效）
+
+#### 转载请注明出处！
+
+[rewrite_remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+
+
+------------------
+
+
+###  公众号少年歌行pro：3月4日9:30，仓库增加了以下脚本；重写增加了以下功能
+<br>
+
+
+1、新增了 ziye 大佬的  全民悦动 脚本 【注意，必须配合获取cookie订阅，附后】
+
+
+#### 仓库订阅地址：
+
+【圈x订阅地址】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱，當前腳本總數304個】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+#### 获取cookie订阅
+
+[rewrite_remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie, update-interval=86400, opt-parser=false, enabled=true
+
+
+
+-------------------
+
+###  公众号少年歌行pro：3月4日8:00，增加了以下解鎖vip規則：
+
+1、 69視頻解鎖vip規則（沒有營養快線的同學請離開這裡！危險！）
+
+app下载地址：http://app.exxanz.com/?code=SQDDAH
+
+#### 解锁vip订阅（已添加的首页长按风车图标、再点左下角刷新按钮刷新一次即可自动添加生效）
+
+#### 转载请注明出处！
+
+[rewrite_remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+
+
+----------------------
+
+###  公众号少年歌行pro：3月4日6:00，仓库增加了以下脚本；重写增加了以下功能
+<br>
+
+
+1、新增了 肥皂 大佬的  嘀嗒星球 脚本 【注意，必须配合获取cookie订阅，附后】
+
+
+#### 仓库订阅地址：
+
+【圈x订阅地址】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱，當前腳本總數303個】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+#### 获取cookie订阅
+
+[rewrite_remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie, update-interval=86400, opt-parser=false, enabled=true
+
+
+
+----------------------
+
+###  公众号少年歌行pro：3月3日21:30，仓库增加了以下脚本；重写增加了以下功能
+<br>
+
+
+1、新增了 肥皂 大佬的  悬赏喵喵 脚本 【注意，必须配合获取cookie订阅，附后】
+
+2、新增了 python ai 解锁vip 规则 【注意，需配合解锁vip重写订阅，附后】
+
+3、新增了 百度云盘 解锁在线看视频和倍速播放规则【同上】
+
+#### 仓库订阅地址：
+
+【圈x订阅地址】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+#### 获取cookie订阅
+
+[rewrite_remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie, update-interval=86400, opt-parser=false, enabled=true
+
+
+#### 解锁vip订阅
+
+[rewrite_remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=解锁vip, update-interval=86400, opt-parser=false, enabled=true
+
+
+
+
  
  
 -------------------

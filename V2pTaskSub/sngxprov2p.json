@@ -4,6 +4,15 @@
   "desc": "当前脚本数量：305个。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
   "date": "2021-03-05 0:05:02",
   "list": [
+     {
+      "name": "京东试用(取关200个店铺再用)",
+      "type": "cron",
+      "time": "30 10 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/ZCY01/daily_scripts/main/jd/jd_try.js"
+      }
+    },
     {
       "name": "京东小魔方",
       "type": "cron",

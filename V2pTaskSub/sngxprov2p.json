@@ -55,7 +55,7 @@
       "time": "0/15 1-6 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://pan.meitudou.cn/Task/xiaole.js"
+        "target": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/master/Task/xiaole.js"
       }
     },
     {
@@ -100,7 +100,7 @@
       "time": "0,30 0-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://pan.meitudou.cn/Task/qmyd.js"
+        "target": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/master/Task/qmyd.js"
       }
     },
     {
@@ -154,7 +154,7 @@
       "time": "0,30 0-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://pan.meitudou.cn/Task/bububao.js"
+        "target": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/master/Task/bububao.js"
       }
     },
     {
@@ -163,16 +163,16 @@
       "time": "0 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://pan.meitudou.cn/Task/zhima.js"
+        "target": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/master/Task/zhima.js"
       }
     },
      {
-      "name": "羊毛赚ziye版",
+      "name": "羊毛赚ziye版（作者已删除脚本）",
       "type": "cron",
       "time": "0 8,12 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://pan.meitudou.cn/Task/ymzhuan.js"
+        "target": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/master/Task/ymzhuan.js"
       }
     },
     {
@@ -199,7 +199,7 @@
       "time": "0,30 0-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://pan.meitudou.cn/Task/yuedongzu.js"
+        "target": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/master/Task/yuedongzu.js"
       }
     },
     {
@@ -217,7 +217,7 @@
       "time": "*/30 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://pan.meitudou.cn/Task/iboxpay.js"
+        "target": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/master/Task/iboxpay.js"
       }
     },
     {

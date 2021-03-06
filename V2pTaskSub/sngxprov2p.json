@@ -55,7 +55,7 @@
       "time": "0/15 1-6 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/ziye11/JavaScriptss/main/Task/xiaole.js"
+        "target": "https://pan.meitudou.cn/Task/xiaole.js"
       }
     },
     {
@@ -100,7 +100,7 @@
       "time": "0,30 0-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/qmyd.js"
+        "target": "https://pan.meitudou.cn/Task/qmyd.js"
       }
     },
     {
@@ -154,7 +154,7 @@
       "time": "0,30 0-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/bububao.js"
+        "target": "https://pan.meitudou.cn/Task/bububao.js"
       }
     },
     {
@@ -163,7 +163,7 @@
       "time": "0 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/zhima.js"
+        "target": "https://pan.meitudou.cn/Task/zhima.js"
       }
     },
      {
@@ -172,7 +172,7 @@
       "time": "0 8,12 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/ymzhuan.js"
+        "target": "https://pan.meitudou.cn/Task/ymzhuan.js"
       }
     },
     {
@@ -199,7 +199,7 @@
       "time": "0,30 0-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.js"
+        "target": "https://pan.meitudou.cn/Task/yuedongzu.js"
       }
     },
     {
@@ -217,7 +217,7 @@
       "time": "*/30 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/ziye11/JavaScriptss/main/Task/iboxpay.js"
+        "target": "https://pan.meitudou.cn/Task/iboxpay.js"
       }
     },
     {

@@ -2,7 +2,8 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "感谢所有脚本作者，目前脚本总数：310个",
     "task": [   
-                "0 10,16,22 * * * https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/master/Task/flw.js, tag=返利网, img-url=https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/master/Task/flw.png, enabled=true",
+                "50 12 * * * https://raw.githubusercontent.com/age174/-/main/yggy.js, tag=阳光果园, img-url=https://s3.ax1x.com/2021/02/06/yYzeWn.png, enabled=true",
+	        "0 10,16,22 * * * https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/master/Task/flw.js, tag=返利网, img-url=https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/master/Task/flw.png, enabled=true",
 	        "0 1 0 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkin_env.js, tag=机场签到（配合boxjs使用）, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/airport.png, enabled=true",
 	        "0,30 0-23 * * * https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/master/Task/yuedongzu.js, tag=悦动族（查看阅读说明）, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X004.png, enabled=true",
 	        "0,30 0-23 * * * https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/master/Task/qmyd.js, tag=全民悦动(查看脚本下载), img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X005.png, enabled=true",

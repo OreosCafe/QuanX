@@ -1,3 +1,27 @@
+###  公众号少年歌行pro：3月6日22:20，进行了如下更新：
+ <br>
+1、 肥皂 大佬的  阳光果园 脚本 （需配合cookie使用，可使用我下方的cookie订阅，也可自行查看脚本手动添加）； <br>
+
+
+#### 仓库订阅地址：
+
+【圈x订阅地址】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱，當前腳本總數304個】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+
+##### 获取cookie订阅
+
+[rewrite_remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+
+------------------------------
+
 ###  公众号少年歌行pro：3月6日19:30，为 ziye 的脚本 换回了官方新的仓库地址，刚刚制作的分流托管地址暂时还能使用，但不再同步更新，请大家换回官方。
 
 #### 我的仓库订阅已后台更新，只需重新在仓库中添加一次，就可以切换完成

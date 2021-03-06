@@ -1,3 +1,32 @@
+###  公众号少年歌行pro：3月6日16:00，进行了如下更新：
+ <br>
+1、 i-chenzhe 大佬的 京东大转盘 脚本 （使用下方仓库订阅获取，需配合jd cookie使用）；
+
+2、 黑科技制作的 波波视频 去广告规则 （需配合下方 解锁vip cookie订阅）；
+
+
+
+#### 仓库订阅地址：
+
+【圈x订阅地址】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱，當前腳本總數304個】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+##### 解锁vip订阅
+
+[rewrite_remote]<br>
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=解锁vip, update-interval=86400, opt-parser=false, enabled=true
+
+
+### ziye的脚本一会更换一下临时地址
+
+
+--------------------------
+
 ###  公众号少年歌行pro：3月5日18:00，增加了以下脚本：
 
 1、 yangtingxiao 大佬的 京东删除优惠券 脚本 ，误删请从电脑版恢复；

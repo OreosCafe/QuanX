@@ -199,7 +199,7 @@
       "time": "5 8,14,20 2-7 3 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_jump-jump.js"
+        "target": "https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_jump_jump.js"
       }
     },
     {

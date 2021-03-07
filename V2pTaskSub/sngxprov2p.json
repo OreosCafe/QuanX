@@ -1,9 +1,27 @@
 {
   "name": "公众号少年歌行pro v2p 专用定时任务订阅",
   "author": "由公众号少年歌行pro维护 https://t.me/sngxpro",
-  "desc": "当前脚本数量：310个。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
-  "date": "2021-03-06 21:00:02",
+  "desc": "当前脚本数量：312个。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
+  "date": "2021-03-07 17:00:02",
   "list": [
+    {
+      "name": "腾讯自选股",
+      "type": "cron",
+      "time": "16 30 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js"
+      }
+    },  
+    {
+      "name": "自选股长牛来了",
+      "type": "cron",
+      "time": "3,30 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockcow.js"
+      }
+    },  
     {
       "name": "阳光果园(需实名)",
       "type": "cron",

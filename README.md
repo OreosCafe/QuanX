@@ -1,3 +1,22 @@
+###  公众号少年歌行pro：3月7日10:20，进行了如下更新：
+
+因ziye再次更改了脚本地址，因此对其进行了适配。
+
+目前 task订阅和cookie订阅都已生效，请圈x首页长按风车---点左下角刷新按钮，全面刷新一次即可生效
+
+### 仓库订阅地址：
+
+【圈x订阅地址】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱，當前腳本總數310個】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+
+-----------------------------
+
 ###  公众号少年歌行pro：3月6日22:20，进行了如下更新：
  <br>
 1、 肥皂 大佬的  阳光果园 脚本 （需配合cookie使用，可使用我下方的cookie订阅，也可自行查看脚本手动添加）； <br>

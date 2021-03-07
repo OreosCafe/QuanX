@@ -19,7 +19,7 @@
       "time": "0 10,16,22 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/master/Task/flw.js"
+        "target": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/master/main/flw.js"
       }
     },
     {
@@ -73,7 +73,7 @@
       "time": "0/15 1-6 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/master/Task/xiaole.js"
+        "target": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/xiaole.js"
       }
     },
     {
@@ -118,7 +118,7 @@
       "time": "0,30 0-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/master/Task/qmyd.js"
+        "target": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/qmyd.js"
       }
     },
     {
@@ -172,7 +172,7 @@
       "time": "0,30 0-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/master/Task/bububao.js"
+        "target": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/bububao.js"
       }
     },
     {
@@ -181,7 +181,7 @@
       "time": "0 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/master/Task/zhima.js"
+        "target": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/zhima.js"
       }
     },
      {
@@ -190,7 +190,7 @@
       "time": "0 8,12 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/master/Task/ymzhuan.js"
+        "target": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/ymzhuan.js"
       }
     },
     {
@@ -217,7 +217,7 @@
       "time": "0,30 0-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/master/Task/yuedongzu.js"
+        "target": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/yuedongzu.js"
       }
     },
     {
@@ -235,7 +235,7 @@
       "time": "*/30 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/master/Task/iboxpay.js"
+        "target": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/iboxpay.js"
       }
     },
     {

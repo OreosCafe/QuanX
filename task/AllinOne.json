@@ -3,7 +3,7 @@
     "description": "感谢所有脚本作者，目前脚本总数：312个",
     "task": [   
                 "3,30 0 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockcow.js, tag=自选股长牛来了（看脚本手动加cookie订阅）, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png, enabled=true",	
-	        "16 30 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js, tag=腾讯自选股, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png, enabled=true",
+	        "16 30 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js, tag=自选股, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png, enabled=true",
 	        "0 10,16,22 * * * https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/flw.js, tag=返利网, img-url=https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/flw.png, enabled=true",
 	        "0,30 0-23 * * * https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/yuedongzu.js, tag=悦动族（查看阅读说明）, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/main/IconSet/X004.png, enabled=true",
 	        "0,30 0-23 * * * https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/qmyd.js, tag=全民悦动(查看脚本下载), img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/main/IconSet/X005.png, enabled=true",

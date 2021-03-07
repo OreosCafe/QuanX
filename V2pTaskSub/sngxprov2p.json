@@ -19,7 +19,7 @@
       "time": "0 10,16,22 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/master/main/flw.js"
+        "target": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/flw.js"
       }
     },
     {

@@ -1,15 +1,4 @@
-###  公众号少年歌行pro：3月8日16:20，进行了如下更新：
-
-1、应群友要求，增加了 桃子视频 解锁vip 规则 （老早就有的规则忘记加了）
-
-下载地址：https://av2.fit?code=ECLCJELC
-
-没有营养快线请勿使用
-
-### 使用方法：订阅我的解锁vip订阅即可
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf
-
+###  公众号少年歌行pro：3月8日16:20，桃子规则有问题，修正中
 
 
 ----------------

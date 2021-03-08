@@ -1,6 +1,6 @@
 {
     "name": "公众号少年歌行pro全网合一整理",
-    "description": "感谢所有脚本作者，目前脚本总数：312个",
+    "description": "感谢所有脚本作者，目前脚本总数：314个",
     "task": [   
                 "30 8 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jxd.js, tag=京小兑, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_jxd.png, enabled=true",
 	        "0 7 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/pyq.js, tag=评友圈, enabled=true",

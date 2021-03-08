@@ -5,6 +5,15 @@
   "date": "2021-03-08 14:00:02",
   "list": [
     {
+      "name": "京小兑",
+      "type": "cron",
+      "time": "30 8 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jxd.js"
+      }
+    },  
+    {
       "name": "评友圈",
       "type": "cron",
       "time": "15 * * * *",

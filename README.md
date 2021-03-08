@@ -19,9 +19,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 
 [rewrite_remote]
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
-
-
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 
 
 ---------------------------------

@@ -1,8 +1,6 @@
-###  公众号少年歌行pro：3月7日10:20，进行了如下更新：
+###  公众号少年歌行pro：3月8日14:20，进行了如下更新：
 
-因ziye再次更改了脚本地址，因此对其进行了适配。
-
-目前 task订阅和cookie订阅都已生效，请圈x首页长按风车---点左下角刷新按钮，全面刷新一次即可生效
+1、增加了  执意 的 评友圈 脚本
 
 ### 仓库订阅地址：
 
@@ -15,122 +13,13 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
 https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 
------------------------------
-
-###  公众号少年歌行pro：3月6日22:20，进行了如下更新：
- <br>
-1、 肥皂 大佬的  阳光果园 脚本 （需配合cookie使用，可使用我下方的cookie订阅，也可自行查看脚本手动添加）； <br>
-
-
-#### 仓库订阅地址：
-
-【圈x订阅地址】<br>
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
-
-【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱，當前腳本總數304個】<br>
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
-
-
-##### 获取cookie订阅
+#### 注意：需配合cookie使用，请查看脚本，按说明手动配置，或使用下方我的cookie订阅
 
 [rewrite_remote]
 
 https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
 
-------------------------------
 
-###  公众号少年歌行pro：3月6日19:30，为 ziye 的脚本 换回了官方新的仓库地址，刚刚制作的分流托管地址暂时还能使用，但不再同步更新，请大家换回官方。
-
-#### 我的仓库订阅已后台更新，只需重新在仓库中添加一次，就可以切换完成
-
-#### 我的获取cookie订阅已后台更新完成，只需在圈x首页长按风车--点左下角的全部刷新按钮即可完成同步
-
-#### ziye新的boxjs地址：https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/ziye.boxjs.json
-
-
---------------------
-
-###  公众号少年歌行pro：3月6日17:00，为 ziye 的脚本 提供了临时国内服务器托管地址：
-
-1、如果您使用了我的订阅仓库，刷新重新从仓库中添加脚本即可使用，【圈x仓库】和【v2p仓库】都已完成替换；<br>
-
-2、如果您没有使用我的订阅仓库，可以使用我的托管地址替换原来的失效地址。替换方法如下：<br>
-
-2-1、将子夜脚本失效链接中，脚本名称.js之前的链接全部替换为我的托管链接：https://pan.meitudou.cn/Task/  <br>
-
-2-2、比如，步步宝脚本原地址为http://raw.XXXXXXXX/xxxxxxx/xxxxx/bububao.js,<br>
-
-粗暴替换bububao.js前面的地址，<br>
-
-就变成了：https://pan.meitudou.cn/Task/bububao.js<br>
-
-即可使用。<br>
-
-2-3、其他ziye的所有文件的地址都是同样替换即可的，比如ziye的boxjs地址变为<br>
-
-https://pan.meitudou.cn/Task/ziye.boxjs.json<br>
-
-#### 注意：此托管服务器是国内的，无需科学上网，流量应该够用，且用且看，买不起流量了再说，
-
-#### 声明1：等待大佬恢复官方地址后自动停用
-
-#### 声明2：只提供了临时托管，脚本内容未做任何修改，请支持脚本作者本人
-
-#### 声明3：托管脚本内容截止到3月6日下午17:00，如有新脚本需要托管请提醒我
-
---------------------------
-
-###  公众号少年歌行pro：3月6日16:00，进行了如下更新：
- <br>
-1、 i-chenzhe 大佬的 京东大转盘 脚本 （使用下方仓库订阅获取，需配合jd cookie使用）； <br>
-
-2、 黑科技制作的 波波视频 解锁vip和去广告规则 （需配合下方 解锁vip cookie订阅）； <br>
-下载地址：http://wssp22.com
-
-
-
-#### 仓库订阅地址：
-
-【圈x订阅地址】<br>
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
-
-【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱，當前腳本總數304個】<br>
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
-
-##### 解锁vip订阅
-
-[rewrite_remote]<br>
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=解锁vip, update-interval=86400, opt-parser=false, enabled=true
-
-
-### ziye的脚本一会更换一下临时地址
-
-
---------------------------
-
-###  公众号少年歌行pro：3月5日18:00，增加了以下脚本：
-
-1、 yangtingxiao 大佬的 京东删除优惠券 脚本 ，误删请从电脑版恢复；
-
-2、 zy01大佬的  京东试用 脚本， 请先取关200+个店铺再用；
-
-3、 i-chenzhe 大佬的 京东小魔方 脚本
-
-#### 仓库订阅地址：
-
-【圈x订阅地址】<br>
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
-
-【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱，當前腳本總數304個】<br>
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
-
-##### 注意：以上脚本需配合jd的cookie使用
 
 
 ---------------------------------

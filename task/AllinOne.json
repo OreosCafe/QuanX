@@ -2,7 +2,7 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "感谢所有脚本作者，目前脚本总数：312个",
     "task": [   
-                "15 * * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/pyq.js, tag=评友圈, enabled=true",
+                "0 7 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/pyq.js, tag=评友圈, enabled=true",
 	    	"16 30 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js, tag=自选股, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png, enabled=true",
 	        "3,30 0 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockcow.js, tag=自选股长牛来了（看脚本手动加cookie订阅）, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png, enabled=true",	
 	        "0 10,16,22 * * * https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/flw.js, tag=返利网, img-url=https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/flw.png, enabled=true",

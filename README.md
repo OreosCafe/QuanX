@@ -1,4 +1,22 @@
 
+###  公众号少年歌行pro：3月9日17:10，进行了如下更新：
+
+1、转载了 羞羞漫画解锁vip规则，作者qq群528680197
+
+app可在appstore中下载。规则需登录账号后才生效。
+
+#### 使用方法：添加我的解锁vip订阅即可（已添加此订阅的，圈x首页长按右下角风车--点击左下角刷新按钮刷新一次就可以生效了）
+
+[rewrite_remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+
+
+
+-------------
+
+
+
 ###  公众号少年歌行pro：3月9日16:10，进行了如下更新：
 
 1、增加了自己写的 樊登读书解锁付费课程规则，和前面那个解锁书籍的可以一起用了

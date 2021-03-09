@@ -1,3 +1,24 @@
+###  公众号少年歌行pro：3月9日8:20，进行了如下更新：
+
+1、增加了  lxk0301 的 京东国际-环球挑战赛 脚本
+
+2、增加了  lxk0301 的  京东极速版红包 脚本
+
+### 仓库订阅地址：
+
+【圈x订阅地址】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱，當前腳本總數310個】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+### 注意：需配合jd的cookie使用
+
+-----------------------------
+
+
 ###  公众号少年歌行pro：3月8日16:20，桃子规则有问题，修正中
 
 

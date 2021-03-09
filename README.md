@@ -1,8 +1,23 @@
+
+###  公众号少年歌行pro：3月9日16:10，进行了如下更新：
+
+1、增加了自己写的 樊登读书解锁付费课程规则，和前面那个解锁书籍的可以一起用了
+
+#### 使用方法：添加我的解锁vip订阅即可
+
+[rewrite_remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+
+
+
+-------------
+
 ###  公众号少年歌行pro：3月9日15:10，进行了如下更新：
 
 1、增加了自己写的 樊登读书解锁付费书籍 规则
 
-### 使用方法：添加我的解锁vip订阅即可
+#### 使用方法：添加我的解锁vip订阅即可
 
 [rewrite_remote]
 

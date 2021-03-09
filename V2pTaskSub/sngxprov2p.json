@@ -4,7 +4,16 @@
   "desc": "当前脚本数量：313个。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
   "date": "2021-03-09 08:35:02",
   "list": [
-   {
+  {
+      "name": "火山小视频极速版",
+      "type": "cron",
+      "time": "0 * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/hotsoon_old.js"
+      }
+    },  
+    {
       "name": "京东国际-环球挑战赛",
       "type": "cron",
       "time": "0 9 8-31 3 *",

@@ -1,3 +1,19 @@
+--------------
+
+###  公众号少年歌行pro：3月10日17:10，进行了如下更新：
+
+1、增加了自己写的 汤头条  解锁vip规则，转载请注明出处， 对了，准备好营养快线再使用啊~
+
+下载地址：ttt.tips
+
+#### 使用方法：添加我的解锁vip订阅即可（已添加此订阅的，圈x首页长按右下角风车--点击左下角刷新按钮刷新一次就可以生效了）
+
+[rewrite_remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+-------------------
+
+
 ###  公众号少年歌行pro：3月10 日8:00，进行了如下更新：
 
 1、增加了  肥皂 的 幸运赚点 脚本

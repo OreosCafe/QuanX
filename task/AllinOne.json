@@ -2,7 +2,7 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "感谢所有脚本作者，目前脚本总数：315个",
     "task": [   
-	        "15 13 * * * https://raw.githubusercontent.com/age174/-/main/cfz.js, tag=春风转, img-url=https://ae01.alicdn.com/kf/U8a3a2572bf5d4584928d1d7cde52b50ba.jpg, enabled=true",
+	        "*/30 8-22 * * * https://raw.githubusercontent.com/age174/-/main/cfz.js, tag=春风转, img-url=https://ae01.alicdn.com/kf/U8a3a2572bf5d4584928d1d7cde52b50ba.jpg, enabled=true",
 	        "20 12 * * * https://raw.githubusercontent.com/age174/-/main/xyzd.js, tag=幸运赚点, img-url=https://ae01.alicdn.com/kf/U1680ecdfa17544669c71e00400c542e31.jpg, enabled=true", 
 	        "15 13 * * * https://raw.githubusercontent.com/age174/-/main/hldsp.js, tag=哈喽短视频, img-url=https://ae01.alicdn.com/kf/Uda8ecbbe50444fe293b538cbccf9d719q.jpg, enabled=true",
 	        "30,31 20-23/1 9,12 3 * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_live_redrain.js, tag=超级直播间红包雨临时活动, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",

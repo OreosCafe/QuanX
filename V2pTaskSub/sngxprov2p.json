@@ -7,7 +7,7 @@
     {
       "name": "春风转",
       "type": "cron",
-      "time": "15 13 * * *",
+      "time": "*/30 8-22 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/age174/-/main/cfz.js"

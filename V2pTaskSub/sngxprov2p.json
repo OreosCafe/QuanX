@@ -5,6 +5,15 @@
   "date": "2021-03-10 08:00:02",
   "list": [
     {
+      "name": "春风转",
+      "type": "cron",
+      "time": "15 13 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/age174/-/main/cfz.js"
+      }
+    },  
+    {
       "name": "哈喽短视频",
       "type": "cron",
       "time": "15 13 * * *",

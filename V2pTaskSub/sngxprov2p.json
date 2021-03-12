@@ -5,6 +5,15 @@
   "date": "2021-03-10 08:00:02",
   "list": [
     {
+      "name": "番茄小说",
+      "type": "cron",
+      "time": "*/30 8-22 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/fqxs.js"
+      }
+    },  
+    {
       "name": "春风转",
       "type": "cron",
       "time": "*/30 8-22 * * *",

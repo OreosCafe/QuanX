@@ -1,3 +1,25 @@
+
+###  公众号少年歌行pro：3月12日9:10，进行了如下更新：
+
+1、增加了ziye 大佬的 书旗小说 脚本
+
+
+### 仓库订阅地址：
+
+【圈x订阅地址】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+
+#### 注意：需配合cookie使用
+
+
+---------------------
+
 ###  公众号少年歌行pro：3月12日9:10，进行了如下更新：
 
 1、增加了执意大佬的 番茄小说 脚本

@@ -1,3 +1,36 @@
+###  公众号少年歌行pro：3月12日21:00，进行了如下更新：
+
+1、增加了姐姐的 书旗小说 脚本
+
+2、增加了姐姐的 书旗小说刷时长 脚本
+
+
+### 仓库订阅地址：
+
+【圈x订阅地址】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+
+### 获取cookie订阅 （共4条，自行复制后粘贴到圈x配置对应位置）
+
+[rewrite_remote]
+
+https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/cookie.conf, tag=姐姐书旗一般ck（不能和其他书旗同时打勾）, update-interval=86400, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/spcookie.conf, tag=姐姐书旗极速ck（不能和其他书旗同时打勾）, update-interval=86400, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/lottery.conf, tag=姐姐书旗一般转转转ck（不能和其他书旗同时打勾）, update-interval=86400, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/everday.conf, tag=姐姐书旗一般转转转ck（不能和其他书旗同时打勾）, update-interval=86400, opt-parser=false, enabled=false
+
+#### cookie 的抓法请严格按照下面的说明进行
+
+https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/readme.js
+
+
+---------------------------
 
 ###  公众号少年歌行pro：3月12日9:10，进行了如下更新：
 

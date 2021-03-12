@@ -5,6 +5,15 @@
   "date": "2021-03-12 08:00:02",
   "list": [
    {
+      "name": "书旗小说ziye版",
+      "type": "cron",
+      "time": "7 0-23 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/shuqi.js"
+      }
+    },  
+    {
       "name": "喵喵记账",
       "type": "cron",
       "time": "15 7,15 * * *",

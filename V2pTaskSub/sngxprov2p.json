@@ -106,7 +106,7 @@
     {
       "name": "腾讯自选股",
       "type": "cron",
-      "time": "16 30 * * *",
+      "time": "30 16 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js"

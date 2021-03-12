@@ -2,9 +2,27 @@
   "name": "公众号少年歌行pro v2p 专用定时任务订阅",
   "author": "由公众号少年歌行pro维护 https://t.me/sngxpro",
   "desc": "当前脚本数量：313个。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
-  "date": "2021-03-12 08:00:02",
+  "date": "2021-03-12 21:00:02",
   "list": [
-   {
+     {
+      "name": "书旗小说姐姐版刷时长",
+      "type": "cron",
+      "time": "*/6 * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqireadtime.js"
+      }
+    },  
+    {
+      "name": "书旗小说姐姐版",
+      "type": "cron",
+      "time": "*/4 * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.js"
+      }
+    },  
+    {
       "name": "书旗小说ziye版",
       "type": "cron",
       "time": "7 0-23 * * *",

@@ -3,7 +3,7 @@
     "description": "感谢所有脚本作者，目前脚本总数：316个",
     "task": [   
 	        "*/6 * * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqireadtime.js, tag=书旗小说姐姐刷时长, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.png, enabled=true", 
-	        "*/4 * * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.js, tag=书旗小说姐姐版，img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.png, enabled=true",
+	        "*/4 * * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.js, tag=书旗小说姐姐版, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.png, enabled=true",
 	        "7 0-23 * * * https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/shuqi.js, tag=书旗小说ziye版, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.png, enabled=true",
 	        "15 7,15 * * * https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/mmjz.js, tag=喵喵记账, img-url=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Icon/mmjz.png, enabled=true",
 	        "*/30 9-22 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/fqxs.js, tag=番茄小说, enabled=true",

@@ -3,7 +3,156 @@
  ### 下面是历史更新列表
  
  ----------------
- 
+-----------------------
+
+###  公众号少年歌行pro：3月12日21:00，进行了如下更新：
+
+1、增加了姐姐的 书旗小说 脚本
+
+2、增加了姐姐的 书旗小说刷时长 脚本
+
+
+### 仓库订阅地址：
+
+【圈x订阅地址】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+
+### 获取cookie订阅 （共4条，自行复制后粘贴到圈x配置对应位置）
+
+[rewrite_remote]
+
+https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/cookie.conf, tag=姐姐书旗一般ck（不能和其他书旗同时打勾）, update-interval=86400, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/spcookie.conf, tag=姐姐书旗极速ck（不能和其他书旗同时打勾）, update-interval=86400, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/lottery.conf, tag=姐姐书旗一般转转转ck（不能和其他书旗同时打勾）, update-interval=86400, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/everday.conf, tag=姐姐书旗刷时长ck（不能和其他书旗同时打勾）, update-interval=86400, opt-parser=false, enabled=false
+
+#### cookie 的抓法请严格按照下面的说明进行
+
+https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/readme.js
+
+
+---------------------------
+
+###  公众号少年歌行pro：3月12日9:10，进行了如下更新：
+
+1、增加了ziye 大佬的 书旗小说 脚本
+
+
+### 仓库订阅地址：
+
+【圈x订阅地址】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+
+#### 注意：需配合cookie使用
+
+
+---------------------
+
+###  公众号少年歌行pro：3月12日9:10，进行了如下更新：
+
+1、增加了执意大佬的 番茄小说 脚本
+
+2、公众号 墨鱼手记 的 喵喵记账 脚本
+
+
+### 仓库订阅地址：
+
+【圈x订阅地址】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+
+#### 注意：需配合cookie使用，请查看脚本，按说明手动配置，或使用下方我的cookie订阅
+
+[rewrite_remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+
+
+-------------
+
+###  公众号少年歌行pro：3月11日10:10，进行了如下更新：
+
+1、增加了肥皂大佬的 春风转脚本
+
+
+### 仓库订阅地址：
+
+【圈x订阅地址】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+
+#### 注意：需配合cookie使用，请查看脚本，按说明手动配置，或使用下方我的cookie订阅
+
+[rewrite_remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+
+
+-------------------
+
+--------------
+
+###  公众号少年歌行pro：3月10日17:10，进行了如下更新：
+
+1、增加了自己写的 汤头条  解锁vip规则，转载请注明出处， 对了，准备好营养快线再使用啊~
+
+下载地址：ttt.tips
+
+#### 使用方法：添加我的解锁vip订阅即可（已添加此订阅的，圈x首页长按右下角风车--点击左下角刷新按钮刷新一次就可以生效了）
+
+[rewrite_remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+
+
+-------------------
+
+
+###  公众号少年歌行pro：3月10 日8:00，进行了如下更新：
+
+1、增加了  肥皂 的 幸运赚点 脚本
+
+2、增加了  肥皂 的 哈喽短视频 脚本
+
+### 仓库订阅地址：
+
+【圈x订阅地址】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】<br>
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+
+#### 注意：需配合cookie使用，请查看脚本，按说明手动配置，或使用下方我的cookie订阅
+
+[rewrite_remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
+
 
 --------------
 

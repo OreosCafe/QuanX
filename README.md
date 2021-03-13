@@ -4,7 +4,7 @@
 
 
 ### 仓库订阅地址：
-
+```properties
 【圈x订阅地址】<br>
 
 https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
@@ -12,15 +12,15 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
 【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】<br>
 
 https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
-
+```
 
 #### 注意：需配合cookie使用，请查看脚本，按说明手动配置，或使用下方我的cookie订阅
-
+```properties
 [rewrite_remote]
 
 https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
 
-
+```
 
 
 

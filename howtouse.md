@@ -3,8 +3,10 @@
 
 （一）订阅基础懒人包配置<br>
 
+```properties
+
 1.复制2021版懒人包订阅地址，如下<br>
-2.
+
 https://raw.githubusercontent.com/sngxpro/QuanX/master/sngx2021.conf
 
 2.打开QuanX，轻点右下角圆形旋转图标，然后将菜单下拉至最底端，选择“下载”<br>
@@ -21,7 +23,11 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/sngx2021.conf
 
 8.基础懒人包赠送了5个高速节点，可以拿来即用【失效中，待更新】<br>
 
+```
+
 （二）订阅懒人包任务（task）配置<br>
+
+```properties
 
 1.选择想要加载的库，根据下文对照表，找到订阅地址。<br>（也可在最上方文件列表中，进入task文件夹选择想要的仓库文件，点击raw获取真实地址，复制地址即为订阅地址）<br>
 
@@ -35,15 +41,24 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/sngx2021.conf
 
 6.注意：第一次点击上一步的好，有可能不出现我们粘贴进去的新仓库，而是出现一个叫sample的空仓库，这是圈x的示例功能，请重复操作一遍即可<br>
 
+```
+
 （三）可用仓库订阅地址对照表【为每个脚本作者的脚本制作了独立订阅仓库，其中全网合一仓库包含出shylocks大佬外所有仓库内容】<br>
 
+
 1、强烈推荐，真懒人配置，一劳永逸<br>
+
+```properties
 
 heart 【公众号少年歌行pro多网合一订阅地址，包含下方全部仓库的脚本】<br>
 
 https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
 
+```
+
 2、各位脚本作者大佬的单独订阅仓库位置，方便大家知道该感谢谁<br>
+
+```properties
 
 排名不分先后，仅按我收录的时间排序<br>
 
@@ -220,3 +235,5 @@ heart【age174 仓库订阅地址】
 https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
 
 蜗牛吧|多看点|bigfun|金钱豹|芝嫲视频|羊毛赚|陌嗨短视频|
+
+```

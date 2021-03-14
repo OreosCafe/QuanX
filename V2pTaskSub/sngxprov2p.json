@@ -5,6 +5,15 @@
   "date": "2021-03-14 15:00:02",
   "list": [
     {
+      "name": "京东国际盲盒",
+      "type": "cron",
+      "time": "0 9,12,20,21 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_global_mh.js"
+      }
+    },   
+    {
       "name": "京东众筹许愿池",
       "type": "cron",
       "time": "10 10,15 13-20 3 *",

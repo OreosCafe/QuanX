@@ -4,7 +4,16 @@
   "desc": "当前脚本数量：313个。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
   "date": "2021-03-14 15:00:02",
   "list": [
-  {
+    {
+      "name": "京东直播",
+      "type": "cron",
+      "time": "10-20/5 12 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_live.js"
+      }
+    },   
+    {
       "name": "京东美的家电节",
       "type": "cron",
       "time": "15 10 10-31 3 *",

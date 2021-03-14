@@ -1,3 +1,27 @@
+###  公众号少年歌行pro：3月15日00:30，补充了几个漏掉的脚本：
+
+```properties
+
+1、增加了lxk0301大佬的 京东直播 脚本
+
+2、补充了lxk0301大佬的 京东疯狂的joy挂机 脚本 （圈x配置）
+
+```
+
+### 仓库订阅地址：
+```properties
+【圈x订阅地址】
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+```
+
+#### 注意：需配合jd cookie使用
+
+-------------
 ###  公众号少年歌行pro：3月14日16:30，进行了如下更新：
 ```
 新写了一个 啪哩啪哩视频解锁vip+下载次数+无限观影+清晰度权限 规则

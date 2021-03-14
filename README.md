@@ -22,9 +22,6 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 
 #### 注意：需配合jd cookie使用
 
-```
-
-
 
 
 ---------------

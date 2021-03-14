@@ -2,6 +2,7 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "感谢所有脚本作者，目前脚本总数：319个",
     "task": [   
+	        "10 10,15 13-20 3 * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_wish.js, tag=京东众筹许愿池, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
 	        "5,35 9-22 * * * https://raw.githubusercontent.com/age174/-/main/wkzz.js, tag=微客众智, img-url=https://ae01.alicdn.com/kf/Uff0a0bb9e66a479591c9b02c176fd276A.jpg, enabled=true",
 	        "*/6 * * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqireadtime.js, tag=书旗小说姐姐刷时长, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.png, enabled=true", 
 	        "*/4 * * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.js, tag=书旗小说姐姐版, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.png, enabled=true",

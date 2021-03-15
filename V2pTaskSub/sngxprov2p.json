@@ -5,6 +5,15 @@
   "date": "2021-03-15 12:00:02",
   "list": [
    {
+      "name": "京喜农场whyour版",
+      "type": "cron",
+      "time": "0 9,12,18 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.js"
+      }
+    },   
+    {
       "name": "京东手机尚学季",
       "type": "cron",
       "time": "0 0 0 * * *",

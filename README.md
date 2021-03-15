@@ -4,6 +4,8 @@
 
 1、增加了lxk0301大佬的 京东手机尚学季 脚本
 
+手机尚学季活动地址：https://pro.m.jd.com/mall/active/23yuC2muhsBnv2515p8xLxC3D8Lv/index.html
+
 
 ```
 

@@ -1,3 +1,29 @@
+###  公众号少年歌行pro：3月15日12:00，增加了以下脚本：
+
+```properties
+
+1、增加了lxk0301大佬的 京东手机尚学季 脚本
+
+
+```
+
+### 仓库订阅地址：
+```properties
+【圈x订阅地址】
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+```
+
+#### 注意：需配合jd cookie使用
+
+
+-----------------
+
+
 ###  公众号少年歌行pro：3月15日00:30，补充了几个漏掉的脚本：
 
 ```properties

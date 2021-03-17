@@ -1,112 +1,10 @@
-###  公众号少年歌行pro：3月16日7:00，增加了以下脚本：
-
-```properties
-
-1、增加了执意大佬的 快看点 脚本  ，之前下架过，又可以快乐了
-
-
-```
-
-### 仓库订阅地址：
-```properties
-【圈x订阅地址】
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
-
-【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
-```
-
-#### 注意：需配合cookie使用，可查看脚本手动配置，也可使用我的cookie订阅
-
-```
-[rewrite remote]
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
-
-```
-
-
-----------------
-
-###  公众号少年歌行pro：3月15日12:00，增加了以下脚本：
-
-```properties
-
-1、增加了lxk0301大佬的 京东手机尚学季 脚本
-
-手机尚学季活动地址：https://pro.m.jd.com/mall/active/23yuC2muhsBnv2515p8xLxC3D8Lv/index.html
-
-
-```
-
-### 仓库订阅地址：
-```properties
-【圈x订阅地址】
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
-
-【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
-```
-
-#### 注意：需配合jd cookie使用
-
-
------------------
-
-
-###  公众号少年歌行pro：3月15日00:30，补充了几个漏掉的脚本：
-
-```properties
-
-1、增加了lxk0301大佬的 京东直播 脚本
-
-2、补充了lxk0301大佬的 京东疯狂的joy挂机 脚本 （圈x配置）
-
-```
-
-### 仓库订阅地址：
-```properties
-【圈x订阅地址】
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
-
-【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
-```
-
-#### 注意：需配合jd cookie使用
-
--------------
-###  公众号少年歌行pro：3月14日16:30，进行了如下更新：
-```
-新写了一个 啪哩啪哩视频解锁vip+下载次数+无限观影+清晰度权限 规则
-
-此订阅使用了泛域名解析，和很多其他脚本、规则冲突，一定现用现开，
-不看视频了就关掉这个订阅!最好是看视频时用这个不开别的，不看了关这个开别的。以防出现错误
-```
-使用方法：将[rewrite_remote]标签下面的内容粘贴到您圈x配置文件的[rewrite_remote]标签下，刷新配置即可生效
-
-```
-[rewrite_remote]
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/palipalivip.conf, tag=啪哩啪哩破解（与其他规则冲突用完就关闭）, update-interval=86400, opt-parser=false, enabled=false
-
-```
------------------
-
 ###  公众号少年歌行pro：3月14日15:00，进行了如下更新：
 
 ```properties
 
-1、增加了i-chenzhe大佬的 京东美的家电节 脚本
+1、增加了i-chenzhe大佬的 京东一加盲盒 脚本
 
-2、增加了i-chenzhe大佬的 京东洗护发超级品类日 脚本
 
-3、增加了i-chenzhe大佬的 京东众筹许愿池 脚本
 ```
 
 ### 仓库订阅地址：
@@ -122,33 +20,6 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 
 #### 注意：需配合jd cookie使用
 
-
-
----------------
-
-###  公众号少年歌行pro：3月13日21:00，进行了如下更新：
-
-1、增加了肥皂的 微客众智 脚本
-
-
-### 仓库订阅地址：
-```properties
-【圈x订阅地址】
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
-
-【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
-```
-
-#### 注意：需配合cookie使用，请查看脚本，按说明手动配置，或使用下方我的cookie订阅
-```properties
-[rewrite_remote]
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf
-
-```
 
 
 

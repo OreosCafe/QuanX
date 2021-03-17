@@ -2,15 +2,15 @@
   "name": "公众号少年歌行pro v2p 专用定时任务订阅",
   "author": "由公众号少年歌行pro维护 https://t.me/sngxpro",
   "desc": "当前脚本数量：313个。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
-  "date": "2021-03-15 12:00:02",
+  "date": "2021-03-16 17:00:02",
   "list": [
      {
-      "name": "快看点",
+      "name": "京东一加盲盒",
       "type": "cron",
-      "time": "*/20 * * * *",
+      "time": "11 12 17-30 3 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/kkd.js"
+        "target": "https://raw.githubusercontent.com/i-chenzhe/qx/main/z_oneplus.js"
       }
     },   
    {

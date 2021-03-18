@@ -15,7 +15,7 @@ k009.taoyuoo.top
 
 重写
 
-https://k009.taoyuoo.top/app/index.php? url script-request-header ygkc.js
+https://k009.taoyuoo.top/app/index.php? url script-request-header https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/ygkc.js
  */
 
 

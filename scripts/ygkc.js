@@ -27,7 +27,7 @@ const ygkcurlArr = [], ygkchdArr = [],ygkccount = ''
 let times = Math.round(Date.now() / 1000)
 let ygkcurl = $.getdata('ygkcurl')
 let ygkchd = $.getdata('ygkchd')
-let jc = 1
+let jc = 1000
 !(async () => {
   if (typeof $request !== "undefined") {
     await ygkcck()

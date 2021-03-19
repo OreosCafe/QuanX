@@ -2,8 +2,8 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "感谢所有脚本作者，目前脚本总数：320个",
     "task": [   
-	        "5 1,6,11,16,21 * 3-4 * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_super5g.js, tag=5G超级盲盒, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
-	        "5 10 * 3 * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_mgold.js, tag=金口碑奖投票, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
+	        "5 1,6,11,16,21 * 3-4 * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_super5g.js, tag=京东5G超级盲盒, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
+	        "5 10 * 3 * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_mgold.js, tag=京东金口碑奖投票, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 	        "0 7 * * * https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/ygkc.js, tag=阳光矿场, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Yunsaoma.png, enabled=true",
 	        "11 12 17-30 3 * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_oneplus.js, tag=京东一加盲盒, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true", 
 	        "*/20 * * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/kkd.js, tag=快看点, img-url=https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/img/kkd.png, enabled=true",

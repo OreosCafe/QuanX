@@ -5,6 +5,24 @@
   "date": "2021-03-18 23:00:02",
   "list": [
      {
+      "name": "京东金口碑奖投票",
+      "type": "cron",
+      "time": "5 10 * 3 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/i-chenzhe/qx/main/z_mgold.js"
+      }
+    }, 
+    {
+      "name": "京东5G超级盲盒",
+      "type": "cron",
+      "time": "5 1,6,11,16,21 * 3-4 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/i-chenzhe/qx/main/z_super5g.js"
+      }
+    }, 
+    {
       "name": "阳光矿场",
       "type": "cron",
       "time": "0 7 * * *",

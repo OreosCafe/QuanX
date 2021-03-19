@@ -1,3 +1,31 @@
+###  公众号少年歌行pro：3月19日14:00，进行了如下更新：
+
+```properties
+
+1、增加了i-chenzhe大佬的 京东5G盲盒 脚本
+
+2、增加了i-chenzhe大佬的 金口碑投票 脚本
+
+
+```
+
+### 仓库订阅地址：
+```properties
+【圈x订阅地址】
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+```
+
+#### 注意：需配合jd cookie使用
+
+
+--------------
+
+
 ###  公众号少年歌行pro：3月14日15:00，进行了如下更新：
 
 ```properties

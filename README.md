@@ -1,5 +1,38 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+###  公众号少年歌行pro：3月21日9:30，尝试制作ios12及以下版本圈x的懒人包
+
+###  由于我已经没有ios12的设备，招募测试人员
+
+###  请备份好自己的圈x设置后，再下载下面的懒人包测试，因为刚写可能会有错误
+
+###  ios12及以下系统懒人包地址【测试版】
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/ForIos12.conf
+
+### bug请反馈我 
+```
+邮箱：sngxpro@111.com
+
+TG：https://t.me/sngxpro
+```
+### 内容说明
+```
+1、包含自选的规则
+
+2、包含破解vip订阅
+
+3、包含常用的抓取cookie订阅（不含中青，因为我还没测试编辑完，其他懒人包里也没有中青）
+
+4、内置343个定时脚本，全部默认不执行状态，请自行选择启用哪些，不用的也可以直接自己删掉
+
+```
+
+
+----------------------
+
 ###  公众号少年歌行pro：3月21日8:00，进行了如下更新：
 
 ```properties

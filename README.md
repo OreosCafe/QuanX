@@ -1,14 +1,14 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
-
+------------------
 
 ###  公众号少年歌行pro：3月21日9:30，尝试制作ios12及以下版本圈x的懒人包
 
-###  由于我已经没有ios12的设备，招募测试人员
+####  由于我已经没有ios12的设备，招募测试人员
 
-###  请备份好自己的圈x设置后，再下载下面的懒人包测试，因为刚写可能会有错误
+####  【重要！】请备份好自己的圈x设置后，再下载下面的懒人包测试，因为刚写可能会有错误
 
-###  ios12及以下系统懒人包地址【测试版】
+####  ios12及以下系统懒人包地址【测试版】
 
 https://raw.githubusercontent.com/sngxpro/QuanX/master/ForIos12.conf
 

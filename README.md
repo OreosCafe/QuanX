@@ -1,5 +1,37 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+---------------
+
+###  公众号少年歌行pro：3月21日16:00，增加了以下脚本：
+
+```properties
+
+1、增加了肥皂大佬的 66读书 脚本 
+
+
+```
+
+### 仓库订阅地址：
+```properties
+【圈x订阅地址】
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+```
+
+#### 注意：需配合cookie使用，可查看脚本手动配置，也可使用我的cookie订阅
+
+```
+[rewrite remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+
+```
+
+
 ------------------
 
 ###  公众号少年歌行pro：3月21日9:30，尝试制作ios12及以下版本圈x的懒人包

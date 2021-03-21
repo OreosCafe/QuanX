@@ -17,8 +17,14 @@
 #将下方链接复制并粘贴到圈x配置文件的上面那个标签位置，然后在圈x首页长按风车、再点击左下角刷新按钮，完成后生效
 https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
 
-
 ```
+
+### 下载地址（邀请码为脚本原作者提供，自行决定是否使用）
+
+独品社区下载地址：（任意号注册不限制，不收验证码）
+邀请码：K4GPHE
+https://wws.lanzous.com/s/seyou01
+https://wws.lanzous.com/s/seyou02
 --------------
 
 

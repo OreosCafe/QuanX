@@ -1,5 +1,28 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+###  公众号少年歌行pro：3月21日8:00，进行了如下更新：
+
+```properties
+
+1、增加了 ios黑科技 的 独品社区解锁vip规则
+
+
+```
+
+### 解锁vip重写订阅地址：
+```properties
+【圈x订阅地址】
+
+[rewrite_remote]
+#将下方链接复制并粘贴到圈x配置文件的上面那个标签位置，然后在圈x首页长按风车、再点击左下角刷新按钮，完成后生效
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+
+
+```
+--------------
+
+
+
 ###  公众号少年歌行pro：3月20日8:00，进行了如下更新：
 
 ```properties

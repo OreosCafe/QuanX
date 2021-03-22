@@ -73,6 +73,30 @@
     "repo": "https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/qmyd.js",
     "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/elem.png", "https://raw.githubusercontent.com/Orz-3/mini/master/elem.png"],
     "script": "https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/qmyd.js"
-    }   
+    }, 
+      {
+      "id": "youthBanner",
+      "name": "中青看看赚",
+      "keys": ["youth_banner", "youth_android_readtime", "youth_android_reward", "youth_android_newtask", "youth_banner2", "youth_android_readtime2", "youth_android_reward2", "youth_android_newtask2", "youth_banner3", "youth_android_readtime3", "youth_android_reward3", "youth_android_newtask3", "youth_banner4", "youth_android_readtime4", "youth_android_reward4", "youth_android_newtask4"],
+      "author": "@ztxtop",
+      "settings": [{
+        "id": "delErrorData",
+        "name": "移除当日失败两次+的任务数据",
+        "val": "0",
+        "type": "radios",
+        "items": [{
+            "key": "0",
+            "label": "不移除"
+          },
+          {
+            "key": "1",
+            "label": "移除"
+          }
+        ]
+      }],
+      "repo": "https://github.com/ztxtop/x/blob/main/youth_banner.js",
+      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/youth.png", "https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png"],
+      "script": "https://raw.githubusercontent.com/ztxtop/x/main/youth_banner.js"
+    }              
  ]
 }

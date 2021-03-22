@@ -1,4 +1,4 @@
-### 全网各大佬boxjs地址查询对照 2021.3.12
+### 全网各大佬boxjs地址查询对照 2021.3.22
 
 https://jdsharedresourcescdn.azureedge.net/jdresource/lxk0301.boxjs.json
 
@@ -30,3 +30,4 @@ https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/
 
 https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/evilbutcher.boxjs.json
 
+https://raw.githubusercontent.com/ztxtop/x/main/ztxtop.boxjs.json

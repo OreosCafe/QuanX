@@ -3,7 +3,7 @@
     "description": "感谢所有脚本作者，目前脚本总数：346个",
     "task": [   
 	        "10 */1 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, tag=sunert中青签到&转盘宝箱&时长, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png, enabled=true",
-		"10 */2 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js, tag=sinert中青自动阅读, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png, enabled=true",
+		"10 */2 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js, tag=sunert中青自动阅读, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png, enabled=true",
 		"30 6 * * * https://raw.githubusercontent.com/ztxtop/x/main/youth_banner.js, tag=ztxtop中青看看赚&浏览赚, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png, enabled=true",
 		"5,35 9-22 * * * https://raw.githubusercontent.com/age174/-/main/66yd.js, tag=66阅读, img-url=https://ae01.alicdn.com/kf/Uaade4566dd3744299956aa883f225386u.jpg, enabled=true",
 	        "12 0 19-24 3 * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_city_cash.js, tag=京东城城分现金（被助力很难）, img-url=https://raw.githubusercontent.com/i-chenzhe/qx/master/img/icon.png, enabled=true",

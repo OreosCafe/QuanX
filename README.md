@@ -12,6 +12,10 @@
 
 ```
 
+### ziye临时boxjs订阅地址
+```
+https://raw.githubusercontent.com/sngxpro/actionjd/ZIYE/Task/ziye.boxjs.json
+```
 ### 仓库订阅地址：
 ```properties
 【圈x订阅地址】

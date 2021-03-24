@@ -190,7 +190,7 @@
       "time": "7 0-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro/actionjd/ZIYE/Task/shuqi.js"
+        "target": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/shuqi.js"
       }
     },  
     {
@@ -316,7 +316,7 @@
       "time": "0 10,16,22 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro/actionjd/ZIYE/Task/flw.js"
+        "target": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/flw.js"
       }
     },
     {
@@ -370,7 +370,7 @@
       "time": "0/15 1-6 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro/actionjd/ZIYE/Task/xiaole.js"
+        "target": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/xiaole.js"
       }
     },
     {
@@ -415,7 +415,7 @@
       "time": "0,30 0-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro/actionjd/ZIYE/Task/qmyd.js"
+        "target": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/qmyd.js"
       }
     },
     {
@@ -469,7 +469,7 @@
       "time": "0,30 0-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro/actionjd/ZIYE/Task/bububao.js"
+        "target": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/bububao.js"
       }
     },
     {
@@ -478,19 +478,10 @@
       "time": "0 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro/actionjd/ZIYE/Task/zhima.js"
+        "target": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/zhima.js"
       }
     },
      {
-      "name": "羊毛赚ziye版（作者已删除脚本）",
-      "type": "cron",
-      "time": "0 8,12 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro/actionjd/ZIYE/Task/ymzhuan.js"
-      }
-    },
-    {
       "name": "京东母婴跳一跳第二期",
       "type": "cron",
       "time": "5 8,14,20 2-7 3 *",
@@ -514,7 +505,7 @@
       "time": "0,30 0-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro/actionjd/ZIYE/Task/yuedongzu.js"
+        "target": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/yuedongzu.js"
       }
     },
     {
@@ -532,7 +523,7 @@
       "time": "*/30 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro/actionjd/ZIYE/Task/iboxpay.js"
+        "target": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/iboxpay.js"
       }
     },
     {

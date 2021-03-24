@@ -1,7 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
-###  公众号少年歌行pro：3月23日17:00，增加了以下脚本：
+###  公众号少年歌行pro：3月25日7:00，增加了以下脚本：
 
 ```properties
 

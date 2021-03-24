@@ -7,6 +7,220 @@
 
 
 
+###  公众号少年歌行pro：3月24日19:00，增加了以下脚本：
+
+```properties
+
+1、为 ziye 的所有脚本及重写 更换回官方地址
+
+
+```
+
+----------
+
+
+###  公众号少年歌行pro：3月24日9:30，增加了以下脚本：
+
+```properties
+
+1、为 ziye 的所有脚本及重写 更换了临时远程地址 ，期待大佬王者归来
+
+官方地址更新后换回官方地址
+
+```
+
+### ziye临时boxjs订阅地址
+```
+https://raw.githubusercontent.com/sngxpro/actionjd/ZIYE/Task/ziye.boxjs.json
+```
+### 仓库订阅地址：
+```properties
+【圈x订阅地址】
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+```
+
+#### 注意：需配合cookie使用，因替换成了我的临时地址，请使用我的cookie订阅
+
+```
+[rewrite remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+
+```
+
+
+
+
+---------------
+
+###  公众号少年歌行pro：3月23日17:00，增加了以下脚本：
+
+```properties
+
+1、增加了i-chenzhe大佬的 京东答题赢京豆 脚本 
+
+
+```
+
+### 仓库订阅地址：
+```properties
+【圈x订阅地址】
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+```
+
+#### 注意：需配合jd cookie使用
+
+---------------
+
+###  公众号少年歌行pro：3月23日8:00，增加了以下脚本：
+
+```properties
+
+1、增加了执意大佬的 京喜工厂自动收电力 脚本 
+
+【注意，此脚本不共用京东ck，需要配合cookie重写去京喜抓】
+
+
+```
+
+### 仓库订阅地址：
+```properties
+【圈x订阅地址】
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+```
+
+#### 注意：需配合cookie使用，可查看脚本手动配置，也可使用我的cookie订阅
+
+```
+[rewrite remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+
+```
+
+
+
+
+
+---------------
+
+###  公众号少年歌行pro：3月21日16:00，增加了以下脚本：
+
+```properties
+
+1、增加了肥皂大佬的 66读书 脚本 
+
+
+```
+
+### 仓库订阅地址：
+```properties
+【圈x订阅地址】
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+```
+
+#### 注意：需配合cookie使用，可查看脚本手动配置，也可使用我的cookie订阅
+
+```
+[rewrite remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+
+```
+
+
+------------------
+
+###  公众号少年歌行pro：3月21日9:30，尝试制作ios12及以下版本圈x的懒人包
+
+####  由于我已经没有ios12的设备，招募测试人员
+
+####  【重要！】请备份好自己的圈x设置后，再下载下面的懒人包测试，因为刚写可能会有错误。出错后用自己的备份覆盖回来就好。
+
+```
+
+备份方法：
+在圈x设置中，拉倒最下面的“配置”，选择“导出”，存放到任意位置
+
+还原覆盖方法：
+从存放导出配置的位置，选择备份文件，选择发送或分享，选择圈x，保存即可
+```
+
+####  ios12及以下系统懒人包地址【测试版】
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/ForIos12.conf
+
+### bug请反馈我 
+```
+邮箱：sngxpro@111.com
+
+TG：https://t.me/sngxpro
+```
+### 内容说明
+```
+1、包含自选的规则
+
+2、包含破解vip订阅
+
+3、包含常用的抓取cookie订阅（不含中青，因为我还没测试编辑完，其他懒人包里也没有中青）
+
+4、内置343个定时脚本，全部默认不执行状态，请自行选择启用哪些，不用的也可以直接自己删掉
+
+```
+
+
+----------------------
+
+###  公众号少年歌行pro：3月21日8:00，进行了如下更新：
+
+```properties
+
+1、增加了 ios黑科技 的 独品社区解锁vip规则
+
+
+```
+
+### 解锁vip重写订阅地址：
+```properties
+【圈x订阅地址】
+
+[rewrite_remote]
+#将下方链接复制并粘贴到圈x配置文件的上面那个标签位置，然后在圈x首页长按风车、再点击左下角刷新按钮，完成后生效
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+
+```
+
+### 下载地址（邀请码为脚本原作者提供，自行决定是否使用）
+```
+独品社区下载地址：（任意号注册不限制，不收验证码）
+
+邀请码：K4GPHE
+https://wws.lanzous.com/s/seyou01
+https://wws.lanzous.com/s/seyou02
+
+```
+
+
 
 
 ###  公众号少年歌行pro：3月20日8:00，进行了如下更新：

@@ -1,6 +1,32 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
+###  公众号少年歌行pro：3月26日20:00，脚本进行如下变动：
+
+```properties
+
+增加了  解锁91视频vip 规则 (by:HCJS-8)
+
+
+```
+#### App下载地址
+```
+https://app.18sa.xyz/i-S3FM6X
+```
+
+#### 我的解锁vip订阅
+
+复制下方规则，粘贴到圈x配置文件[rewrite remote]标签下，回到圈x首页长按右下角风车，再点击左下角刷新按钮即可生效
+
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+```
+
+---------------
+
+
+
+
 ###  公众号少年歌行pro：3月26日18:00，脚本进行如下变动：
 
 ```properties

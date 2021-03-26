@@ -5,6 +5,15 @@
   "date": "2021-03-25 7:00:02",
   "list": [
      {
+      "name": "京东奇瑞新能源抽奖",
+      "type": "cron",
+      "time": "0 8 22-29 3 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/qqsdff/script/main/cart.js"
+      }
+    },  
+    {
       "name": "京东乘风破浪的姐姐",
       "type": "cron",
       "time": "12 12 24-26 3 *",

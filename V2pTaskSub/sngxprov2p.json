@@ -334,7 +334,7 @@
       "time": "3 10 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/i-chenzhe/qx/main/z_marketLottery.js"
+        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/z_marketLottery.js"
       }
     },
     {
@@ -361,7 +361,7 @@
       "time": "10 10 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/i-chenzhe/qx/master/jd_xmf.js"
+        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/jd_xmf.js"
       }
     },
     {

@@ -12,6 +12,15 @@
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/qqsdff/script/main/cart.js"
       }
+    }, 
+      {
+      "name": "京东百变大咖秀",
+      "type": "cron",
+      "time": "10 10,11 * * 2-5",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_entertainment.js"
+      }
     },  
     {
       "name": "京东乘风破浪的姐姐",
@@ -58,25 +67,7 @@
         "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/z_lenovo.js"
       }
     }, 
-    {
-      "name": "京东城城分现金（被助力很难）",
-      "type": "cron",
-      "time": "12 0 19-24 3 *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/z_city_cash.js"
-      }
-    }, 
-    {
-      "name": "京东金口碑奖投票",
-      "type": "cron",
-      "time": "5 10 * 3 *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/z_mgold.js"
-      }
-    }, 
-    {
+     {
       "name": "京东5G超级盲盒",
       "type": "cron",
       "time": "5 1,6,11,16,21 * 3-4 *",
@@ -139,16 +130,7 @@
         "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/z_unionPoster.js"
       }
     },   
-    {
-      "name": "京东洗护发超级品类日",
-      "type": "cron",
-      "time": "3 8,10 8-15 3 *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/z_superDay.js"
-      }
-    },   
-    {
+     {
       "name": "京东国际盲盒",
       "type": "cron",
       "time": "0 9,12,20,21 * * *",
@@ -158,14 +140,14 @@
       }
     },   
     {
-      "name": "京东众筹许愿池",
+      "name": "京东母婴跳一跳2期",
       "type": "cron",
-      "time": "10 10,15 13-20 3 *",
+      "time": "5 8,14,20 25-31 3 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/z_wish.js"
+        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/z_mother_jump.js"
       }
-    },   
+    },  
     {
       "name": "微客众智",
       "type": "cron",
@@ -358,7 +340,7 @@
     {
       "name": "京东小魔方",
       "type": "cron",
-      "time": "10 10 * * *",
+      "time": "10 10 25-27 3 *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/jd_xmf.js"

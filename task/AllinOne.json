@@ -2,8 +2,8 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-	        "3 10 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_fanslove.js, tag=京东粉丝互动, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
-	        "10 10,11 * * 2-5 https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_entertainment.js, tag=京东百变大咖秀, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
+	        "3 10 * * * https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/jd_fanslove.js, tag=京东粉丝互动, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
+	        "10 10,11 * * 2-5 https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/jd_entertainment.js, tag=京东百变大咖秀, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
 	        "3 10 * * * https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/z_marketLottery.js, tag=京东超市-大转盘, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
 	        "5 1 23-25 3 * https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/z_grassy.js, tag=京东答题赢京豆, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
 	        "12 12 24-26 3 * https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/z_sister.js, tag=京东乘风破浪的姐姐, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",

@@ -1,6 +1,12 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+###  公众号少年歌行pro：3月27日12:00，常规修复了v2p订阅里的一些地址失效问题
+
+
+·················
+
 ###  公众号少年歌行pro：3月27日10:00，脚本进行如下变动：
 
 ```properties

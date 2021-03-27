@@ -19,7 +19,7 @@
       "time": "10 10,11 * * 2-5",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_entertainment.js"
+        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/jd_entertainment.js"
       }
     },  
     {

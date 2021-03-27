@@ -448,10 +448,10 @@
     {
       "name": "京东疯狂的joy挂机",
       "type": "cron",
-      "time": "10 7 * * *",
+      "time": "10 1,12 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://gitee.com/shuye72/MyActions/raw/main/jd_crazy_joy_coin.js"
+        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_crazy_joy_coin.js"
       }
     },
     {

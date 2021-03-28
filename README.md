@@ -1,6 +1,28 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
+###  公众号少年歌行pro：3月28日10:20，
+
+```
+修复了解锁vip规则中91视频失效的问题
+```
+### 此规则只需开启一次，之后不开圈x也都是vip了。如果用过老版本破解规则提示登录过期的，请删除app并重新下载
+
+```
+#下载地址：
+https://app.1zp8.xyz/i-27LULA
+```
+
+#### 我的解锁vip订阅【认真看使用方法，要同步才能生效】
+
+复制下方规则，粘贴到圈x配置文件[rewrite remote]标签下，回到圈x首页长按右下角风车，再点击左下角刷新按钮即可生效
+
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+```
+
+---------------
+
 
 ###  公众号少年歌行pro：3月27日12:00，常规修复了v2p订阅里的一些地址失效问题
 

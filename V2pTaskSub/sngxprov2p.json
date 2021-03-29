@@ -10,7 +10,7 @@
       "time": "0 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/photonmang/quantumultX/master/58.js"
+        "target": "https://raw.githubusercontent.com/photonmang/quantumultX/master/58/58.js"
       }
     }, 
     {

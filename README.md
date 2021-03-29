@@ -1,6 +1,51 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
+###  公众号少年歌行pro：3月27日10:00，脚本进行如下变动：
+
+```properties
+
+ 1、增加了 photonmang 大佬的 58 同城脚本【用法查看脚本】
+ 
+ 功能：
+新增看视频
+新增早起报名、早起打卡、每日收矿
+新增低价竞拍；神奇旷工：自动召唤矿工、自动收取矿石
+新增看视频领现金（每天共10次）
+新增发财树浇水领现金活动
+新增首页签到；发财树：快速集水滴、翻倍领水滴、升级奖励领取
+新增神奇矿：三日早起打卡报名、三日早起打卡；发财树：每日礼包、浇水领水滴、开红包领水滴、看视频领水滴、开任务红包1-2领水滴；修复升级红包BUG
+新增租金签到、首页签到看视频赢矿石活动;修复发财树活动BUG、调整执行逻辑顺序
+新增发财树：大转盘（需到转盘页面先执行一次转盘获取Cookie）;增加自动判断矿工滑块验证，修复每过一段时间收矿需要手工验证的问题
+新增神奇矿石自动收取2次免费矿、自动收取剩余6次视频矿
+新增发财树：签到领水滴、修复看视频领水滴
+
+```
+
+### 仓库订阅地址：
+```properties
+【圈x订阅地址】
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+```
+
+### 注意：需配合cookie使用，可使用我的cookie订阅，或自行按脚本说明手动配置
+
+[rewrite remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+
+
+---------------
+
+
+
+
 ###  公众号少年歌行pro：3月28日10:20，
 
 ```

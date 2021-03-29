@@ -4,6 +4,15 @@
   "desc": "当前脚本数量：343个。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
   "date": "2021-03-29 15:00:02",
   "list": [
+   {
+      "name": "文创阅读",
+      "type": "cron",
+      "time": "5 9-22 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/age174/-/main/wcyd.js"
+      }
+    }, 
     {
       "name": "58同城(查看脚本学用法)",
       "type": "cron",

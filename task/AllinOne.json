@@ -2,6 +2,7 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
+	        "0 * * * * https://raw.githubusercontent.com/photonmang/quantumultX/master/58.js, tag=58同城(查看脚本学用法), img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/anbo.png, enabled=true",
 	        "3 10 * * * https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/jd_fanslove.js, tag=京东粉丝互动, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
 	        "10 10,11 * * 2-5 https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/jd_entertainment.js, tag=京东百变大咖秀, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
 	        "3 10 * * * https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/z_marketLottery.js, tag=京东超市-大转盘, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",

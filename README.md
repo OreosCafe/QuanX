@@ -1,6 +1,36 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+###  公众号少年歌行pro：3月30日10:00，脚本进行如下变动：
 
+```properties
+
+ 1、修复了 肥皂大佬 的 文创阅读 脚本 无法获取cookie的问题
+ 
+ 2、新增了 肥皂大佬 的  西梅 脚本
+ 
+ 3、新增了肥皂大佬  的  朗果英语 脚本
+ ```
+
+### 仓库订阅地址：
+```properties
+【圈x订阅地址】
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+```
+
+### 注意：需配合cookie使用，可使用我的cookie订阅，或自行按脚本说明手动配置
+```
+[rewrite remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+```
+
+-----------
 
 
 ###  公众号少年歌行pro：3月29日16:00，脚本进行如下变动：

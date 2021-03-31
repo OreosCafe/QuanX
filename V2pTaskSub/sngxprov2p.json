@@ -1,10 +1,28 @@
 {
   "name": "公众号少年歌行pro v2p 专用定时任务订阅",
   "author": "由公众号少年歌行pro维护 https://t.me/sngxpro",
-  "desc": "当前脚本数量：348个。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
-  "date": "2021-03-30 10:00:02",
+  "desc": "当前脚本数量：350个。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
+  "date": "2021-03-31 15:00:02",
   "list": [
    {
+      "name": "睡眠赚无限刷",
+      "type": "cron",
+      "time": "5,35 9-22 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/age174/-/main/smz.js"
+      }
+    }, 
+    {
+      "name": "最强蜗牛",
+      "type": "cron",
+      "time": "10 8 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/age174/-/main/zqwn.js"
+      }
+    }, 
+    {
       "name": "朗果英语",
       "type": "cron",
       "time": "10-15 9 * * *",

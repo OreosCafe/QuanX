@@ -2,7 +2,8 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-		"30 10 * * * https://raw.githubusercontent.com/age174/-/main/yqzh.js, tag=悦趣阅读, img-url=https://ae01.alicdn.com/kf/U428ddcb68e304bc0822743cad88f5142n.jpg, enabled=true",
+		"0 0-18/6 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_carnivalcity.js, tag=京东手机狂欢城, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
+	        "30 10 * * * https://raw.githubusercontent.com/age174/-/main/yqzh.js, tag=悦趣阅读, img-url=https://ae01.alicdn.com/kf/U428ddcb68e304bc0822743cad88f5142n.jpg, enabled=true",
 	        "0,30 8-23 * * * https://raw.githubusercontent.com/age174/-/main/hlyy.js, tag=葫芦音乐, img-url=https://ae01.alicdn.com/kf/U49d941738c0c41569f7db55825943375f.jpg, enabled=true",
 	        "6 6 0-23 * * * https://github.com/ziye888/JavaScript/raw/main/Task/jdtq.js, tag=简单天气, img-url=https://raw.githubusercontent.com/ziye888/JavaScript/main/Task/jdtq.png, enabled=true",
 	        "5,35 9-22 * * * https://raw.githubusercontent.com/age174/-/main/smz.js, tag=睡眠赚无限刷, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/anbo.png, enabled=true",

@@ -1,4 +1,4 @@
-### 全网各大佬boxjs地址查询对照 2021.3.22
+### 全网各大佬boxjs地址查询对照 2021.4.1
 
 https://jdsharedresourcescdn.azureedge.net/jdresource/lxk0301.boxjs.json
 
@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/DD-D1/2020scripts/master/box/dd.signboxjs.js
 
 https://raw.githubusercontent.com/age174/-/main/feizao.box.json
 
-https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/ziye.boxjs.json
+https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/ziye.boxjs.json
 
 https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/evilbutcher.boxjs.json
 

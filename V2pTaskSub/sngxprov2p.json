@@ -79,7 +79,7 @@
     {
       "name": "文创阅读",
       "type": "cron",
-      "time": "5 9-22 * * *",
+      "time": "0-59 9-22 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/age174/-/main/wcyd.js"

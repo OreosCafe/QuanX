@@ -5,6 +5,15 @@
   "date": "2021-04-01 12:30:02",
   "list": [
     {
+      "name": "京东手机狂欢城",
+      "type": "cron",
+      "time": "0 0-18/6 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_carnivalcity.js"
+      }
+    }, 
+    {
       "name": "葫芦音乐",
       "type": "cron",
       "time": "0,30 8-23 * * *",

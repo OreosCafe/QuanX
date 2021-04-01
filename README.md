@@ -1,6 +1,38 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
+###  公众号少年歌行pro：4月1日12:00，脚本进行如下变动：
+
+```properties
+
+ 1、新增了ziye大佬  的  简单天气 脚本 【需要获取 41 个cookie！！】
+ ```
+
+### 仓库订阅地址：
+```properties
+【圈x订阅地址】
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+```
+
+### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
+
+```
+[rewrite remote]
+#需要抓41个cookie，按下方注明的顺序分批次单独启动，并查看脚本中的ck获取顺序
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/jdtqbody.conf, tag=简单天气body（第一个开，单独开）, update-interval=86400, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/jdtqapi.conf, tag=简单天气api（第二个开，单开）, update-interval=86400, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/jdtqevent.conf, tag=简单天气event（第三个开，单开）, update-interval=86400, opt-parser=false, enabled=false
+```
+
+----------------------
+
+
 ###  公众号少年歌行pro：3月31日15:00，脚本进行如下变动：
 
 ```properties

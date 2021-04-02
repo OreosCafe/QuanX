@@ -5,6 +5,15 @@
   "date": "2021-04-01 12:30:02",
   "list": [
     {
+      "name": "京东女装盲盒",
+      "type": "cron",
+      "time": "0 8 1-8/1,27,28 2,3 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_nzmh.js"
+      }
+    }, 
+    {
       "name": "京东手机狂欢城",
       "type": "cron",
       "time": "0 0-18/6 * * *",

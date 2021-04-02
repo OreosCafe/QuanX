@@ -16,7 +16,7 @@ Appstore搜索下载即可
 
 复制下方规则，粘贴到圈x配置文件[rewrite remote]标签下，回到圈x首页长按右下角风车，再点击左下角刷新按钮即可生效
 ```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabl
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 --------------

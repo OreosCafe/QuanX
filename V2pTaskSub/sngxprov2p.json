@@ -385,7 +385,7 @@
     {
       "name": "阳光果园(需实名)",
       "type": "cron",
-      "time": "50 12 * * *",
+      "time": "0 */1 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/age174/-/main/yggy.js"

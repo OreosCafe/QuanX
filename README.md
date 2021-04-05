@@ -1,6 +1,19 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 公众号少年歌行pro：4月5日8:20，脚本进行了如下变动：
+
+根据肥皂大佬的指导，
+
+将 微客众智 脚本的定时进行了修改，以避免掉ck问题，
+
+请从task脚本仓库中重新添加一次就可以了。
+
+也可以手动修改定时为：
+
+25,55 1,5,9-22 * * *
+
+
+### 公众号少年歌行pro：4月5日8:20，脚本进行了如下变动：
 ```
 1、新增了  nobyda大佬的  扫描全能王 解锁vip 规则
 

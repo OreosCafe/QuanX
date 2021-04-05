@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 ```
 
-
+------------
 
 ### 公众号少年歌行pro：4月5日21:50，脚本进行了如下变动：
 ```
@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, t
 
 
 
-
+-------------
 
 
 ### 公众号少年歌行pro：4月5日8:20，脚本进行了如下变动：
@@ -63,7 +63,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, t
 
 25,55 1,5,9-22 * * *
 
-
+--------------
 ### 公众号少年歌行pro：4月5日8:20，脚本进行了如下变动：
 ```
 1、新增了  nobyda大佬的  扫描全能王 解锁vip 规则

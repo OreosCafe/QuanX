@@ -5,6 +5,15 @@
   "date": "2021-04-01 12:30:02",
   "list": [
     {
+      "name": "京东华硕-iqiyi",
+      "type": "cron",
+      "time": "0 0 5-11 4 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/monk-coder/dust/dust/backup/z_asus_iqiyi.js"
+      }
+    },  
+   {
       "name": "京东女装盲盒",
       "type": "cron",
       "time": "0 8 1-8/1,27,28 2,3 *",

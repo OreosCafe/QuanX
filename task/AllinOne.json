@@ -2,6 +2,9 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
+  	        "10 10 4-6 4 * https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_xmf.js, tag=京东小魔方, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
+	        "15 08 2-18 4 * https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_mother_jump.js, tag=京东创维全勤奖(加购), img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/monk.png, enabled=true",
+	        "5 8,14,20 6-13 4 * https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_mother_jump.js, tag=京东母婴-跳一跳二期, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
 	        "10 9-22 * * * https://raw.githubusercontent.com/age174/-/main/wcxcx.js, tag=文创阅读小程序, img-url=https://ae01.alicdn.com/kf/Ua6bd9417d492473f8ca0c3110b2176307.jpg, enabled=true",
 	    	"0-59 9-22 * * * https://raw.githubusercontent.com/age174/-/main/wcyd.js, tag=文创阅读, img-url=https://ae01.alicdn.com/kf/Ua6bd9417d492473f8ca0c3110b2176307.jpg, enabled=true",
 	        "0 0-18/6 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_carnivalcity.js, tag=京东手机狂欢城, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
@@ -23,8 +26,6 @@
 	       	"11 12 17-30 3 * https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/z_oneplus.js, tag=京东一加盲盒, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true", 
 	        "15 10 10-31 3 * https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/z_unionPoster.js, tag=京东美的家电节, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
 	      	"3 20 * * * https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/jd_shake.js, tag=摇一摇, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
-	        "10 10 25-27 3 * https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/z_xmf.js, tag=京东小魔方, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
-	        "5 8,14,20 25-31 3 * https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/z_mother_jump.js, tag=京东母婴-跳一跳二期, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
 	        "0 8 22-29 3 * https://raw.githubusercontent.com/qqsdff/script/main/cart.js, tag=京东奇瑞新能源抽奖, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 	        "7 0-23 * * * https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/shuqi.js, tag=书旗小说ziye版, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.png, enabled=true",
 		"0 10,16,22 * * * https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/flw.js, tag=返利网, img-url=https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/flw.png, enabled=true",

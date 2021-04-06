@@ -10,7 +10,7 @@
       "time": "15 08 2-18 4 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_mother_jump.js"
+        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/car/monk_skyworth_car.js"
       }
     },
     {

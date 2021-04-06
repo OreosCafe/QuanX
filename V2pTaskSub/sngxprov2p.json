@@ -5,6 +5,33 @@
   "date": "2021-04-05 21:30:02",
   "list": [
     {
+      "name": "京东创维全勤奖(加购)",
+      "type": "cron",
+      "time": "15 08 2-18 4 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_mother_jump.js"
+      }
+    },
+    {
+      "name": "京东小魔方",
+      "type": "cron",
+      "time": "10 10 4-6 4 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_xmf.js"
+      }
+    },
+    {
+      "name": "京东母婴跳一跳2期",
+      "type": "cron",
+      "time": "5 8,14,20 6-13 4 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_mother_jump.js"
+      }
+    },  
+    {
       "name": "文创阅读小程序",
       "type": "cron",
       "time": "10 9-22 * * *",
@@ -257,15 +284,6 @@
       }
     },   
     {
-      "name": "京东母婴跳一跳2期",
-      "type": "cron",
-      "time": "5 8,14,20 25-31 3 *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/z_mother_jump.js"
-      }
-    },  
-    {
       "name": "微客众智",
       "type": "cron",
       "time": "25,55 1,5,9-22 * * *",
@@ -452,15 +470,6 @@
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/ZCY01/daily_scripts/main/jd/jd_try.js"
-      }
-    },
-    {
-      "name": "京东小魔方",
-      "type": "cron",
-      "time": "10 10 25-27 3 *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/jd_xmf.js"
       }
     },
     {

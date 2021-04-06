@@ -1,6 +1,25 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### 公众号少年歌行pro：4月6日9:20，脚本进行如下变动：
+```
+ 1、调整了  新一期京东小魔方 活动的脚本定时；
+ 
+ 2、调整了  新一期母婴跳一跳 活动的脚本定时；
+```
+### 使用方法
+
+【圈x】
+```
+从构造请求中删除原定时任务，在task仓库中重新添加即可
+```
+【v2p】
+```
+task订阅模式选择为替换，从task订阅中直接添加一次即可
+```
+
+-----------------------
+
 ### 公众号少年歌行pro：4月5日22:20，脚本进行如下变动：
 ```
  1、新增了  ztxtop 大佬的 文创阅读小程序 脚本(不是之前那个文创阅读)

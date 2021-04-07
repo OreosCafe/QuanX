@@ -1,6 +1,33 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### 公众号少年歌行pro：4月7日9:00，脚本进行如下变动：
+```
+ 1、再次调整了  新一期京东小魔方 活动的脚本定时；
+ 
+ ```
+### 使用方法
+
+【圈x】
+```
+从构造请求中删除原定时任务，在task仓库中重新添加即可
+```
+【v2p】
+```
+task订阅模式选择为替换，从task订阅中直接添加一次即可
+```
+
+【手动调整】
+```
+自行修改cron定时为
+10 10 7-9 4 *
+```
+
+-----------------------
+
+
+
+
 ### 公众号少年歌行pro：4月6日9:20，脚本进行如下变动：
 ```
  1、调整了  新一期京东小魔方 活动的脚本定时；

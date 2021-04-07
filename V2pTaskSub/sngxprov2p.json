@@ -16,7 +16,7 @@
     {
       "name": "京东小魔方",
       "type": "cron",
-      "time": "10 10 4-6 4 *",
+      "time": "10 10 7-9 4 *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_xmf.js"

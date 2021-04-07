@@ -16,7 +16,7 @@
     {
       "name": "V生活",
       "type": "cron",
-      "time": "15 9, * * *",
+      "time": "15 9 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/age174/-/main/vsh.js"

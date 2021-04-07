@@ -2,7 +2,7 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-  	        "10 10 4-6 4 * https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_xmf.js, tag=京东小魔方, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
+  	        "10 10 7-9 4 * https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_xmf.js, tag=京东小魔方, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
 	        "15 08 2-18 4 * https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/car/monk_skyworth_car.js, tag=京东创维全勤奖(加购), img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/monk.png, enabled=true",
 	        "5 8,14,20 6-13 4 * https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_mother_jump.js, tag=京东母婴-跳一跳二期, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
 	        "10 9-22 * * * https://raw.githubusercontent.com/age174/-/main/wcxcx.js, tag=文创阅读小程序, img-url=https://ae01.alicdn.com/kf/Ua6bd9417d492473f8ca0c3110b2176307.jpg, enabled=true",

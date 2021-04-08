@@ -4,7 +4,16 @@
   "desc": "当前脚本数量：350个。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
   "date": "2021-04-07 14:30:02",
   "list": [
-   {
+    {
+      "name": "落花无生",
+      "type": "cron",
+      "time": "0 9,13 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/age174/-/main/lhws.js"
+      }
+    },
+    {
       "name": "作业帮签到",
       "type": "cron",
       "time": "1 0 * * *",

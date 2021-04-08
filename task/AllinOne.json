@@ -60,7 +60,7 @@
 	        "30,31 20-23/1 9,12 3 * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_live_redrain.js, tag=超级直播间红包雨临时活动, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
 	        "0 * * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/hotsoon_old.js, tag=火山小视频极速版, img-url=https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/img/huoshan.png, enabled=true",
 	        "0 9 8-31 3 * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_global.js, tag=京东国际-环球挑战赛, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
-	        "0 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_speed_redpocke.js, tag=京东极速版红包, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
+	        "0 0 * * * https://raw.githubusercontent.com/wuzhi03/MyActions/main/jd_speed_redpocke.js, tag=京东极速版红包, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
 	        "30 8 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jxd.js, tag=京小兑, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_jxd.png, enabled=true",
 	        "0 7 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/pyq.js, tag=评友圈, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/ningguang.png, enabled=true",
 	    	"30 16 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js, tag=自选股, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png, enabled=true",

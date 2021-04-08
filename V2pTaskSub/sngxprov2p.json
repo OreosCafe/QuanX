@@ -649,7 +649,7 @@
       "time": "0 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/wuzhi01/MyActions/main/jx_cfdtx.js"
+        "target": "https://raw.githubusercontent.com/wuzhi03/MyActions/main/jx_cfdtx.js"
       }
     },
     {

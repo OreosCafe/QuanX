@@ -1,6 +1,33 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### 公众号少年歌行pro：4月8日18:00，脚本进行如下变动：
+```
+ 1、新增了  京东每日红包雨（由我代管随缘维护） 脚本 ，该脚本由 lxk0301 大佬原创 ，需每天抓变量，我放在自己github上
+随缘日更方便大家直接取用
+
+2、 新增了  i-chenzhe 大佬的 京东自抓直播雨（配合重写每日获取）脚本，该脚本需要配合cookie订阅重写，每天自抓变量更新，比上面那个强在可以圈x自动抓不需要手动操作了
+
+ ``` 
+### 仓库订阅地址：
+
+【圈x订阅地址】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+```
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+```
+### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
+```
+[rewrite remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+```
+
+------------
+
 ### 公众号少年歌行pro：4月8日16:30，脚本进行了如下变动：
 ```
 1、修复了  iOS黑科技 的 AVbobo 解锁vip 规则
@@ -20,7 +47,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, t
 ```
 
 
-
+----------------
 
 ### 公众号少年歌行pro：4月8日16:00，脚本进行如下变动：
 ```

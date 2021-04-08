@@ -1,6 +1,33 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### 公众号少年歌行pro：4月9日7:00，脚本进行如下变动：
+```
+1、就部分脚本作者昨天删库和删脚本造成的404问题进行了修复……
+
+请大家不要那么狗，为难脚本作者干甚……
+
+ ``` 
+### 仓库订阅地址：
+
+【圈x订阅地址】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+```
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+```
+### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
+```
+[rewrite remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+```
+
+
+
+
 ### 公众号少年歌行pro：4月8日18:00，脚本进行如下变动：
 ```
  1、新增了  京东每日红包雨（由我代管随缘维护） 脚本 ，该脚本由 lxk0301 大佬原创 ，需每天抓变量，我放在自己github上

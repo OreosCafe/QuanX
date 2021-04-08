@@ -5,6 +5,15 @@
   "date": "2021-04-07 14:30:02",
   "list": [
     {
+      "name": "京东每日红包雨（随缘日更）",
+      "type": "cron",
+      "time": "1 8-23 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/sngxpro2/jdliveredrain/main/lxk0301_live_redrain.js"
+      }
+    },
+    {
       "name": "落花无生",
       "type": "cron",
       "time": "0 9,13 * * *",

@@ -415,7 +415,7 @@
       "time": "0 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_speed_redpocke.js"
+        "target": "https://raw.githubusercontent.com/wuzhi03/MyActions/main/jd_speed_redpocke.js"
       }
     },  
     {

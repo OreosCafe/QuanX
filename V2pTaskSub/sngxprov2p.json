@@ -5,7 +5,16 @@
   "date": "2021-04-07 14:30:02",
   "list": [
     {
-      "name": "京东每日红包雨（随缘日更）",
+      "name": "京东自抓直播雨（配合重写每日获取）",
+      "type": "cron",
+      "time": "1 0,9,11,13,15,17,19,20,21,23 * 4-6 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/monk-coder/dust/dust/backup/red_rain.js"
+      }
+    },
+    {
+      "name": "京东每日红包雨（由我代管随缘维护）",
       "type": "cron",
       "time": "1 8-23 * * *",
       "job": {

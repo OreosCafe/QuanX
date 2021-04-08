@@ -2,7 +2,8 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-  	        "0 9,13 * * * https://raw.githubusercontent.com/age174/-/main/lhws.js, tag=落花无生, img-url=https://ae01.alicdn.com/kf/U7f67ec3bd2d848a59d72a1807dc9e324r.jpg, enabled=true",
+  	        "1 8-23 * * * https://raw.githubusercontent.com/sngxpro2/jdliveredrain/main/lxk0301_live_redrain.js, tag=京东每日红包雨（随缘维护）, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
+	        "0 9,13 * * * https://raw.githubusercontent.com/age174/-/main/lhws.js, tag=落花无生, img-url=https://ae01.alicdn.com/kf/U7f67ec3bd2d848a59d72a1807dc9e324r.jpg, enabled=true",
 	        "15 9 * * * https://raw.githubusercontent.com/age174/-/main/vsh.js, tag=V生活, img-url=https://ae01.alicdn.com/kf/Uf0da879c7acd4c7bad91f0e5a97667e1O.jpg, enabled=true",
 	        "1 0 * * * https://raw.githubusercontent.com/photonmang/quantumultX/master/Task/zyb.js, tag=作业帮签到, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/zuoyebang.png, enabled=true",
 	        "10 10 7-9 4 * https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_xmf.js, tag=京东小魔方, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",

@@ -4,15 +4,6 @@
   "desc": "当前脚本数量：350个。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
   "date": "2021-04-09 10:30:02",
   "list": [
-      {
-      "name": "京东美丽研究院",
-      "type": "cron",
-      "time": "23 9,13,20 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/backup/jd_mlyjy.js"
-      }
-    },
      {
       "name": "京东自抓直播雨（配合重写每日获取）",
       "type": "cron",

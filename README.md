@@ -8,7 +8,7 @@
 
 `方法一：覆盖安装懒人包配置`（此方法会覆盖您的本地配置）
 
-（点击跳转查看安装方）[https://github.com/sngxpro/QuanX/blob/master/howtouse.md]
+[点击跳转查看安装方法](https://github.com/sngxpro/QuanX/blob/master/howtouse.md)
 
 
 

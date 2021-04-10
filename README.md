@@ -19,6 +19,9 @@
 
 2、添加如下新规则
 
+[policy]
+static=TikTok, proxy, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/diluke.png
+
 [filter_remote]
 https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Filter/TikTok.list, tag=TikTok, force-policy=TikTok, update-interval=86400, opt-parser=false, enabled=true
 

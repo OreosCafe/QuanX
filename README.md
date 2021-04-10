@@ -1,5 +1,33 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+
+### 公众号少年歌行pro：4月10日19:30，脚本进行了如下变动：
+```
+1、新增了  iOS黑科技 的 LUTU解锁VIP无限看 规则
+
+2、新增了  Emby 解锁vip规则
+
+```
+### 下载地址：
+```
+1、LUTU下载地址，脚本作者邀请码：U08VVA0
+https://s-lutu.me
+
+2、Emby下载地址：
+APPstore外区搜索下载，建议搜索共享账号
+```
+
+### 我的解锁vip订阅【认真看使用方法，要同步才能生效】
+
+复制下方规则，粘贴到圈x配置文件[rewrite remote]标签下，回到圈x首页长按右下角风车，再点击左下角刷新按钮即可生效
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+```
+
+
+----------------
+
+
 ### 公众号少年歌行pro：4月10日19:00，脚本进行如下变动：
 
 #### 尝试更新了tiktok 解锁规则

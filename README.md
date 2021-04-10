@@ -1,8 +1,42 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+### 公众号少年歌行pro：4月10日19:00，脚本进行如下变动：
 
-### 公众号少年歌行pro：4月9日7:00，脚本进行如下变动：
+#### 尝试更新了tiktok 解锁规则
+
+#### 本次无法远程自动同步，需如下操作：
+
+`方法一：覆盖安装懒人包配置`（此方法会覆盖您的本地配置）
+
+[点击跳转查看安装方法]（https://github.com/sngxpro/QuanX/blob/master/howtouse.md）
+
+
+
+`方法二：手动编辑自己的圈x配置文件`
+
 ```
+1、删除配置文件中[rewrite remote]和[filter remote]两个标签下的tiktok旧规则
+
+2、添加如下新规则
+
+[filter_remote]
+https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Filter/TikTok.list, tag=TikTok, force-policy=TikTok, update-interval=86400, opt-parser=false, enabled=true
+
+[rewrite_remote]
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/tiktokJP.conf, tag=tiktok解锁日区（勿混用）, update-interval=86400, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/tiktokTW.conf, tag=tiktok解锁台区（勿混用）, update-interval=86400, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/tiktokKR.conf, tag=tiktok解锁韩区（勿混用）, update-interval=86400, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/tiktokUS.conf, tag=tiktok解锁美区（勿混用）, update-interval=86400, opt-parser=true, enabled=false
+
+```
+
+
+
+--------------------
+
+
+
+### 公众号少年歌行pro：4月9日7:00，脚本进行如下变动：```
 1、就部分脚本作者昨天删库和删脚本造成的404问题进行了修复……
 
 请大家不要那么狗，为难脚本作者干甚……

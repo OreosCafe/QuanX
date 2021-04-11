@@ -1,6 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 公众号少年歌行pro：4月11日10:00，对懒人包基础配置进行了大幅删改。
+#### 标识当前版本号为 `v1.1`
 
 ### bug修复：
 

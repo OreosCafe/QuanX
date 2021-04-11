@@ -2,9 +2,45 @@
   "name": "公众号少年歌行pro v2p 专用定时任务订阅",
   "author": "由公众号少年歌行pro维护 https://t.me/sngxpro",
   "desc": "当前脚本数量：350个。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
-  "date": "2021-04-09 10:30:02",
+  "date": "2021-04-11 10:30:02",
   "list": [
-     {
+   {
+      "name": "趣客有礼",
+      "type": "cron",
+      "time": "0 0/10 * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/xl2101200/-/main/qkyl.js"
+      }
+    }, 
+    {
+      "name": "keep小程序打卡偷能量",
+      "type": "cron",
+      "time": "0 6 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/xl2101200/-/main/keepdk.js"
+      }
+    }, 
+    {
+      "name": "keep小程序浇水",
+      "type": "cron",
+      "time": "0 0/30 * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/xl2101200/-/main/keepjs.js"
+      }
+    }, 
+    {
+      "name": "拼夕夕",
+      "type": "cron",
+      "time": "0 8 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/xl2101200/-/main/pxx.js"
+      }
+    },
+    {
       "name": "生活圈",
       "type": "cron",
       "time": "0-59 9,12,22 * * *",

@@ -2,6 +2,10 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
+	        "0 8 * * * https://raw.githubusercontent.com/xl2101200/-/main/pxx.js, tag=拼夕夕, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/xiao2.png, enabled=true",
+	        "0 0/30 * * * * https://raw.githubusercontent.com/xl2101200/-/main/keepjs.js, tag=keep小程序浇水, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/xiao2.png, enabled=true",
+	        "0 6 * * * https://raw.githubusercontent.com/xl2101200/-/main/keepdk.js, tag=keep小程序打卡偷能量, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/xiao2.png, enabled=true",
+	        "0 0/10 * * * * https://raw.githubusercontent.com/xl2101200/-/main/qkyl.js, tag=趣客有礼, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/xiao2.png, enabled=true",
 	        "0-59 9,12,22 * * * https://raw.githubusercontent.com/age174/-/main/shq.js, tag=生活圈, img-url=https://ftp.bmp.ovh/imgs/2021/04/e2b32e2eb2ad0cd3.png, enabled=true",
 	        "1 0,9,11,13,15,17,19,20,21,23 * 4-6 * https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/backup/get_red_rain.js, tag=京东自抓直播雨（配合重写每日获取）, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
 	        "1 8-23 * * * https://raw.githubusercontent.com/sngxpro2/jdliveredrain/main/lxk0301_live_redrain.js, tag=京东每日红包雨（由我代管随缘维护）, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",

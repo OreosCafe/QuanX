@@ -1,11 +1,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 公众号少年歌行pro：4月12日12:00，脚本进行如下变动：
-```
- 1、新增了 奇趣史蒂芬  大佬的 兴盛优选小程序  脚本
+
+ 1、新增了 `奇趣史蒂芬`  大佬的 `兴盛优选小程序`  脚本
  
 
- ``` 
 ### 仓库订阅地址：
 
 【圈x订阅地址】

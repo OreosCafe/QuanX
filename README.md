@@ -1,6 +1,37 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+### 公众号少年歌行pro：4月12日8:00，脚本进行如下变动：
+```
+ 1、新增了 肥皂  大佬的 萌喵大作战无限刷  脚本
+ 
+ 2、新增了 肥皂  大佬的 钢镚赚乐步达人二合一  脚本
+ 
+
+ ``` 
+### 仓库订阅地址：
+
+【圈x订阅地址】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+```
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+```
+### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
+```
+[rewrite remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+```
+
+------------
+
+
+
+
 ### 公众号少年歌行pro：4月11日11:00，脚本进行如下变动：
 ```
  1、新增了 Tom  大佬的 拼夕夕  脚本

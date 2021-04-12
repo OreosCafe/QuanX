@@ -2,7 +2,7 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-	        "60/4 * * * * https://raw.githubusercontent.com/qqsdff/script/main/xsyx.js, tag=兴盛优选小程序, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/nuoaier.png, enabled=true",
+	        "*/4 * * * * https://raw.githubusercontent.com/qqsdff/script/main/xsyx.js, tag=兴盛优选小程序, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/nuoaier.png, enabled=true",
 	        "0 0 1 1 * https://raw.githubusercontent.com/age174/-/main/mmdzz.js, tag=萌喵大作战无限刷, img-url=https://ae01.alicdn.com/kf/U13a7be18e87942118e4402e22652fd70H.jpg, enabled=true",
 	        "0 9 * * * https://raw.githubusercontent.com/age174/-/main/ehy.js, tag=钢镚赚乐步达人二合一, img-url=https://ae01.alicdn.com/kf/Ua59aa6c4f1784bfc9a0f126a3d8b3fc6V.jpg, enabled=true",
 	        "0 8 * * * https://raw.githubusercontent.com/xl2101200/-/main/pxx.js, tag=拼夕夕, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/xiao2.png, enabled=true",

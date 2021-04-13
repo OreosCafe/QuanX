@@ -4,52 +4,7 @@
   "desc": "当前脚本数量：350个。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
   "date": "2021-04-12 18:30:02",
   "list": [
-    {
-      "name": "京东维达品牌日",
-      "type": "cron",
-      "time": "15 08 5-30 4 *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/useful/main/monk/monk_vinda.js"
-      }
-    }, 
-    {
-      "name": "京东有机牧场",
-      "type": "cron",
-      "time": "0 0,1-22/2 1-31 4-7 *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/useful/main/monk/monk_pasture.js"
-      }
-    }, 
-    {
-      "name": "京东加购有礼",
-      "type": "cron",
-      "time": "15 12 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/useful/main/monk/monk_shop_add_to_car.js"
-      }
-    }, 
-    {
-      "name": "京东关注有礼",
-      "type": "cron",
-      "time": "15 15 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/useful/main/monk/monk_shop_follow_sku.js"
-      }
-    },  
-    {
-      "name": "京东店铺大转盘",
-      "type": "cron",
-      "time": "3 0,10,23 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/useful/main/monk/monk_shop_lottery.js"
-      }
-    }, 
-    {
+      {
       "name": "千禾阅读",
       "type": "cron",
       "time": "35 9-22 * * *",

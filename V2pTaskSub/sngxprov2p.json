@@ -112,8 +112,7 @@
         "target": "https://raw.githubusercontent.com/xl2101200/-/main/keepjs.js"
       }
     }, 
-    {
-    {
+     {
       "name": "生活圈",
       "type": "cron",
       "time": "0-59 9,12,22 * * *",

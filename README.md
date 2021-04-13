@@ -1,6 +1,53 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+
+### 公众号少年歌行pro：4月13日17:00，脚本进行如下变动：
+
+ 1、新增了 `肥皂`  大佬的 `千禾阅读`  脚本
+ 
+ 2、移除了 `Tom` 大佬的 `拼夕夕` 脚本
+ 
+ 3、移除了 `Tom` 大佬的 `趣客有礼` 脚本
+ 
+
+### 仓库订阅地址：
+
+【圈x订阅地址】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+```
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+```
+### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
+```
+[rewrite remote]
+#两个重写按照脚本说明的顺序选后独立启用，每次启用后请圈x首页长按风车再点左下角刷新按钮确保同步到位
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/qianheuser.conf, tag=肥皂千禾ck先开（不能和后开混用）, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/qianhetask.conf, tag=肥皂千禾ck后开（不能和先开混用）, update-interval=86400, opt-parser=false, enabled=false
+```
+
+### 公众号少年歌行pro：4月12日18:00，脚本进行如下变动：
+
+ 1、新增了 `肥皂`  大佬的 `部落农场`  脚本
+ 
+
+### 仓库订阅地址：
+
+【圈x订阅地址】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+```
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+```
+### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
+```
+[rewrite remote]
 ### 公众号少年歌行pro：4月12日18:00，脚本进行如下变动：
 
  1、新增了 `肥皂`  大佬的 `部落农场`  脚本

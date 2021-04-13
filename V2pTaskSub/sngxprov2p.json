@@ -5,6 +5,51 @@
   "date": "2021-04-12 18:30:02",
   "list": [
     {
+      "name": "京东维达品牌日",
+      "type": "cron",
+      "time": "15 08 5-30 4 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/sngxpro2/useful/main/monk/monk_vinda.js"
+      }
+    }, 
+    {
+      "name": "京东有机牧场",
+      "type": "cron",
+      "time": "0 0,1-22/2 1-31 4-7 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/sngxpro2/useful/main/monk/monk_pasture.js"
+      }
+    }, 
+    {
+      "name": "京东加购有礼",
+      "type": "cron",
+      "time": "15 12 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/sngxpro2/useful/main/monk/monk_shop_add_to_car.js"
+      }
+    }, 
+    {
+      "name": "京东关注有礼",
+      "type": "cron",
+      "time": "15 15 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/sngxpro2/useful/main/monk/monk_shop_follow_sku.js"
+      }
+    },  
+    {
+      "name": "京东店铺大转盘",
+      "type": "cron",
+      "time": "3 0,10,23 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/sngxpro2/useful/main/monk/monk_shop_lottery.js"
+      }
+    }, 
+    {
       "name": "千禾阅读",
       "type": "cron",
       "time": "35 9-22 * * *",
@@ -77,16 +122,7 @@
         "target": "https://raw.githubusercontent.com/age174/-/main/shq.js"
       }
     },
-    {
-      "name": "京东自抓直播雨（配合重写每日获取）",
-      "type": "cron",
-      "time": "1 0,9,11,13,15,17,19,20,21,23 * 4-6 *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/backup/get_red_rain.js"
-      }
-    },
-    {
+     {
       "name": "京东每日红包雨（由我代管随缘维护）",
       "type": "cron",
       "time": "1 8-23 * * *",
@@ -128,7 +164,7 @@
       "time": "15 08 2-18 4 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/car/monk_skyworth_car.js"
+        "target": "https://raw.githubusercontent.com/sngxpro2/useful/main/monk/monk_skyworth_car.js"
       }
     },
     {
@@ -137,7 +173,7 @@
       "time": "10 10 10-12 * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_xmf.js"
+        "target": "https://raw.githubusercontent.com/sngxpro2/useful/main/monk/z_xmf.js"
       }
     },
     {
@@ -146,7 +182,7 @@
       "time": "5 8,14,20 6-13 4 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_mother_jump.js"
+        "target": "https://raw.githubusercontent.com/sngxpro2/useful/main/monk/z_mother_jump.js"
       }
     },  
     {
@@ -168,15 +204,6 @@
       }
     }, 
     {
-      "name": "京东华硕-iqiyi",
-      "type": "cron",
-      "time": "0 0 5-11 4 *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/monk-coder/dust/dust/backup/z_asus_iqiyi.js"
-      }
-    },  
-   {
       "name": "京东女装盲盒",
       "type": "cron",
       "time": "0 8 1-8/1,27,28 2,3 *",
@@ -281,7 +308,7 @@
       "time": "10 10,11 * * 2-5",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/jd_entertainment.js"
+        "target": "https://raw.githubusercontent.com/sngxpro2/useful/main/monk/jd_entertainment.js"
       }
     },  
     {

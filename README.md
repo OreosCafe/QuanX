@@ -1,6 +1,40 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### 公众号少年歌行pro：4月15日17:30，脚本进行了如下变动：
+
+1、新增了  `iOS黑科技` 的 `#丝瓜解锁VIP视频无限看` 规则
+
+2、新增了  `iOS黑科技` 的 `#涩里番VIP视频无限看` 规则
+
+3、新增了  `iOS黑科技` 的 `#50度灰解锁VIP无限看` 规则
+
+4、代替 chavy 大佬 修复了 acfun脚本 不能获取cookie的问题，我的重写订阅已实装
+
+5、同步 chavy 大佬 的更新，修复了威锋脚本 不能获取cookie的问题，我的重写订阅已实装
+
+
+
+### 下载地址：
+
+`1、丝瓜下载地址`
+https://sigua001.com?_s=KKLADF
+
+`2、涩里番下载地址`
+https://slf506.com?_s=SCPGEF
+
+`3、50度灰下载地址`
+http://club.i50dh.net/chan/h50269/G5yU
+
+### 使用方法
+
+复制下方规则，粘贴到圈x配置文件`[rewrite remote]`标签下，回到`圈x首页`长按`右下角风车`，再点击左下角`刷新按钮`即可生效
+
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+
+```
+
 ### 公众号少年歌行pro：4月14日8:00，脚本进行如下变动：
 
  1、新增了 `ziye`  大佬的 `易趣牛帮`  脚本

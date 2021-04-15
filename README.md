@@ -1,7 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### 公众号少年歌行pro：4月13日17:00，脚本进行如下变动：
+### 公众号少年歌行pro：4月14日8:00，脚本进行如下变动：
 
  1、新增了 `ziye`  大佬的 `易趣牛帮`  脚本
  

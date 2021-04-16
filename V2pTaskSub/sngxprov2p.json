@@ -244,7 +244,7 @@
       "time": "0 0-18/6 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_carnivalcity.js"
+        "target": "https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/z_carnivalcity.js"
       }
     }, 
     {
@@ -334,7 +334,7 @@
       "time": "10 10,11 * * 2-5",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/jd_entertainment.js"
+        "target": "https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/z_entertainment.js"
       }
     },  
     {
@@ -622,7 +622,7 @@
       "time": "3 10 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/z_marketLottery.js"
+        "target": "https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/z_marketLottery.js"
       }
     },
     {

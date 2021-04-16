@@ -46,7 +46,7 @@
       "time": "15 08 5-30 4 *",
       "job": {
         "type": "runjs",
-        "target": "https://share.r2ray.com/dust/car/monk_vinda.js"
+        "target": "https://share.r2ray.com/dust/member/monk_vinda.js"
       }
     }, 
     {

@@ -11,7 +11,7 @@
 	        "15 15 * * * https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/monk_shop_follow_sku.js, tag=京东关注有礼, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/monk.png, enabled=true",
 	        "15 12 * * * https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/monk_shop_add_to_car.js, tag=京东加购有礼, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/monk.png, enabled=true",
 	        "0 0,1-22/2 1-31 4-7 * https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/monk_pasture.js, tag=京东有机牧场, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/monk.png, enabled=true",
-	        "10 10 10-12 * * https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/z_xmf.js, tag=京东小魔方, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
+	        "10 10 * * * https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/z_xmf.js, tag=京东小魔方, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
 	        "5 8,14,20 6-13 4 * https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/z_mother_jump.js, tag=京东母婴-跳一跳二期, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
 	        "3 10 * * * https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/jd_fanslove.js, tag=京东粉丝互动, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
 	        "10 10,11 * * 2-5 https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/z_entertainment.js, tag=京东百变大咖秀, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",

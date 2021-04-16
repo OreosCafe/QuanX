@@ -85,16 +85,7 @@
         "target": "https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/monk_shop_lottery.js"
       }
     }, 
-    {
-      "name": "千禾阅读",
-      "type": "cron",
-      "time": "35 9-22 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/qhyd.js"
-      }
-    }, 
-    {
+     {
       "name": "部落农场",
       "type": "cron",
       "time": "1 0 * * *",

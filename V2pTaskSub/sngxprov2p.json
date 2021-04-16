@@ -55,7 +55,7 @@
       "time": "0 0,1-22/2 1-31 4-7 *",
       "job": {
         "type": "runjs",
-        "target": "https://share.r2ray.com/dust/car/monk_pasture.js"
+        "target": "https://share.r2ray.com/dust/member/monk_pasture.js"
       }
     }, 
     {
@@ -1306,7 +1306,7 @@
       "time": "3 10 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/jd_fanslove.js"
+        "target": "https://share.r2ray.com/dust/i-chenzhe/z_fanslove.js"
       }
     },
     {

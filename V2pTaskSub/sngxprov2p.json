@@ -5,6 +5,15 @@
   "date": "2021-04-16 8:30:02",
   "list": [
    {
+      "name": "interCenter渠道店铺签到",
+      "type": "cron",
+      "time": "0 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/monk_inter_shop_sign.js"
+      }
+    }, 
+    {
       "name": "招招试药",
       "type": "cron",
       "time": "35 9 * * *",

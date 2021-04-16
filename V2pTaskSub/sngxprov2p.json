@@ -4,7 +4,16 @@
   "desc": "自用。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
   "date": "2021-04-16 8:30:02",
   "list": [
-   {
+      {
+      "name": "京东渠道店铺签到",
+      "type": "cron",
+      "time": "15 08 5-30 4 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://share.r2ray.com/dust/car/monk_vinda.js"
+      }
+    }, 
+    {
       "name": "招招试药",
       "type": "cron",
       "time": "35 9 * * *",
@@ -37,7 +46,7 @@
       "time": "15 08 5-30 4 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/monk_vinda.js"
+        "target": "https://share.r2ray.com/dust/car/monk_vinda.js"
       }
     }, 
     {
@@ -46,7 +55,7 @@
       "time": "0 0,1-22/2 1-31 4-7 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/monk_pasture.js"
+        "target": "https://share.r2ray.com/dust/car/monk_pasture.js"
       }
     }, 
     {
@@ -55,7 +64,7 @@
       "time": "15 12 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/monk_shop_add_to_car.js"
+        "target": "https://share.r2ray.com/dust/car/monk_shop_add_to_car.js"
       }
     }, 
     {
@@ -64,7 +73,7 @@
       "time": "15 15 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/monk_shop_follow_sku.js"
+        "target": "https://share.r2ray.com/dust/normal/monk_shop_follow_sku.js"
       }
     },  
     {
@@ -73,7 +82,7 @@
       "time": "3 0,10,23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/monk_shop_lottery.js"
+        "target": "https://share.r2ray.com/dust/normal/monk_shop_lottery.js"
       }
     }, 
     {
@@ -190,7 +199,7 @@
       "time": "15 08 2-18 4 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/monk_skyworth_car.js"
+        "target": "https://share.r2ray.com/dust/car/monk_skyworth_car.js"
       }
     },
     {
@@ -199,7 +208,7 @@
       "time": "10 10 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/z_xmf.js"
+        "target": "https://share.r2ray.com/dust/i-chenzhe/z_xmf.js"
       }
     },
     {
@@ -208,7 +217,7 @@
       "time": "5 8,14,20 6-13 4 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/z_mother_jump.js"
+        "target": "https://share.r2ray.com/dust/i-chenzhe/z_mother_jump.js"
       }
     },  
     {
@@ -244,7 +253,7 @@
       "time": "0 0-18/6 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_carnivalcity.js"
+        "target": "https://share.r2ray.com/dust/i-chenzhe/z_carnivalcity.js"
       }
     }, 
     {
@@ -334,7 +343,7 @@
       "time": "10 10,11 * * 2-5",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/jd_entertainment.js"
+        "target": "https://share.r2ray.com/dust/i-chenzhe/z_entertainment.js"
       }
     },  
     {
@@ -355,16 +364,7 @@
         "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/z_grassy.js"
       }
     }, 
-    {
-      "name": "京东京喜工厂收电力（需单抓ck）",
-      "type": "cron",
-      "time": "*/30 * * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/jxcollect.js"
-      }
-    }, 
-    {
+     {
       "name": "66阅读",
       "type": "cron",
       "time": "5,35 9-22 * * *",

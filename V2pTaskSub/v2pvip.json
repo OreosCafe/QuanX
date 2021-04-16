@@ -196,7 +196,7 @@
     {
       "name": "京东小魔方",
       "type": "cron",
-      "time": "10 10 10-12 * *",
+      "time": "10 10 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/z_xmf.js"

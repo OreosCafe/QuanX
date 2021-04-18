@@ -5,6 +5,15 @@
   "date": "2021-04-18 8:30:02",
   "list": [
   {
+      "name": "京东美丽研究院",
+      "type": "cron",
+      "time": "1 7,12,19 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jd_beauty.js"
+      }
+    }, 
+    {
       "name": "久金人脉",
       "type": "cron",
       "time": "20,50 0-23 * * *",

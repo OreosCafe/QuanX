@@ -1,6 +1,63 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### 公众号少年歌行pro：4月18 日17:30，脚本进行了如下变动：
+
+1、同步了 photonmang 对keep解锁vip 规则的修复，现在 不会再卡课程了
+
+2、新增了  `iOS黑科技` 的 `#探花解锁VIP会员` 规则
+
+3、新增了  `iOS黑科技` 的 `#91桃色解锁VIP无限看` 规则
+
+4、新增了  `iOS黑科技` 的 `#50度灰解锁VIP无限看` 规则
+
+5、 新增了  `iOS黑科技` 的 `#草榴短视频解锁VIP无限看` 规则
+
+6、新增了  `iOS黑科技` 的 `#陌陌视频解锁VIP无限看` 规则
+
+7、新增了  `iOS黑科技` 的 `#知音视频解锁VIP无限看` 规则
+
+
+
+### 下载地址（邀请码为破解作者所有）：
+```
+#探花解锁VIP会员
+#下载地址无需注册
+```
+#https://tanhua.app
+
+`#蜜桃解锁VIP无限看
+#下载地址`
+#https://mtlebh.xyz?p=Q7HB6L
+
+`#91桃色解锁VIP无限看
+#下载地址`
+#https://tsmanu.xyz?p=C4GSB1
+
+`#草榴短视频解锁VIP无限看
+#下载地址`
+#https://sppsge.xyz?p=OG8LDJ
+
+`#陌陌视频解锁VIP无限看
+#下载地址`
+#https://mmxbpr.xyz?p=VOD9J6
+
+`#知音视频解锁VIP无限看
+#下载地址`
+#https://sghoxm.xyz?p=WD44PJ
+
+### 使用方法
+
+复制下方规则，粘贴到圈x配置文件`[rewrite remote]`标签下，回到`圈x首页`长按`右下角风车`，再点击左下角`刷新按钮`即可生效
+
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+
+```
+
+
+
+
 ### 公众号少年歌行pro：4月18日8:00，脚本进行如下变动：
 
  1、新增了 `肥皂`  大佬的 `久金人脉`  脚本

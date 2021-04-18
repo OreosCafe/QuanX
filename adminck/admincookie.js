@@ -47,7 +47,7 @@ const JSCK=`token=abc`
 
 //填写你要导入的ck名字，去boxjs里看或者ck获取处 如$.setdata(refreshtokenVal, "refreshtoken" + $.idx);   则在''中填写refreshtoken
 
-const JSA='refreshtoken'
+const JSA=''
 const JSB=''
 const JSC=''
 const JSD=''
@@ -92,7 +92,7 @@ const GG=''//默认为换行，也可以将需要隔开的符号填写在''内
 
 //填写你要打印的ck名字，去js里获取ck处看 如$.setdata(refreshtokenVal, "refreshtoken" + $.idx);   则在''中填写refreshtoken
 
-const jsA='chavy_cookie_bilibili'
+const jsA='CookieJD'
 const jsB=''
 const jsC=''
 const jsD=''

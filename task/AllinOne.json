@@ -2,7 +2,7 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-    	        "0 * * * * https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_super_redrain.js, tag=整点京豆雨, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
+    	        "0 * * * * https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_super_redrain.js, tag=京东整点京豆雨, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
 	        "0 0 0/4 * * ? https://raw.githubusercontent.com/xl2101200/-/main/zb.js, tag=左边, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/mona.png, enabled=true",
 	        "1 7,12,19 * * * https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jd_beauty.js, tag=京东美丽研究院, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
 	        "20 9-22 * * * https://raw.githubusercontent.com/age174/-/main/jjrm.js, tag=久金人脉, img-url=https://ae01.alicdn.com/kf/Uf3f262fb6d81492a8e350a0bb97a04a0g.jpg, enabled=true",
@@ -33,8 +33,6 @@
 	        "0 0/30 * * * * https://raw.githubusercontent.com/xl2101200/-/main/keepjs.js, tag=keep小程序浇水, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/xiao2.png, enabled=true",
 	        "0 6 * * * https://raw.githubusercontent.com/xl2101200/-/main/keepdk.js, tag=keep小程序打卡偷能量, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/xiao2.png, enabled=true",
 	        "0-59 9,12,22 * * * https://raw.githubusercontent.com/age174/-/main/shq.js, tag=生活圈, img-url=https://ftp.bmp.ovh/imgs/2021/04/e2b32e2eb2ad0cd3.png, enabled=true",
-	        "1 0,9,11,13,15,17,19,20,21,23 * 4-6 * https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/backup/get_red_rain.js, tag=京东自抓直播雨（配合重写每日获取）, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
-	        "1 8-23 * * * https://raw.githubusercontent.com/sngxpro2/jdliveredrain/main/lxk0301_live_redrain.js, tag=京东每日红包雨（由我代管随缘维护）, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
 	        "0 9,13 * * * https://raw.githubusercontent.com/age174/-/main/lhws.js, tag=落花无生, img-url=https://ae01.alicdn.com/kf/U7f67ec3bd2d848a59d72a1807dc9e324r.jpg, enabled=true",
 	        "15 9 * * * https://raw.githubusercontent.com/age174/-/main/vsh.js, tag=V生活, img-url=https://ae01.alicdn.com/kf/Uf0da879c7acd4c7bad91f0e5a97667e1O.jpg, enabled=true",
 	        "1 0 * * * https://raw.githubusercontent.com/photonmang/quantumultX/master/Task/zyb.js, tag=作业帮签到, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/zuoyebang.png, enabled=true",

@@ -5,6 +5,15 @@
   "date": "2021-04-18 8:30:02",
   "list": [
    {
+      "name": "京东整点京豆雨",
+      "type": "cron",
+      "time": "0 * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_super_redrain.js"
+      }
+    }, 
+    {
       "name": "左边",
       "type": "cron",
       "time": "0 0 0/4 * * ?",

@@ -2,7 +2,8 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-    	        "0 0 0/4 * * ? https://raw.githubusercontent.com/xl2101200/-/main/zb.js, tag=左边, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/mona.png, enabled=true",
+    	        "0 * * * * https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_super_redrain.js, tag=整点京豆雨, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
+	        "0 0 0/4 * * ? https://raw.githubusercontent.com/xl2101200/-/main/zb.js, tag=左边, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/mona.png, enabled=true",
 	        "1 7,12,19 * * * https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jd_beauty.js, tag=京东美丽研究院, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
 	        "20 9-22 * * * https://raw.githubusercontent.com/age174/-/main/jjrm.js, tag=久金人脉, img-url=https://ae01.alicdn.com/kf/Uf3f262fb6d81492a8e350a0bb97a04a0g.jpg, enabled=true",
 	        "35 9 * * * https://raw.githubusercontent.com/age174/-/main/zzsy.js, tag=招招试药, img-url=https://ae01.alicdn.com/kf/Ub0056a0721e94c9a85a8bbeb2f2aed6fn.jpg, enabled=true",

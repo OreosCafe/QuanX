@@ -350,7 +350,7 @@ async function handlePostRequest(request) {
       let userenv = await context.get(uid)
       
       if (CONFIG_EV2P.userid && CONFIG_EV2P.userid.length && CONFIG_EV2P.userid.indexOf(body.message.chat.id) === -1) {
-        payload.text = "这是 " + CONFIG_EV2P.name + " 私人 bot，不接受其他人的指令。\n如果有兴趣可以自己搭建一个: https://github.com/elecV2/elecV2P-dei\n图文教程地址:测试完毕后发布\n\n开发者频道: @elecV2 | 开发者交流群: @elecV2G\n教程作者频道: @shao66 | 交流群: @sngxpro"
+        payload.text = "这是 " + CONFIG_EV2P.name + " 私人 bot，不接受其他人的指令。\n如果有兴趣可以自己搭建一个: https://github.com/elecV2/elecV2P-dei\n图文教程地址:https://mp.weixin.qq.com/s/hEHcLjnI6IsQJetaJL1KWw\n\n开发者频道: @elecV2 | 开发者交流群: @elecV2G\n教程作者频道: @shao66 | 交流群: @sngxpro"
         tgPush({
           ...payload,
           "chat_id": CONFIG_EV2P.userid[0],
@@ -530,7 +530,7 @@ async function handlePostRequest(request) {
         }
         await context.put(uid, userenv.context, bodytext)
       } else {
-        payload.text = 'TGbot 部署成功，可以使用相关指令和 elecV2P 服务器进行交互了\nPowered By: https://github.com/elecV2/elecV2P\n图文教程地址:测试完毕后发布\n\n频道: @elecV2 | 交流群: @elecV2G\n教程频道: @shao66 | 交流群: @sngxpro'
+        payload.text = 'TGbot 部署成功，可以使用相关指令和 elecV2P 服务器进行交互了\nPowered By: https://github.com/elecV2/elecV2P\n图文教程地址:https://mp.weixin.qq.com/s/hEHcLjnI6IsQJetaJL1KWw\n\n频道: @elecV2 | 交流群: @elecV2G\n教程频道: @shao66 | 交流群: @sngxpro'
         if (bodytext === '/start') {
           let status = ''
           try {

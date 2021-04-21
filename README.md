@@ -1,7 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### 公众号少年歌行pro：4月18日21:45，脚本进行如下变动：
+### 公众号少年歌行pro：4月21日8:45，脚本进行如下变动：
 
  1、新增了 `肥皂`  大佬的 `太平洋汽车网`  脚本 ，点击脚本看用法
  

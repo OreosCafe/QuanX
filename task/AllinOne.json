@@ -2,7 +2,9 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-    	        "35 12,18 * * * https://raw.githubusercontent.com/age174/-/main/xbgg.js, tag=讯播广告, img-url=https://ae01.alicdn.com/kf/U466ffce93b584c5babd1127f32f5ddebX.jpg, enabled=true",
+    	        "0 6 * * * https://raw.githubusercontent.com/xl2101200/-/main/smyj.js, tag=圣牧有机, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/mona.png, enabled=true",
+	        "0 8 * * * https://raw.githubusercontent.com/xl2101200/-/main/xyl.js, tag=新亚链, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/mona.png, enabled=true",
+	        "35 12,18 * * * https://raw.githubusercontent.com/age174/-/main/xbgg.js, tag=讯播广告, img-url=https://ae01.alicdn.com/kf/U466ffce93b584c5babd1127f32f5ddebX.jpg, enabled=true",
 	        "10 0-23/4 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_health.js, tag=京东健康社区0301版, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
 	        "25 * * * * https://share.r2ray.com/dust/i-chenzhe/z_health_energy.js, tag=京东健康社区-收能量, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/monk.png, enabled=true",
 	        "25 10-22/3 * * * https://share.r2ray.com/dust/i-chenzhe/z_health_community.js, tag=京东健康社区藏经阁版, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/monk.png, enabled=true",

@@ -2,7 +2,9 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-    	        "35 9 * * * https://raw.githubusercontent.com/age174/-/main/tpyqc.js, tag=太平洋汽车网, img-url=https://ae01.alicdn.com/kf/Uf51ecfcc4b0949e18441fc3f3f4919ede.jpg, enabled=true",
+    	        "25 * * * * https://share.r2ray.com/dust/i-chenzhe/z_health_energy.js, tag=京东健康社区-收能量, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/monk.png, enabled=true",
+	        "25 10-22/3 * * * https://share.r2ray.com/dust/i-chenzhe/z_health_community.js, tag=京东健康社区, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/monk.png, enabled=true",
+	        "35 9 * * * https://raw.githubusercontent.com/age174/-/main/tpyqc.js, tag=太平洋汽车网, img-url=https://ae01.alicdn.com/kf/Uf51ecfcc4b0949e18441fc3f3f4919ede.jpg, enabled=true",
 	        "10 8 * * * https://raw.githubusercontent.com/age174/-/main/sphz.js, tag=视频号互助, img-url=https://ae01.alicdn.com/kf/U6fe8c098a65740039ac7767867746c4aK.jpg, enabled=true",
 	        "0 * * * * https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_super_redrain.js, tag=京东整点京豆红包雨, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
 	        "0 0 0/4 * * ? https://raw.githubusercontent.com/xl2101200/-/main/zb.js, tag=左边, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/mona.png, enabled=true",

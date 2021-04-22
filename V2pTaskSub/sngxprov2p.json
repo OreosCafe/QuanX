@@ -5,6 +5,15 @@
   "date": "2021-04-22 12:30:02",
   "list": [
    {
+      "name": "讯播广告",
+      "type": "cron",
+      "time": "35 12,18 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/age174/-/main/xbgg.js"
+      }
+    }, 
+    {
       "name": "京东健康社区0301版",
       "type": "cron",
       "time": "10 0-23/4 * * *",

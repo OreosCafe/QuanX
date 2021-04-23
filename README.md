@@ -2,6 +2,29 @@
 
 
 
+### 公众号少年歌行pro：4月23日17:25，脚本进行如下变动：
+
+
+1、解锁vip规则新增了` moo日记 ` 解锁永久会员 规则
+
+此脚本由`搞机大神`提供抓包数据，`公众号少年歌行pro`适配圈x
+
+### APP下载地址：
+
+`appstore` 搜索下载
+
+### 解锁vip规则使用方法
+
+复制下方规则，粘贴到圈x配置文件`[rewrite remote]`标签下，回到`圈x首页`长按`右下角风车`，再点击`左下角刷新按钮`即可生效
+
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+
+```
+
+-----------------
+
+
 ### 公众号少年歌行pro：4月22日16:45，脚本进行如下变动：
 
  1、新增了 `Tom`  大佬的 `圣牧有机`  脚本 ，点击脚本看用法

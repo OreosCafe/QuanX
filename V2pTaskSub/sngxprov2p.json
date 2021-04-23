@@ -2,8 +2,53 @@
   "name": "公众号少年歌行pro v2p 专用定时任务订阅",
   "author": "由公众号少年歌行pro维护 https://t.me/sngxpro",
   "desc": "自用。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
-  "date": "2021-04-22 12:30:02",
+  "date": "2021-04-23 17:30:02",
   "list": [
+     {
+      "name": "京东幸运大转盘0301版",
+      "type": "cron",
+      "time": "4 10 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_market_lottery.js"
+      }
+    },  
+      {
+      "name": "京东健康社区0301版",
+      "type": "cron",
+      "time": "10 0-23/4 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_health.js"
+      }
+    }, 
+    {
+      "name": "京东健康社区收能量0301版",
+      "type": "cron",
+      "time": "5-45/20 * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_health_collect.js"
+      }
+    },
+     {
+      "name": "京东健康社区收能量藏经阁版",
+      "type": "cron",
+      "time": "25 * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/z_health_energy.js"
+      }
+    }, 
+    {
+      "name": "京东健康社区藏经阁版",
+      "type": "cron",
+      "time": "25 10-22/3 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/z_health_community.js"
+      }
+    }, 
      {
       "name": "圣牧有机",
       "type": "cron",
@@ -29,33 +74,6 @@
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/age174/-/main/xbgg.js"
-      }
-    }, 
-    {
-      "name": "京东健康社区0301版",
-      "type": "cron",
-      "time": "10 0-23/4 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_health.js"
-      }
-    }, 
-    {
-      "name": "京东健康社区-收能量",
-      "type": "cron",
-      "time": "25 * * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/z_health_energy.js"
-      }
-    }, 
-    {
-      "name": "京东健康社区藏经阁版",
-      "type": "cron",
-      "time": "25 10-22/3 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/z_health_community.js"
       }
     }, 
     {

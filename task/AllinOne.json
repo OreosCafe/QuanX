@@ -2,7 +2,8 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-    	        "4 10 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_market_lottery.js, tag=京东幸运大转盘0301版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
+    	        "25 8 * 4-5 * https://share.r2ray.com/dust/car/z_tcl_lining.js, tag=京东TCL电视自营, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/monk.png, enabled=true",
+	        "4 10 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_market_lottery.js, tag=京东幸运大转盘0301版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 	        "5-45/20 * * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_health_collect.js, tag=京东健康社区收能量0301版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 	        "25 * * * * https://share.r2ray.com/dust/i-chenzhe/z_health_energy.js, tag=京东健康社区收能量藏经阁版, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/monk.png, enabled=true",
                 "10 0-23/4 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_health.js, tag=京东健康社区0301版, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",

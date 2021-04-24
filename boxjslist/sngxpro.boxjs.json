@@ -57,8 +57,17 @@
             "script": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/iboxpay.js"
         },
              {
+    "id": "cgwz",
+    "name": "猜歌王者",
+    "keys": ["cgwzurl", "cgwzhd", "cgwzggurl"],
+    "author": "@feizao",
+    "repo": "https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/cgwz.js",
+    "icons": ["https://ae01.alicdn.com/kf/Uaade4566dd3744299956aa883f225386u.jpg", "https://ae01.alicdn.com/kf/Uaade4566dd3744299956aa883f225386u.jpg"],
+    "script": "ttps://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/cgwz.js"
+    }, 
+       {
     "id": "smz",
-    "name": "睡眠无限刷",
+    "name": "睡眠",
     "keys": ["ygkcurl", "ygkchd"],
     "author": "@ziye",
     "repo": "https://raw.githubusercontent.com/age174/-/main/smz.js",

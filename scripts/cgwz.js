@@ -11,13 +11,12 @@ TG电报交流群: https://t.me/hahaha8028
 
 [task_local]
 #猜歌王者改进度刷等级
-0 0 1 1 * klcg.js, tag=猜歌王者改进度, img-url=https://ae01.alicdn.com/kf/Uaade4566dd3744299956aa883f225386u.jpg, enabled=true
+0 0 1 1 * https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/cgwz.js, tag=猜歌王者改进度, img-url=https://ae01.alicdn.com/kf/Uaade4566dd3744299956aa883f225386u.jpg, enabled=true
 
 
 [rewrite_local]
 #猜歌王者改进度
-https://api.litemob.com/caigewangzhe_ios/song/info? url script-request-header cgwz.js
-
+https://api.litemob.com/caigewangzhe_ios/song/info? url script-request-header https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/cgwz.js
 
 [MITM]
 hostname = api.litemob.com

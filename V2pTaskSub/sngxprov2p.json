@@ -2,15 +2,15 @@
   "name": "公众号少年歌行pro v2p 专用定时任务订阅",
   "author": "由公众号少年歌行pro维护 https://t.me/sngxpro",
   "desc": "自用。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
-  "date": "2021-04-23 17:30:02",
+  "date": "2021-04-24 16:30:02",
   "list": [
      {
-      "name": "京东TCL电视自营",
+      "name": "京东球队赢好礼",
       "type": "cron",
-      "time": "25 8 * 4-5 *",
+      "time": "10 16 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/z_tcl_lining.js"
+        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_tcl.js"
       }
     },   
     {

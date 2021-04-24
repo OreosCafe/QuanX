@@ -10,7 +10,7 @@
       "time": "25 8 * 4-5 *",
       "job": {
         "type": "runjs",
-        "target": "https://share.r2ray.com/dust/car/z_tcl_lining.js"
+        "target": "https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/z_tcl_lining.js"
       }
     },   
     {

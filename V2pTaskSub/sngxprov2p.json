@@ -5,6 +5,24 @@
   "date": "2021-04-23 17:30:02",
   "list": [
      {
+      "name": "京东TCL电视自营",
+      "type": "cron",
+      "time": "25 8 * 4-5 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://share.r2ray.com/dust/car/z_tcl_lining.js"
+      }
+    },   
+    {
+      "name": "猜歌王者改进度",
+      "type": "cron",
+      "time": "0 0 1 1 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/cgwz.js"
+      }
+    },   
+    {
       "name": "京东幸运大转盘0301版",
       "type": "cron",
       "time": "4 10 * * *",

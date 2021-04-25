@@ -74,6 +74,15 @@
     "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/elem.png", "https://raw.githubusercontent.com/Orz-3/mini/master/elem.png"],
     "script": "https://raw.githubusercontent.com/age174/-/main/smz.js"
     }, 
+            {
+    "id": "kxhy",
+    "name": "开心花园",
+    "keys": ["kxhyheader"],
+    "author": "@zhiyi",
+    "repo": "https://raw.githubusercontent.com/age174/-/main/smz.js",
+    "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/elem.png", "https://raw.githubusercontent.com/Orz-3/mini/master/elem.png"],
+    "script": "https://raw.githubusercontent.com/age174/-/main/smz.js"
+    }, 
       {
       "id": "youthBanner",
       "name": "中青看看赚",

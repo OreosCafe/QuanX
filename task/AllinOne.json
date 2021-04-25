@@ -2,7 +2,8 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-    	        "10 16 * * * https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jd_tcl.js, tag=京东球队赢好礼（加购）, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdyjd.png, enabled=true",
+    	        "7 24,47 12 * * ? https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/tls.js, tag=特仑苏小程序, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/mona.png, enabled=true",
+	        "10 16 * * * https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jd_tcl.js, tag=京东球队赢好礼（加购）, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdyjd.png, enabled=true",
 	        "10 16 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_tcl.js, tag=京东球队赢好礼（不加购）, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdyjd.png, enabled=true",
 	        "0 0 1 1 * https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/cgwz.js, tag=猜歌王者改进度, img-url=https://ae01.alicdn.com/kf/Uaade4566dd3744299956aa883f225386u.jpg, enabled=true",
 	        "25 8 * 4-5 * https://share.r2ray.com/dust/car/z_tcl_lining.js, tag=京东TCL电视自营, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/monk.png, enabled=true",

@@ -5,7 +5,7 @@
 
 种植一朵花获取cookie，我已经完成三级任务提现秒到。
 
-https://bp-api.coohua.com/bubuduo-kxhy/game/plant url script-request-header kxhy.js
+https://bp-api.coohua.com/bubuduo-kxhy/game/plant url script-request-header https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/kxhy.js
 
 hostname = bp-api.coohua.com
 */

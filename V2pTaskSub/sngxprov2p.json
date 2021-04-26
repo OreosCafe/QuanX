@@ -5,6 +5,15 @@
   "date": "2021-04-25 16:30:02",
   "list": [
     {
+      "name": "京东领金贴",
+      "type": "cron",
+      "time": "10 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jin_tie.js"
+      }
+    },   
+    {
       "name": "百事乐元",
       "type": "cron",
       "time": "10 0 * * *",

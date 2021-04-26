@@ -1045,7 +1045,7 @@
       "time": "10 */1 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js"
+        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/youth.js"
       }
     },
     {
@@ -1054,7 +1054,7 @@
       "time": "10 */2 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js"
+        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/Youth_Read.js"
       }
     },
     {
@@ -2242,7 +2242,7 @@
       "time": "*/30 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baidu_speed.js"
+        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/baidu_speed.js"
       }
     },
     {
@@ -2251,7 +2251,7 @@
       "time": "*/10 */3 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jukan.js"
+        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/jukan.js"
       }
     },
     {
@@ -2260,7 +2260,7 @@
       "time": "4 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/mydigit.js"
+        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/mydigit.js"
       }
     },
     {
@@ -2269,7 +2269,7 @@
       "time": "20 5 10 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js"
+        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/youth_gain.js"
       }
     },
     {
@@ -2278,7 +2278,7 @@
       "time": "20 15 */2 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js"
+        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/Youth_Read.js"
       }
     },
     {
@@ -2287,25 +2287,16 @@
       "time": "20 11 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js"
+        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/youth.js"
       }
     },
-    {
-      "name": "新浪新闻",
-      "type": "cron",
-      "time": "10 11 8 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/sinanews.js"
-      }
-    },
-    {
+   {
       "name": "微博&钱包",
       "type": "cron",
       "time": "0 11 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/weibo.js"
+        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/weibo.js"
       }
     },
     {
@@ -2314,7 +2305,7 @@
       "time": "0 11 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/kuaishou.js"
+        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/kuaishou.js"
       }
     },
     {
@@ -2323,7 +2314,7 @@
       "time": "40 10 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/lkyl.js"
+        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/lkyl.js"
       }
     },
     {
@@ -2332,7 +2323,7 @@
       "time": "7 10 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/translate.js"
+        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/translate.js"
       }
     },
     {
@@ -2341,7 +2332,7 @@
       "time": "30 10 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jddj.js"
+        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/jddj.js"
       }
     },
     {
@@ -2350,7 +2341,7 @@
       "time": "30 9 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/txnews.js"
+        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/txnews.js"
       }
     },
     {
@@ -2359,7 +2350,7 @@
       "time": "0 0 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/telecomInfinity.js"
+        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/telecomInfinity.js"
       }
     },
     {
@@ -2368,7 +2359,7 @@
       "time": "4 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/exchangeRate.js"
+        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/exchangeRate.js"
       }
     },
     {
@@ -2377,7 +2368,7 @@
       "time": "0 0 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/trainquery.js"
+        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/trainquery.js"
       }
     },
     {
@@ -2386,7 +2377,7 @@
       "time": "0 0 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/tvpreview.js"
+        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/tvpreview.js"
       }
     },
     {
@@ -2395,7 +2386,7 @@
       "time": "0 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/moji.js"
+        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/moji.js"
       }
     },
     {

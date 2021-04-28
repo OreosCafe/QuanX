@@ -48,9 +48,9 @@ https://raw.githubusercontent.com/whyour/hundun/master/quanx/whyour.boxjs.json
 https://raw.githubusercontent.com/photonmang/quantumultX/master/photonmang.boxjs.json
 
 ---------
-`zhiyi`
+`Ariszy` 原`Zhiyi-n`
 
-https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/ZhiYi-N.boxjs.json
+https://raw.githubusercontent.com/Ariszy/Private-Script/master/Ariszy.boxjs.json
 
 -----------
 `姐姐`

@@ -1,6 +1,36 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+### 公众号少年歌行pro：4月28日14:30，脚本进行如下变动：
+
+ 1、适配了 `肥皂` 大佬的 `千禾阅读修复版`  脚本
+ 
+
+
+### 仓库订阅地址：
+
+【圈x订阅地址】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+```
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+```
+### 注意：需配合cookie使用，使用我的懒人包的，在配置文件的重写订阅中删除行首的#启用，也可手动加入以下订阅配置
+### 启用配置后，长按首页右下角风车--点左下角刷新按钮--左上角红点全部消失即可生效
+
+```
+[rewrite remote]
+#https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/qianheuser.conf, tag=肥皂千禾账户ck先开（不和后开同时打勾）, update-interval=86400, opt-parser=false, enabled=true
+#https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/qianhetask.conf, tag=肥皂千禾任务ck后开（不和先开同时打勾）, update-interval=86400, opt-parser=false, enabled=false
+
+
+```
+
+
+
 ### 公众号少年歌行pro：4月28日8:00，脚本进行如下变动：
 
  1、新增了 `肥皂` 大佬的 `幸福养鸡场`  脚本

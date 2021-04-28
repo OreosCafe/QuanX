@@ -7,6 +7,10 @@
  
  查看大佬的boxjs有更多配置。
  
+ 下载地址：http://kxhy.softprize.com/kxhy.html?os=ios&env=production&userId=204324297&pkgId=229
+ 
+ 作者邀请码：204672314
+ 
 
 
 ### 仓库订阅地址：

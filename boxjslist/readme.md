@@ -1,6 +1,6 @@
 ### 全网各大佬boxjs地址查询对照 2021.4.28
 
-`lx0301`
+`lxk0301`
 
 https://jdsharedresourcescdn.azureedge.net/jdresource/lxk0301.boxjs.json
 

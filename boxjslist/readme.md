@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/zZPiglet/Task/master/zZPiglet.boxjs.json
 
 -----------
 
-`charvy`
+`chavy`
 https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.json
 
 ---------

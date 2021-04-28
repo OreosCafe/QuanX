@@ -1,0 +1,8 @@
+{
+  "name": "少年歌行pro自用特殊脚本",
+  "description": "未获分享授权自用中",
+  "task": [
+"*/8 * * * * https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/kxhy.js, tag=开心花园, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/mona.png, enabled=true",
+"*/8 * * * * https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/ryhy.js, tag=如意花园, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/mona.png, enabled=true",
+]
+}

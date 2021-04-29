@@ -2,9 +2,27 @@
   "name": "公众号少年歌行pro v2p 专用定时任务订阅",
   "author": "由公众号少年歌行pro维护 https://t.me/sngxpro",
   "desc": "自用。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
-  "date": "2021-04-28 15:30:02",
+  "date": "2021-04-29 8:30:02",
   "list": [
      {
+      "name": "66阅读修复版",
+      "type": "cron",
+      "time": "5,35 9-22 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/age174/-/main/66yd.js"
+      }
+    }, 
+    {
+      "name": "火狐看看",
+      "type": "cron",
+      "time": "2 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/xl2101200/-/main/hhkk.js"
+      }
+    },   
+    {
       "name": "开心花园",
       "type": "cron",
       "time": "*/30 * * * *",
@@ -553,16 +571,7 @@
         "target": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/jxcollect.js"
       }
     }, 
-    {
-      "name": "66阅读",
-      "type": "cron",
-      "time": "5,35 9-22 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/66yd.js"
-      }
-    }, 
-    {
+   {
       "name": "京东联想集卡活动",
       "type": "cron",
       "time": "12 15 15-29 3 *",

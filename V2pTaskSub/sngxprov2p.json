@@ -7,7 +7,7 @@
     {
       "name": "千禾阅读修复版",
       "type": "cron",
-      "time": "35 9-22 * * *",
+      "time": "30 9-22 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/age174/-/main/qhyd.js"

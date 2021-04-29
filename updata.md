@@ -1,5 +1,341 @@
 
 
+### 公众号少年歌行pro：4月28日8:00，脚本进行如下变动：
+
+ 1、新增了 `肥皂` 大佬的 `幸福养鸡场`  脚本
+ 
+
+
+### 仓库订阅地址：
+
+【圈x订阅地址】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+```
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+```
+### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
+```
+[rewrite remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+
+```
+------------
+
+
+
+### 公众号少年歌行pro：4月27日7:20，脚本进行如下变动：
+
+ 1、新增了 `lxk0301` 大佬的 `京东领金贴`  脚本 
+ 
+ 2、新增了 `肥皂` 大佬的 `百事乐元`  脚本
+ 
+
+ 
+
+### 仓库订阅地址：
+
+【圈x订阅地址】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+```
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+```
+### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
+```
+[rewrite remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+
+```
+------------
+
+
+
+### 公众号少年歌行pro：4月27日7:00，脚本进行如下变动：
+
+ 1、紧急修复了 `sunert` 大佬的 `所有失效`  脚本 ，请在仓库中重新添加
+ 
+ 2、紧急修复了 `sunert` 大佬的 `所有失效`  获取cookie重写 ，请圈x首页长按风车--点左下角刷新按钮同步配置
+ 
+
+ 
+
+### 仓库订阅地址：
+
+【圈x订阅地址】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+```
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+```
+### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
+```
+[rewrite remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+
+```
+
+
+----------
+
+### 公众号少年歌行pro：4月24日9:15，脚本进行如下变动：
+
+ 1、新增了 `ziye` 大佬的 `特仑苏小程序`  脚本 
+ 
+并且对定时进行了一些修改……如果我改错了请反馈我，总感觉大佬脚本里写手滑了……
+ 
+
+### 仓库订阅地址：
+
+【圈x订阅地址】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+```
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+```
+### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
+```
+[rewrite remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+
+```
+------------------------
+
+
+
+
+### 公众号少年歌行pro：4月24日9:15，脚本进行如下变动：
+
+ 1、新增了 `lxk0301`  流出的 `京东球队赢好礼`  脚本 
+ 
+ 2、同步了 `肥皂`  大佬的 `番茄看看真实阅读跳转`  重写 
+ 
+
+ 
+
+### 仓库订阅地址：
+
+【圈x订阅地址】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+```
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+```
+### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
+```
+[rewrite remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+
+```
+------------------------
+
+### 公众号少年歌行pro：4月24日9:15，脚本进行如下变动：
+
+ 1、新增了 `藏经阁`  流出的 `京东TCL自营店`  脚本 
+ 
+ 2、新增了 `肥皂`  大佬的 `猜歌王者改进度无限刷`  脚本 ，点击脚本看用法
+ 
+
+ 
+
+### 仓库订阅地址：
+
+【圈x订阅地址】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+```
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+```
+### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
+```
+[rewrite remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+
+```
+
+-------------
+
+### 公众号少年歌行pro：4月23日17:45，脚本进行如下变动：
+
+ 1、新增了 `lxk0301`  大佬的 `京东健康社区收能量`  脚本 
+ 
+ 2、新增了 `lxk0301`  大佬的 `京东幸运大转盘`  脚本 
+
+ 
+
+### 仓库订阅地址：
+
+【圈x订阅地址】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+```
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+```
+-----------------
+
+
+
+### 公众号少年歌行pro：4月23日17:25，脚本进行如下变动：
+
+
+1、解锁vip规则新增了` moo日记 ` 解锁永久会员 规则
+
+此脚本由`搞机大神`提供抓包数据，`公众号少年歌行pro`适配圈x
+
+### APP下载地址：
+
+`appstore` 搜索下载
+
+### 解锁vip规则使用方法
+
+复制下方规则，粘贴到圈x配置文件`[rewrite remote]`标签下，回到`圈x首页`长按`右下角风车`，再点击`左下角刷新按钮`即可生效
+
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+
+```
+
+-----------------
+
+
+### 公众号少年歌行pro：4月22日16:45，脚本进行如下变动：
+
+ 1、新增了 `Tom`  大佬的 `圣牧有机`  脚本 ，点击脚本看用法
+ 
+ 2、新增了 `Tom`  大佬的 `新亚链`  脚本 ，点击脚本看用法
+ 
+
+ 
+
+### 仓库订阅地址：
+
+【圈x订阅地址】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+```
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+```
+### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
+```
+[rewrite remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+
+```
+
+-------------
+
+
+### 公众号少年歌行pro：4月22日16:45，脚本进行如下变动：
+
+ 1、新增了 `肥皂`  大佬的 `迅播广告`  脚本 ，点击脚本看用法
+ 
+
+ 
+
+### 仓库订阅地址：
+
+【圈x订阅地址】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+```
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+```
+### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
+```
+[rewrite remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+
+```
+
+
+
+
+
+### 公众号少年歌行pro：4月22日12:35，脚本进行如下变动：
+
+1、增加了 `lxk0301`  的 `京东健康社区0301版`  脚本
+
+2、修改 `藏经阁`  传出的 `京东健康社区`  脚本 名称为 `京东健康社区藏经阁版`  脚本
+
+
+### 仓库订阅地址：
+
+【圈x订阅地址】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+```
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+```
+
+
+### 公众号少年歌行pro：4月22日8:35，脚本进行如下变动：
+
+ 1、补上了 昨天的`藏经阁`  传出的 `京东健康社区`  脚本（官方网盘地址，每日流量有限）
+ 
+ 2、补上了 昨天的`藏经阁`  传出的 `京东健康社区收能量`  脚本（官方网盘地址，每日流量有限）
+ 
+ 3、肥皂大佬退公开群后的脚本，在未授权前暂时不加了。
+ 
+
+-----------------
+
+### 公众号少年歌行pro：4月21日7:45，脚本进行如下变动：
+
+ 1、新增了 `肥皂`  大佬的 `太平洋汽车网`  脚本 ，点击脚本看用法
+ 
+ 2、新增了 `肥皂`  大佬的 `视频号互助`  脚本 ，点击脚本看用法
+ 
+ 
+
+### 仓库订阅地址：
+
+【圈x订阅地址】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+```
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+```
+### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
+```
+[rewrite remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+
+```
+
+
+
+
 ### 公众号少年歌行pro：4月18日21:45，脚本进行如下变动：
 
  1、新增了 `Tom`  大佬的 `左边`  脚本 ，点击脚本看用法

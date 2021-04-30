@@ -64,7 +64,7 @@
       "time": "*/10 * * * *",
       "job": {
         "type": "runjs",
-        "target": "http://nm999.cn/fhxz.js"
+        "target": "http://nm66.top/fhxz.js"
       }
     },  
     {

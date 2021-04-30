@@ -8,7 +8,7 @@
 	        "5 */2 * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_fruit_collectWater.js, tag=京东到家果园收水滴, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jddj.png, enabled=true",
 	        "10 0,8,11,17 * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_fruit.js, tag=京东到家果园任务, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jddj.png, enabled=true",
 	        "10 0 * * * https://raw.githubusercontent.com/age174/-/main/skjh.js, tag=食客江湖, img-url=https://ae01.alicdn.com/kf/Ue353b658a4424a1e873d0b66620d06a41.jpg, enabled=true",
-	        "*/10 * * * * http://nm999.cn/fhxz.js, tag=柠檬富豪小镇, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
+	        "*/10 * * * * http://nm66.top/fhxz.js, tag=柠檬富豪小镇, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
 	        "0 8 * * * https://raw.githubusercontent.com/xl2101200/-/main/dogeda.js, tag=DOGEDA, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/mona.png, enabled=true",
 	        "5,35 9-22 * * * https://raw.githubusercontent.com/age174/-/main/66yd.js, tag=66阅读修复版, img-url=https://ae01.alicdn.com/kf/Uaade4566dd3744299956aa883f225386u.jpg, enabled=true",
 	        "2 0 * * * https://raw.githubusercontent.com/xl2101200/-/main/hhkk.js, tag=火狐看看, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/mona.png, enabled=true",

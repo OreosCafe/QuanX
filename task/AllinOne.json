@@ -2,7 +2,9 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-  	        "0-25/5 0 * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_getPoints.js, tag=京东到家鲜豆庄园领水滴, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jddj.png, enabled=true",
+  	        "40 8,20,9-19/2 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/DiDi/DiDi_drink.js, tag=滴滴喝水赚钱zZPiglet, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/didi.png, enabled=true",
+	    	"0 1,20 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/DiDi/DiDi_new.js, tag=滴滴出行zZPiglet, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/didi.png, enabled=true",
+	        "0-25/5 0 * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_getPoints.js, tag=京东到家鲜豆庄园领水滴, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jddj.png, enabled=true",
 	        "0 9 * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_plantBeans.js, tag=京东到家鲜豆庄园, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jddj.png, enabled=true",
 	        "0 8 * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_bean.js, tag=京东到家鲜豆任务, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jddj.png, enabled=true",
 	        "5 */2 * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_fruit_collectWater.js, tag=京东到家果园收水滴, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jddj.png, enabled=true",
@@ -358,7 +360,6 @@
 		"0 30 0,6 * * ? https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/newsinachaohua.js, tag=新浪微博超话签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/weibo.png, enabled=true",
 		"1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/115/115.js, tag=115, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/115.png, enabled=true",
 		"1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Blibee/Blibee.js, tag=便利蜂, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Blibee.png, enabled=true",
-		"0 1,20 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/DiDi/DiDi_new.js, tag=滴滴出行, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/didi.png, enabled=true",
 		"0 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Domino/Domino_getSMS.js, tag=达美乐, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Domino.png, enabled=true",
 		"1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Haidilao/Haidilao.js, tag=海底捞, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/haidilao.png, enabled=true",
 		"0 7 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/MovieCalendar/MovieCalendar.js, tag=电影日历, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/MovieCalendar.png, enabled=true",

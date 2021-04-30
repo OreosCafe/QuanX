@@ -4,13 +4,22 @@
   "desc": "自用。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
   "date": "2021-04-29 18:30:02",
   "list": [
+     {
+      "name": "食客江湖",
+      "type": "cron",
+      "time": "10 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/age174/-/main/skjh.js"
+      }
+    },  
     {
       "name": "柠檬富豪小镇",
       "type": "cron",
-      "time": "0 0/5 * * *",
+      "time": "*/10 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/panghu999/ningmeng/main/fhxz.js"
+        "target": "http://nm999.cn/fhxz.js"
       }
     },  
     {

@@ -5,6 +5,51 @@
   "date": "2021-04-29 18:30:02",
   "list": [
      {
+      "name": "京东到家鲜豆庄园领水滴",
+      "type": "cron",
+      "time": "0-25/5 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_getPoints.js"
+      }
+    },  
+     {
+      "name": "京东到家鲜豆庄园",
+      "type": "cron",
+      "time": "0 9 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_plantBeans.js"
+      }
+    },  
+     {
+      "name": "京东到家鲜豆任务",
+      "type": "cron",
+      "time": "0 8 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_bean.js"
+      }
+    },  
+     {
+      "name": "京东到家果园收水滴",
+      "type": "cron",
+      "time": "5 */2 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_fruit_collectWater.js"
+      }
+    },  
+      {
+      "name": "京东到家果园任务",
+      "type": "cron",
+      "time": "10 0,8,11,17 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_fruit.js"
+      }
+    },  
+    {
       "name": "食客江湖",
       "type": "cron",
       "time": "10 0 * * *",

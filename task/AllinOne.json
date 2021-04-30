@@ -23,7 +23,7 @@
 	        "10 16 * * * https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jd_tcl.js, tag=京东球队赢好礼（加购）, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdyjd.png, enabled=true",
 	        "10 16 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_tcl.js, tag=京东球队赢好礼（不加购）, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdyjd.png, enabled=true",
 	        "0 0 1 1 * https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/cgwz.js, tag=猜歌王者改进度, img-url=https://ae01.alicdn.com/kf/Uaade4566dd3744299956aa883f225386u.jpg, enabled=true",
-	        "25 8 * 4-5 * https://share.r2ray.com/dust/car/z_tcl_lining.js, tag=京东TCL电视自营, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/monk.png, enabled=true",
+	        "25 8 * 4-5 * https://raw.githubusercontent.com/monk-coder/dust/dust/car/z_tcl_lining.js, tag=京东TCL电视自营, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/monk.png, enabled=true",
 	        "4 10 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_market_lottery.js, tag=京东幸运大转盘0301版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 	        "5-45/20 * * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_health_collect.js, tag=京东健康社区收能量0301版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 	        "25 * * * * https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_health_energy.js, tag=京东健康社区收能量藏经阁版, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/monk.png, enabled=true",

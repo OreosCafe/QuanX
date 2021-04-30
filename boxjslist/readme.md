@@ -1,5 +1,11 @@
 ### 全网各大佬boxjs地址查询对照 2021.4.30
 
+`passerby-b`
+
+https://raw.githubusercontent.com/passerby-b/JDDJ/main/passerby-b.boxjs.json
+
+-------------
+
 `柠檬`
 
 http://nm66.top/nm.box.json

@@ -1,6 +1,13 @@
 ### 全网各大佬boxjs地址查询对照 2021.4.30
 
+`柠檬`
+
+http://nm66.top/nm.box.json
+
+----------
+
 `tom`
+
 https://raw.githubusercontent.com/xl2101200/-/main/tom.box.json
 
 -----------

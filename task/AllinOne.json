@@ -2,7 +2,8 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-  	        "*/10 * * * * http://nm999.cn/fhxz.js, tag=柠檬富豪小镇, enabled=true",
+  	        "10 0 * * * https://raw.githubusercontent.com/age174/-/main/skjh.js, tag=食客江湖, img-url=https://ae01.alicdn.com/kf/Ue353b658a4424a1e873d0b66620d06a41.jpg, enabled=true",
+	        "*/10 * * * * http://nm999.cn/fhxz.js, tag=柠檬富豪小镇, enabled=true",
 	        "0 8 * * * https://raw.githubusercontent.com/xl2101200/-/main/dogeda.js, tag=DOGEDA, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/mona.png, enabled=true",
 	        "5,35 9-22 * * * https://raw.githubusercontent.com/age174/-/main/66yd.js, tag=66阅读修复版, img-url=https://ae01.alicdn.com/kf/Uaade4566dd3744299956aa883f225386u.jpg, enabled=true",
 	        "2 0 * * * https://raw.githubusercontent.com/xl2101200/-/main/hhkk.js, tag=火狐看看, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/mona.png, enabled=true",

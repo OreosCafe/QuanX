@@ -1,6 +1,37 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### 公众号少年歌行pro：5月1日 8:30，脚本进行如下变动：
+
+ 1、新增了 `执意` 大佬的 `猜歌联盟`  脚本 ，appstore下载 ， 跑一次就可以删脚本了
+ 
+ 2、新增了 `feizao` 大佬的 `淘优购`  脚本
+ 
+ 3、更新了 `今日头条`  脚本 的获取cookie规则 
+
+ 
+### 仓库订阅地址：
+
+【圈x订阅地址】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+```
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+```
+### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
+### 注意：一定在圈x首页长按风车--再点一下左下角刷新按钮，等左上角数字清零后才能同步配置！
+```
+[rewrite remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+
+```
+------------
+
+
+
 ### 公众号少年歌行pro：4月30日17:00，脚本进行如下变动：
 
  1、新增了 `zzpiglet` 大佬的 `滴滴喝水赚钱`  脚本

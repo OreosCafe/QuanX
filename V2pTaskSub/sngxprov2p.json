@@ -2,9 +2,27 @@
   "name": "公众号少年歌行pro v2p 专用定时任务订阅",
   "author": "由公众号少年歌行pro维护 https://t.me/sngxpro",
   "desc": "自用。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
-  "date": "2021-04-29 18:30:02",
+  "date": "2021-05-1 8:30:02",
   "list": [
-     {
+    {
+      "name": "淘优购",
+      "type": "cron",
+      "time": "10 9 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/age174/-/main/tyg.js"
+      }
+    },  
+    {
+      "name": "滴滴喝水赚钱zZPiglet",
+      "type": "cron",
+      "time": "40 8,20,9-19/2 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/zZPiglet/Task/master/DiDi/DiDi_drink.js"
+      }
+    },  
+    {
       "name": "京东到家鲜豆庄园领水滴",
       "type": "cron",
       "time": "0-25/5 0 * * *",

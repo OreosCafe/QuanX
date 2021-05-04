@@ -2,9 +2,72 @@
   "name": "公众号少年歌行pro v2p 专用定时任务订阅",
   "author": "由公众号少年歌行pro维护 https://t.me/sngxpro",
   "desc": "自用。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
-  "date": "2021-05-1 8:30:02",
+  "date": "2021-05-04 8:30:02",
   "list": [
+     {
+      "name": "开心大丰收",
+      "type": "cron",
+      "time": "*/10 * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "http://nm66.top/kxdfs.js"
+      }
+    },
     {
+      "name": "抖音抖一抖红包",
+      "type": "cron",
+      "time": "*/60 * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "http://nm66.top/dydhb.js"
+      }
+    },
+     {
+      "name": "抖音抖一抖",
+      "type": "cron",
+      "time": "*/1 * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "http://nm66.top/dyd.js"
+      }
+    },
+    {
+      "name": "大公会",
+      "type": "cron",
+      "time": "9 8 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/age174/-/main/dgh.js"
+      }
+    },
+    {
+      "name": "如意花园",
+      "type": "cron",
+      "time": "*/15 * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/ryhy.js"
+      }
+    },
+    {
+      "name": "考状元娶老婆",
+      "type": "cron",
+      "time": "10 0-23 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/age174/-/main/qlp.js"
+      }
+    },
+    {
+      "name": "京东超级无线组队分奖品",
+      "type": "cron",
+      "time": "25 3 * * 2",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_shop_captain.js"
+      }
+    },  
+     {
       "name": "淘优购",
       "type": "cron",
       "time": "10 9 * * *",

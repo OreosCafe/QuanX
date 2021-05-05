@@ -1,6 +1,21 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
-### 公众号少年歌行pro：5月1日 8:30，脚本进行如下变动：
+### 公众号少年歌行pro：5月5日 17:30，脚本进行如下变动：
+
+ 1、获取cookie订阅同步了`执意`大佬对`开心花园`的云加速ck获取功能，同步配置后游戏内云加速一次获取ck
+
+### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
+### 注意：一定在圈x首页长按风车--再点一下左下角刷新按钮，等左上角数字清零后才能同步配置！
+```
+[rewrite remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+
+```
+
+
+
+### 公众号少年歌行pro：5月4日 8:30，脚本进行如下变动：
 
  1、新增了 `i-chenzhe` 大佬的 `京东超级无线组队分奖品`  脚本 
  

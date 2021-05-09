@@ -2,7 +2,8 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-       	        "10 9 * * * https://raw.githubusercontent.com/age174/-/main/scdcg.js, tag=食材大冲关, img-url= https://ae01.alicdn.com/kf/U9f2a16b203ed40318d22f9fd5fdce9a9S.jpg, enabled=true",
+       	        "50 12 * * * https://raw.githubusercontent.com/age174/-/main/fksl.js, tag=疯狂森林, img-url=https://ae01.alicdn.com/kf/U1d2f24494aa1460286360f8bb0e10210Y.jpg, enabled=true",
+	        "10 9 * * * https://raw.githubusercontent.com/age174/-/main/scdcg.js, tag=食材大冲关, img-url= https://ae01.alicdn.com/kf/U9f2a16b203ed40318d22f9fd5fdce9a9S.jpg, enabled=true",
        	        "*/10 * * * * https://raw.githubusercontent.com/panghu999/ningmeng/main/qmlzc.js, tag=全民来找茬, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
 	        "*/10 * * * * https://raw.githubusercontent.com/panghu999/ningmeng/main/qmdff.js, tag=全民大丰收, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
 	        "15 8 7-31 5 * https://raw.githubusercontent.com/monk-coder/dust/dust/car/adolf_haier.js, tag=京东海尔欢乐大逃亡, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/monk.png, enabled=true",

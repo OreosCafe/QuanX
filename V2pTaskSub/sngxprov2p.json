@@ -5,6 +5,24 @@
   "date": "2021-05-11 8:30:02",
   "list": [
    {
+      "name": "搜狐资讯",
+      "type": "cron",
+      "time": "11 11 * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/shzx.js"
+      }
+    },
+     {
+      "name": "小芒",
+      "type": "cron",
+      "time": "8 8 8 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/xm.js"
+      }
+    },
+    {
       "name": "京东探秘无限星空",
       "type": "cron",
       "time": "15 8 9-13 5 *",

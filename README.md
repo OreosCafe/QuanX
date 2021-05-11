@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 ```
-此脚本圈x专用
+此脚本手机端专用
 ```
 
 -------------

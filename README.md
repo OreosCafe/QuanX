@@ -1,5 +1,28 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+### 公众号少年歌行pro：5月13日 7:30，脚本进行如下变动：
+
+ 1、新增了 `姐姐` 大佬的 `手机boxjs的Cookie自动上传V2p`  脚本 
+ 
+ 2、为 `姐姐` 大佬的 `手机boxjs的Cookie自动上传V2p`  脚本 设置了 每天早上7点同步一次的定时，您可自行根据需要修改
+ 
+ 3、为 `姐姐` 大佬的 `手机boxjs的Cookie自动上传V2p`  脚本 设置了一个 `自定义头像`
+ 
+ 
+### 仓库订阅地址：
+
+【圈x订阅地址】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+```
+
+【v2p订阅地址】
+```
+此脚本圈x专用
+```
+
+-------------
+
 ### 公众号少年歌行pro：5月11日 7:30，脚本进行如下变动：
 
  1、新增了 `ziye` 大佬的 `搜狐资讯`  脚本 

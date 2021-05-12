@@ -4,6 +4,15 @@
   "desc": "自用。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
   "date": "2021-05-12 16:30:02",
   "list": [
+     {
+      "name": "京喜财富岛提现并发修改版ztxtop",
+      "type": "cron",
+      "time": "0 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/ztxtop/x/aa4ddeca813fbf5c231dd4adaec68a7632cb292c/jx_cfdtx.js"
+      }
+    },
    {
       "name": "京东探秘无限星空",
       "type": "cron",
@@ -1289,15 +1298,6 @@
       "job": {
         "type": "runjs",
         "target": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/iboxpay.js"
-      }
-    },
-    {
-      "name": "京东京喜财富岛提现",
-      "type": "cron",
-      "time": "0 0 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/wuzhi03/MyActions/main/jx_cfdtx.js"
       }
     },
     {

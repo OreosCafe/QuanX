@@ -2,9 +2,153 @@
   "name": "公众号少年歌行pro v2p 专用定时任务订阅",
   "author": "由公众号少年歌行pro维护 https://t.me/sngxpro",
   "desc": "自用。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
-  "date": "2021-05-11 17:30:02",
+  "date": "2021-05-12 16:30:02",
   "list": [
    {
+      "name": "京东探秘无限星空",
+      "type": "cron",
+      "time": "15 8 9-13 5 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/car/adolf_ETIP.js"
+      }
+    },
+	 {
+      "name": "京东海尔_欢乐大逃亡",
+      "type": "cron",
+      "time": "15 8 7-31 5 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/car/adolf_haier.js"
+      }
+    },
+	 {
+      "name": "京东加购有礼",
+      "type": "cron",
+      "time": ""15 12 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/car/monk_shop_add_to_car.js"
+      }
+    },
+	 {
+      "name": "京东粉丝互动",
+      "type": "cron",
+      "time": "3 10 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_fanslove.js"
+      }
+    },
+	 {
+      "name": "京东健康社区藏经阁版",
+      "type": "cron",
+      "time": "25 10-22/3 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_health_community.js"
+      }
+    },
+	 {
+      "name": "京东健康社区-收能量",
+      "type": "cron",
+      "time": "25 * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_health_energy.js"
+      }
+    },
+	 {
+      "name": "京东京东超市-大转盘",
+      "type": "cron",
+      "time": "3 10 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_marketLottery.js"
+      }
+    },
+	 {
+      "name": "京东母婴-跳一跳",
+      "type": "cron",
+      "time": "5 8,14,20 6-12 5 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_mother_jump.js"
+      }
+    },
+	 {
+      "name": "京东摇一摇",
+      "type": "cron",
+      "time": "3 20 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_shake.js"
+      }
+    },
+	 {
+      "name": "京东超级无线组队分奖品",
+      "type": "cron",
+      "time": "25 3 * * 2",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_shop_captain.js"
+      }
+    },
+	 {
+      "name": "京东众筹许愿池",
+      "type": "cron",
+      "time": "10 10,15 8-9 5 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_wish.js"
+      }
+    },
+	 {
+      "name": "京东小魔方",
+      "type": "cron",
+      "time": "10 10 * 4 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_xmf.js"
+      }
+    },
+	 {
+      "name": "京东有机牧场",
+      "type": "cron",
+      "time": "0 0,1-22/2 1-31 4-7 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/member/monk_pasture.js"
+      }
+    },
+	 {
+      "name": "京东刺客567之寻宝",
+      "type": "cron",
+      "time": "25 8,12 6-11 5 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_oppo.js"
+      }
+    },
+	 {
+      "name": "京东关注有礼",
+      "type": "cron",
+      "time": "15 15 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/normal/monk_shop_follow_sku.js"
+      }
+    },
+	 {
+      "name": "京东店铺大转盘",
+      "type": "cron",
+      "time": "3 0,10,23 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/normal/monk_shop_lottery.js"
+      }
+    }, 
+    {
       "name": "搜狐资讯",
       "type": "cron",
       "time": "11 11 * * * *",
@@ -23,21 +167,12 @@
       }
     },
     {
-      "name": "京东探秘无限星空",
-      "type": "cron",
-      "time": "15 8 9-13 5 *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/monk-coder/dust/dust/car/adolf_ETIP.js"
-      }
-    },
-    {
       "name": "发财树",
       "type": "cron",
       "time": "0 1 0/5 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/xl2101200/-/main/fcs.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/fcs.js"
       }
     },
     {
@@ -46,7 +181,7 @@
       "time": "0 0 1 1 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/xl2101200/-/main/kkj.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/kkj.js"
       }
     },
     {
@@ -55,7 +190,7 @@
       "time": "10 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/csxdr.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/csxdr.js"
       }
     },
     {
@@ -64,7 +199,7 @@
       "time": "10 8,12,18 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/passerby-b/didi_fruit/main/dd_fruit.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/passerby-b/didi_fruit/main/dd_fruit.js"
       }
     },
     {
@@ -82,7 +217,7 @@
       "time": "0 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/xl2101200/-/main/ipxz.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/ipxz.js"
       }
     },
      {
@@ -91,7 +226,7 @@
       "time": "5 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/xl2101200/-/main/ecwk.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/ecwk.js"
       }
     },
      {
@@ -109,7 +244,7 @@
       "time": "50 12 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/fksl.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/fksl.js"
       }
     },
        {
@@ -118,7 +253,7 @@
       "time": "10 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/scdcg.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/scdcg.js"
       }
     },
        {
@@ -127,7 +262,7 @@
       "time": "*/10 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/panghu999/ningmeng/main/qmlzc.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/panghu999/ningmeng/main/qmlzc.js"
       }
     },
        {
@@ -136,25 +271,16 @@
       "time": "*/10 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/panghu999/ningmeng/main/qmdff.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/panghu999/ningmeng/main/qmdff.js"
       }
     },
-    {
-      "name": "食材大冲关",
-      "type": "cron",
-      "time": "10 9 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/scdcg.js"
-      }
-    },
-    {
+     {
       "name": "WGC",
       "type": "cron",
       "time": "0 0 0/3 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/xl2101200/-/main/wgc.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/wgc.js"
       }
     },
     {
@@ -163,7 +289,7 @@
       "time": "0 0 1 1 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/xl2101200/-/main/zsb.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/zsb.js"
       }
     },
     {
@@ -172,7 +298,7 @@
       "time": "0 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/xl2101200/-/main/ttcj.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/ttcj.js"
       }
     },
     {
@@ -181,7 +307,7 @@
       "time": "0 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/xl2101200/-/main/yt.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/yt.js"
       }
     },
     {
@@ -190,7 +316,7 @@
       "time": "0 0 0/1 * * ?",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/xl2101200/-/main/btdh.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/btdh.js"
       }
     },
     {
@@ -199,7 +325,7 @@
       "time": "0 0 0/4 * * ?",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/xl2101200/-/main/ggdh.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/ggdh.js"
       }
     },
     {
@@ -235,7 +361,7 @@
       "time": "9 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/dgh.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/dgh.js"
       }
     },
     {
@@ -244,7 +370,7 @@
       "time": "*/15 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/ryhy.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/ryhy.js"
       }
     },
     {
@@ -253,7 +379,7 @@
       "time": "10 0-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/qlp.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/qlp.js"
       }
     },
   {
@@ -262,7 +388,7 @@
       "time": "10 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/tyg.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/tyg.js"
       }
     },  
     {
@@ -271,7 +397,7 @@
       "time": "40 8,20,9-19/2 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/zZPiglet/Task/master/DiDi/DiDi_drink.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zZPiglet/Task/master/DiDi/DiDi_drink.js"
       }
     },  
     {
@@ -280,7 +406,7 @@
       "time": "0-25/5 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_getPoints.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_getPoints.js"
       }
     },  
      {
@@ -289,7 +415,7 @@
       "time": "0 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_plantBeans.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_plantBeans.js"
       }
     },  
      {
@@ -298,7 +424,7 @@
       "time": "0 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_bean.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_bean.js"
       }
     },  
      {
@@ -307,7 +433,7 @@
       "time": "5 */2 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_fruit_collectWater.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_fruit_collectWater.js"
       }
     },  
       {
@@ -316,7 +442,7 @@
       "time": "10 0,8,11,17 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_fruit.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_fruit.js"
       }
     },  
     {
@@ -325,7 +451,7 @@
       "time": "10 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/skjh.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/skjh.js"
       }
     },  
     {
@@ -343,7 +469,7 @@
       "time": "0 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/xl2101200/-/main/dogeda.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/dogeda.js"
       }
     },  
     {
@@ -352,7 +478,7 @@
       "time": "30 9-22 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/qhyd.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/qhyd.js"
       }
     },  
     {
@@ -361,7 +487,7 @@
       "time": "5,35 9-22 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/66yd.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/66yd.js"
       }
     }, 
     {
@@ -370,7 +496,7 @@
       "time": "2 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/xl2101200/-/main/hhkk.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/hhkk.js"
       }
     },   
     {
@@ -379,7 +505,7 @@
       "time": "*/30 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/kxhy.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/kxhy.js"
       }
     },   
     {
@@ -388,7 +514,7 @@
       "time": "10,20,30 0-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/xfyjc.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/xfyjc.js"
       }
     },   
     {
@@ -406,7 +532,7 @@
       "time": "10 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/bsly.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/bsly.js"
       }
     },   
      {
@@ -424,7 +550,7 @@
       "time": "0 0 1 1 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/cgwz.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/cgwz.js"
       }
     },   
     {
@@ -460,7 +586,7 @@
       "time": "25 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/z_health_energy.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/z_health_energy.js"
       }
     }, 
      {
@@ -469,7 +595,7 @@
       "time": "0 6 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/xl2101200/-/main/smyj.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/smyj.js"
       }
     }, 
     {
@@ -478,7 +604,7 @@
       "time": "0 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/xl2101200/-/main/xyl.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/xyl.js"
       }
     }, 
     {
@@ -487,7 +613,7 @@
       "time": "35 12,18 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/xbgg.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/xbgg.js"
       }
     }, 
     {
@@ -496,7 +622,7 @@
       "time": "10 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/sphz.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/sphz.js"
       }
     }, 
     {
@@ -505,7 +631,7 @@
       "time": "35 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/tpyqc.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/tpyqc.js"
       }
     }, 
     {
@@ -514,7 +640,7 @@
       "time": "0 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_super_redrain.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_super_redrain.js"
       }
     }, 
     {
@@ -523,7 +649,7 @@
       "time": "0 0 0/4 * * ?",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/xl2101200/-/main/zb.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/zb.js"
       }
     }, 
     {
@@ -532,7 +658,7 @@
       "time": "1 7,12,19 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jd_beauty.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jd_beauty.js"
       }
     }, 
     {
@@ -541,7 +667,7 @@
       "time": "20 9-22 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/jjrm.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/jjrm.js"
       }
     }, 
     {
@@ -550,7 +676,7 @@
       "time": "0 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/monk_inter_shop_sign.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/monk_inter_shop_sign.js"
       }
     }, 
     {
@@ -559,7 +685,7 @@
       "time": "35 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/zzsy.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/zzsy.js"
       }
     }, 
     {
@@ -568,7 +694,7 @@
       "time": "0 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro/scripts/main/snjc/snjc.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/scripts/main/snjc/snjc.js"
       }
     }, 
     {
@@ -586,7 +712,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/blnc.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/blnc.js"
       }
     }, 
     {
@@ -595,7 +721,7 @@
       "time": "*/4 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/qqsdff/script/main/xsyx.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/qqsdff/script/main/xsyx.js"
       }
     }, 
     {
@@ -604,7 +730,7 @@
       "time": "0 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/ehy.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/ehy.js"
       }
     }, 
     {
@@ -613,7 +739,7 @@
       "time": "0 0 1 1 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/mmdzz.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/mmdzz.js"
       }
     }, 
     {
@@ -622,7 +748,7 @@
       "time": "0 6 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/xl2101200/-/main/keepdk.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/keepdk.js"
       }
     }, 
     {
@@ -631,7 +757,7 @@
       "time": "0 0/30 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/xl2101200/-/main/keepjs.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/keepjs.js"
       }
     }, 
      {
@@ -640,7 +766,7 @@
       "time": "0-59 9,12,22 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/shq.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/shq.js"
       }
     },
      {
@@ -649,7 +775,7 @@
       "time": "1 8-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/jdliveredrain/main/lxk0301_live_redrain.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/jdliveredrain/main/lxk0301_live_redrain.js"
       }
     },
     {
@@ -658,7 +784,7 @@
       "time": "0 9,13 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/lhws.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/lhws.js"
       }
     },
     {
@@ -667,7 +793,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/photonmang/quantumultX/master/Task/zyb.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/photonmang/quantumultX/master/Task/zyb.js"
       }
     },
     {
@@ -676,7 +802,7 @@
       "time": "15 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/vsh.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/vsh.js"
       }
     },
     {
@@ -685,7 +811,7 @@
       "time": "10 9-22 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/wcxcx.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/wcxcx.js"
       }
     },  
      {
@@ -694,7 +820,7 @@
       "time": "0-59 9-22 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/wcyd.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/wcyd.js"
       }
     }, 
     {
@@ -712,7 +838,7 @@
       "time": "0,30 8-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/hlyy.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/hlyy.js"
       }
     }, 
     {
@@ -721,7 +847,7 @@
       "time": "30 10 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/yqzh.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/yqzh.js"
       }
     }, 
     {
@@ -739,7 +865,7 @@
       "time": "5,35 9-22 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/smz.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/smz.js"
       }
     }, 
     {
@@ -748,7 +874,7 @@
       "time": "10 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/zqwn.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/zqwn.js"
       }
     }, 
     {
@@ -757,7 +883,7 @@
       "time": "10-15 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/lgyy.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/lgyy.js"
       }
     }, 
     {
@@ -766,7 +892,7 @@
       "time": "20 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/ximei.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/ximei.js"
       }
     }, 
     {
@@ -775,7 +901,7 @@
       "time": "0 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/photonmang/quantumultX/master/58/58.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/photonmang/quantumultX/master/58/58.js"
       }
     }, 
     {
@@ -784,7 +910,7 @@
       "time": "0 8 22-29 3 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/qqsdff/script/main/cart.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/qqsdff/script/main/cart.js"
       }
     }, 
      {
@@ -793,7 +919,7 @@
       "time": "0 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/ygkc.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/ygkc.js"
       }
     }, 
     {
@@ -802,7 +928,7 @@
       "time": "0 9,12,18 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.js"
       }
     },   
     {
@@ -838,7 +964,7 @@
       "time": "25,55 1,5,9-22 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/wkzz.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/wkzz.js"
       }
     },  
     {
@@ -847,7 +973,7 @@
       "time": "*/6 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqireadtime.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqireadtime.js"
       }
     },  
     {
@@ -856,7 +982,7 @@
       "time": "*/4 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.js"
       }
     },  
     {
@@ -874,7 +1000,7 @@
       "time": "15 7,15 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/mmjz.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/mmjz.js"
       }
     },  
     {
@@ -883,7 +1009,7 @@
       "time": "*/30 8-21 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/fqxs.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/fqxs.js"
       }
     },  
     {
@@ -892,7 +1018,7 @@
       "time": "*/30 8-22 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/cfz.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/cfz.js"
       }
     },  
     {
@@ -901,7 +1027,7 @@
       "time": "15 13 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/hldsp.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/hldsp.js"
       }
     },  
      {
@@ -910,7 +1036,7 @@
       "time": "20 12 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/xyzd.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/xyzd.js"
       }
     },  
     {
@@ -928,7 +1054,7 @@
       "time": "0 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/hotsoon_old.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/hotsoon_old.js"
       }
     },  
     {
@@ -946,7 +1072,7 @@
       "time": "0 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/wuzhi03/MyActions/main/jd_speed_redpocke.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/wuzhi03/MyActions/main/jd_speed_redpocke.js"
       }
     },  
     {
@@ -955,7 +1081,7 @@
       "time": "15 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/pyq.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/pyq.js"
       }
     },  
     {
@@ -964,7 +1090,7 @@
       "time": "30 16 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js"
       }
     },  
     {
@@ -973,7 +1099,7 @@
       "time": "3,30 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockcow.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockcow.js"
       }
     },  
     {
@@ -982,7 +1108,7 @@
       "time": "0 */1 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/yggy.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/yggy.js"
       }
     },  
      {
@@ -1000,7 +1126,7 @@
       "time": "11 0 * * 1",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_deleteCoupon.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_deleteCoupon.js"
       }
     },
     {
@@ -1009,7 +1135,7 @@
       "time": "30 10 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/ZCY01/daily_scripts/main/jd/jd_try.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/ZCY01/daily_scripts/main/jd/jd_try.js"
       }
     },
     {
@@ -1018,7 +1144,7 @@
       "time": "15 12,14,16,20 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/fqkk.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/fqkk.js"
       }
     },
     {
@@ -1036,7 +1162,7 @@
       "time": "15 */4 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/ysm.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/ysm.js"
       }
     },
     {
@@ -1045,7 +1171,7 @@
       "time": "15 */6 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/dka.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/dka.js"
       }
     },
     {
@@ -1054,7 +1180,7 @@
       "time": "*/8 */1 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/WLAPP/wlapp.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/CenBoMin/GithubSync/main/WLAPP/wlapp.js"
       }
     },
     {
@@ -1063,7 +1189,7 @@
       "time": "*/20 0-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js"
       }
     },
     {
@@ -1081,7 +1207,7 @@
       "time": "15 */6 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/ddxq.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/ddxq.js"
       }
     },
     {
@@ -1090,7 +1216,7 @@
       "time": "15 */6 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/xsmm.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/xsmm.js"
       }
     },
     {
@@ -1099,7 +1225,7 @@
       "time": "10 00 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_daily.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_daily.js"
       }
     },
     {
@@ -1108,7 +1234,7 @@
       "time": "00 10 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_mission.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_mission.js"
       }
     },
     {
@@ -1171,7 +1297,7 @@
       "time": "0 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/wuzhi03/MyActions/main/jx_cfdtx.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/wuzhi03/MyActions/main/jx_cfdtx.js"
       }
     },
     {
@@ -1180,7 +1306,7 @@
       "time": "35 8-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/jrtt.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/jrtt.js"
       }
     },
     {
@@ -1189,7 +1315,7 @@
       "time": "0 */30 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/hotsoon.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/hotsoon.js"
       }
     },
     {
@@ -1198,7 +1324,7 @@
       "time": "*/5 6-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/huoshan.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/huoshan.js"
       }
     },
     {
@@ -1207,7 +1333,7 @@
       "time": "35 8-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/dyjsb.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/dyjsb.js"
       }
     },
     {
@@ -1216,7 +1342,7 @@
       "time": "15 12 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/yyxs.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/yyxs.js"
       }
     },
     {
@@ -1225,7 +1351,7 @@
       "time": "3 20 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/jd_shake.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/jd_shake.js"
       }
     },
     {
@@ -1234,7 +1360,7 @@
       "time": "0 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/TT.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/TT.js"
       }
     },
     {
@@ -1243,7 +1369,7 @@
       "time": "*/15 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/RUNSTEP/runstep.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/CenBoMin/GithubSync/main/RUNSTEP/runstep.js"
       }
     },
     {
@@ -1252,7 +1378,7 @@
       "time": "0 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/RUNSTEP/cash.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/CenBoMin/GithubSync/main/RUNSTEP/cash.js"
       }
     },
     {
@@ -1261,7 +1387,7 @@
       "time": "10 */1 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/youth.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/youth.js"
       }
     },
     {
@@ -1270,7 +1396,7 @@
       "time": "10 */2 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/Youth_Read.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/Youth_Read.js"
       }
     },
     {
@@ -1279,7 +1405,7 @@
       "time": "30 6 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/ztxtop/x/main/youth_banner.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/ztxtop/x/main/youth_banner.js"
       }
     },
     {
@@ -1288,7 +1414,7 @@
       "time": "5 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/wechatsubs/wechatsubs.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/wechatsubs/wechatsubs.js"
       }
     },
     {
@@ -1297,7 +1423,7 @@
       "time": "5 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/klcw/klcw-app.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/klcw/klcw-app.js"
       }
     },
     {
@@ -1306,7 +1432,7 @@
       "time": "0 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/xp.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/xp.js"
       }
     },
     {
@@ -1315,7 +1441,7 @@
       "time": "0 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_cfd.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_cfd.js"
       }
     },
     {
@@ -1675,7 +1801,7 @@
       "time": "3 10 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/jd_fanslove.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/jd_fanslove.js"
       }
     },
     {
@@ -1684,7 +1810,7 @@
       "time": "*/10 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/sz.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/sz.js"
       }
     },
     {
@@ -1693,7 +1819,7 @@
       "time": "1 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/baosxq.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/baosxq.js"
       }
     },
     {
@@ -1702,7 +1828,7 @@
       "time": "45 10-22 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/wnb.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/wnb.js"
       }
     },
     {
@@ -1711,7 +1837,7 @@
       "time": "30 10-20 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/ranlv.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/ranlv.js"
       }
     },
     {
@@ -1720,7 +1846,7 @@
       "time": "5 1 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/bigfun.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/bigfun.js"
       }
     },
     {
@@ -1729,7 +1855,7 @@
       "time": "15 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/jqb.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/jqb.js"
       }
     },
     {
@@ -1738,7 +1864,7 @@
       "time": "15 50 */3 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/zmsp.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/zmsp.js"
       }
     },
     {
@@ -1747,7 +1873,7 @@
       "time": "15 10 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/ymz.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/ymz.js"
       }
     },
     {
@@ -1756,7 +1882,7 @@
       "time": "15 10 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/mhdsp.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/mhdsp.js"
       }
     },
     {
@@ -1765,7 +1891,7 @@
       "time": "10 10 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_products_detail.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_products_detail.js"
       }
     },
     {
@@ -1774,7 +1900,7 @@
       "time": "10 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_zjd_tuan.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_zjd_tuan.js"
       }
     },
     {
@@ -1783,7 +1909,7 @@
       "time": "30 18 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_zjd.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_zjd.js"
       }
     },
     {
@@ -1792,7 +1918,7 @@
       "time": "0 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/whyour/hundun/master/quanx/didi.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/whyour/hundun/master/quanx/didi.js"
       }
     },
     {
@@ -1801,7 +1927,7 @@
       "time": "0 10 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/DD-D1/2020scripts/master/QQReadSign.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/DD-D1/2020scripts/master/QQReadSign.js"
       }
     },
     {
@@ -1810,7 +1936,7 @@
       "time": "0 10 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/DD-D1/2020scripts/master/hdhycSign.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/DD-D1/2020scripts/master/hdhycSign.js"
       }
     },
     {
@@ -1819,7 +1945,7 @@
       "time": "0 10 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/DD-D1/2020scripts/master/jddsSign.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/DD-D1/2020scripts/master/jddsSign.js"
       }
     },
     {
@@ -1828,7 +1954,7 @@
       "time": "0 10 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/DD-D1/2020scripts/master/mygmcSign.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/DD-D1/2020scripts/master/mygmcSign.js"
       }
     },
     {
@@ -1837,7 +1963,7 @@
       "time": "0 10 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/XidNDD/2020scripts/master/sdcbxscSign.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/XidNDD/2020scripts/master/sdcbxscSign.js"
       }
     },
     {
@@ -1846,7 +1972,7 @@
       "time": "0 10 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/XidNDD/2020scripts/master/sjdjSign.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/XidNDD/2020scripts/master/sjdjSign.js"
       }
     },
     {
@@ -1855,7 +1981,7 @@
       "time": "0 10 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/DD-D1/2020scripts/master/ttwbxcxSign.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/DD-D1/2020scripts/master/ttwbxcxSign.js"
       }
     },
     {
@@ -1864,7 +1990,7 @@
       "time": "0 10 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/DD-D1/2020scripts/master/zscdbSign.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/DD-D1/2020scripts/master/zscdbSign.js"
       }
     },
     {
@@ -1873,7 +1999,7 @@
       "time": "0 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js"
       }
     },
     {
@@ -1882,7 +2008,7 @@
       "time": "0 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js"
       }
     },
     {
@@ -1891,7 +2017,7 @@
       "time": "0 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/NobyDa/Script/master/Bilibili-DailyBonus/Manga.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/NobyDa/Script/master/Bilibili-DailyBonus/Manga.js"
       }
     },
     {
@@ -1900,7 +2026,7 @@
       "time": "0 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js"
       }
     },
     {
@@ -1909,7 +2035,7 @@
       "time": "0 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/NobyDa/Script/master/KuaiKan-DailyBonus/KKMH.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/NobyDa/Script/master/KuaiKan-DailyBonus/KKMH.js"
       }
     },
     {
@@ -1918,7 +2044,7 @@
       "time": "0 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js"
       }
     },
     {
@@ -1927,7 +2053,7 @@
       "time": "10 8-22/2 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js"
       }
     },
     {
@@ -1936,7 +2062,7 @@
       "time": "0 9 */7 * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/epic.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/epic.js"
       }
     },
     {
@@ -1945,7 +2071,7 @@
       "time": "0 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/exchange.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/exchange.js"
       }
     },
     {
@@ -1954,7 +2080,7 @@
       "time": "0 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/flow.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/flow.js"
       }
     },
     {
@@ -1963,7 +2089,7 @@
       "time": "0 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/github.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/github.js"
       }
     },
     {
@@ -1972,7 +2098,7 @@
       "time": "0 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/nCov.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/nCov.js"
       }
     },
     {
@@ -1981,7 +2107,7 @@
       "time": "0 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/psn.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/psn.js"
       }
     },
     {
@@ -1990,7 +2116,7 @@
       "time": "0 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/steam.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/steam.js"
       }
     },
     {
@@ -1999,7 +2125,7 @@
       "time": "0 21 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/telegram.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/telegram.js"
       }
     },
     {
@@ -2008,7 +2134,7 @@
       "time": "0 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/zongheng.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/zongheng.js"
       }
     },
     {
@@ -2017,7 +2143,7 @@
       "time": "30 0-12 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/adwktt/adwktt/master/yk.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/adwktt/adwktt/master/yk.js"
       }
     },
     {
@@ -2026,7 +2152,7 @@
       "time": "0 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/barrym-chen/Script/master/ctrip/ctrip.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/barrym-chen/Script/master/ctrip/ctrip.js"
       }
     },
     {
@@ -2035,7 +2161,7 @@
       "time": "0 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/barrym-chen/Script/master/ctrip_wx/ct_sign.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/barrym-chen/Script/master/ctrip_wx/ct_sign.js"
       }
     },
     {
@@ -2044,7 +2170,7 @@
       "time": "0 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/barrym-chen/Script/master/elong/elong_draw.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/barrym-chen/Script/master/elong/elong_draw.js"
       }
     },
     {
@@ -2053,7 +2179,7 @@
       "time": "0 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/barrym-chen/Script/master/fcz/fcz_sign.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/barrym-chen/Script/master/fcz/fcz_sign.js"
       }
     },
     {
@@ -2062,7 +2188,7 @@
       "time": "0 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/barrym-chen/Script/master/icbc/icbc_sign.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/barrym-chen/Script/master/icbc/icbc_sign.js"
       }
     },
     {
@@ -2071,7 +2197,7 @@
       "time": "0 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/barrym-chen/Script/master/jdczf/jdczf.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/barrym-chen/Script/master/jdczf/jdczf.js"
       }
     },
     {
@@ -2080,7 +2206,7 @@
       "time": "0 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/barrym-chen/Script/master/tongc/tongc_sign.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/barrym-chen/Script/master/tongc/tongc_sign.js"
       }
     },
     {
@@ -2089,7 +2215,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/barrym-chen/Script/master/tongc/tongc_info.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/barrym-chen/Script/master/tongc/tongc_info.js"
       }
     },
     {
@@ -2098,7 +2224,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/10000/10000.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/10000/10000.js"
       }
     },
     {
@@ -2107,7 +2233,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.js"
       }
     },
     {
@@ -2116,7 +2242,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/10086/10086.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/10086/10086.js"
       }
     },
     {
@@ -2125,7 +2251,7 @@
       "time": "10 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/10086/10086.fee.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/10086/10086.fee.js"
       }
     },
     {
@@ -2134,7 +2260,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/acfun/acfun.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/acfun/acfun.js"
       }
     },
     {
@@ -2143,7 +2269,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/apktw/apktw.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/apktw/apktw.js"
       }
     },
     {
@@ -2152,7 +2278,7 @@
       "time": "50 23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/bcz/bcz.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/bcz/bcz.js"
       }
     },
     {
@@ -2161,7 +2287,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.js"
       }
     },
     {
@@ -2170,7 +2296,7 @@
       "time": "* * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js"
       }
     },
     {
@@ -2179,7 +2305,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/bubei/bubei.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/bubei/bubei.js"
       }
     },
     {
@@ -2188,7 +2314,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/csdn/csdn.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/csdn/csdn.js"
       }
     },
     {
@@ -2197,7 +2323,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/dbsj/dbsj.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/dbsj/dbsj.js"
       }
     },
     {
@@ -2206,7 +2332,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/dongqiudi/dongqiudi.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/dongqiudi/dongqiudi.js"
       }
     },
     {
@@ -2215,7 +2341,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/duokan/duokan.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/duokan/duokan.js"
       }
     },
     {
@@ -2224,7 +2350,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/everphoto/everphoto.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/everphoto/everphoto.js"
       }
     },
     {
@@ -2233,7 +2359,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/fandeng/fandeng.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/fandeng/fandeng.js"
       }
     },
     {
@@ -2242,7 +2368,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/feng/feng.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/feng/feng.js"
       }
     },
     {
@@ -2251,7 +2377,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/fenqile/fenqile.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/fenqile/fenqile.js"
       }
     },
     {
@@ -2260,7 +2386,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/flyertea/flyertea.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/flyertea/flyertea.js"
       }
     },
     {
@@ -2269,7 +2395,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/gdoil/gdoil.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/gdoil/gdoil.js"
       }
     },
     {
@@ -2278,7 +2404,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/haidilao/hdl.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/haidilao/hdl.js"
       }
     },
     {
@@ -2287,7 +2413,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/hellobike/hellobike.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/hellobike/hellobike.js"
       }
     },
     {
@@ -2296,7 +2422,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/hycan/hycan.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/hycan/hycan.js"
       }
     },
     {
@@ -2305,7 +2431,7 @@
       "time": "10 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/ithome/ithome.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/ithome/ithome.js"
       }
     },
     {
@@ -2314,7 +2440,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/qimao/qmnovel.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/qimao/qmnovel.js"
       }
     },
     {
@@ -2323,7 +2449,7 @@
       "time": "10 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/pagoda/pagoda.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/pagoda/pagoda.js"
       }
     },
     {
@@ -2332,7 +2458,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/noteyoudao/noteyoudao.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/noteyoudao/noteyoudao.js"
       }
     },
     {
@@ -2341,7 +2467,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/nio/nio.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/nio/nio.js"
       }
     },
     {
@@ -2350,7 +2476,7 @@
       "time": "10 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/nfzm/nfzm.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/nfzm/nfzm.js"
       }
     },
     {
@@ -2359,7 +2485,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/neteasenews/neteasenews.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/neteasenews/neteasenews.js"
       }
     },
     {
@@ -2368,7 +2494,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/neteasemusic/quanx/neteasemusic.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/neteasemusic/quanx/neteasemusic.js"
       }
     },
     {
@@ -2377,7 +2503,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/mihoyo/mihoyo.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/mihoyo/mihoyo.js"
       }
     },
     {
@@ -2386,7 +2512,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/midu/miduRead.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/midu/miduRead.js"
       }
     },
     {
@@ -2395,7 +2521,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/midu/miduSign.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/midu/miduSign.js"
       }
     },
     {
@@ -2404,7 +2530,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/mgtv/mgtv.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/mgtv/mgtv.js"
       }
     },
     {
@@ -2413,7 +2539,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/meituan/meituan.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/meituan/meituan.js"
       }
     },
     {
@@ -2422,7 +2548,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/mcdd/mcdd.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/mcdd/mcdd.js"
       }
     },
     {
@@ -2431,7 +2557,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/maomicd/maomicd.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/maomicd/maomicd.js"
       }
     },
     {
@@ -2440,7 +2566,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/jddj/jddj.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/jddj/jddj.js"
       }
     },
     {
@@ -2449,7 +2575,7 @@
       "time": "0 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/jd/JD_BaiTiao.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/jd/JD_BaiTiao.js"
       }
     },
     {
@@ -2458,7 +2584,7 @@
       "time": "*/30 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/baidu_speed.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/baidu_speed.js"
       }
     },
     {
@@ -2467,7 +2593,7 @@
       "time": "*/10 */3 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/jukan.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/jukan.js"
       }
     },
     {
@@ -2476,7 +2602,7 @@
       "time": "4 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/mydigit.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/mydigit.js"
       }
     },
     {
@@ -2485,7 +2611,7 @@
       "time": "20 5 10 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/youth_gain.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/youth_gain.js"
       }
     },
     {
@@ -2494,7 +2620,7 @@
       "time": "20 15 */2 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/Youth_Read.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/Youth_Read.js"
       }
     },
     {
@@ -2503,7 +2629,7 @@
       "time": "20 11 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/youth.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/youth.js"
       }
     },
    {
@@ -2512,7 +2638,7 @@
       "time": "0 11 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/weibo.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/weibo.js"
       }
     },
     {
@@ -2521,7 +2647,7 @@
       "time": "0 11 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/kuaishou.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/kuaishou.js"
       }
     },
     {
@@ -2530,7 +2656,7 @@
       "time": "40 10 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/lkyl.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/lkyl.js"
       }
     },
     {
@@ -2539,7 +2665,7 @@
       "time": "7 10 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/translate.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/translate.js"
       }
     },
     {
@@ -2548,7 +2674,7 @@
       "time": "30 10 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/jddj.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/jddj.js"
       }
     },
     {
@@ -2557,7 +2683,7 @@
       "time": "30 9 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/txnews.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/txnews.js"
       }
     },
     {
@@ -2566,7 +2692,7 @@
       "time": "0 0 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/telecomInfinity.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/telecomInfinity.js"
       }
     },
     {
@@ -2575,7 +2701,7 @@
       "time": "4 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/exchangeRate.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/exchangeRate.js"
       }
     },
     {
@@ -2584,7 +2710,7 @@
       "time": "0 0 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/trainquery.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/trainquery.js"
       }
     },
     {
@@ -2593,7 +2719,7 @@
       "time": "0 0 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/tvpreview.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/tvpreview.js"
       }
     },
     {
@@ -2602,7 +2728,7 @@
       "time": "0 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/moji.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/moji.js"
       }
     },
     {
@@ -2611,7 +2737,7 @@
       "time": "11 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js"
       }
     },
     {
@@ -2620,7 +2746,7 @@
       "time": "11 1 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js"
       }
     },
     {
@@ -2629,7 +2755,7 @@
       "time": "10 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_collectBlueCoin.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_collectBlueCoin.js"
       }
     },
     {
@@ -2638,7 +2764,7 @@
       "time": "5 5 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/799953468/Quantumult-X/master/Scripts/JD/jd_paopao.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/799953468/Quantumult-X/master/Scripts/JD/jd_paopao.js"
       }
     },
     {
@@ -2647,7 +2773,7 @@
       "time": "0 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/whyour/hundun/master/quanx/dd_factory.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/whyour/hundun/master/quanx/dd_factory.js"
       }
     },
     {
@@ -2656,7 +2782,7 @@
       "time": "30 0 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/whyour/hundun/master/quanx/ddxw.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/whyour/hundun/master/quanx/ddxw.js"
       }
     },
     {
@@ -2665,7 +2791,7 @@
       "time": "10 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory.js"
       }
     },
     {
@@ -2674,7 +2800,7 @@
       "time": "0 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/whyour/hundun/master/quanx/jdzz.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/whyour/hundun/master/quanx/jdzz.js"
       }
     },
     {
@@ -2683,7 +2809,7 @@
       "time": "1 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/whyour/hundun/master/quanx/didi.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/whyour/hundun/master/quanx/didi.js"
       }
     },
     {
@@ -2692,7 +2818,7 @@
       "time": "1 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_products_detail.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_products_detail.js"
       }
     },
     {
@@ -2701,7 +2827,7 @@
       "time": "3 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/whyour/hundun/master/quanx/daymatter.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/whyour/hundun/master/quanx/daymatter.js"
       }
     },
     {
@@ -2710,7 +2836,7 @@
       "time": "15 18 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/whyour/hundun/master/quanx/donate-step.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/whyour/hundun/master/quanx/donate-step.js"
       }
     },
     {
@@ -2719,7 +2845,7 @@
       "time": "30 8-20/1 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/whyour/hundun/master/quanx/caiyun.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/whyour/hundun/master/quanx/caiyun.js"
       }
     },
     {
@@ -2728,7 +2854,7 @@
       "time": "0 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/58xinian/Surge/master/Script/huke.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/58xinian/Surge/master/Script/huke.js"
       }
     },
     {
@@ -2737,7 +2863,7 @@
       "time": "0 8-23/2 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js"
       }
     },
     {
@@ -2746,7 +2872,7 @@
       "time": "0 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/zZPiglet/Task/master/umetrip/umetrip.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zZPiglet/Task/master/umetrip/umetrip.js"
       }
     },
     {
@@ -2755,7 +2881,7 @@
       "time": "0 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/zZPiglet/Task/master/heybox/heybox.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zZPiglet/Task/master/heybox/heybox.js"
       }
     },
     {
@@ -2764,7 +2890,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/zZPiglet/Task/master/elem/elemCheckIn.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zZPiglet/Task/master/elem/elemCheckIn.js"
       }
     },
     {
@@ -2773,7 +2899,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/zZPiglet/Task/master/ZMTeacher/ZMTeacher.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zZPiglet/Task/master/ZMTeacher/ZMTeacher.js"
       }
     },
     {
@@ -2782,7 +2908,7 @@
       "time": "0 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/zZPiglet/Task/master/Weibo/Weibo.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zZPiglet/Task/master/Weibo/Weibo.js"
       }
     },
     {
@@ -2791,7 +2917,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean.js"
       }
     },
     {
@@ -2800,7 +2926,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/zZPiglet/Task/master/Naixue/Naixue.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zZPiglet/Task/master/Naixue/Naixue.js"
       }
     },
     {
@@ -2809,7 +2935,7 @@
       "time": "0 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/zZPiglet/Task/master/MovieCalendar/MovieCalendar.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zZPiglet/Task/master/MovieCalendar/MovieCalendar.js"
       }
     },
     {
@@ -2818,7 +2944,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/zZPiglet/Task/master/Haidilao/Haidilao.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zZPiglet/Task/master/Haidilao/Haidilao.js"
       }
     },
     {
@@ -2827,7 +2953,7 @@
       "time": "0 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/zZPiglet/Task/master/Domino/Domino_getSMS.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zZPiglet/Task/master/Domino/Domino_getSMS.js"
       }
     },
     {
@@ -2836,7 +2962,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/zZPiglet/Task/master/Blibee/Blibee.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zZPiglet/Task/master/Blibee/Blibee.js"
       }
     },
     {
@@ -2845,7 +2971,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/zZPiglet/Task/master/115/115.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zZPiglet/Task/master/115/115.js"
       }
     },
     {
@@ -2854,7 +2980,7 @@
       "time": "0 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/quwalk2.2.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/quwalk2.2.js"
       }
     },
     {
@@ -2890,7 +3016,7 @@
       "time": "5 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/toulanboy/scripts/master/weibo/weibotalk.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/toulanboy/scripts/master/weibo/weibotalk.js"
       }
     },
     {
@@ -2899,7 +3025,7 @@
       "time": "5 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/toulanboy/scripts/master/muchong/muchong.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/toulanboy/scripts/master/muchong/muchong.js"
       }
     },
     {
@@ -2908,7 +3034,7 @@
       "time": "5 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/toulanboy/scripts/master/jd_price_detect/jd_price_detect.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/toulanboy/scripts/master/jd_price_detect/jd_price_detect.js"
       }
     },
     {
@@ -2917,7 +3043,7 @@
       "time": "0 0-23/1 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/songyangzz/QuantumultX/master/testflight.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/songyangzz/QuantumultX/master/testflight.js"
       }
     },
     {
@@ -2926,7 +3052,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/songyangzz/QuantumultX/master/lol.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/songyangzz/QuantumultX/master/lol.js"
       }
     },
     {
@@ -2935,7 +3061,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/songyangzz/QuantumultX/master/elem/elemSign.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/songyangzz/QuantumultX/master/elem/elemSign.js"
       }
     },
     {
@@ -2944,7 +3070,7 @@
       "time": "10 0 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/photonmang/quantumultX/master/tuhu/tuhu.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/photonmang/quantumultX/master/tuhu/tuhu.js"
       }
     },
     {
@@ -2962,7 +3088,7 @@
       "time": "7 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/iisams/Scripts/master/liwo/7days.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/iisams/Scripts/master/liwo/7days.js"
       }
     },
     {
@@ -2971,7 +3097,7 @@
       "time": "0 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/iepngs/Script/master/lxsj/index.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/iepngs/Script/master/lxsj/index.js"
       }
     },
     {
@@ -2980,7 +3106,7 @@
       "time": "35 8-21 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/iepngs/Script/master/jrtt/index.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/iepngs/Script/master/jrtt/index.js"
       }
     },
     {
@@ -2989,7 +3115,7 @@
       "time": "29 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/iepngs/Script/master/ctrip/index.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/iepngs/Script/master/ctrip/index.js"
       }
     },
     {
@@ -2998,7 +3124,7 @@
       "time": "0 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/iepngs/Script/master/studygolang/index.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/iepngs/Script/master/studygolang/index.js"
       }
     },
     {
@@ -3007,7 +3133,7 @@
       "time": "0 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/iepngs/Script/master/lxhealth/manual.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/iepngs/Script/master/lxhealth/manual.js"
       }
     },
     {
@@ -3016,7 +3142,7 @@
       "time": "6 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/id77/QuantumultX/master/task/geekhub.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/id77/QuantumultX/master/task/geekhub.js"
       }
     },
     {
@@ -3025,7 +3151,7 @@
       "time": "5 10 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/id77/QuantumultX/master/task/163GameVip.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/id77/QuantumultX/master/task/163GameVip.js"
       }
     },
     {
@@ -3034,7 +3160,7 @@
       "time": "0 1 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/id77/QuantumultX/master/task/thg.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/id77/QuantumultX/master/task/thg.js"
       }
     },
     {
@@ -3043,7 +3169,7 @@
       "time": "10 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/id77/QuantumultX/master/task/yiLi.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/id77/QuantumultX/master/task/yiLi.js"
       }
     },
     {
@@ -3052,7 +3178,7 @@
       "time": "25 4 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/jiumu/jiumu.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/jiumu/jiumu.js"
       }
     },
     {
@@ -3061,7 +3187,7 @@
       "time": "45 3 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/weibo/weibotalk.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/weibo/weibotalk.js"
       }
     },
     {
@@ -3070,7 +3196,7 @@
       "time": "30 0 8-22/2 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/hotsearch/hot.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/hotsearch/hot.js"
       }
     },
     {
@@ -3079,7 +3205,7 @@
       "time": "30 7-22 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/appstore/AppMonitor.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/appstore/AppMonitor.js"
       }
     },
     {
@@ -3088,7 +3214,7 @@
       "time": "0 0 6 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/idaily/idaily.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/idaily/idaily.js"
       }
     },
     {
@@ -3097,7 +3223,7 @@
       "time": "0 0 6 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/nasa/nasapic.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/nasa/nasapic.js"
       }
     },
     {
@@ -3106,7 +3232,7 @@
       "time": "10 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/dompling/Script/master/ymatou/ymatou.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/dompling/Script/master/ymatou/ymatou.js"
       }
     },
     {
@@ -3115,7 +3241,7 @@
       "time": "1 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/dompling/Script/master/xiaomiyp/xiaomiyp.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/dompling/Script/master/xiaomiyp/xiaomiyp.js"
       }
     },
     {
@@ -3124,7 +3250,7 @@
       "time": "1 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/dompling/Script/master/oneSay/oneSay.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/dompling/Script/master/oneSay/oneSay.js"
       }
     },
     {
@@ -3133,7 +3259,7 @@
       "time": "1 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/dompling/Script/master/historyToday/index.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/dompling/Script/master/historyToday/index.js"
       }
     },
     {
@@ -3142,7 +3268,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/dompling/Script/master/biyao/biyao.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/dompling/Script/master/biyao/biyao.js"
       }
     },
     {
@@ -3151,7 +3277,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/dompling/Script/master/birthdayCountDown/index.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/dompling/Script/master/birthdayCountDown/index.js"
       }
     },
     {
@@ -3160,7 +3286,7 @@
       "time": "10 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chouchoui/QuanX/master/Scripts/nga/nga.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chouchoui/QuanX/master/Scripts/nga/nga.js"
       }
     },
     {
@@ -3169,7 +3295,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/zxhc/zxhc.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/zxhc/zxhc.js"
       }
     },
     {
@@ -3178,7 +3304,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/zsfc/zsfc.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/zsfc/zsfc.js"
       }
     },
     {
@@ -3187,7 +3313,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/zimuzu/zimuzu.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/zimuzu/zimuzu.js"
       }
     },
     {
@@ -3196,7 +3322,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/zaker/zaker.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/zaker/zaker.js"
       }
     },
     {
@@ -3205,7 +3331,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/ximalaya/ximalaya.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/ximalaya/ximalaya.js"
       }
     },
     {
@@ -3214,7 +3340,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/wykl/wykl.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/wykl/wykl.js"
       }
     },
     {
@@ -3223,7 +3349,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/wps/wps.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/wps/wps.js"
       }
     },
     {
@@ -3232,7 +3358,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/wmmeituan/wmmeituan.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/wmmeituan/wmmeituan.js"
       }
     },
     {
@@ -3241,7 +3367,7 @@
       "time": "10 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/wanda/wanda.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/wanda/wanda.js"
       }
     },
     {
@@ -3250,7 +3376,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.js"
       }
     },
     {
@@ -3259,7 +3385,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/v2ex/quanx/v2ex.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/v2ex/quanx/v2ex.js"
       }
     },
     {
@@ -3268,7 +3394,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/tieba/tieba.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/tieba/tieba.js"
       }
     },
     {
@@ -3277,7 +3403,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/suning/suning.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/suning/suning.js"
       }
     },
     {
@@ -3286,7 +3412,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/smzdm/quanx/smzdm.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/smzdm/quanx/smzdm.js"
       }
     },
     {
@@ -3295,7 +3421,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/sfexpress/sfexpress.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/sfexpress/sfexpress.js"
       }
     },
     {
@@ -3304,7 +3430,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/rrtv/rrtv.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/rrtv/rrtv.js"
       }
     },
     {
@@ -3313,7 +3439,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/qunar/qunar.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/qunar/qunar.js"
       }
     },
     {
@@ -3322,7 +3448,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/qtt/qtt.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/qtt/qtt.js"
       }
     },
     {
@@ -3331,7 +3457,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/qqmusic/qqmusic.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/qqmusic/qqmusic.js"
       }
     },
     {
@@ -3340,7 +3466,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/chavyleung/scripts/master/qmkg/qmkg.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/chavyleung/scripts/master/qmkg/qmkg.js"
       }
     }
   ]

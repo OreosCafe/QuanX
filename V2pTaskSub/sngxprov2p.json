@@ -25,7 +25,7 @@
 	 {
       "name": "京东加购有礼",
       "type": "cron",
-      "time": ""15 12 * * *",
+      "time": "15 12 * * *",
       "job": {
         "type": "runjs",
         "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/car/monk_shop_add_to_car.js"

@@ -1,5 +1,45 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+
+### 公众号少年歌行pro：5月12日 16:30，脚本进行如下变动：
+
+ 1、得到作者授权后，重新增加了 `藏经阁` 各位大佬的 `京东系列`  脚本 
+ 
+ 2、圈x订阅、v2p订阅中的脚本修改为`cdn中转免翻墙版链接`，除lxk0301特殊脚本外已不需要节点即可使用
+ 
+ 
+### 仓库订阅地址：
+
+【圈x订阅地址】
+```
+需翻墙普通链接（稳定、更新快速）
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+免翻墙中转链接（不需要节点）
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+```
+【v2p订阅地址】
+```
+需翻墙普通地址（稳定、更新快速）
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+免翻墙中转链接（不需要节点）
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+```
+### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
+### 注意：一定在圈x首页长按风车--再点一下左下角刷新按钮，等左上角数字清零后才能同步配置！
+```
+[rewrite remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+
+```
+
+----------
+
+
+
+
 ### 公众号少年歌行pro：5月13日 7:30，脚本进行如下变动：
 
  1、新增了 `姐姐` 大佬的 `手机boxjs的Cookie自动上传V2p`  脚本 

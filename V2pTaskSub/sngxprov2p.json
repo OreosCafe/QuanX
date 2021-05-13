@@ -2,7 +2,7 @@
   "name": "公众号少年歌行pro v2p 专用定时任务订阅",
   "author": "由公众号少年歌行pro维护 https://t.me/sngxpro",
   "desc": "自用。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
-  "date": "2021-05-12 16:30:02",
+  "date": "2021-05-13 14:30:02",
   "list": [
      {
       "name": "京喜财富岛提现并发修改版ztxtop",
@@ -79,7 +79,7 @@
 	 {
       "name": "京东母婴-跳一跳",
       "type": "cron",
-      "time": "5 8,14,20 6-12 5 *",
+      "time": "5 8,14,20 11-17 5 *",
       "job": {
         "type": "runjs",
         "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_mother_jump.js"

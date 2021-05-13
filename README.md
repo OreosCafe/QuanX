@@ -1,6 +1,17 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### 公众号少年歌行pro：5月13日 14:30，脚本进行如下变动：
+
+ 1、根据`阿道夫安德伍德`大佬提醒，将 `母婴跳一跳` 的cron定时修改为
+  ```
+ 5 8,14,20 11-17 5 *
+ ```
+
+请从圈x仓库或v2p仓库中重新添加，或自行手动修改
+
+---------------------
+
 ### 公众号少年歌行pro：5月12日 16:30，脚本进行如下变动：
 
  1、得到作者授权后，重新增加了 `藏经阁` 各位大佬的 `京东系列`  脚本 

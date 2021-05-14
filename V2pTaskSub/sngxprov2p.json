@@ -5,6 +5,15 @@
   "date": "2021-05-13 14:30:02",
   "list": [
    {
+      "name": "动物研究院",
+      "type": "cron",
+      "time": "10 9 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/dwyjy.js"
+      }
+    },  
+   {
       "name": "笑谱Arisey新版",
       "type": "cron",
       "time": "20 10 * * * *",

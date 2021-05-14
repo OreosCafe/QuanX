@@ -4,7 +4,17 @@
   "desc": "自用。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
   "date": "2021-05-13 14:30:02",
   "list": [
-     {
+   {
+      "name": "笑谱Arisey新版",
+      "type": "cron",
+      "time": "20 10 * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/xpread.js"
+      }
+    },
+         
+    {
       "name": "京喜财富岛提现并发修改版ztxtop",
       "type": "cron",
       "time": "0 0 * * *",
@@ -1424,15 +1434,6 @@
       "job": {
         "type": "runjs",
         "target": "https://ghproxy.com/https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/klcw/klcw-app.js"
-      }
-    },
-    {
-      "name": "笑谱执意版",
-      "type": "cron",
-      "time": "0 9 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/xp.js"
       }
     },
     {

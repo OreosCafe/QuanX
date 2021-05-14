@@ -5,6 +5,24 @@
   "date": "2021-05-13 14:30:02",
   "list": [
   {
+      "name": "京喜财富岛提现并发修改版ztxtop",
+      "type": "cron",
+      "time": "0 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/ztxtop/x/aa4ddeca813fbf5c231dd4adaec68a7632cb292c/jx_cfdtx.js"
+      }
+    },
+	  {
+      "name": "京喜财富岛提现经典版修复版",
+      "type": "cron",
+      "time": "0 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/dompling/Script/master/jd/jd_cft_tx.js"
+      }
+    },
+	 {
       "name": "京东半点京豆雨龙猪猪",
       "type": "cron",
       "time": "30 20-23/1 * * *",
@@ -12,8 +30,7 @@
         "type": "runjs",
         "target": "https://ghproxy.com/https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_half_redrain.js"
       }
-    }, 
-   
+    },    
   {
       "name": "京东整点京豆雨",
       "type": "cron",
@@ -41,16 +58,7 @@
         "target": "https://ghproxy.com/https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/xpread.js"
       }
     },         
-    {
-      "name": "京喜财富岛提现并发修改版ztxtop",
-      "type": "cron",
-      "time": "0 0 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/ztxtop/x/aa4ddeca813fbf5c231dd4adaec68a7632cb292c/jx_cfdtx.js"
-      }
-    },
-   {
+       {
       "name": "京东探秘无限星空",
       "type": "cron",
       "time": "15 8 9-13 5 *",

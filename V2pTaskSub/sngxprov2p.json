@@ -12,8 +12,7 @@
         "type": "runjs",
         "target": "https://ghproxy.com/https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/xpread.js"
       }
-    },
-         
+    },         
     {
       "name": "京喜财富岛提现并发修改版ztxtop",
       "type": "cron",

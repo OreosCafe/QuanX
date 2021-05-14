@@ -3,7 +3,7 @@
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
   	        "0 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/ztxtop/x/aa4ddeca813fbf5c231dd4adaec68a7632cb292c/jx_cfdtx.js, tag=京喜财富岛提现并发修改版ztxtop, img-url=https://ghproxy.com/https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jx_cfd_exchange.png, enabled=true",
-	        "0 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/dompling/Script/master/jd/jd_cft_tx.js, tag=京喜财富岛提现hundun原版修复版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jx_cfd_exchange.png, enabled=true",
+	        "0 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/dompling/Script/master/jd/jd_cft_tx.js, tag=京喜财富岛提现经典版修复版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jx_cfd_exchange.png, enabled=true",
    	        "30 20-23/1 * * * https://ghproxy.com/https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_half_redrain.js, tag=京东半点京豆雨龙猪猪, img-url=https://ghproxy.com/https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
 	        "1 0-23/1 * * * https://ghproxy.com/https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_super_redrain.js, tag=京东整点京豆雨龙猪猪, img-url=https://ghproxy.com/https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
 	        "10 9 * * * https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/adolf_hf.js, tag=京东合肥旗舰店开业（一次性活动）, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/monk.png, enabled=true",

@@ -4,7 +4,26 @@
   "desc": "自用。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
   "date": "2021-05-13 14:30:02",
   "list": [
-   {
+  {
+      "name": "京东半点京豆雨龙猪猪",
+      "type": "cron",
+      "time": "30 20-23/1 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_half_redrain.js"
+      }
+    }, 
+   
+  {
+      "name": "京东整点京豆雨",
+      "type": "cron",
+      "time": "1 0-23/1 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_super_redrain.js"
+      }
+    },       
+  {
       "name": "动物研究院",
       "type": "cron",
       "time": "10 9 * * *",
@@ -659,15 +678,6 @@
       "job": {
         "type": "runjs",
         "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/tpyqc.js"
-      }
-    }, 
-    {
-      "name": "京东整点京豆雨",
-      "type": "cron",
-      "time": "0 * * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_super_redrain.js"
       }
     }, 
     {

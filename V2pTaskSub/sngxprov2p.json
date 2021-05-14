@@ -25,7 +25,7 @@
 	 {
       "name": "京东半点京豆雨龙猪猪",
       "type": "cron",
-      "time": "30 20-23/1 * * *",
+      "time": "30 * * * *",
       "job": {
         "type": "runjs",
         "target": "https://ghproxy.com/https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_half_redrain.js"
@@ -34,7 +34,7 @@
   {
       "name": "京东整点京豆雨",
       "type": "cron",
-      "time": "1 0-23/1 * * *",
+      "time": "0 * * * *",
       "job": {
         "type": "runjs",
         "target": "https://ghproxy.com/https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_super_redrain.js"

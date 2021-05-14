@@ -2,7 +2,7 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-  	        "30 20-23/1 * * * https://ghproxy.com/https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_half_redrain.js, tag=京东半点京豆雨龙猪猪, enabled=true",
+  	        "30 20-23/1 * * * https://ghproxy.com/https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_half_redrain.js, tag=京东半点京豆雨龙猪猪, img-url=https://ghproxy.com/https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
 	        "1 0-23/1 * * * https://ghproxy.com/https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_super_redrain.js, tag=京东整点京豆雨龙猪猪, img-url=https://ghproxy.com/https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
 	        "10 9 * * * https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/adolf_hf.js, tag=京东合肥旗舰店开业（一次性活动）, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/monk.png, enabled=true",
 	        "10 9 * * * https://raw.githubusercontent.com/age174/-/main/dwyjy.js, tag=动物研究院, img-url=https://ae01.alicdn.com/kf/Udd9cb36174cf41a7a69e28a643a360a9a.jpg, enabled=true",

@@ -7,7 +7,7 @@
    {
       "name": "京东金融领豆（不共用京东ck另抓）",
       "type": "cron",
-      "time": "07 * * *",
+      "time": "0 7 * * *",
       "job": {
         "type": "runjs",
         "target": "https://ghproxy.com/https://raw.githubusercontent.com/dompling/Script/master/jd/jd_jr_sign.js"

@@ -1,5 +1,42 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+### 公众号少年歌行pro：5月17日 8:30，脚本进行如下变动：
+
+ 1、增加了 `柠檬` 大佬的 `咕咚步数`  脚本
+ 
+ 2、增加了 `肥皂` 大佬的 `我的网红店` 脚本
+ 
+ 3、增加了 `藏经阁` 的 `京东取消入会` 半自动脚本 
+
+ 
+### 仓库订阅地址：
+
+【圈x订阅地址】
+```
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+```
+【v2p订阅地址】
+```
+需翻墙
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+```
+### 注意：因网红店与食材大冲关、超市小达人、动物研究所冲突，需配合下方专用订阅使用，请复制下方订阅粘贴到对应标签下，或自行按脚本说明手动配置
+### 注意：一定在圈x首页长按风车--再点一下左下角刷新按钮，等左上角数字清零后才能同步配置！
+```
+[rewrite remote]
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/wdwhd.conff, tag=我的网红店获取ck（与获取cookie、超市、动物规则冲突）, update-interval=86400, opt-parser=false, enabled=true
+
+
+```
+
+
+
+
 ### 公众号少年歌行pro：5月14日 17:00，脚本进行如下变动：
 
  1、新增了 `阿道夫安德伍德` 大佬的 `京东合肥开业一次性`  脚本  ，用完可删

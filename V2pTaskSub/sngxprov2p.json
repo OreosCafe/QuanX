@@ -16,7 +16,7 @@
 	  {
       "name": "京东一次性入会领豆5",
       "type": "cron",
-      "time": "07 * * *",
+      "time": "0 7 * * *",
       "job": {
         "type": "runjs",
         "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_05.js"
@@ -25,7 +25,7 @@
 	  {
       "name": "京东一次性入会领豆2",
       "type": "cron",
-      "time": "07 * * *",
+      "time": "0 7 * * *",
       "job": {
         "type": "runjs",
         "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_02.js"

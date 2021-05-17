@@ -4,7 +4,16 @@
   "desc": "自用。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
   "date": "2021-05-17 15:30:02",
   "list": [
-   {
+  {
+      "name": "京东京享值PK",
+      "type": "cron",
+      "time": "15 8,13,18 17-31 5 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_pk.js"
+      }
+    },	 
+	  {
       "name": "京东金融领豆（不共用京东ck另抓）",
       "type": "cron",
       "time": "0 7 * * *",

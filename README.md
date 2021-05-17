@@ -1,5 +1,29 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+### 公众号少年歌行pro：5月17日 21:30，脚本进行如下变动：
+
+ 1、增加了  `藏经阁` 的 `京东京享值pk` 脚本 
+ 
+ 
+### 仓库订阅地址：
+
+【圈x订阅地址】
+```
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+```
+【v2p订阅地址】
+```
+需翻墙
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+```
+### 注意：需配合jd cookie使用
+
+-------------
+
+
 ### 公众号少年歌行pro：5月17日 15:30，脚本进行如下变动：
 
  1、增加了 `柠檬` 大佬的 `咕咚步数`  脚本

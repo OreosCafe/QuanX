@@ -2,7 +2,9 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
- 	       "0 7 * * * https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_03.js, tag=京东一次性入会领豆3, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/monk.png, enabled=true",
+ 	       "0 9 * * * https://raw.githubusercontent.com/dompling/Script/master/jd/ql_cookie_sync.js, tag=自动同步京东ck到青龙面板（boxjs中填写账号密码）, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ql.png, enabled=true",
+	       "0 0 * * * https://raw.githubusercontent.com/dompling/Script/master/jd/jd_jr_sign.js, tag=京东金融领豆（不共用京东ck另抓）, img-url=https://ghproxy.com/https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true",
+	       "0 7 * * * https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_03.js, tag=京东一次性入会领豆3, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/monk.png, enabled=true",
 	       "0 7 * * * https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_02.js, tag=京东一次性入会领豆2, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/monk.png, enabled=true",
 	       "0-59 9-14 * * * https://raw.githubusercontent.com/age174/-/main/wdwhd.js, tag=我的网红店, img-url=https://ae01.alicdn.com/kf/Uc5a0618d6a404079af9216e1012e35efs.jpg, enabled=true", 
 	       "0 30 7,10 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/ningmeng/main/gd.js, tag=柠檬咕咚步数红包, img-url=http://nm66.top/1.jpg, enabled=true",

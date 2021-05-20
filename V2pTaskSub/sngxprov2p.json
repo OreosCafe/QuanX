@@ -2,9 +2,45 @@
   "name": "公众号少年歌行pro v2p 专用定时任务订阅",
   "author": "由公众号少年歌行pro维护 https://t.me/sngxpro",
   "desc": "自用。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
-  "date": "2021-05-17 15:30:02",
+  "date": "2021-05-20 21:30:02",
   "list": [
-  {
+ {
+      "name": "柠檬看看集自动阅读",
+      "type": "cron",
+      "time": "0 */60 6-23 * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/panghu999/ningmeng/main/kkj.js"
+      }
+    },	
+	  {
+      "name": "京东人头马x博朗",
+      "type": "cron",
+      "time": "20 9 20-31 5 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_martin.js"
+      }
+    },	
+	  {
+      "name": "京东飞利浦电视成长记",
+      "type": "cron",
+      "time": "15 9 * 5,6 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/monk-coder/dust/dust/member/adolf_flp.js"
+      }
+    },	
+	  {
+      "name": "京东赢一加新品手机",
+      "type": "cron",
+      "time": "25 9 * 5,6 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/member/adolf_oneplus.js"
+      }
+    },	
+   {
       "name": "京东京享值PK",
       "type": "cron",
       "time": "15 8,13,18 17-31 5 *",

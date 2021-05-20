@@ -5,6 +5,15 @@
   "date": "2021-05-20 21:30:02",
   "list": [
  {
+      "name": "双色球",
+      "type": "cron",
+      "time": "0 30 21 * * 2,4,7",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/ssq/ssq.js"
+      }
+    },	
+	  {
       "name": "柠檬看看集自动阅读",
       "type": "cron",
       "time": "0 */60 6-23 * *",

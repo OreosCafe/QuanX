@@ -1,5 +1,41 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+### 公众号少年歌行pro：5月22日 19:30，脚本进行如下变动：
+
+ 1、增加了 `柠檬` 大佬的 `柠檬彩虹消消消`  脚本
+ 
+ 2、增加了 `阿道夫` 大佬的 `京东坐等更新` 脚本
+ 
+ 3、增加了 `tom` 大佬的 `薪时光` 脚本 
+ 
+ 4、增加了 `阿奇趣史蒂夫` 大佬的 `京东金榜创造营` 脚本 
+ 
+
+ 
+### 仓库订阅地址：
+
+【圈x订阅地址】
+```
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+```
+【v2p订阅地址】
+```
+需翻墙
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+```
+### 注意：一定在圈x首页长按风车--再点一下左下角刷新按钮，等左上角数字清零后才能同步配置！
+```
+[rewrite remote]
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+
+```
+
+--------------------
+
+
 
 ### 公众号少年歌行pro：5月21日 0:02，脚本进行如下变动：
 

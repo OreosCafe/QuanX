@@ -5,6 +5,42 @@
   "date": "2021-05-21 0:0:02",
   "list": [
  {
+      "name": "京东坐等更新",
+      "type": "cron",
+      "time": "28 9 18-26 5 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_urge.js"
+      }
+    },	
+	  {
+      "name": "京东金榜创造营",
+      "type": "cron",
+      "time": "0 8 21-31 5-12 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/qqsdff/script/main/jd/jd_jbczy.js"
+      }
+    },	
+	  {
+      "name": "薪时光",
+      "type": "cron",
+      "time": "0 10 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/xsg.js"
+      }
+    },	
+	  {
+      "name": "柠檬彩虹消消消",
+      "type": "cron",
+      "time": "*/5 * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "http://nm66.top/chxx.js"
+      }
+    },	
+	  {
       "name": "京东Redmi合成小金刚",
       "type": "cron",
       "time": "20 9 21-27 5 *",

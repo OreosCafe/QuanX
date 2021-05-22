@@ -2,7 +2,11 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-  	       "20 9 21-27 5 * https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_mi.js, tag=京东Redmi合成小金刚, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/monk.png, enabled=true",
+  	       "28 9 18-26 5 * https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_urge.js, tag=坐等更新, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/monk.png, enabled=true",
+	       "*/5 * * * * http://nm66.top/chxx.js, tag=柠檬彩虹消消消, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
+	       "0 10 * * * https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/xsg.js, tag=薪时光, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/tom.png, enabled=true",
+	       "0 8 21-31 5-12 * https://ghproxy.com/https://raw.githubusercontent.com/qqsdff/script/main/jd/jd_jbczy.js, tag=京东金榜创造营, img-url=https://ghproxy.com/https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
+	       "20 9 21-27 5 * https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_mi.js, tag=京东Redmi合成小金刚, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/monk.png, enabled=true",
 	       "0 */8 * * * https://ghproxy.com/https://raw.githubusercontent.com/CenBoMin/GithubSync/main/HELPBANG/helpbang.js, tag=互利帮(需TF资格), img-url=https://ghproxy.com/https://raw.githubusercontent.com/CenBoMin/GithubSync/main/HELPBANG/140.png, enabled=true",
 	       "0 30 21 * * 2,4,7  https://ghproxy.com/https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/ssq/ssq.js, tag=双色球, img-url=https://raw.githubusercontent.com/58xinian/icon/master/Two_color_ball.png, enabled=true",
 	       "0 */60 6-23 * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/ningmeng/main/kkj.js, tag=柠檬看看集自动阅读, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",

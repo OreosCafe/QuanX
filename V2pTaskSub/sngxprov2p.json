@@ -5,6 +5,23 @@
   "date": "2021-05-21 0:0:02",
   "list": [
  {
+      "name": "京东注销会员链接生成墨鱼版",
+      "type": "cron",
+      "time": "0 8 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Jd/jd_cardId_export.js"
+      }
+    },	 {
+      "name": "京东注销会员修复版",
+      "type": "cron",
+      "time": "0 9 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jd_unbind.js"
+      }
+    },	
+	   {
       "name": "京东跳跳乐瓜分京豆",
       "type": "cron",
       "time": "1 0,11,21 * * *",

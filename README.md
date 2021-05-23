@@ -1,5 +1,36 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+
+### 公众号少年歌行pro：5月23日 11:30，脚本进行如下变动：
+
+ 1、增加了 `墨鱼手记` 大佬的 `京东会员卡注销链接生成`  脚本
+ 
+ 2、增加了 `藏经阁` 大佬的 `京东会员卡注销经典修复版` 脚本
+ 
+ 上述脚本功能相似，都是生成注销地址链接，然后导出后手动注销，属于半自动工具，请根据个人喜好选择
+ 
+### 仓库订阅地址：
+
+【圈x订阅地址】
+```
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+```
+【v2p订阅地址】
+```
+需翻墙
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+```
+### 注意：需配合nobyda的通用京东cookie使用！
+
+
+------------------------------------
+
+
+
+
 ### 公众号少年歌行pro：5月22日 19:30，脚本进行如下变动：
 
  1、增加了 `柠檬` 大佬的 `柠檬彩虹消消消`  脚本

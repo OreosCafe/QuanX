@@ -82,7 +82,7 @@
       "time": "0 */60 6-23 * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/panghu999/ningmeng/main/kkj.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/panghu999/ningmeng/main/kjj.js"
       }
     },	
 	  {

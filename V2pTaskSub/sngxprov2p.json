@@ -5,6 +5,15 @@
   "date": "2021-05-25 1:0:02",
   "list": [
  {
+      "name": "京东动物联萌618活动",
+      "type": "cron",
+      "time": "5 * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_zoo.js"
+      }
+    },	 
+	   {
       "name": "京东城城分现金藏经阁版",
       "type": "cron",
       "time": "1 0-23/4 * * *",

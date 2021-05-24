@@ -2,8 +2,9 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
- 	       "5 * * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/wechatsubs/gxrcw.js, tag=高校人才网招聘监控, img-url=https://ghproxy.com/https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/gxrcw.png, enabled=true",
-	       "5 * * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/wechatsubs/sydwzp.js, tag=事业单位招聘监控, img-url=https://ghproxy.com/https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/sydw.png, enabled=true",
+ 	       "5 * * * * https://ghproxy.com/https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_zoo.js, tag=京东动物联萌, img-url=https://ghproxy.com/https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
+	       "5 * * * * https://ghproxy.com/https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/wechatsubs/gxrcw.js, tag=高校人才网招聘监控, img-url=https://ghproxy.com/https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/gxrcw.png, enabled=true",
+	       "5 * * * * https://ghproxy.com/https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/wechatsubs/sydwzp.js, tag=事业单位招聘监控, img-url=https://ghproxy.com/https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/sydw.png, enabled=true",
 	       "0 0-18/6 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_carnivalcity.js, tag=京东手机狂欢城0301版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 	       "0 0-23/1 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_city.js, tag=京东城城领现金0301版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 	       "1 0-23/4 * * * https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_city_cash.js, tag=京东城城分现金藏经阁版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/monk.png, enabled=true",

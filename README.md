@@ -8,6 +8,25 @@
  
  圈x首页长按风车--点左下角刷新按钮同步即可
  
+ 3、增加了 `姐姐` 大佬的 `同程小猪🐷` 脚本
+ 
+ 
+ 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+注意：一定在圈x首页长按风车--再点一下左下角刷新按钮，等左上角数字清零后才能同步配置！
+```
+[rewrite remote]
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+```
+ 
  
  -------------------
 

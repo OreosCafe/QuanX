@@ -1,5 +1,18 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+### 公众号少年歌行pro：5月25日 7:30，脚本进行如下变动：
+
+ 1、修复了 `lxk0301` 大佬的 `京东获取多账号ck`  脚本 因未知原因 404的问题
+ 
+ 2、增加了 `lxk0301` 大佬的 `小米运动` 脚本   因未知原因 404的问题
+ 
+ 圈x首页长按风车--点左下角刷新按钮同步即可
+ 
+ 
+ -------------------
+
+
+
 
 ### 公众号少年歌行pro：5月24日 22:30，脚本进行如下变动：
 

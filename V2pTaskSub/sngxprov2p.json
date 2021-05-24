@@ -2071,7 +2071,7 @@
       "time": "15 17 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/xmSports.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/jim114042/quanx/main/js/xmSports.js"
       }
     },
     {

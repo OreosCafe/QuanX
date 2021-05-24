@@ -251,7 +251,7 @@
 		"55 23 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_unsubscribe.js, tag=取关京东店铺商品, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 		"30 7 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_xgyl.js, tag=小鸽有礼2, img-url=https://ghproxy.com/https://raw.githubusercontent.com/58xinian/icon/master/jd_xgyl.png, enabled=true",
 		"5 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jx_sign.js, tag=京东京喜签到, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
-		"15 17 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/xmSports.js, tag=小米运动, img-url=https://ghproxy.com/https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png, enabled=true",
+		"15 17 * * * https://ghproxy.com/https://raw.githubusercontent.com/jim114042/quanx/main/js/xmSports.js, tag=小米运动, img-url=https://ghproxy.com/https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png, enabled=true",
  	  	"15 12,14,16,20 * * * https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/fqkk.js, tag=番茄看看（点击查看脚本阅读详细用法）, img-url=https://ftp.bmp.ovh/imgs/2021/02/f8306006536eb49c.jpeg, enabled=true",
 	   	"*/10 * * * * https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/sz.js, tag=闪挣, img-url=https://ae01.alicdn.com/kf/U0eeed99dbe9a4cf99b73aaed7902a3a9z.jpg, enabled=true",
 		"1 * * * * https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/baosxq.js, tag=宝石星球(查看脚本有用法), img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/icons/main/genshin/mona.png, enabled=true",

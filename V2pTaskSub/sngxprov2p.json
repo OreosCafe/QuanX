@@ -7,7 +7,7 @@
  {
       "name": "京东城城分现金藏经阁版",
       "type": "cron",
-      "time": "1 0-23/4 5,6",
+      "time": "1 0-23/4 * * *",
       "job": {
         "type": "runjs",
         "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_city_cash.js"

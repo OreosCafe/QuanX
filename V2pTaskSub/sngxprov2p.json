@@ -5,6 +5,33 @@
   "date": "2021-05-25 1:0:02",
   "list": [
  {
+      "name": "京东抽盲盒一次性领豆",
+      "type": "cron",
+      "time": "0 9 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jay_freshgoods.js"
+      }
+    },	
+	  {
+      "name": "得宝小程序",
+      "type": "cron",
+      "time": "15 7,15 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/debao.js"
+      }
+    },	
+	  {
+      "name": "京东领现金兑换10元红包",
+      "type": "cron",
+      "time": "0,1,2 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Jd/jd_cash_exchange.js"
+      }
+    },	
+	  {
       "name": "京东动物联萌0301版",
       "type": "cron",
       "time": "13 0-23/2 * * *",

@@ -9,7 +9,7 @@
  3、增加了 `墨鱼手记` 大佬的 `京东领现金兑换10元红包` 脚本
  
  
- 仓库订阅地址：
+### 仓库订阅地址：
  
 【圈x订阅地址】
 
@@ -27,8 +27,9 @@ ql raw https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/maste
 ```
 ql raw https://ghproxy.com/https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Jd/jd_cash_exchange.js
 ```
+### 注意：需配合下方重写订阅获取cookie后使用
+### 注意：一定在圈x首页长按风车--再点一下左下角刷新按钮，等左上角数字清零后才能同步配置！
 
-注意：一定在圈x首页长按风车--再点一下左下角刷新按钮，等左上角数字清零后才能同步配置！
 ```
 [rewrite remote]
 https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true

@@ -2,7 +2,10 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
- 	       "13 0-23/2 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_zoo.js, tag=京东动物联萌0301版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
+       	       "0 9 * * * https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jay_freshgoods.js, tag=京东抽盲盒一次性领豆, img-url=https://ghproxy.com/https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
+	       "0,1,2 0 * * * https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Jd/jd_cash_exchange.js, tag=京东领现金兑换10元红包, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/moyushouji.png, enabled=true",
+	       "15 7,15 * * * https://ghproxy.com/https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/debao.js, tag=得宝小程序, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/moyushouji.png, enabled=true";
+	       "13 0-23/2 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_zoo.js, tag=京东动物联萌0301版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 	       "0 */1 * * * https://ghproxy.com/https://raw.githubusercontent.com/CenBoMin/GithubSync/main/ELONGCASH/elongcash.js, tag=同程小猪🐷, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/ELONGCASH/140.png, enabled=false",
 	       "5 * * * * https://ghproxy.com/https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_zoo.js, tag=京东动物联萌618活动, img-url=https://ghproxy.com/https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
 	       "5 * * * * https://ghproxy.com/https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/wechatsubs/gxrcw.js, tag=高校人才网招聘监控, img-url=https://ghproxy.com/https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/gxrcw.png, enabled=true",

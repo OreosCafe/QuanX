@@ -2,6 +2,37 @@
 
 ### 公众号少年歌行pro：5月25日 18:30，脚本进行如下变动：
 
+ 1、增加了 `阿道夫` 大佬的 `京东618大势新品赏`  脚本 
+ 
+ 2、增加了 `阿道夫` 大佬的 `京东超级盒子` 脚本
+ 
+
+ 
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙单独拉取京东618大势新品赏】
+```
+ql raw https://ghproxy.com/https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_newInteraction.js
+```
+【青龙单独拉取京东超级盒子】
+```
+ql raw https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_superbox.js
+```
+### 注意：需配合下方重写订阅获取cookie后使用
+
+------------------------------
+
+
+### 公众号少年歌行pro：5月25日 18:30，脚本进行如下变动：
+
  1、增加了 `jaysherlock` 大佬的 `京东抽盲盒一次性领豆`  脚本 
  
  2、增加了 `墨鱼手记` 大佬的 `得宝小程序` 脚本

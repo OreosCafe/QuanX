@@ -5,6 +5,15 @@
   "date": "2021-05-27 8:00:02",
   "list": [
  {
+      "name": "京东家电星推官0301版",
+      "type": "cron",
+      "time": "0 0 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_xtg.js"
+      }
+    },	
+	  {
       "name": "京东家电星推官（圈x可能有不停止bug等更新）",
       "type": "cron",
       "time": "40 9-18/3 * 5,6 *",

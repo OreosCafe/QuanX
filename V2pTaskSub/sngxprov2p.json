@@ -5,6 +5,15 @@
   "date": "2021-05-27 19:00:02",
   "list": [
  {
+      "name": "京东城城分现金自动提现柠檬版",
+      "type": "cron",
+      "time": "*/5 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "http://nm66.top/jd_cctx.js"
+      }
+    },	
+	  {
       "name": "京东星推官获取互助0301版",
       "type": "cron",
       "time": "0 0 0 * * *",

@@ -15,7 +15,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/
 
 https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
 
-【青龙单独拉取京东家电星推官0301版】
+【青龙单独拉取京东城城分现金自动提现】
 ```
 ql raw http://nm66.top/jd_cctx.js
 ```

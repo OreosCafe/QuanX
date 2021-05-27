@@ -1,5 +1,46 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+### 公众号少年歌行pro：5月27日 19:30，脚本进行如下变动：
+
+ 1、增加了 `lxk0301` 大佬的 `京东家电星推官0301版`  脚本 
+ 
+ 2、增加了 `tom` 大佬的 `小宝种树` 脚本
+ 
+ 3、增加了 `tom` 大佬的 `云云赚呗` 脚本【注意，由于tom大佬的规则过于粗暴，单独为这个脚本做了独立获取cookie订阅，以防影响其他规则】
+ 
+ 
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙单独拉取京东家电星推官0301版】
+```
+ql raw https://ghproxy.com/https://raw.githubusercontent.com/chinnkarahoi/jd_scripts/master/jd_xtg.js
+```
+
+#### 注意：需配合下方重写订阅获取cookie后使用
+#### 注意：下方第一个重写订阅可获取京东cookie
+#### 注意：下方第二个重写订阅单独用于获取云云赚呗cookie，尽量不要和其他重写规则同时启用
+#### 注意：一定在圈x首页长按风车--再点一下左下角刷新按钮，等左上角数字清零后才能同步配置！
+
+```
+[rewrite remote]
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/yyzb.conf, tag=云云赚呗（与其他规则冲突）, update-interval=86400, opt-parser=false, enabled=false
+
+
+```
+
+
+
+
 
 ### 公众号少年歌行pro：5月26日 21:00，脚本进行如下变动：
 

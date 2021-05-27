@@ -1,5 +1,30 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+### 公众号少年歌行pro：5月27日 19:40，脚本进行如下变动：
+
+ 1、增加了 `lxk0301` 大佬的 `京东星推官好友互助0301版`  脚本 
+ 
+
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙单独拉取京东家电星推官0301版】
+```
+ql raw https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jd_xtg_help.js
+```
+
+#### 注意：需配合jd cookie使用
+
+-------------------------
+
+
 ### 公众号少年歌行pro：5月27日 19:30，脚本进行如下变动：
 
  1、增加了 `lxk0301` 大佬的 `京东家电星推官0301版`  脚本 

@@ -5,6 +5,15 @@
   "date": "2021-05-27 19:00:02",
   "list": [
  {
+      "name": "京东星推官获取互助0301版",
+      "type": "cron",
+      "time": "0 0 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jd_xtg_help.js"
+      }
+    },	
+	  {
       "name": "云云赚呗",
       "type": "cron",
       "time": "0 8 * * *",

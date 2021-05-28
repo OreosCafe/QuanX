@@ -5,6 +5,15 @@
   "date": "2021-05-28 14:00:02",
   "list": [
 {
+      "name": "京东步数换京豆柠檬版",
+      "type": "cron",
+      "time": "* 15 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/panghu999/ningmeng/main/jd_bs.js"
+      }
+    },	
+	  {
       "name": "京东金榜创造营0301版",
       "type": "cron",
       "time": "13 1,22 * * *",

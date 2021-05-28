@@ -2,7 +2,7 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-    	       " * 15 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/ningmeng/main/jd_bs.js, tag=京东步数换京豆柠檬版, img-url= https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
+    	       "* 15 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/ningmeng/main/jd_bs.js, tag=京东步数换京豆柠檬版, img-url= https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 	       "13 1,22 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_gold_creator.js, tag=京东金榜创造营0301版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
       	       "0 8 21-31 5-12 * https://ghproxy.com/https://raw.githubusercontent.com/qqsdff/script/main/jd/jd_jbczy.js, tag=京东金榜创造营奇趣史蒂夫版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
 	       "0 7 * * * https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_11.js, tag=京东一次性入会领豆11, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/monk.png, enabled=true",

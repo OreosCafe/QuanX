@@ -5,6 +5,15 @@
   "date": "2021-05-28 14:00:02",
   "list": [
 {
+      "name": "京东金榜创造营0301版",
+      "type": "cron",
+      "time": "13 1,22 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_gold_creator.js"
+      }
+    },	
+	  {
       "name": "京东一次性入会领豆11",
       "type": "cron",
       "time": "0 7 * * *",

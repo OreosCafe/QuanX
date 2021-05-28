@@ -18,7 +18,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTa
 
 【青龙单独拉取京东城城分现金自动提现】
 ```
-ql raw http://nm66.top/jd_cctx.js
+ql raw https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_11.js
 ```
 
 #### 注意：需配合jd cookie使用

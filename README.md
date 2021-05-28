@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
-### 公众号少年歌行pro：5月28日 14:00，脚本进行如下变动：
+### 公众号少年歌行pro：5月28日 17:00，脚本进行如下变动：
 
  1、增加了 `lxk0301` 的 `京东金榜创造营0301版`  脚本 
  

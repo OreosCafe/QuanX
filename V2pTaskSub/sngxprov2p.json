@@ -5,12 +5,12 @@
   "date": "2021-05-28 14:00:02",
   "list": [
 {
-      "name": "京东一次性入会领豆10",
+      "name": "京东一次性入会领豆11",
       "type": "cron",
       "time": "0 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_10.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_11.js"
       }
     },	
 	  {

@@ -3,6 +3,37 @@
 
 ### 公众号少年歌行pro：5月28日 17:00，脚本进行如下变动：
 
+ 1、增加了 `藏经阁` 的 `京东一次性入会领豆13`  脚本 
+ 
+ 2、增加了 `藏经阁` 的 `京东一次性入会领豆12`  脚本 
+ 
+
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙单独拉取上面新增的2个脚本】
+```
+ql raw https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_13.js
+
+ql raw https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_12.js
+```
+
+#### 注意：需配合jd cookie使用
+
+
+
+-------------------
+
+
+### 公众号少年歌行pro：5月28日 17:00，脚本进行如下变动：
+
  1、增加了 `柠檬大佬` 的 `京东步数换京豆柠檬版`  脚本 
  
 

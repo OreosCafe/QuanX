@@ -2,7 +2,7 @@
   "name": "公众号少年歌行pro v2p 专用定时任务订阅",
   "author": "由公众号少年歌行pro维护 https://t.me/sngxpro",
   "desc": "自用。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
-  "date": "2021-05-29 8:00:02",
+  "date": "2021-05-29 22:00:02",
   "list": [
 {
       "name": "京东一次性入会领豆13",
@@ -100,7 +100,7 @@
       "time": "40 9-18/3 * 5,6 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_star.js"
+        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/normal/adolf_star.js"
       }
     },	
 	   {
@@ -109,7 +109,7 @@
       "time": "15 9 * 5,6 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_jxhb.js"
+        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/normal/adolf_jxhb.js"
       }
     },	
 	   {
@@ -127,7 +127,7 @@
       "time": "15 9,20 * 5,6 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_newInteraction.js"
+        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/normal/adolf_newInteraction.js"
       }
     },	
 	  {
@@ -136,7 +136,7 @@
       "time": "15 9,20 * 5,6 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_superbox.js"
+        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/normal/adolf_superbox.js"
       }
     },	
 	  {
@@ -199,7 +199,7 @@
       "time": "1 0-23/4 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_city_cash.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_city_cash.js"
       }
     },	 
 	  {
@@ -226,7 +226,7 @@
       "time": "5 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/wechatsubs/sydwzp.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/wechatsubs/sydwzp.js"
       }
     },	 
 	    {
@@ -235,7 +235,7 @@
       "time": "5 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/wechatsubs/gxrcw.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/wechatsubs/gxrcw.js"
       }
     },	
 	  {
@@ -253,7 +253,7 @@
       "time": "2 0-18/6 * 5 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_carnivalcity.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_carnivalcity.js"
       }
     },	
 	   {
@@ -298,7 +298,7 @@
       "time": "28 9 18-26 5 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_urge.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/normal/adolf_urge.js"
       }
     },	
 	  {
@@ -334,7 +334,7 @@
       "time": "20 9 21-27 5 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_mi.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/normal/adolf_mi.js"
       }
     },	
 	  {
@@ -379,7 +379,7 @@
       "time": "25 9 * 5,6 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/member/adolf_oneplus.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/member/adolf_oneplus.js"
       }
     },	
    {
@@ -388,7 +388,7 @@
       "time": "15 8,13,18 17-31 5 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_pk.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/normal/adolf_pk.js"
       }
     },	 
 	  {
@@ -433,7 +433,7 @@
       "time": "0-59 9-14 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/wdwhd.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/wdwhd.js"
       }
     },	  
  {
@@ -496,7 +496,7 @@
       "time": "15 8 9-13 5 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/car/adolf_ETIP.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/car/adolf_ETIP.js"
       }
     },
 	 {
@@ -505,7 +505,7 @@
       "time": "15 8 7-31 5 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/car/adolf_haier.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/car/adolf_haier.js"
       }
     },
 	 {
@@ -514,7 +514,7 @@
       "time": "15 12 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/car/monk_shop_add_to_car.js"
+        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/car/monk_shop_add_to_car.js"
       }
     },
 	 {
@@ -523,7 +523,7 @@
       "time": "3 10 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_fanslove.js"
+        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_fanslove.js"
       }
     },
 	 {
@@ -532,7 +532,7 @@
       "time": "25 10-22/3 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_health_community.js"
+        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_health_community.js"
       }
     },
 	 {
@@ -541,7 +541,7 @@
       "time": "25 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_health_energy.js"
+        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_health_energy.js"
       }
     },
 	 {
@@ -550,7 +550,7 @@
       "time": "3 10 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_marketLottery.js"
+        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_marketLottery.js"
       }
     },
 	 {
@@ -559,7 +559,7 @@
       "time": "5 8,14,20 11-17 5 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_mother_jump.js"
+        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_mother_jump.js"
       }
     },
 	 {
@@ -568,7 +568,7 @@
       "time": "3 20 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_shake.js"
+        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_shake.js"
       }
     },
 	 {
@@ -577,7 +577,7 @@
       "time": "25 3 * * 2",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_shop_captain.js"
+        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_shop_captain.js"
       }
     },
 	 {
@@ -586,7 +586,7 @@
       "time": "10 10,15 8-9 5 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_wish.js"
+        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_wish.js"
       }
     },
 	 {
@@ -595,7 +595,7 @@
       "time": "10 10 * 4 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_xmf.js"
+        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_xmf.js"
       }
     },
 	 {
@@ -604,7 +604,7 @@
       "time": "0 0,1-22/2 1-31 4-7 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/member/monk_pasture.js"
+        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/member/monk_pasture.js"
       }
     },
 	 {
@@ -613,7 +613,7 @@
       "time": "25 8,12 6-11 5 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_oppo.js"
+        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/normal/adolf_oppo.js"
       }
     },
 	 {
@@ -622,7 +622,7 @@
       "time": "15 15 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/normal/monk_shop_follow_sku.js"
+        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/normal/monk_shop_follow_sku.js"
       }
     },
 	 {
@@ -631,7 +631,7 @@
       "time": "3 0,10,23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/normal/monk_shop_lottery.js"
+        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/normal/monk_shop_lottery.js"
       }
     }, 
     {

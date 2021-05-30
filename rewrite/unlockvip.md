@@ -64,8 +64,6 @@ new:儿歌点点解锁vip
 6、菠萝视频解锁无限看（邀请码为破解作者本人的）
 #下载地址：https://aff.polomv.com/af/edrJ
 
-#辣椒解锁会员去广告（邀请码为破解作者本人的）
-#下载地址：http://v.sj6.live/?code=S48DGK
 
 
 
@@ -166,6 +164,8 @@ https://jjkk.life
 #下载地址邀请码：PWTIHQ
 http://uarnu.com/l1Uo0w4?icode=PWTIHQ
 
+32、辣椒解锁会员去广告（邀请码为破解作者本人的）
+#下载地址：http://v.sj6.live/?code=S48DGK
 
 ```
 #### 3、公众号：墨鱼手记 独立製作的规则

@@ -1,5 +1,26 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+### 公众号少年歌行pro：5月31日 8:00，脚本进行如下变动：
+
+ 1、增加了 `tom` 大佬的 `青椒音乐` 脚本，ck大佬稍后发
+ 
+ 
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+
+
+
+-------------------------
+
+
 
 ### 公众号少年歌行pro：5月30日 10:30，解锁vip规则进行如下变动：
 

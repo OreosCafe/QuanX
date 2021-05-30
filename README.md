@@ -1,6 +1,31 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### 公众号少年歌行pro：5月30日 10:30，解锁vip规则进行如下变动：
+
+ 1、同步了 `ios黑科技` 大佬的 `18禁app解锁规则` ，共计破解了`31`个app，营养快线准备好了么
+ 
+ 【我黑哥身体是真的好！】
+ 
+### 想知道具体有啥、从哪下载请查阅下方链接
+
+https://github.com/sngxpro/QuanX/blob/master/rewrite/unlockvip.md
+ 
+### 使用方法：需配合下方重写订阅获取cookie后使用
+
+#### 注意：一定在圈x首页长按风车--再点一下左下角刷新按钮，等左上角数字清零后才能同步配置！
+
+```
+[rewrite remote]
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+
+
+```
+------------------------------
+
+
+
+
 ### 公众号少年歌行pro：5月30日 10:00，脚本进行如下变动：
 
  1、增加了 `tom` 大佬的 `湘创生活` 脚本

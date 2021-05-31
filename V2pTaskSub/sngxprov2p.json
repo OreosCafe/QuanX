@@ -5,6 +5,15 @@
   "date": "2021-05-31 8:00:02",
   "list": [
 {
+      "name": "京东沸腾之夜",
+      "type": "cron",
+      "time": "0 15-19/1 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jd_party_night.js"
+      }
+    },	
+	  {
       "name": "青椒音乐(ck稍后大佬发)",
       "type": "cron",
       "time": "0 12 * * *",

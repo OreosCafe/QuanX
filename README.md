@@ -17,6 +17,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/
 https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙单独拉取此脚本命令】
+
 ql raw https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_ppdz.js
 
 

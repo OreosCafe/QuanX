@@ -2,7 +2,8 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-       	       "30 9,10 * * * https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/master/jd/babelDiy.js, tag=京东总裁送好礼, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
+       	       "30 11 * * * https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/master/jd/superBrand.js, tag=京东特物ZX联想, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
+	       "30 9,10 * * * https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/master/jd/babelDiy.js, tag=京东总裁送好礼, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 	       "0 7 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_ry618.js, tag=【暂未完成】京东柠檬荣耀618, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
 	       "1 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_ppdz.js, tag=京东柠檬东东泡泡大战, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
 	       "0 15-19/1 * * * https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jd_party_night.js, tag=京东沸腾之夜, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",

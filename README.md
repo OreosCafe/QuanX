@@ -19,13 +19,14 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/
 
 https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
 
-【青龙单独拉取上述3个脚本命令】
+【青龙拉取Wenmoux京东脚本仓库命令】
 
-ql raw https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/master/jd/jd_mcxhd_brandcity.js
+ql repo https://github.com/Wenmoux/scripts.git "jd"
 
-ql raw https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_dphby.js
+【青龙拉取柠檬京东脚本仓库（胖虎库）命令】
 
-ql raw https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_gcip.js
+ql repo https://github.com/panghu999/panghu.git "jd_"
+
 
 #### 注意：需配合jd cookie使用
 

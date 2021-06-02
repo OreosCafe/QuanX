@@ -1,5 +1,39 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+### 公众号少年歌行pro：6月3日 7:00，脚本进行如下变动：
+
+ 1、增加了 `Wenmoux` 大佬的 `京东新潮品牌狂欢` 脚本
+ 
+ 2、增加了 `柠檬` 大佬的 `京东大牌闪购红包雨` 脚本
+ 
+ 3、增加了 `柠檬` 大佬的 `京东特物国创IP` 脚本
+ 
+ 
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙单独拉取上述3个脚本命令】
+
+ql raw https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/master/jd/jd_mcxhd_brandcity.js
+
+ql raw https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_dphby.js
+
+ql raw https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_gcip.js
+
+#### 注意：需配合jd cookie使用
+
+
+----------------------
+
+
+
 ### 公众号少年歌行pro：6月2日 11:00，脚本进行如下变动：
 
  1、增加了 `Wenmoux` 大佬的 `京东特物ZX联想` 脚本

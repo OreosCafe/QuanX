@@ -10,7 +10,7 @@
       "time": "0 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/master/jd/superBrand.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/zdd.js"
       }
     },	
     {

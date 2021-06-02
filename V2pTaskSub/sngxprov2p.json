@@ -5,6 +5,15 @@
   "date": "2021-06-02 8:00:02",
   "list": [
 {
+      "name": "京东总裁送好礼",
+      "type": "cron",
+      "time": "30 9,10 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/master/jd/babelDiy.js"
+      }
+    },	
+	  {
       "name": "【暂未完成】京东柠檬荣耀618",
       "type": "cron",
       "time": "0 7 * * *",

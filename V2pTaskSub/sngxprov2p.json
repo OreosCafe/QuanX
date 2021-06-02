@@ -5,6 +5,33 @@
   "date": "2021-06-02 11:00:02",
   "list": [
 {
+      "name": "京东新潮品牌狂欢",
+      "type": "cron",
+      "time": "30 9,10 1-18 6 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/master/jd/jd_mcxhd_brandcity.js"
+      }
+    },	
+	  {
+      "name": "京东大牌闪购红包雨",
+      "type": "cron",
+      "time": "1 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_dphby.js"
+      }
+    },
+	  {
+      "name": "京东特物国创IP",
+      "type": "cron",
+      "time": "1 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_gcip.js"
+      }
+    },
+	  {
       "name": "京东特物ZX联想",
       "type": "cron",
       "time": "30 11 * * *",
@@ -12,7 +39,7 @@
         "type": "runjs",
         "target": "https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/master/jd/superBrand.js"
       }
-    },	
+    },
 	  {
       "name": "京东总裁送好礼",
       "type": "cron",

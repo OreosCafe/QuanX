@@ -2,12 +2,6 @@
 
 ### 公众号少年歌行pro：6月3日 7:00，脚本进行如下变动：
 
- 1、增加了 `Wenmoux` 大佬的 `京东新潮品牌狂欢` 脚本
- 
- 2、增加了 `柠檬` 大佬的 `京东大牌闪购红包雨` 脚本
- 
- 3、增加了 `柠檬` 大佬的 `京东特物国创IP` 脚本
- 
  
 ### 仓库订阅地址：
  
@@ -19,13 +13,9 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/
 
 https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
 
-【青龙拉取Wenmoux京东脚本仓库命令】
+【青龙拉取zoopanda仓库命令】
 
-ql repo https://github.com/Wenmoux/scripts.git "jd"
-
-【青龙拉取柠檬京东脚本仓库（胖虎库）命令】
-
-ql repo https://github.com/panghu999/panghu.git "jd_"
+ql repo https://github.com/zooPanda/zoo.git "zoo"
 
 
 #### 注意：需配合jd cookie使用

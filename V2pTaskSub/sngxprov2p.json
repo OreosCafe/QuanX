@@ -5,6 +5,15 @@
   "date": "2021-06-03 16:00:02",
   "list": [
 {
+      "name": "京东明星小店",
+      "type": "cron",
+      "time": "0 1,21 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_star_shop.js"
+      }
+    },	
+	  {
       "name": "京东宝洁消消乐",
       "type": "cron",
       "time": "18 9 1-18 6 *",

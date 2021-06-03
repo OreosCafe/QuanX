@@ -1,5 +1,35 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+
+### 公众号少年歌行pro：6月3日 10:00，脚本进行如下变动：
+
+1、新增了 `jaysherlock` 大佬的 `京东欧乐b`脚本
+
+因为此为大佬个人脚本，与原本团队无关，故圈x中图标使用了`伊芙`大明星的头像
+ 
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙拉取此脚本命令】
+
+ql raw https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jay_member_olb.js
+
+
+#### 注意：需配合jd cookie使用
+
+
+----------------------
+
+
+
+
 ### 公众号少年歌行pro：6月3日 7:00，脚本进行如下变动：
 
 1、新增了 `zoopanda` 大佬的 `京东618与粽不同`脚本

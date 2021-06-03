@@ -5,6 +5,15 @@
   "date": "2021-06-06 9:00:02",
   "list": [
 {
+      "name": "京东欧乐b",
+      "type": "cron",
+      "time": "0 9 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jay_member_olb.js"
+      }
+    },	
+	  {
       "name": "京东浓情618与粽不同",
       "type": "cron",
       "time": "0 9 * * *",

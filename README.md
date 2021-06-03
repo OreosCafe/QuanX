@@ -1,6 +1,35 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+### 公众号少年歌行pro：6月3日 15:00，脚本进行如下变动：
+
+1、新增了 `执意` 大佬的 `全免小说`脚本
+
+ 
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙拉取0301仓库运行一次即可更新】
+
+
+#### 注意：需配合下方 获取cookie重写规则使用
+
+```
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+
+````
+
+----------------------------
+
+
 ### 公众号少年歌行pro：6月3日 10:00，脚本进行如下变动：
 
 1、新增了 `lxk0301` 大佬的 `京东5G盲盒`脚本

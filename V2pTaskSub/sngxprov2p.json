@@ -5,6 +5,15 @@
   "date": "2021-06-06 9:00:02",
   "list": [
 {
+      "name": "全免小说",
+      "type": "cron",
+      "time": "10 0-23 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/qmxx.js"
+      }
+    },	
+	  {
       "name": "京东5G超级盲盒",
       "type": "cron",
       "time": "0 0,1-23/3 * * *",

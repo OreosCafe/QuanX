@@ -2,7 +2,7 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-   	       "10 0-23 * * * https://raw.githubusercontent.com/age174/-/main/qmxx.js, tag=全免小说, img-url=https://i0.hdslb.com/bfs/album/5d117c3f2a1a15fe692e50282b3e7beeebf96422.png, enabled=true",
+   	       "10 0-23 * * * https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/qmxx.js, tag=全免小说, img-url=https://i0.hdslb.com/bfs/album/5d117c3f2a1a15fe692e50282b3e7beeebf96422.png, enabled=true",
 	       "0 0,1-23/3 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_mohe.js, tag=京东5G超级盲盒, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 	       "5 * * * * https://ghproxy.com/https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_zoo.js, tag=京东动物联萌修复火爆, img-url=https://ghproxy.com/https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
 	       "0 9 * * * https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jay_member_olb.js, tag=京东欧乐b, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/jay.png, enabled=true",

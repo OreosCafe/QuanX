@@ -2,7 +2,8 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-    	       "0 9 * * * https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jay_member_olb.js, tag=京东欧乐b, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/jay.png, enabled=true",
+   	       "5 * * * * https://ghproxy.com/https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_zoo.js, tag=京东动物联萌修复火爆, img-url=https://ghproxy.com/https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
+	       "0 9 * * * https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jay_member_olb.js, tag=京东欧乐b, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/jay.png, enabled=true",
 	       "0 9 * * * https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooLongzhou.js, tag=京东浓情618与粽不同, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 	       "30 9,10 1-18 6 * https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/master/jd/jd_mcxhd_brandcity.js, tag=京东新潮品牌狂欢, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 	       "1 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_dphby.js, tag=京东大牌闪购红包雨, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
@@ -35,7 +36,6 @@
 	       "15 7,15 * * * https://ghproxy.com/https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/debao.js, tag=得宝小程序, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/moyushouji.png, enabled=true",
 	       "13 0-23/2 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_zoo.js, tag=京东动物联萌0301版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 	       "0 */1 * * * https://ghproxy.com/https://raw.githubusercontent.com/CenBoMin/GithubSync/main/ELONGCASH/elongcash.js, tag=同程小猪🐷, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/ELONGCASH/140.png, enabled=false",
-	       "5 * * * * https://ghproxy.com/https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_zoo.js, tag=京东动物联萌618活动, img-url=https://ghproxy.com/https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
 	       "5 * * * * https://ghproxy.com/https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/wechatsubs/gxrcw.js, tag=高校人才网招聘监控, img-url=https://ghproxy.com/https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/gxrcw.png, enabled=true",
 	       "5 * * * * https://ghproxy.com/https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/wechatsubs/sydwzp.js, tag=事业单位招聘监控, img-url=https://ghproxy.com/https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/sydw.png, enabled=true",
 	       "0 0-18/6 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_carnivalcity.js, tag=京东手机狂欢城0301版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",

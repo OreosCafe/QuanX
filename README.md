@@ -17,10 +17,11 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/
 
 https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
 
-【青龙拉取0301仓库运行一次即可更新】
-
+【青龙就别费劲跑这个了】
 
 #### 注意：需配合下方 获取cookie重写规则使用
+
+#### 注意：勾选下方规则后，圈x首页长按风车---点左下角刷新按钮---到左上角没有红色数字了再去抓ck
 
 ```
 https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true

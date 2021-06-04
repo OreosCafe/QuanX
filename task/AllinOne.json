@@ -2,7 +2,7 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-   	       "1 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_xcpp.js, tag=京东柠檬东东泡泡大战, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
+   	       "1 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_xcpp.js, tag=京东柠檬新潮品牌联欢, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 	       "1 20 1-18 6 * https://ghproxy.com/https://raw.githubusercontent.com/oujisome/jdshell/main/long_hby_lottery.js, tag=京东618主会场红包雨, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/longzhu.png, enabled=true",
 	       "0 1,21 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_star_shop.js, tag=京东明星小店, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 	       "18 9 1-18 6 * https://cdn.jsdelivr.net/gh/zooPanda/zoo@dev/zooBaojiexiaoxiaole.js, tag=京东宝洁消消乐, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/zoo.png, enabled=true",

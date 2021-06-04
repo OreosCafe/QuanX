@@ -5,6 +5,15 @@
   "date": "2021-06-03 20:00:02",
   "list": [
 {
+      "name": "京东柠檬东东泡泡大战",
+      "type": "cron",
+      "time": "1 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_xcpp.js"
+      }
+    },	
+	  {
       "name": "京东618主会场红包雨",
       "type": "cron",
       "time": "1 20 1-18 6 *",

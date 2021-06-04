@@ -712,7 +712,7 @@
       "time": "30 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_half_redrain.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/oujisome/jdshell/main/jd_half_redrain.js"
       }
     },    
   {
@@ -721,7 +721,7 @@
       "time": "0 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_super_redrain.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/oujisome/jdshell/main/jd_super_redrain.js"
       }
     },       
   {

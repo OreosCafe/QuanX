@@ -2,7 +2,9 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-   	       "1 0-23/1 * 6 * https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/master/jd/jd_618redpacket.js, tag=京东新潮品牌狂欢wenmoux, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/wen.png, enabled=true",
+   	       "0 9-19 * * * https://ghproxy.com/https://raw.githubusercontent.com/CenBoMin/GithubSync/main/ELECV2PJS/PushTask_elecV2p.js, tag=V2P推送任务, img-url=https://cdn.jsdelivr.net/gh/sngxpro/QuanX@master/pic/jiejie.png, enabled=true",
+    	       "0 7 * * * https://ghproxy.com/https://raw.githubusercontent.com/CenBoMin/GithubSync/main/ELECV2PJS/PushBoxjsCookie_elecV2p.js, tag=手机boxjs的Cookie自动上传V2p, img-url=https://cdn.jsdelivr.net/gh/sngxpro/QuanX@master/pic/jiejie.png, enabled=true ",
+	       "1 0-23/1 * 6 * https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/master/jd/jd_618redpacket.js, tag=京东新潮品牌狂欢wenmoux, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/wen.png, enabled=true",
 	       "1 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_xcpp.js, tag=京东柠檬新潮品牌联欢, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
 	       "1 20 1-18 6 * https://ghproxy.com/https://raw.githubusercontent.com/oujisome/jdshell/main/long_hby_lottery.js, tag=京东618主会场红包雨, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/longzhu.png, enabled=true",
 	       "0 1,21 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_star_shop.js, tag=京东明星小店, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
@@ -76,7 +78,6 @@
 	        "10 9 * * * https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/adolf_hf.js, tag=京东合肥旗舰店开业（一次性活动）, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/monk.png, enabled=true",
 	        "10 9 * * * https://raw.githubusercontent.com/age174/-/main/dwyjy.js, tag=动物研究院, img-url=https://ae01.alicdn.com/kf/Udd9cb36174cf41a7a69e28a643a360a9a.jpg, enabled=true",
 	        "20 10 * * * * https://ghproxy.com/https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/xpread.js, tag=笑谱阅读Ariszy, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/xp.png, enabled=true",
-	        "0 7 * * * https://ghproxy.com/https://raw.githubusercontent.com/CenBoMin/GithubSync/main/ELECV2PJS/PushBoxjsCookie_elecV2p.js, tag=手机boxjs的Cookie自动上传V2p, img-url=https://cdn.jsdelivr.net/gh/sngxpro/QuanX@master/pic/jiejie.png, enabled=true ",
         	"0 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/ztxtop/x/aa4ddeca813fbf5c231dd4adaec68a7632cb292c/jx_cfdtx.js, tag=京喜财富岛提现并发修改版ztxtop, img-url=https://ghproxy.com/https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jx_cfd_exchange.png, enabled=true",
 		"15 12 * * * https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/car/monk_shop_add_to_car.js, tag=京东加购有礼, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/monk.png, enabled=true",
 		"3 10 * * * https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_fanslove.js, tag=京东粉丝互动, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/monk.png, enabled=true",

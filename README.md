@@ -1,6 +1,50 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### 公众号少年歌行pro：6月4日 17:30，脚本进行如下变动：
+
+1、新增了 `hyzaw` 大佬的 `京东京享pk`脚本
+
+2、新增了 `柠檬` 大佬 的 `京东柠檬华为荣耀618` 脚本
+
+3、新增了 `zoopanda` 大佬 的 `京东618开卡活动1` 脚本
+
+4、新增了 `zoopanda` 大佬 的 `京东618开卡活动2` 脚本
+
+5、新增了 `zoopanda` 大佬 的 `京东618开卡活动3` 脚本
+
+6、新增了 `执意` 大佬 的 `京东新潮品牌狂欢执意版` 脚本
+
+7、新增了 `lxk0301` 大佬 的 `京东新潮品牌狂欢0301版` 脚本
+
+8、新增了 `lxk0301` 大佬 的 `京东京喜领88元红包` 脚本
+
+
+ 
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙拉取hyzaw库（目前仅一个脚本，以后看看其他脚本格式再定是否修改命令）】
+
+ql repo https://github.com/hyzaw/scripts.git "ddo_"
+
+【青龙拉取其他库】
+
+翻记录吧，这次太多我不浪费字数了
+
+#### 注意：需配合jd cookie使用
+
+----------------------------
+
+
+
 ### 公众号少年歌行pro：6月4日 10:30，脚本进行如下变动：
 
 1、新增了 `wenmoux` 大佬的 `京东新潮品牌联欢wenmoux`脚本

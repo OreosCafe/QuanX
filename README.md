@@ -1,6 +1,29 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### 公众号少年歌行pro：6月4日 9:00，脚本进行如下变动：
+
+1、新增了 `柠檬` 大佬的 `京东柠檬新潮品牌联欢`脚本
+ 
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙拉取胖虎库】
+ql repo https://ghproxy.com/https://github.com/panghu999/panghu.git "jd_"
+
+
+#### 注意：需配合jd cookie使用
+
+----------------------------
+
+
 ### 公众号少年歌行pro：6月3日 17:00，脚本进行如下变动：
 
 1、新增了 `lxk0301` 大佬的 `京东明星小店`脚本
@@ -55,7 +78,7 @@ ql repo https://github.com/zooPanda/zoo.git "zoo"
 
 ### 公众号少年歌行pro：6月3日 15:00，脚本进行如下变动：
 
-1、新增了 `执意` 大佬的 `全免小说`脚本
+1、新增了 `肥皂` 大佬的 `全免小说`脚本
 
  
 ### 仓库订阅地址：

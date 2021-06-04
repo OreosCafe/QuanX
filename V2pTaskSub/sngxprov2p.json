@@ -5,6 +5,78 @@
   "date": "2021-06-04 10:30:02",
   "list": [
 {
+      "name": "京东新潮品牌狂欢执意版",
+      "type": "cron",
+      "time": "0 10 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/zy_xckh.js"
+      }
+    },	
+	  {
+      "name": "京东新潮品牌狂欢0301版",
+      "type": "cron",
+      "time": "4 10 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_mcxhd.js"
+      }
+    },	
+	  {
+      "name": "京东京喜领88元红包",
+      "type": "cron",
+      "time": "4 10 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jxlhb.js"
+      }
+    },	
+	  {
+      "name": "京东618开卡活动3",
+      "type": "cron",
+      "time": "1 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooOpencard03.js"
+      }
+    },	
+	  	  {
+      "name": "京东618开卡活动2",
+      "type": "cron",
+      "time": "1 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooOpencard02.js"
+      }
+    },
+	  	  {
+      "name": "京东618开卡活动1",
+      "type": "cron",
+      "time": "1 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooOpencard01.js"
+      }
+    },
+	  {
+      "name": "京东柠檬华为荣耀618",
+      "type": "cron",
+      "time": "1 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://github.com/panghu999/panghu/raw/master/jd_ry618.js"
+      }
+    },	
+	  {
+      "name": "京东京享值PK",
+      "type": "cron",
+      "time": "15 0,6,13,19,21 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/hyzaw/scripts/main/ddo_pk.js"
+      }
+    },	
+	  {
       "name": "京东新潮品牌狂欢wenmoux",
       "type": "cron",
       "time": "1 0-23/1 * 6 *",

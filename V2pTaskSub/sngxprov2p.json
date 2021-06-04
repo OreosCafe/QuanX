@@ -199,27 +199,9 @@
       "time": "30 11 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/master/jd/superBrand.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/master/jd/jd_superBrand.js"
       }
     },
-	  {
-      "name": "京东总裁送好礼",
-      "type": "cron",
-      "time": "30 9,10 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/master/jd/babelDiy.js"
-      }
-    },	
-	  {
-      "name": "【暂未完成】京东柠檬荣耀618",
-      "type": "cron",
-      "time": "0 7 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_ry618.js"
-      }
-    },	
 	  {
       "name": "京东柠檬东东泡泡大战",
       "type": "cron",

@@ -73,7 +73,7 @@
       "time": "1 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://github.com/panghu999/panghu/raw/master/jd_ry618.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_ry618.js"
       }
     },	
 	  {

@@ -5,14 +5,23 @@
   "date": "2021-06-05 18:30:02",
   "list": [
  {
-      "name": "京东618限时盲盒",
+      "name": "京东618限时盲盒动物园版",
+      "type": "cron",
+      "time": "10 10 1-18 6 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooLimitbox.js"
+      }
+    },	
+	   {
+      "name": "京东618限时盲盒温某人版",
       "type": "cron",
       "time": "30 7,19 1-18 6 *",
       "job": {
         "type": "runjs",
         "target": "https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/master/jd/jd_limitBox.js"
       }
-    },	
+    },
 	  {
       "name": "京东618开卡活动5",
       "type": "cron",

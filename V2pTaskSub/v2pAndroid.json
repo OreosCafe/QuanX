@@ -5,6 +5,15 @@
   "date": "2021-06-02 11:00:02",
   "list": [
 {
+      "name": "【安卓】草根时代",
+      "type": "cron",
+      "time": "0 7 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/cgsd.js"
+      }
+    },	
+    {
       "name": "【安卓】赚多多",
       "type": "cron",
       "time": "0 7 * * *",

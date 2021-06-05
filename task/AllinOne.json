@@ -2,6 +2,7 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
+	       "30 7,19 1-18 6 * https://raw.githubusercontent.com/Wenmoux/scripts/master/jd/jd_limitBox.js, tag=京东618限时盲盒, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/wen.png, enabled=true",
 	       "1 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooOpencard05.js, tag=京东618开卡活动5, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/zoo.png, enabled=true",
        	       "0 1 * * * https://ghproxy.com/https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/zy_ccfxj.js, tag=京东城城分现金互助执意版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/Ariszy.png, enabled=true",
 	       "0 10 * * * https://ghproxy.com/https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/zy_618jc.js, tag=京东618竞猜, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/Ariszy.png, enabled=true",

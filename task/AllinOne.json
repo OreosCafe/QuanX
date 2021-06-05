@@ -2,7 +2,7 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-               "5,35 * * 6 * https://raw.githubusercontent.com/jiulan/platypus/main/scripts/jd_ffl.js, tag=京东翻翻乐提现, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
+               "5,35 * * 6 * https://ghproxy.com/https://raw.githubusercontent.com/jiulan/platypus/main/scripts/jd_ffl.js, tag=京东翻翻乐提现, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 	       "10 10 1-18 6 * https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooLimitbox.js, tag=京东限时盲盒动物园版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/zoo.png, enabled=true",
 	       "30 7,19 1-18 6 * https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/master/jd/jd_limitBox.js, tag=京东限时盲盒温某某版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/wen.png, enabled=true",
 	       "1 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooOpencard05.js, tag=京东618开卡活动5, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/zoo.png, enabled=true",

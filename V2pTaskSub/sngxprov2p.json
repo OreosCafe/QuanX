@@ -5,6 +5,15 @@
   "date": "2021-06-05 18:30:02",
   "list": [
  {
+      "name": "京东翻翻乐提现",
+      "type": "cron",
+      "time": "5,35 * * 6 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/jiulan/platypus/main/scripts/jd_ffl.js"
+      }
+    },	
+	  {
       "name": "京东618限时盲盒动物园版",
       "type": "cron",
       "time": "10 10 1-18 6 *",

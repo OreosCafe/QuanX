@@ -14,6 +14,15 @@
       }
     },	
 	  {
+      "name": "京东城城分现金互助执意版",
+      "type": "cron",
+      "time": "5 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/zy_ccfxj.js"
+      }
+    },	
+	  {
       "name": "京东618手机竞猜",
       "type": "cron",
       "time": "1 0 * * *",

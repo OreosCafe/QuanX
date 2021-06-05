@@ -1,6 +1,36 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### 公众号少年歌行pro：6月5日 18:30，脚本进行如下变动：
+
+1、新增了 `zoopanda` 大佬 的 `京东618限时盲盒动物园版` 脚本
+
+2、新增了 `温某某` 大佬 的 `京东618限时盲盒温某某版` 脚本
+
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙拉取上述2大佬仓库命令】
+
+ql repo https://github.com/zooPanda/zoo.git "zoo"
+
+ql repo https://github.com/Wenmoux/scripts.git "jd"
+
+
+#### 注意：需配合jd cookie使用
+
+----------------------------
+
+
+
+
 ### 公众号少年歌行pro：6月5日 8:30，脚本进行如下变动：
 
 1、新增了 `zoopanda` 大佬 的 `京东618开卡活动5` 脚本

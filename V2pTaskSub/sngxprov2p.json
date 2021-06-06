@@ -22,16 +22,7 @@
         "target": "https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooJointeam01.js"
       }
     },	
-	   {
-      "name": "京东宠汪汪积分兑换奖品",
-      "type": "cron",
-      "time": "0 0-16/8 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/hyzaw/scripts/main/ddo_joy_reward.js"
-      }
-    },	
-	   {
+	 {
       "name": "京东省钱大赢家之翻翻乐0301版",
       "type": "cron",
       "time": "20 * * * *",
@@ -166,16 +157,7 @@
         "target": "https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_ry618.js"
       }
     },	
-	  {
-      "name": "京东京享值PK",
-      "type": "cron",
-      "time": "15 0,6,13,19,21 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/hyzaw/scripts/main/ddo_pk.js"
-      }
-    },	
-	  {
+	 {
       "name": "京东新潮品牌狂欢wenmoux",
       "type": "cron",
       "time": "1 0-23/1 * 6 *",

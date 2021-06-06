@@ -3,6 +3,37 @@
 
 ### 公众号少年歌行pro：6月5日 18:30，脚本进行如下变动：
 
+1、新增了 `lxk0301` 大佬 的 `京东省钱大赢家之翻翻乐0301版` 脚本
+
+2、新增了 `hyzaw` 大佬 的 `京东宠汪汪积分兑换奖品` 脚本
+
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙拉取脚本库命令】
+
+点击查看下方tg链接
+
+https://t.me/shao66/1655
+
+
+
+
+#### 注意：需配合jd cookie使用
+
+
+-----------------------
+
+
+### 公众号少年歌行pro：6月5日 18:30，脚本进行如下变动：
+
 1、新增了 `jiulan` 大佬 的 `京东翻翻乐提现` 脚本
 
 ### 仓库订阅地址：

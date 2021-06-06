@@ -5,6 +5,15 @@
   "date": "2021-06-06 10:30:02",
   "list": [
  {
+      "name": "京东GNC组队瓜分京豆",
+      "type": "cron",
+      "time": "0 8 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooJointeam01.js"
+      }
+    },	
+	   {
       "name": "京东宠汪汪积分兑换奖品",
       "type": "cron",
       "time": "0 0-16/8 * * *",

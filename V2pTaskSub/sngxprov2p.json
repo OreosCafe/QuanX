@@ -5,6 +5,15 @@
   "date": "2021-06-07 15:30:02",
   "list": [
  {
+      "name": "京东合肥旗舰店开业动物园版",
+      "type": "cron",
+      "time": "0 6 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooSupershophf.js"
+      }
+    },	
+	  {
       "name": "京东京享值PK",
       "type": "cron",
       "time": "15 0,6,13,19,21 * * *",

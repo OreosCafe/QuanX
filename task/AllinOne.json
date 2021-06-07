@@ -3,7 +3,7 @@
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
                "15 0,6,13,19,21 * * * https://ghproxy.com/https://raw.githubusercontent.com/hyzaw/scripts/main/ddo_pk.js, tag=京东京享值PK, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/hyzaw.png, enabled=true",
-	       "0 6 * * * https://raw.githubusercontent.com/zooPanda/zoo/dev/zooSupershophf.js, tag=京东合肥旗舰店开业动物园版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/zoo.png, enabled=true",
+	       "0 6 * * * https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooSupershophf.js, tag=京东合肥旗舰店开业动物园版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/zoo.png, enabled=true",
 	       "0 22 * * * https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/ylsh.js, tag=引力生活, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/tom.png, enabled=true",
 	       "0 6 * * * https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooJointeam01.js, tag=京东GNC组队瓜分京豆, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/zoo.png, enabled=true",
 	       "20 * * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_big_winner.js, tag=京东省钱大赢家之翻翻乐0301版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/lxk0301.png, enabled=true",

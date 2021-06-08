@@ -2,6 +2,31 @@
 
 ### 公众号少年歌行pro：6月8日 10:20，脚本进行如下变动：
 
+1、新增了 `lxk0301` 大佬 的 `京东惊喜牧场0301版` 脚本
+
+
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙拉取0301库】（可能还未同步）
+
+https://t.me/shao66/1671
+
+#### 注意：需配合jd cookie 使用
+
+
+----------------------------
+
+
+### 公众号少年歌行pro：6月8日 10:20，脚本进行如下变动：
+
 1、新增了 `柠檬` 大佬 的 `京东柠檬省钱大赢家` 脚本
 
 2、新增了 `柠檬` 大佬 的 `京东柠檬邀请有礼` 脚本 

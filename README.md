@@ -2,6 +2,55 @@
 
 ### 公众号少年歌行pro：6月8日 10:20，脚本进行如下变动：
 
+1、新增了 `柠檬` 大佬 的 `京东柠檬省钱大赢家邀请码` 脚本
+
+①运行此脚本，可获取邀请码和活动id
+
+②将获取到的邀请码和活动id按照如下格式填入引号中，
+然后写入青龙配置文件或柠檬boxjs
+
+export redEnvelopeId="" ##本期活动ID
+export inviter="" ##邀请码
+
+③再运行之前已加入仓库的 `京东柠檬省钱大赢家` 脚本，即可正常跑了
+
+
+2、新增了 `柠檬` 大佬 的 `京东极速版柠檬砍价（需填变量）` 脚本
+
+①首次运行此脚本，会提示本期商品id和邀请码
+
+②将获取到的邀请码和商品id按照如下格式填入引号中，
+然后写入青龙配置文件或柠檬boxjs
+
+export actId="" ##你要参加砍价的商品ID
+export packetId="" ##你要参加砍价的邀请码
+
+③重新运行此脚本即可正常砍价
+
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙拉取胖虎库教程】（tg中查看下方链接查阅）
+
+https://t.me/shao66/1671
+
+#### 注意：需配合jd cookie 使用
+
+
+----------------------------
+
+
+
+
+### 公众号少年歌行pro：6月8日 10:20，脚本进行如下变动：
+
 1、新增了 `lxk0301` 大佬 的 `京东惊喜牧场0301版` 脚本
 
 

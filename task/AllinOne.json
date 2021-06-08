@@ -3,7 +3,7 @@
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
                "20 0-23/3 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jxmc.js, tag=京东京喜牧场0301版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/lxk0301.png, enabled=true",
-	       "0,2 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_sq.js, tag=京东柠檬省钱大赢家获取变量, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
+	       "0,2 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_sq.js, tag=京东柠檬省钱大赢家邀请码, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
 	       "0,2 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_sqdyj.js, tag=京东柠檬省钱大赢家, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
 	       "0 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_yqyl.js, tag=京东柠檬邀请有礼, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
 	       "0 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/ningmeng/main/mgtv.js, tag=柠檬芒果猎狼者撸汽水签到, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",

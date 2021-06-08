@@ -1,5 +1,32 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+### 公众号少年歌行pro：6月8日 10:20，脚本进行如下变动：
+
+1、新增了 `柠檬` 大佬 的 `京东柠檬省钱大赢家` 脚本
+
+2、新增了 `柠檬` 大佬 的 `京东柠檬邀请有礼` 脚本 
+
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙拉取胖虎库】
+
+https://t.me/shao66/1671
+
+#### 注意：需配合jd cookie 使用
+
+
+----------------------------
+
+
+
 ### 公众号少年歌行pro：6月8日 10:00，脚本进行如下变动：
 
 1、新增了 `mopo` 大佬 的 `京东京喜牧场` 脚本 (先将新手任务做完，再执行本脚本，不然会出现未知错误)

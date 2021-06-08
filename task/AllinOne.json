@@ -2,7 +2,9 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-               "0 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/ningmeng/main/mgtv.js, tag=柠檬芒果猎狼者撸汽水签到, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
+               "0,2 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_sqdyj.js, tag=京东柠檬省钱大赢家, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
+	       "0 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_yqyl.js, tag=京东柠檬邀请有礼, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
+	       "0 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/ningmeng/main/mgtv.js, tag=柠檬芒果猎狼者撸汽水签到, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
 	       "0 * * * * https://ghproxy.com/https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_mc.js, tag=京东京喜牧场, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/mopo.png, enabled=true",
 	       "15 0,6,13,19,21 * * * https://ghproxy.com/https://raw.githubusercontent.com/hyzaw/scripts/main/ddo_pk.js, tag=京东京享值PK, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/hyzaw.png, enabled=true",
 	       "0 6 * * * https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooSupershophf.js, tag=京东合肥旗舰店开业动物园版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/zoo.png, enabled=true",

@@ -2,9 +2,18 @@
   "name": "公众号少年歌行pro v2p 专用定时任务订阅",
   "author": "由公众号少年歌行pro维护 https://t.me/sngxpro",
   "desc": "自用。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
-  "date": "2021-06-08 15:00:02",
+  "date": "2021-06-09 7:00:02",
   "list": [
  {
+      "name": "京东京喜88红包动物园版",
+      "type": "cron",
+      "time": "8 8 * 6 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooJx88hongbao.js"
+      }
+    },	
+	  {
       "name": "京东柠檬极速版砍价（需填变量）",
       "type": "cron",
       "time": "0 0 * * *",

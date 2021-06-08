@@ -1,6 +1,39 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
-### 公众号少年歌行pro：6月6日 15:30，脚本进行如下变动：
+### 公众号少年歌行pro：6月8日 10:00，脚本进行如下变动：
+
+1、新增了 `mopo` 大佬 的 `京东京喜牧场` 脚本 (先将新手任务做完，再执行本脚本，不然会出现未知错误)
+
+2、新增了 `柠檬` 大佬 的 `柠檬芒果猎狼者撸汽水签到` 脚本 
+
+先下载芒果TV登录
+然后浏览器打开地址即可跳芒果APP即可获取数据
+签到三天得汽水
+https://h5.mgtv.com/2021/h5/60a608f6726e3f50c2942730/?inv=d75f73f2de2b47b2bd913a02510fa7f8&tc=FzJN9gmzJgCu#/
+
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙拉取京喜牧场命令】
+
+暂不提供，要问为啥，那就是和这位大佬还不认识，未获授权。如不喜请告知，随时移除。
+
+-------------------
+
+
+
+
+
+
+
+### 公众号少年歌行pro：6月日 15:30，脚本进行如下变动：
 
 1、新增了 `zoopanda` 大佬 的 `京东合肥旗舰店开业动物园版` 脚本
 

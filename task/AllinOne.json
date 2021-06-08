@@ -2,7 +2,9 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-               "0 0 * * * https://cdn.jsdelivr.net/gh/panghu999/panghu@master/jd_kanjia.js, tag=京东柠檬极速版砍价（需填变量）, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
+               "8 8 * 6 * https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooJx88hongbao.js, tag=京东京喜88红包动物园版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/zoo.png, enabled=true",
+       	       "4 10 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jxlhb.js, tag=京东京喜88元红包0301版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/lxk0301.png, enabled=true",
+	       "0 0 * * * https://cdn.jsdelivr.net/gh/panghu999/panghu@master/jd_kanjia.js, tag=京东柠檬极速版砍价（需填变量）, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
 	       "20 0-23/3 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jxmc.js, tag=京东京喜牧场0301版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/lxk0301.png, enabled=true",
 	       "0,2 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_sq.js, tag=京东柠檬省钱大赢家邀请码, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
 	       "0,2 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_sqdyj.js, tag=京东柠檬省钱大赢家, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
@@ -25,7 +27,6 @@
 	       "1 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooOpencard04.js, tag=京东618开卡活动4, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/zoo.png, enabled=true",
 	       "0 10 * * * https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/zy_xckh.js, tag=京东新潮品牌狂欢执意版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/Ariszy.png, enabled=true",
 	       "4 10 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_mcxhd.js, tag=京东新潮品牌狂欢0301版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/lxk0301.png, enabled=true",
-	       "4 10 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jxlhb.js, tag=京东京喜领88元红包, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/lxk0301.png, enabled=true",
        	       "1 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooOpencard03.js, tag=京东618开卡活动3, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/zoo.png, enabled=true",
    	       "1 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooOpencard02.js, tag=京东618开卡活动2, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/zoo.png, enabled=true",
 	       "1 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooOpencard01.js, tag=京东618开卡活动1, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/zoo.png, enabled=true",

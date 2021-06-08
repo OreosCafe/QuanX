@@ -5,6 +5,24 @@
   "date": "2021-06-07 15:30:02",
   "list": [
  {
+      "name": "柠檬芒果猎狼者撸汽水签到",
+      "type": "cron",
+      "time": "0 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/panghu999/ningmeng/main/mgtv.js"
+      }
+    },	
+	   {
+      "name": "京东京喜牧场",
+      "type": "cron",
+      "time": "0 * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_mc.js"
+      }
+    },	
+	   {
       "name": "京东合肥旗舰店开业动物园版",
       "type": "cron",
       "time": "0 6 * * *",

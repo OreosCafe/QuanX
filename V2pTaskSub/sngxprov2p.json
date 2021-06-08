@@ -5,6 +5,24 @@
   "date": "2021-06-07 15:30:02",
   "list": [
  {
+      "name": "京东柠檬省钱大赢家",
+      "type": "cron",
+      "time": "0,2 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_sqdyj.js"
+      }
+    },	
+	   {
+      "name": "京东柠檬邀请有礼",
+      "type": "cron",
+      "time": "0 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_yqyl.js"
+      }
+    },	
+	   {
       "name": "柠檬芒果猎狼者撸汽水签到",
       "type": "cron",
       "time": "0 0 * * *",

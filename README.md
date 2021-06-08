@@ -25,6 +25,16 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTa
 
 暂不提供，要问为啥，那就是和这位大佬还不认识，未获授权。如不喜请告知，随时移除。
 
+
+#### 注意：柠檬的脚本需配合以下重写获取cookie
+
+#### 已添加过下面重写的无需重新添加，圈x首页长按风车---点左下角更新按钮，等左上角数字清零后即可
+
+```
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+
+````
+
 -------------------
 
 

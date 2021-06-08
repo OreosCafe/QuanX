@@ -5,6 +5,15 @@
   "date": "2021-06-09 7:00:02",
   "list": [
  {
+      "name": "京东京喜牧场刷金币",
+      "type": "cron",
+      "time": "0 10 * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_mc_coin.js"
+      }
+    },	
+	  {
       "name": "京东京喜88红包动物园版",
       "type": "cron",
       "time": "8 8 * 6 *",

@@ -1,5 +1,48 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+### 公众号少年歌行pro：6月9日 22:20，脚本进行如下变动：
+
+1、新增了 `柠檬` 大佬 的 `京东柠檬推一推（需填变量）` 脚本
+#自定义变量
+export tytpacketId=""
+
+2、新增了 `柠檬` 大佬 的 `京东柠檬拆红包（需填变量）` 脚本
+#自定义变量
+export chbpacketId=""
+
+3、新增了 `柠檬` 大佬 的 `京东柠檬京喜工厂抢茅台（需填变量）` 脚本
+#自定义商品变量
+export shopid="1598"   ##你要商品ID 冰箱
+export shopid1="1607"  ##你要商品ID 茅台
+
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙拉取胖虎库教程】（tg中查看下方链接查阅）
+
+https://t.me/shao66/1671
+
+#### 注意：需配合jd cookie 使用
+
+
+----------------------------
+
+
+
+
+
+
+
+
+
+
 ### 公众号少年歌行pro：6月9日 7:20，脚本进行如下变动：
 
 1、新增了 `mopo` 大佬 的 `京东京喜牧场刷金币` 脚本

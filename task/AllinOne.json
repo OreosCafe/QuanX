@@ -2,8 +2,7 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-              "58,59,0 18,19 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_jxgc.js, tag=京东柠檬京喜工厂抢茅台（需填变量）, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
-	       "0 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_chb.js, tag=京东柠檬拆红包（需填变量）, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
+               "58,59,0 18,19 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_jxgc.js, tag=京东柠檬京喜工厂抢茅台（需填变量）, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
 	       "0 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_chb.js, tag=京东柠檬拆红包（需填变量）, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
 	       "0 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_tyt.js, tag=京东柠檬推一推（需填变量）, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
 	       "0 10 * * * * https://ghproxy.com/https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_mc_coin.js, tag=京东京喜牧场刷金币, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/mopo.png, enabled=true",

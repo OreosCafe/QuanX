@@ -22,7 +22,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/
 
 https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
 
-【青龙拉取胖虎库教程】（tg中查看下方链接查阅）
+【青龙拉取某已不想透露姓名库教程】（tg中查看下方链接查阅）
 
 https://t.me/shao66/1671
 

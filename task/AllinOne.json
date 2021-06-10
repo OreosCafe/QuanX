@@ -2,7 +2,7 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-               "15 0,6,13,19,21 * * * https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/lxk0301/ddo_pk.js, tag=京东京享值PK, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ddo.png, enabled=true",
+               "15 0,6,13,19,21 * * * https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/ddo_pk.js, tag=京东京享值PK, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ddo.png, enabled=true",
                "30 7,19 1-18 6 * https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/Wenmoux/jd/jd_limitBox.js, tag=京东限时盲盒温某某版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/wen.png, enabled=true",
 	       "1 0-23/1 * 6 * https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/Wenmoux/jd/jd_618redpacket.js, tag=京东新潮品牌狂欢翻翻乐, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/wen.png, enabled=true",
 	       "30 9,10 1-18 6 * https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/Wenmoux/jd/jd_mcxhd_brandcity.js, tag=京东新潮品牌狂欢, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/wen.png, enabled=true",

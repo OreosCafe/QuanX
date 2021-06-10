@@ -784,7 +784,7 @@
       "time": "15 0,6,13,19,21 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/lxk0301/ddo_pk.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/ddo_pk.js"
       }
     },	
 	  {
@@ -977,7 +977,7 @@
       }
     },	
 	  {
-      "name": "京东星推官获取互助0301版",
+      "name": "京东星推官获取互助隐藏姓名版",
       "type": "cron",
       "time": "0 0 0 * * *",
       "job": {

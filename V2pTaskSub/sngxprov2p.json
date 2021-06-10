@@ -22,6 +22,42 @@
         "target": "https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_wsdlb.js"
       }
     },	
+	   {
+      "name": "京东618限时盲盒温某某版",
+      "type": "cron",
+      "time": "30 7,19 1-18 6 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/Wenmoux/jd/jd_limitBox.js"
+      }
+    },
+	{
+      "name": "京东新潮品牌狂欢wenmoux",
+      "type": "cron",
+      "time": "1 0-23/1 * 6 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/Wenmoux/jd/jd_618redpacket.js"
+      }
+    },	
+	   {
+      "name": "京东新潮品牌狂欢",
+      "type": "cron",
+      "time": "30 9,10 1-18 6 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/Wenmoux/jd/jd_mcxhd_brandcity.js"
+      }
+    },
+	  {
+      "name": "京东特物ZX联想",
+      "type": "cron",
+      "time": "30 11 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/Wenmoux/jd/jd_superBrand.js"
+      }
+    },
 	  {
       "name": "京东京喜88红包动物园版",
       "type": "cron",
@@ -770,15 +806,6 @@
       }
     },	
 	  {
-      "name": "京东618限时盲盒温某某版",
-      "type": "cron",
-      "time": "30 7,19 1-18 6 *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/master/jd/jd_limitBox.js"
-      }
-    },
-	 {
       "name": "京东城城分现金互助执意版",
       "type": "cron",
       "time": "5 0 * * *",
@@ -814,16 +841,7 @@
         "target": "https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_ry618.js"
       }
     },	
-	 {
-      "name": "京东新潮品牌狂欢wenmoux",
-      "type": "cron",
-      "time": "1 0-23/1 * 6 *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/master/jd/jd_618redpacket.js"
-      }
-    },	
-	  {
+	   {
       "name": "京东柠檬新潮品牌联欢",
       "type": "cron",
       "time": "1 0 * * *",
@@ -859,16 +877,7 @@
         "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jay_member_olb.js"
       }
     },	
-	   {
-      "name": "京东新潮品牌狂欢",
-      "type": "cron",
-      "time": "30 9,10 1-18 6 *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/master/jd/jd_mcxhd_brandcity.js"
-      }
-    },
-	  {
+	{
       "name": "京东大牌闪购红包雨",
       "type": "cron",
       "time": "1 0 * * *",
@@ -884,15 +893,6 @@
       "job": {
         "type": "runjs",
         "target": "https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_gcip.js"
-      }
-    },
-	  {
-      "name": "京东特物ZX联想",
-      "type": "cron",
-      "time": "30 11 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/master/jd/jd_superBrand.js"
       }
     },
 	  {

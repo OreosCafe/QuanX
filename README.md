@@ -24,7 +24,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTa
 
 【青龙拉取某已不想透露姓名库教程】（tg中查看下方链接查阅）
 
-https://t.me/shao66/1671
+https://t.me/shao66/1663
 
 #### 注意：需配合jd cookie 使用
 

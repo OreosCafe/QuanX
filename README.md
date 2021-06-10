@@ -1,5 +1,38 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+### 公众号少年歌行pro：6月10日 18:09，脚本进行如下变动：
+
+1、新增了 `柠檬` 大佬 的 `京东柠檬618惊奇探秘夜` 脚本
+
+2、新增了 `柠檬` 大佬 的 `京东柠檬我是大老板农场` 脚本
+
+3、粗略修复了 `某已不想透露姓名` 大佬 的 `系列失效` 脚本
+
+4、移除了给`某已不想透露姓名` 大佬制作 的 `专属logo`，尽量不再让大佬名字与脚本产生关联
+
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙拉取胖虎库教程】（tg中查看下方链接查阅）
+
+https://t.me/shao66/1671
+
+#### 注意：需配合jd cookie 使用
+
+
+----------------------------
+
+
+
+
+
 ### 公众号少年歌行pro：6月9日 22:20，脚本进行如下变动：
 
 1、新增了 `柠檬` 大佬 的 `京东柠檬推一推（需填变量）` 脚本

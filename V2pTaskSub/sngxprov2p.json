@@ -2,9 +2,27 @@
   "name": "公众号少年歌行pro v2p 专用定时任务订阅",
   "author": "由公众号少年歌行pro维护 https://t.me/sngxpro",
   "desc": "自用。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
-  "date": "2021-06-11 8:00:02",
+  "date": "2021-06-11 21:00:02",
   "list": [
  {
+      "name": "京东柠檬极速版砍价2（需填变量）",
+      "type": "cron",
+      "time": "0 5 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://cdn.jsdelivr.net/gh/panghu999/panghu@master/jd_kanjia2.js"
+      }
+    },	
+	   {
+      "name": "京东天降红包",
+      "type": "cron",
+      "time": "1 0-23/1 * 6 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/master/jd/jd_SplitRedPacket.js"
+      }
+    },	
+	   {
       "name": "京东特物ZX签到Tom版",
       "type": "cron",
       "time": "0 0 * * *",

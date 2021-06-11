@@ -5,6 +5,15 @@
   "date": "2021-06-11 8:00:02",
   "list": [
  {
+      "name": "京东特物ZX签到Tom版",
+      "type": "cron",
+      "time": "0 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/jdmn.js"
+      }
+    },	
+	  {
       "name": "京东柠檬618限时盲盒",
       "type": "cron",
       "time": "0 0 * * *",

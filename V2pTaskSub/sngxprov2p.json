@@ -19,7 +19,7 @@
       "time": "1 0-23/1 * 6 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/master/jd/jd_SplitRedPacket.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/wen/jd/jd_SplitRedPacket.js"
       }
     },	
 	   {

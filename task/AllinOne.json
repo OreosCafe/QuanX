@@ -3,7 +3,7 @@
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
                "0 0 * * * https://cdn.jsdelivr.net/gh/panghu999/panghu@master/jd_kanjia2.js, tag=京东柠檬极速版砍价2（需填变量）, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
-	       "1 0-23/1 * 6 * https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/master/jd/jd_SplitRedPacket.js, tag=京东天降红包, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/wen.png, enabled=true",
+	       "1 0-23/1 * 6 * https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/wen/jd/jd_SplitRedPacket.js, tag=京东天降红包, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/wen.png, enabled=true",
 	       "0 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/jdmn.js, tag=京东特物ZX签到Tom版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/tom.png, enabled=true",
 	       "0 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_xsmh.js, tag=京东柠檬618限时盲盒, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
 	       "15 0,6,13,19,21 * * * https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/ddo_pk.js, tag=京东京享值PK, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ddo.png, enabled=true",

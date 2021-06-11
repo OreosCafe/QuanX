@@ -1,5 +1,40 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+
+### 公众号少年歌行pro：6月11日 21:35，脚本进行如下变动：
+
+1、新增了 `柠檬` 大佬 的 `京东柠檬极速版砍价2（需填变量）` 脚本
+##惊喜欢乐砍 自定义变量 入口惊喜APP我的 惊喜欢乐砍
+export launchid="" ##你的邀请码
+export first="false" ##第一次参加变量设置为true查看商品ID 填写商品ID后自动获取邀请码邀请  如果只助力 变量设置为false
+export active="" ##商品ID
+
+2、新增了 `温某人` 大佬 的 `京东天降红包` 脚本
+
+
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【注意！！！青龙拉取温某人仓库命令变更为】
+
+ql repo https://github.com/Wenmoux/scripts.git  "jd" "" "" "wen"
+
+#### 注意：需配合jd cookie 使用
+
+
+----------------------------
+
+
+
+
+
 ### 公众号少年歌行pro：6月11日 8:35，脚本进行如下变动：
 
 1、新增了 `tom` 大佬 的 `京东特物zx签到` 脚本

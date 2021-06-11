@@ -1,5 +1,32 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+
+### 公众号少年歌行pro：6月10日 18:09，脚本进行如下变动：
+
+1、新增了 `柠檬` 大佬 的 `京东柠檬618限时盲盒` 脚本
+
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙拉取某已不想透露姓名库教程】（tg中查看下方链接查阅）
+
+https://t.me/shao66/1663
+
+#### 注意：需配合jd cookie 使用
+
+
+----------------------------
+
+
+
+
 ### 公众号少年歌行pro：6月10日 18:09，脚本进行如下变动：
 
 1、新增了 `柠檬` 大佬 的 `京东柠檬618惊奇探秘夜` 脚本

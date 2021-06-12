@@ -5,6 +5,15 @@
   "date": "2021-06-11 21:00:02",
   "list": [
 {
+      "name": "【安卓】健身猫",
+      "type": "cron",
+      "time": "0 0 1 1 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/jsm.js"
+      }
+    },	
+    {
       "name": "【安卓】红包多多",
       "type": "cron",
       "time": "0 0 1 1 *",

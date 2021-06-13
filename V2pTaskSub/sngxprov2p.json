@@ -5,6 +5,33 @@
   "date": "2021-06-11 21:00:02",
   "list": [
  {
+      "name": "京东动物联萌收集金币star版",
+      "type": "cron",
+      "time": "0-59/30 * * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/star261/jd/main/scripts/jd_zooCollect.js"
+      }
+    },	
+	  {
+      "name": "京东动物联萌只做店铺任务star版",
+      "type": "cron",
+      "time": "10 10 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/star261/jd/main/scripts/jd_zooMap.js"
+      }
+    },	
+	  {
+      "name": "京东动物联萌star版",
+      "type": "cron",
+      "time": "36 0,6-23/2 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/star261/jd/main/scripts/jd_zoo.js"
+      }
+    },	
+	  {
       "name": "京东柠檬特物ZX雅培",
       "type": "cron",
       "time": "0 5 * * *",

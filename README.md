@@ -1,6 +1,39 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+### 公众号少年歌行pro：6月13日 10:25，脚本进行如下变动：
+
+1、新增了 `star261` 大佬 的 `京东动物联萌收集金币star版` 脚本
+
+
+2、新增了 `star261` 大佬 的 `京东动物联萌只做店铺任务star版` 脚本
+
+
+3、新增了 `star261` 大佬 的 `京东动物联萌star版` 脚本
+
+
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【注意！！！青龙拉取star261仓库命令】
+
+ql repo https://github.com/star261/jd.git "scripts" "code" 
+
+#### 注意：需配合jd cookie 使用
+
+
+----------------------------
+
+
+
 ### 公众号少年歌行pro：6月11日 21:35，脚本进行如下变动：
 
 1、新增了 `柠檬` 大佬 的 `京东柠檬特物ZX雅培` 脚本

@@ -2,8 +2,8 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-               "0-59/30 * * * * https://raw.githubusercontent.com/star261/jd/main/scripts/jd_zooCollect.js, tag=京东动物联萌收集金币star版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
-	       "10 10 * * * https://raw.githubusercontent.com/star261/jd/main/scripts/jd_zooMap.js, tag=京东动物联萌只做店铺任务star版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
+               "0-59/30 * * * * https://ghproxy.com/https://raw.githubusercontent.com/star261/jd/main/scripts/jd_zooCollect.js, tag=京东动物联萌收集金币star版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
+	       "10 10 * * * https://ghproxy.com/https://raw.githubusercontent.com/star261/jd/main/scripts/jd_zooMap.js, tag=京东动物联萌只做店铺任务star版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 	       "36 0,6-23/2 * * * https://ghproxy.com/https://raw.githubusercontent.com/star261/jd/main/scripts/jd_zoo.js, tag=京东动物联萌star版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 	       "0 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_zxyp.js, tag=京东柠檬特物ZX雅培, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
 	       "0 5 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_zjb.js, tag=京东柠檬赚金币（需填变量）, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",

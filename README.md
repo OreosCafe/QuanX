@@ -3,13 +3,16 @@
 
 ### 公众号少年歌行pro：6月11日 21:35，脚本进行如下变动：
 
-1、新增了 `柠檬` 大佬 的 `京东柠檬极速版砍价2（需填变量）` 脚本
-##惊喜欢乐砍 自定义变量 入口惊喜APP我的 惊喜欢乐砍
-export launchid="" ##你的邀请码
-export first="false" ##第一次参加变量设置为true查看商品ID 填写商品ID后自动获取邀请码邀请  如果只助力 变量设置为false
-export active="" ##商品ID
+1、新增了 `柠檬` 大佬 的 `京东柠檬特物ZX雅培` 脚本
 
-2、新增了 `温某人` 大佬 的 `京东天降红包` 脚本
+
+2、新增了 `柠檬` 大佬 的 `京东柠檬赚金币（需填变量）` 脚本
+
+##入口为极速版 百元生活费 赚金币 邀请好友
+##第一次运行可不填写邀请码 运行一次查看自己的邀请码
+export InviterPin="dS%2Bp85VyjydPuAOOnFP%2Faw%3D%3D" ##你的邀请码
+
+3、调整了 `ddo` 大佬 的 `京享值pk` 脚本 为官方地址，已更新api
 
 
 ### 仓库订阅地址：
@@ -22,9 +25,9 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/
 
 https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
 
-【注意！！！青龙拉取温某人仓库命令变更为】
+【注意！！！青龙拉取ddo仓库教程】
 
-ql repo https://github.com/Wenmoux/scripts.git  "jd" "" "" "wen"
+https://t.me/shao66/1663
 
 #### 注意：需配合jd cookie 使用
 

@@ -5,6 +5,24 @@
   "date": "2021-06-11 21:00:02",
   "list": [
  {
+      "name": "京东柠檬特物ZX雅培",
+      "type": "cron",
+      "time": "0 5 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_zxyp.js"
+      }
+    },	
+	   {
+      "name": "京东柠檬赚金币（需填变量）",
+      "type": "cron",
+      "time": "0 5 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_zjb.js"
+      }
+    },	
+	   {
       "name": "京东柠檬极速版砍价2（需填变量）",
       "type": "cron",
       "time": "0 5 * * *",

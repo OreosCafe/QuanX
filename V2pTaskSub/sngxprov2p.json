@@ -5,6 +5,15 @@
   "date": "2021-06-14 15:00:02",
   "list": [
  {
+      "name": "京东价格保护",
+      "type": "cron",
+      "time": "5 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/ZCY01/daily_scripts/main/jd/jd_priceProtect.js"
+      }
+    },	
+	  {
       "name": "保时捷(小程序)",
       "type": "cron",
       "time": "0 12 * * *",
@@ -4007,15 +4016,6 @@
       "job": {
         "type": "runjs",
         "target": "https://ghproxy.com/https://raw.githubusercontent.com/toulanboy/scripts/master/muchong/muchong.js"
-      }
-    },
-    {
-      "name": "京东价格提醒",
-      "type": "cron",
-      "time": "5 0 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/toulanboy/scripts/master/jd_price_detect/jd_price_detect.js"
       }
     },
     {

@@ -1,6 +1,43 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### 公众号少年歌行pro：6月14日 15:00，脚本进行如下变动：
+
+1、新增了 `柠檬` 大佬 的 `京东柠檬特物ZX护舒宝` 脚本
+
+
+2、新增了 `柠檬` 大佬 的 `京东柠檬特物ZX润百颜` 脚本
+
+
+3、新增了 `tom` 大佬 的 `保时捷(小程序)` 脚本
+
+
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙拉取胖虎仓库命令查看tg群教程】
+
+https://t.me/shao66/1663
+
+#### 注意：2个京东脚本需配合jd cookie 使用
+
+#### 注意：保时捷小程序脚本需配合下方重写规则获取cookie后使用
+
+```
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+
+```
+
+----------------------------
+
+
 
 ### 公众号少年歌行pro：6月13日 10:25，脚本进行如下变动：
 
@@ -25,7 +62,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTa
 
 【注意！！！青龙拉取star261仓库命令】
 
-ql repo https://github.com/star261/jd.git "scripts" "code" 
+https://t.me/shao66/1663
 
 #### 注意：需配合jd cookie 使用
 

@@ -2,7 +2,8 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-               "0 12 * * * https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/bsj.js, tag=保时捷(小程序), img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/tom.png, enabled=true",
+               "5 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/ZCY01/daily_scripts/main/jd/jd_priceProtect.js, tag=京东价格保护, img-url=https://ghproxy.com/https://raw.githubusercontent.com/ZCY01/img/master/pricev1.png, enabled=true",
+	       "0 12 * * * https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/bsj.js, tag=保时捷(小程序), img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/tom.png, enabled=true",
 	       "0 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_zxrby.js, tag=京东柠檬特物ZX润百颜, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
 	       "0 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_hsb.js, tag=京东柠檬特物ZX护舒宝, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
 	       "0-59/30 * * * * https://ghproxy.com/https://raw.githubusercontent.com/star261/jd/main/scripts/jd_zooCollect.js, tag=京东动物联萌收集金币star版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",

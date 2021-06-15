@@ -2,9 +2,144 @@
   "name": "公众号少年歌行pro v2p 专用定时任务订阅",
   "author": "由公众号少年歌行pro维护 https://t.me/sngxpro",
   "desc": "自用。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
-  "date": "2021-06-14 15:00:02",
+  "date": "2021-06-15 9:00:02",
   "list": [
  {
+      "name": "美音星品",
+      "type": "cron",
+      "time": "0 23 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/myxp.js"
+      }
+    },	
+	   {
+      "name": "京东618开卡活动8",
+      "type": "cron",
+      "time": "15 9 1-18 6",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooOpencard08.js"
+      }
+    },	
+	   {
+      "name": "京东618开卡活动7",
+      "type": "cron",
+      "time": "15 9 9-20 6",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooOpencard07.js"
+      }
+    },	
+	   {
+      "name": "京东618开卡活动6",
+      "type": "cron",
+      "time": "15 9 9-20 6",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooOpencard06.js"
+      }
+    },	
+	  {
+      "name": "京东京喜88红包动物园版",
+      "type": "cron",
+      "time": "8 8 * 6 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooJx88hongbao.js"
+      }
+    },	
+	  {
+      "name": "京东合肥旗舰店开业动物园版",
+      "type": "cron",
+      "time": "0 6 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooSupershophf.js"
+      }
+    },	
+	 {
+      "name": "京东GNC组队瓜分京豆",
+      "type": "cron",
+      "time": "0 8 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooJointeam01.js"
+      }
+    },	
+	 {
+      "name": "京东618限时盲盒动物园版",
+      "type": "cron",
+      "time": "10 10 1-18 6 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooLimitbox.js"
+      }
+    },	
+	     {
+      "name": "京东618开卡活动5",
+      "type": "cron",
+      "time": "1 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooOpencard05.js"
+      }
+    },	
+	 {
+      "name": "京东618开卡活动4",
+      "type": "cron",
+      "time": "1 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooOpencard04.js"
+      }
+    },	
+	  {
+      "name": "京东618开卡活动3",
+      "type": "cron",
+      "time": "1 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooOpencard03.js"
+      }
+    },	
+	  	  {
+      "name": "京东618开卡活动2",
+      "type": "cron",
+      "time": "1 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooOpencard02.js"
+      }
+    },
+	  	  {
+      "name": "京东618开卡活动1",
+      "type": "cron",
+      "time": "1 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooOpencard01.js"
+      }
+    },
+	  {
+      "name": "京东宝洁消消乐",
+      "type": "cron",
+      "time": "18 9 1-18 6 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooBaojiexiaoxiaole.js"
+      }
+    },	
+	  {
+      "name": "京东浓情618与粽不同",
+      "type": "cron",
+      "time": "0 9 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooLongzhou.js"
+      }
+    },		      
+	   {
       "name": "京东价格保护",
       "type": "cron",
       "time": "5 0 * * *",
@@ -174,106 +309,7 @@
         "type": "runjs",
         "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/Wenmoux/jd/jd_superBrand.js"
       }
-    },
-	  {
-      "name": "京东京喜88红包动物园版",
-      "type": "cron",
-      "time": "8 8 * 6 *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/zooPanda/zooJx88hongbao.js"
-      }
-    },	
-	  {
-      "name": "京东合肥旗舰店开业动物园版",
-      "type": "cron",
-      "time": "0 6 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/zooPanda/zooSupershophf.js"
-      }
-    },	
-	 {
-      "name": "京东GNC组队瓜分京豆",
-      "type": "cron",
-      "time": "0 8 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/zooPanda/zooJointeam01.js"
-      }
-    },	
-	 {
-      "name": "京东618限时盲盒动物园版",
-      "type": "cron",
-      "time": "10 10 1-18 6 *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/zooPanda/zooLimitbox.js"
-      }
-    },	
-	     {
-      "name": "京东618开卡活动5",
-      "type": "cron",
-      "time": "1 0 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/zooPanda/zooOpencard05.js"
-      }
-    },	
-	 {
-      "name": "京东618开卡活动4",
-      "type": "cron",
-      "time": "1 0 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/zooPanda/zooOpencard04.js"
-      }
-    },	
-	  {
-      "name": "京东618开卡活动3",
-      "type": "cron",
-      "time": "1 0 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/zooPanda/zooOpencard03.js"
-      }
-    },	
-	  	  {
-      "name": "京东618开卡活动2",
-      "type": "cron",
-      "time": "1 0 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/zooPanda/zooOpencard02.js"
-      }
-    },
-	  	  {
-      "name": "京东618开卡活动1",
-      "type": "cron",
-      "time": "1 0 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/zooPanda/zooOpencard01.js"
-      }
-    },
-	  {
-      "name": "京东宝洁消消乐",
-      "type": "cron",
-      "time": "18 9 1-18 6 *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/zooPanda/zooBaojiexiaoxiaole.js"
-      }
-    },	
-	  {
-      "name": "京东浓情618与粽不同",
-      "type": "cron",
-      "time": "0 9 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/zooPanda/zooLongzhou.js"
-      }
-    },	
+    },	 
 	{
       "name": "京东省钱大赢家之翻翻乐隐藏姓名版",
       "type": "cron",

@@ -1,5 +1,34 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+### 公众号少年歌行pro：6月15日 10:00，脚本进行如下变动：
+
+1、新增了 `柠檬` 大佬 的 `京东柠檬特物ZXJOY&DOGA` 脚本
+
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙拉取胖虎仓库查看tg群教程】
+
+https://t.me/shao66/1663
+
+#### 注意：需配合jd cookie 使用
+
+
+-----------------------
+#公众号：少年歌行pro
+#脚本更新
+# https://t.me/shao66
+
+-------------------
+
+
 ### 公众号少年歌行pro：6月15日 9:00，脚本进行如下变动：
 
 【庆祝动物园重新开业，动物园脚本地址都已改回官方原版】

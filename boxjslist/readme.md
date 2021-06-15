@@ -1,8 +1,8 @@
-### 全网各大佬boxjs地址查询对照 2021.5.17
+### 全网各大佬boxjs地址查询对照 2021.6.116
 
 `龙猪猪`
 
-https://ghproxy.com/https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/longzhuzhu.boxjs.json
+https://raw.githubusercontent.com/longzhuzhu/nianyu/main/qx/longzhuzhu.boxjs.json
 
 ----------
 
@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/xl2101200/-/main/tom.box.json
 
 `lxk0301`
 
-https://jdsharedresourcescdn.azureedge.net/jdresource/lxk0301.boxjs.json
+https://raw.githubusercontent.com/chinnkarahoi/jd_scripts/master/lxk0301.boxjs.json
 
 -------
 `toulanboy`
@@ -40,7 +40,7 @@ https://jdsharedresourcescdn.azureedge.net/jdresource/lxk0301.boxjs.json
 https://raw.githubusercontent.com/toulanboy/scripts/master/toulanboy.boxjs.json
 
 ------------
-`sunert` 删库后已重新适配
+`sunert` 
 
 https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/sunert.boxjs.json
 
@@ -52,6 +52,7 @@ https://raw.githubusercontent.com/zZPiglet/Task/master/zZPiglet.boxjs.json
 -----------
 
 `chavy`
+
 https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.json
 
 ---------

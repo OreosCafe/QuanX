@@ -1,5 +1,51 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+### 公众号少年歌行pro：6月16日 7:00，脚本进行如下变动：
+
+1、新增了 `zoopanda` 大佬 的 `京东618开卡活动9` 脚本
+
+2、新增了 `zoopanda` 大佬 的 `京东618开卡活动10` 脚本
+
+3、新增了 `柠檬` 大佬 的 `京东柠檬极速版砍价3（需填变量）` 脚本（用法附后）
+
+第一步 运行脚本一次日志查看商品ID
+获取你要砍价的ID后变量填写
+export skuId="这里填获取的商品ID"
+第二部 再运行一次日志查看商品activityId变量填写
+export activity="这里填获取的商品activityId" 
+入口 京东 我的 0元砍价
+
+
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙拉取动物园库、胖虎库查看tg群教程】
+
+https://t.me/shao66/1663
+
+#### 注意：需配合jd cookie 使用
+
+
+-----------------------
+#公众号：少年歌行pro
+#脚本更新
+https://t.me/shao66
+
+-------------------
+
+
+
+
+
 ### 公众号少年歌行pro：6月15日 10:00，脚本进行如下变动：
 
 1、新增了 `柠檬` 大佬 的 `京东柠檬特物ZXJOY&DOGA` 脚本
@@ -24,7 +70,7 @@ https://t.me/shao66/1663
 -----------------------
 #公众号：少年歌行pro
 #脚本更新
-# https://t.me/shao66
+https://t.me/shao66
 
 -------------------
 

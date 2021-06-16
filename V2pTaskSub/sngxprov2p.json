@@ -5,6 +5,15 @@
   "date": "2021-06-16 14:00:02",
   "list": [
   {
+      "name": "京东东东乐园",
+      "type": "cron",
+      "time": "30 7 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/master/jd/jd_ddnc_farmpark.js"
+      }
+    },	
+	   {
       "name": "京东柠檬全民挖现金",
       "type": "cron",
       "time": "0 10 * * *",

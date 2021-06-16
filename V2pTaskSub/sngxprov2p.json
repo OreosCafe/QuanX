@@ -2,9 +2,18 @@
   "name": "公众号少年歌行pro v2p 专用定时任务订阅",
   "author": "由公众号少年歌行pro维护 https://t.me/sngxpro",
   "desc": "自用。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
-  "date": "2021-06-16 7:00:02",
+  "date": "2021-06-16 13:00:02",
   "list": [
   {
+      "name": "京东柠檬品牌狂欢日",
+      "type": "cron",
+      "time": "30 */1 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_ppkhr.js"
+      }
+    },	
+	   {
       "name": "京东618开卡活动10",
       "type": "cron",
       "time": "5 0 * * *",

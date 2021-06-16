@@ -3,7 +3,7 @@
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
                "0 9 * * * https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooLongzhou.js, tag=京东浓情618与粽不同, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/zoo.png, enabled=true",
-	       "30 */1 * * * https://raw.githubusercontent.com/panghu999/panghu/master/jd_ppkhr.js, tag=京东柠檬品牌狂欢日, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
+	       "30 */1 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_ppkhr.js, tag=京东柠檬品牌狂欢日, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",
 	       "5 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooOpencard10.js, tag=京东618开卡活动10, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/zoo.png, enabled=true",
 	       "5 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooOpencard09.js, tag=京东618开卡活动9, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/zoo.png, enabled=true",
 	       "30 */1 * * * https://cdn.jsdelivr.net/gh/panghu999/panghu@master/jd_kanjia3.js, tag=京东柠檬极速版砍价3（需填变量）, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ningmeng.png, enabled=true",

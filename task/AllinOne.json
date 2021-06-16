@@ -2,7 +2,8 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-               "0 23 * * * https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/ppz.js, tag=拼拼猪, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/tom.png, enabled=true",
+               "5 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/hzh/hzh.js, tag=华住会签到, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/hzh.png, enabled=true",
+	       "0 23 * * * https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/ppz.js, tag=拼拼猪, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/tom.png, enabled=true",
 	       "15 10 * * * https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooElecsport.js, tag=京东东东电竞经理, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/zoo.png, enabled=true",
 	       "15 13 6-18 6 * https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooLongzhou02.js, tag=京东粽情端午, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/zoo.png, enabled=true",
 	       "30 7 * * * https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/wen/jd/jd_ddnc_farmpark.js, tag=京东东东乐园, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/wen.png, enabled=true",

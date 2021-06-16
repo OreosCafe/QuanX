@@ -58,16 +58,7 @@
         "target": "https://cdn.jsdelivr.net/gh/panghu999/panghu@master/jd_kanjia3.js"
       }
     },	
-	  {
-      "name": "京东柠檬特物ZXJOY&DOGA",
-      "type": "cron",
-      "time": "0 0 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_zxjoy.js"
-      }
-    },	
-	  {
+	   {
       "name": "美音星品",
       "type": "cron",
       "time": "0 23 * * *",
@@ -1055,15 +1046,6 @@
       "job": {
         "type": "runjs",
         "target": "https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_ry618.js"
-      }
-    },	
-	   {
-      "name": "京东柠檬新潮品牌联欢",
-      "type": "cron",
-      "time": "1 0 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/panghu999/panghu/master/jd_xcpp.js"
       }
     },	
 	  {

@@ -5,6 +5,15 @@
   "date": "2021-06-16 14:00:02",
   "list": [
   {
+      "name": "华住会签到",
+      "type": "cron",
+      "time": "5 0 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/hzh/hzh.js"
+      }
+    },	
+	  {
       "name": "拼拼猪",
       "type": "cron",
       "time": "0 23 * * *",

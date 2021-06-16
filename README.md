@@ -1,5 +1,65 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+
+### 公众号少年歌行pro：6月16日 21:30，脚本进行如下变动：
+
+1、新增了 `zoopanda` 大佬 的 `京东粽情端午` 脚本
+
+2、新增了 `zoopanda` 大佬 的 `京东东东电竞经理` 脚本
+
+3、新增了 `Tom` 大佬 的 `拼拼猪` 脚本 （ios和安卓都有）
+
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【v2p for 安卓 订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/v2pAndroid.json
+
+【青龙拉取动物园库查看tg群教程】
+
+https://t.me/shao66/1663
+
+#### 注意：2个京东脚本需配合jd cookie 使用
+
+#### 注意：拼拼猪脚本需配合以下重写订阅获取cookie后使用
+
+【圈x】重写订阅
+
+`
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+
+`
+
+【v2p for 安卓 订阅地址】
+
+`
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/Android/rewrite/getcookie.conf
+
+`
+
+
+-----------------------
+#公众号：少年歌行pro
+
+#脚本更新
+
+https://t.me/shao66
+
+-------------------
+
+
+
+
+
+
 ### 公众号少年歌行pro：6月16日 14:30，脚本进行如下变动：
 
 1、新增了 `温某人` 大佬 的 `京东东东乐园` 脚本

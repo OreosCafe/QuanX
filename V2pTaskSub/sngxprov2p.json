@@ -10,7 +10,7 @@
       "time": "30 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/master/jd/jd_ddnc_farmpark.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/wen/jd/jd_ddnc_farmpark.js"
       }
     },	
 	   {

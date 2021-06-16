@@ -1,7 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### 公众号少年歌行pro：6月16日 7:00，脚本进行如下变动：
+### 公众号少年歌行pro：6月16日 14:30，脚本进行如下变动：
 
 1、新增了 `柠檬` 大佬 的 `京东柠檬全民挖现金` 脚本
 

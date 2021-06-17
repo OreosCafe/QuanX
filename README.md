@@ -1,5 +1,44 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+### 公众号少年歌行pro：6月17日 8:30，脚本进行如下变动：
+
+1、新增了 `温某人` 大佬 的 `10s阅读` 脚本获取cookie教程如下）
+
+查看脚本，注释中有用法
+
+2、新增了 `姐姐` 大佬 的 `多看点修复` 脚本（获取cookie教程如下）
+
+https://raw.githubusercontent.com/CenBoMin/GithubSync/main/DKDVIDEO/readme.js
+
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+#### 需配合以下【圈x】重写订阅获取cookie后使用
+
+`
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+
+`
+
+-----------------------
+#公众号：少年歌行pro
+
+#脚本更新
+
+https://t.me/shao66
+
+-------------------
+
+
+
+
 
 ### 公众号少年歌行pro：6月16日 21:30，脚本进行如下变动：
 

@@ -2,6 +2,42 @@
 
 ### 公众号少年歌行pro：6月20日 15:30，脚本进行如下变动：
 
+【新增】
+
+1、新增了 `zoopanda` 大佬 的 `京东粽享优惠` 脚本
+
+
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙拉动物园库教程】
+
+https://t.me/shao66/1663
+
+#### 京东脚本需配合jd cookie使用
+
+
+-----------------------
+#公众号：少年歌行pro
+
+#脚本更新
+
+https://t.me/shao66
+
+-------------------
+
+
+
+
+### 公众号少年歌行pro：6月20日 15:30，脚本进行如下变动：
+
 【修复】
 
 1、修复了 `Tom` 大佬 的 `引力生活`脚本获取cookie规则

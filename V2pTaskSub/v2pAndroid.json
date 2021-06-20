@@ -5,6 +5,15 @@
   "date": "2021-06-16 21:00:02",
   "list": [
  {
+      "name": "【安卓】开心点点消",
+      "type": "cron",
+      "time": "0 0 1 1 *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/kxddx.js"
+      }
+    },	
+    {
       "name": "【安卓】拼拼猪",
       "type": "cron",
       "time": "0 23 * * *",

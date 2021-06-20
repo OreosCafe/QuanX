@@ -1,5 +1,69 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+### 公众号少年歌行pro：6月20日 15:30，脚本进行如下变动：
+
+【修复】
+
+1、修复了 `Tom` 大佬 的 `引力生活`脚本获取cookie规则
+
+2、修复了 `温某人` 大佬 的 `10s阅读`脚本获取cookie规则
+
+【移除】
+
+1、移除了 `温某人` 大佬 的 `活动过期失效` 脚本
+
+2、移除了 `adolf` 大佬 的 `部分活动过期` 脚本
+
+3、移除了 `star261` 大佬 的 `动物联盟系列过期` 脚本
+
+4、移除了 `柠檬` 大佬 的 `部分活动过期` 脚本
+
+5、移除了 `家电星推官` 脚本
+
+
+【新增】
+
+1、新增了 `温某人` 大佬 的 `京东星系牧场` 脚本
+
+2、新增了 `Tom` 大佬 的 `左边众测试用` 脚本（需配合下方重写获取cookie使用）
+
+3、新增了 `zoopanda` 大佬 的 `京东618开卡活动11` 脚本
+
+4、新增了 `柠檬` 大佬 的 `京东cookie失效检测` 脚本
+
+
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+#### `左边众测试用`需配合以下【圈x】重写订阅获取cookie后使用
+
+#### 京东脚本需配合jd cookie使用
+
+`
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+
+`
+
+-----------------------
+#公众号：少年歌行pro
+
+#脚本更新
+
+https://t.me/shao66
+
+-------------------
+
+
+
+
+
 ### 公众号少年歌行pro：6月17日 8:30，脚本进行如下变动：
 
 1、新增了 `温某人` 大佬 的 `10s阅读` 脚本获取cookie教程如下）

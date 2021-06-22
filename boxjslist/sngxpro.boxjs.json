@@ -4,108 +4,15 @@
   "author": "@sngxpro",
   "icon": "https://avatars.githubusercontent.com/u/69911266?s=460&u=e5f306b3fb2860b898f12e87baa91b42eede535c&v=4",
   "repo": "https://github.com/sngxpro/QuanX",
-  "apps": [{
-            "id": "iboxpay",
-            "name": "笑谱",
-            "keys": ["refreshtoken", "iboxpayvideoheader", "iboxpayvideobody", "refreshtoken2", "iboxpayvideoheader2", "iboxpayvideobody2", "refreshtoken3", "iboxpayvideoheader3", "iboxpayvideobody3"],
-            "author": "@ziye",
-            "settings": [{
-                    "id": "iboxpaySuffix",
-                    "name": "当前账号",
-                    "val": "1",
-                    "type": "number",
-                    "desc": "当前抓取ck记录的账号序号，如：1、2、4、"
-                },
-                {
-                    "id": "iboxpayCount",
-                    "name": "账号个数",
-                    "val": "1",
-                    "type": "number",
-                    "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
-                },
-                {
-                    "id": "iboxpayLIVE",
-                    "name": "任务控制",
-                    "val": "1",
-                    "type": "number",
-                    "desc": "默认为1开启直播，视频请获取ck，设置2关闭视频，新人请设置888"
-                },
-                {
-                    "id": "iboxpayCASH",
-                    "name": "提现标准",
-                    "val": "0",
-                    "type": "number",
-                    "desc": "0不提现，可设置 0 1 15 30 100 888 设置888，由大至小循环提现 "
-                },
-                {
-                    "id": "iboxpayphone",
-                    "name": "手机号",
-                    "val": "0",
-                    "type": "number",
-                    "desc": "请输入完整手机号"
-                },
-                {
-                    "id": "iboxpaysms",
-                    "name": "验证码",
-                    "val": "0",
-                    "type": "number",
-                    "desc": "输入短信验证码，默认为0，不启动获取token功能"
-                }
-            ],
-            "repo": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/iboxpay.js",
-            "icons": ["https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/iboxpay.png", "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/iboxpay.png"],
-            "script": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/iboxpay.js"
-        },
+  "apps": [
              {
-    "id": "cgwz",
-    "name": "猜歌王者",
-    "keys": ["cgwzurl", "cgwzhd", "cgwzggurl"],
-    "author": "@feizao",
-    "repo": "https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/cgwz.js",
-    "icons": ["https://ae01.alicdn.com/kf/Uaade4566dd3744299956aa883f225386u.jpg", "https://ae01.alicdn.com/kf/Uaade4566dd3744299956aa883f225386u.jpg"],
-    "script": "ttps://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/cgwz.js"
-    }, 
-       {
-    "id": "smz",
-    "name": "睡眠",
-    "keys": ["ygkcurl", "ygkchd"],
-    "author": "@ziye",
-    "repo": "https://raw.githubusercontent.com/age174/-/main/smz.js",
-    "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/elem.png", "https://raw.githubusercontent.com/Orz-3/mini/master/elem.png"],
-    "script": "https://raw.githubusercontent.com/age174/-/main/smz.js"
-    }, 
-            {
-    "id": "kxhy",
-    "name": "开心花园",
-    "keys": ["kxhyheader"],
-    "author": "@zhiyi",
-    "repo": "https://raw.githubusercontent.com/age174/-/main/smz.js",
-    "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/elem.png", "https://raw.githubusercontent.com/Orz-3/mini/master/elem.png"],
-    "script": "https://raw.githubusercontent.com/age174/-/main/smz.js"
-    }, 
-      {
-      "id": "youthBanner",
-      "name": "中青看看赚",
-      "keys": ["youth_banner", "youth_android_readtime", "youth_android_reward", "youth_android_newtask", "youth_banner2", "youth_android_readtime2", "youth_android_reward2", "youth_android_newtask2", "youth_banner3", "youth_android_readtime3", "youth_android_reward3", "youth_android_newtask3", "youth_banner4", "youth_android_readtime4", "youth_android_reward4", "youth_android_newtask4"],
-      "author": "@ztxtop",
-      "settings": [{
-        "id": "delErrorData",
-        "name": "移除当日失败两次+的任务数据",
-        "val": "0",
-        "type": "radios",
-        "items": [{
-            "key": "0",
-            "label": "不移除"
-          },
-          {
-            "key": "1",
-            "label": "移除"
-          }
-        ]
-      }],
-      "repo": "https://github.com/ztxtop/x/blob/main/youth_banner.js",
-      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/youth.png", "https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png"],
-      "script": "https://raw.githubusercontent.com/ztxtop/x/main/youth_banner.js"
-    }              
+    "id": "10sread",
+    "name": "10s阅读",
+    "keys": ["read10sck", "read10surl"],
+    "author": "@wenmoux",
+    "repo": "https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/wen/other/jrkuaixun.js",
+    "icons": ["https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/wen.png", "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/wen.png"],
+    "script": "https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/wen/other/jrkuaixun.js"
+    }            
  ]
 }

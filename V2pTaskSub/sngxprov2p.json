@@ -16,7 +16,7 @@
 	       {
       "name": "京东点点券史蒂夫修复版",
       "type": "cron",
-      "time": "0 6 * * *",
+      "time": "10 0,20 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/qqsdff/script/main/jd/jd_necklace.js"

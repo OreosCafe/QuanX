@@ -1,5 +1,49 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+
+### 公众号少年歌行pro：6月23日 8:30，脚本进行如下变动：
+
+【新增】
+
+1、新增了 `奇趣史蒂夫` 大佬 的 `京东点点券修复` 脚本
+
+2、新增了 `star261` 大佬 的 `京东工厂开团` 脚本
+
+
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙拉star261库教程】
+
+https://t.me/shao66/1663
+
+【青龙拉点点券单文件命令】
+
+ql raw https://raw.githubusercontent.com/qqsdff/script/main/jd/jd_necklace.js
+
+
+#### 京东脚本需配合jd cookie使用
+
+
+-----------------------
+#公众号：少年歌行pro
+
+#脚本更新
+
+https://t.me/shao66
+
+-------------------
+
+
+
+
 ### 公众号少年歌行pro：6月20日 15:30，脚本进行如下变动：
 
 【新增】

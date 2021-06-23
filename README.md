@@ -3,6 +3,32 @@
 
 ### 公众号少年歌行pro：6月23日 8:30，脚本进行如下变动：
 
+【安卓专用，ios可以不用看】
+
+1、新增了 `Tom` 大佬 的 `乐挖` 脚本
+
+
+### 仓库订阅地址：
+
+【v2p for 安卓软件】脚本订阅地址：
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/v2pAndroid.json
+
+【v2p for 安卓软件】获取cookie订阅规则：
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/Android/rewrite/getcookie.conf
+
+-----------------------
+#公众号：少年歌行pro
+
+#脚本更新
+
+https://t.me/shao66
+
+-------------------
+
+### 公众号少年歌行pro：6月23日 8:30，脚本进行如下变动：
+
 【新增】
 
 1、新增了 `奇趣史蒂夫` 大佬 的 `京东点点券修复` 脚本

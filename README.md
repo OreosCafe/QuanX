@@ -2,6 +2,45 @@
 
 
 
+### 公众号少年歌行pro：6月24日 22：30，脚本进行如下变动：
+
+【新增】
+
+1、新增了 `photonmang` 大佬 的 `京东点点券photonmang修复版` 脚本
+
+2、新增了 `photonmang` 大佬 的 `京东宠汪汪兑换photonmang修复版` 脚本
+
+3、新增了 `photonmang` 大佬 的 `京东宠汪汪photonmang修复版` 脚本
+
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙拉取大佬修复脚本仓库命令】
+
+ql repo https://github.com/photonmang/quantumultX.git "JDscripts"
+
+
+#### 需要配合jd cookie使用
+
+#公众号：少年歌行pro
+
+#脚本更新
+
+https://t.me/shao66
+
+-------------------
+
+
+
+
+
 ### 公众号少年歌行pro：6月24日 8：00，脚本进行如下变动：
 
 【新增】

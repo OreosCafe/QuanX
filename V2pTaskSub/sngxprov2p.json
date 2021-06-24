@@ -5,6 +5,33 @@
   "date": "2021-06-24 8:00:02",
   "list": [
    {
+      "name": "京东点点券photonmang修复版",
+      "type": "cron",
+      "time": "10 0,20 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/photonmang/quantumultX/master/JDscripts/jd_necklace.js"
+      }
+    },	
+	   {
+      "name": "京东宠汪汪兑换photonmang修复版",
+      "type": "cron",
+      "time": "0 0-16/8 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/photonmang/quantumultX/master/JDscripts/jd_joy_reward.js"
+      }
+    },	
+	   {
+      "name": "京东宠汪汪photonmang修复版",
+      "type": "cron",
+      "time": "15 0-23/2 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/photonmang/quantumultX/master/JDscripts/jd_joy.js"
+      }
+    },	
+	   {
       "name": "京东待收货",
       "type": "cron",
       "time": "8 8 12 * * *",

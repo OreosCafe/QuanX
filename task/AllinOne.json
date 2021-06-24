@@ -2,7 +2,10 @@
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
-               "8 8 12 * * * https://ghproxy.com/https://raw.githubusercontent.com/ziye888/JavaScript/main/Task/jddsh.js, tag=京东待收货, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ziye.png, enabled=true",
+               "10 0,20 * * * https://ghproxy.com/https://raw.githubusercontent.com/photonmang/quantumultX/master/JDscripts/jd_necklace.js, tag=京东点点券photonmang修复版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
+	       "0 0-16/8 * * * https://ghproxy.com/https://raw.githubusercontent.com/photonmang/quantumultX/master/JDscripts/jd_joy_reward.js, tag=京东宠汪汪兑换photonmang修复版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
+	       "15 0-23/2 * * * https://ghproxy.com/https://raw.githubusercontent.com/photonmang/quantumultX/master/JDscripts/jd_joy.js, tag=京东宠汪汪photonmang修复版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
+	       "8 8 12 * * * https://ghproxy.com/https://raw.githubusercontent.com/ziye888/JavaScript/main/Task/jddsh.js, tag=京东待收货, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ziye.png, enabled=true",
 	       "10 0,20 * * * https://ghproxy.com/https://raw.githubusercontent.com/qqsdff/script/main/jd/jd_necklace.js, tag=京东点点券史蒂夫修复版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 	       "0 6 * * * https://ghproxy.com/https://raw.githubusercontent.com/star261/jd/main/scripts/star_dreamFactory_tuan.js, tag=京东京喜工厂开团, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 	       "15 13 6-18 6 * https://ghproxy.com/https://raw.githubusercontent.com/zooPanda/zoo/dev/zooLongzhou02.js, tag=京东粽享优惠, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/zoo.png, enabled=true",

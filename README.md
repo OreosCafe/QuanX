@@ -1,6 +1,42 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+### 公众号少年歌行pro：6月24日 8：00，脚本进行如下变动：
+
+【新增】
+
+1、新增了 `ziye` 大佬 的 `京东待收货` 脚本，没有豆，查询用的
+
+
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+
+#### 不通用jd cookie，需要使用下方规则单抓，但此规则和其他规则冲突，因此单独配置了重写，抓ck时勾选，抓后马上关掉
+
+#京东代收货获取ck，和其他规则都冲突，用时候勾选，抓到cookie后立即关闭
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/jddsh.conf, tag=京东待收货（和其他规则都冲突抓完关）, update-interval=86400, opt-
+
+
+-----------------------
+#公众号：少年歌行pro
+
+#脚本更新
+
+https://t.me/shao66
+
+-------------------
+
+
 ### 公众号少年歌行pro：6月23日 8:30，脚本进行如下变动：
 
 【安卓专用，ios可以不用看】

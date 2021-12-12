@@ -1,8 +1,0 @@
-{
-    "name": "ZhiYi-N",
-    "description": "公众号少年歌行pro整理",
-    "task": [
-        "1,30 10-20 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/ranlv.js, tag=燃旅视频, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/ranlv.jpg, enabled=true",        
-        "0 8 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/TT.js, tag=TT语音打卡, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/orthers/1.jpg, enabled=true",   
-    ]
-}

@@ -1,53 +1,53 @@
 /*
 10s阅读
-微信打开
-立即参与 -> http://h5.jrkuaixun.xyz/j/h?upuid=136513&ch=xmy&type=1
-备用链接 -> http://h5.njchenyue.xyz/j/h?upuid=136513&ch=xmy&type=1
-一小时30×0.01=0.3￥ 我测试两次是秒到的
-每小时有0.3 一天5轮 一天1.5
+微信打开立即参与 -> http://h5.qzsjfc.xyz/j/h?upuid=136513&ch=xmy&type=1
+备用链接 -> http://h5.saibangkaile.xyz/j/h?upuid=136513&ch=xmy&type=1
 
+每小时有0.3 一天5轮 一天1.5
+进不去关注10秒读书极速版公众号用官方链接
 使用方法:点击开始阅读 成功阅读一次即可抓到包
 脚本没写过盾的
-每次跑都要手动验证一次：点立即阅读,等文章出来后关闭页面(注意 千万不要返回)
-没用ios设备所以不清楚能不能抓到ck
-拉一人头提现0.3奖励0.5
+每次运行都要手动验证一次(也就是一天5次)
+点立即阅读,等文章出来后关闭页面(注意 千万不要返回)
+拉一人头提现0.3奖励0.5 0.8再奖励0.5
 https://t.me/wenmou_car
+
 [task_local]
 #10s阅读
 0 8-14/1 * * * https://raw.githubusercontent.com/Wenmoux/scripts/wen/other/jrkuaixun.js, tag=10s阅读, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true
 [rewrite_local]
 #10s阅读
-http:\/\/m.ltgggsa.top\/read_channel\/do_read&pageshow.* url script-request-body https://raw.githubusercontent.com/Wenmoux/scripts/wen/other/jrkuaixun.js
+.*read_channel\/do_read&pageshow.* url script-request-header https://raw.githubusercontent.com/Wenmoux/scripts/wen/other/jrkuaixun.js
  
 #loon
-http:\/\/m.ltgggsa.top\/read_channel\/do_read&pageshow.* script-path=https://raw.githubusercontent.com/Wenmoux/scripts/wen/other/jrkuaixun.js, requires-body=true, timeout=10, tag=10s阅读
+http-request .*read_channel\/do_read&pageshow.* script-path=https://raw.githubusercontent.com/Wenmoux/scripts/wen/other/jrkuaixun.js, requires-body=true, timeout=10, tag=10s阅读
  
 #surge
  
-10s阅读 = type=http-request,pattern=http:\/\/m.ltgggsa.top\/read_channel\/do_read&pageshow.*,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/Wenmoux/scripts/wen/other/jrkuaixun.js,script-update-interval=0
+10s阅读 = type=http-request,pattern=.*read_channel\/do_read&pageshow.*,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/Wenmoux/scripts/wen/other/jrkuaixun.js,script-update-interval=0
  
 [MITM]
-hostname = m.ltgggsa.top
+hostname = m.lainiwl.top
  
 */
 const $ = new Env('10s阅读');
 const notify = $.isNode() ? require('./sendNotify') : '';
-
-let host = `http://m.ltgggsa.top`;
+const jrpush = $.isNode() ? (process.env.jrpush ? process.env.jrpush : false) :false;
+const UA = $.isNode() ? (process.env.Read10UA ? process.env.Read10UA : "Mozilla/5.0 (Linux; Android 11; Redmi K30 Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/77.0.3865.120 MQQBrowser/6.2 TBS/045617 Mobile Safari/537.36 MMWEBID/5077 MicroMessenger/8.0.6.1900(0x2800063D) Process/tools WeChat/arm64 Weixin NetType/WIFI Language/zh_CN ABI/arm64") : ($.getdata('Read10UA') ? JSON.parse($.getdata('Read10UA')) : "Mozilla/5.0 (Linux; Android 11; Redmi K30 Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/77.0.3865.120 MQQBrowser/6.2 TBS/045617 Mobile Safari/537.36 MMWEBID/5077 MicroMessenger/8.0.6.1900(0x2800063D) Process/tools WeChat/arm64 Weixin NetType/WIFI Language/zh_CN ABI/arm64")    
+let host = $.getdata('read10surl')?$.getdata('read10surl'):`http://m.xhh25.top`;
 let cookiesArr = [$.getdata('read10sck')]
 if ($.isNode()) {
     cookiesArr = process.env.Readck ? process.env.Readck.split("@") : []
     host = process.env.readapi ? process.env.readapi : host
 }
 message = ""
-
     !(async () => {
         if (typeof $request !== "undefined") {
             await read10sck()
         }
         if (!cookiesArr[0]) {
-            $.msg($.name, '【提示】请先获取cookie', 'http://h5.jrkuaixun.xyz/j/h?upuid=136513&ch=xmy&type=1', {
-                "open-url": "http://h5.jrkuaixun.xyz/j/h?upuid=136513&ch=xmy&type=1"
+            $.msg($.name, '【提示】请先获取cookie', '微信打开 http://h5.hakc.top/j/r1?upuid=136678&ch=xmy', {
+                "open-url": "http://h5.hakc.top/j/r1?upuid=136678&ch=xmy"
             });
             return;
         }
@@ -73,16 +73,18 @@ message = ""
                     message += `账号【${k+1}】：${$.message} \n\n `
                 }
             }
-        }
-        if ($.isNode()) {
+        }   
+        if (message.length != 0) {
+         $.msg($.name, "", '10s阅读' + message) 
+         }
+        if ($.isNode() && jrpush) {
             if (message.length != 0) {
                 await notify.sendNotify("10s阅读", `${message}\n\n吹水群：https://t.me/wenmou_car`);
             }
         } else {
             $.msg($.name, "", '10s阅读' + message)
         }
-
-
+        
     })()
     .catch((e) => $.logErr(e))
     .finally(() => $.done())
@@ -91,10 +93,11 @@ message = ""
 
 function read10sck() {
     if ($request.url.indexOf("do_read") > -1) {
-        // const read10surl = $request.url
-        //  if(read10surl)     $.setdata(read10surl,"read10surl")
-        //   $.log(read10surl)
-        //  const read10shd = JSON.stringify()
+        const read10surls = $request.url
+        let read10surl = read10surls.match(/(.+?)\/read_channel/)
+         $.setdata(JSON.stringify($request.headers),"read10surl")
+//        $.msg($.name, "", '10s阅读 获取数据获取成功！'+read10surl)
+          if(read10surl)     $.setdata(read10surl[1],"read10surl")
         if ($request.headers.Cookie) $.setdata($request.headers.Cookie, `read10sck`)
         $.log(read10sck)
         $.msg($.name, "", '10s阅读 获取数据获取成功！')
@@ -103,20 +106,22 @@ function read10sck() {
 
 function read(url1) {
     return new Promise(async (resolve) => {
-        let headers = {
-            cookie,
-            "X-Requested-With": "XMLHttpRequest"
-        }
         if (!url1) {
-            url = `${host}/read_channel/do_read&pageshow&r=0.8321951810381554`
+            url = `${host}/read_channel/do_read&pageshow&r=`
         } else {
             url = url1
+        }
+      let headers = {
+            cookie,
+            referer:url,
+            "X-Requested-With": "XMLHttpRequest",
+            "User-Agent": UA
         }
         let options = {
             headers,
             url
         }
-        //     console.log(options)
+         //  console.log(options)
         $.get(options, async (err, resp, data) => {
             try {
                 if (err) {
@@ -127,16 +132,17 @@ function read(url1) {
                     if (!url1) {
                         console.log(data)
                         data = JSON.parse(data);
-
                         if (data.url) {
-                            resolve(data.url)
-                            //    console.log(data.url)
+                          if(!data.jkey){                  
+                            resolve(data.url)}else{
+                                    $.message = "该账号需要验证请手动阅读一次并关掉页面(不要点返回)"
+                         $.canRead = false
+                            }
                         } else {
-                            console.log(data.click_check)
-                            if (data.click_check) {
+                       //     console.log(data.click_check)
+                            if (data.click_check ) {
                                 $.message = "该账号需要验证请手动阅读一次并关掉页面(不要点返回)"
-                                console.log($.message)
-
+                                  console.log($.message)
                             } else {
                                 console.log(data)
                             }

@@ -4,11 +4,11 @@
 
 #### 【v2p for ios软件】脚本订阅地址：
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 #### 【v2p for 安卓软件】脚本订阅地址：
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/v2pAndroid.json
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/V2pTaskSub/v2pAndroid.json
 
 
 #### 使用方法
@@ -26,4 +26,4 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTa
 
 #### 【v2p for 安卓软件】获取cookie订阅规则：
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/Android/rewrite/getcookie.conf
+https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/QuanX/master/Android/rewrite/getcookie.conf

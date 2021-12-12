@@ -1,8 +1,0 @@
-{
-    "name": "adwktt",
-    "description": "公众号少年歌行pro整理",
-    "task": [
-        "0,30 0-12 * * * https://raw.githubusercontent.com/adwktt/adwktt/master/yk.js, tag=一刻视频, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/115.png, enabled=true",        
-        "0 8-23/2 * * * https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js, tag=步步宝, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/115.png, enabled=true", 
-    ]
-}

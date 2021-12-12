@@ -1,7 +1,0 @@
- {
-    "name": "passerby-b",
-    "description": "公众号少年歌行pro整理",
-    "task": [
-        "0 9 * * * https://gitee.com/passerby-b/javascript/raw/master/unipay.js, tag=云闪付, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/unipay.png, enabled=true",
-    ]
-}

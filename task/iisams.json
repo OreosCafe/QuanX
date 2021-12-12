@@ -1,8 +1,0 @@
-{
-    "name": "iisams",
-    "description": "公众号少年歌行pro整理",
-    "task": [
-          "7 0 * * * https://raw.githubusercontent.com/iisams/Scripts/master/liwo/7days.js,tag=梨涡签到领现金, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/liwo.png, enabled=true",
-          "5 8 * * * https://raw.githubusercontent.com/iisams/Scripts/master/liwo/jdtqz.js, tag= 京东特权值, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=false",
-    ]
-}    

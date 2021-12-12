@@ -1,89 +1,107 @@
 {
-  "name": "公众号少年歌行pro v2p 专用定时任务订阅",
-  "author": "由公众号少年歌行pro维护 https://t.me/sngxpro",
-  "desc": "为安卓平台app的脚本定制。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
-  "date": "2021-06-23 16:00:02",
-  "list": [
- {
-      "name": "【安卓】乐挖",
-      "type": "cron",
-      "time": "0/20 * * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/lw.js"
-      }
-    },	
-    {
-      "name": "【安卓】开心点点消",
-      "type": "cron",
-      "time": "0 0 1 1 *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/kxddx.js"
-      }
-    },	
-    {
-      "name": "【安卓】拼拼猪",
-      "type": "cron",
-      "time": "0 23 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/ppz.js"
-      }
-    },	
-    {
-      "name": "【安卓】天天爱养牛",
-      "type": "cron",
-      "time": "0 22 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/ttayn.js"
-      }
-    },	
-    {
-      "name": "【安卓】健身猫",
-      "type": "cron",
-      "time": "0 0 1 1 *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/jsm.js"
-      }
-    },	
-    {
-      "name": "【安卓】红包多多",
-      "type": "cron",
-      "time": "0 0 1 1 *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/hbdd.js"
-      }
-    },	
-    {
-      "name": "【安卓】草根时代",
-      "type": "cron",
-      "time": "0 7 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/cgsd.js"
-      }
-    },	
-    {
-      "name": "【安卓】赚多多",
-      "type": "cron",
-      "time": "0 7 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/zdd.js"
-      }
-    },	
-    {
-      "name": "【安卓】青椒音乐(ck稍后大佬发)",
-      "type": "cron",
-      "time": "0 12 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/qjyy.js"
-      }
-    }
-      ]
+    "name":"公众号少年歌行pro v2p 专用定时任务订阅",
+    "author":"由公众号少年歌行pro维护  https://t.me/sngxpro",
+    "desc":"为安卓平台app的脚本定制。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
+    "date":"2021-07-01 11:00:02",
+    "list":[
+        {
+            "name":"【安卓】蛋咖",
+            "type":"cron",
+            "time":"0/20 * * * *",
+            "job":{
+                "type":"runjs",
+                "target":"https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/dk.js"
+            }
+        },
+        {
+            "name":"【安卓】王者猜成语",
+            "type":"cron",
+            "time":"0 0/1 * * *",
+            "job":{
+                "type":"runjs",
+                "target":"https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/wzccy.js"
+            }
+        },
+        {
+            "name":"【安卓】乐挖",
+            "type":"cron",
+            "time":"0/20 * * * *",
+            "job":{
+                "type":"runjs",
+                "target":"https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/lw.js"
+            }
+        },
+        {
+            "name":"【安卓】开心点点消",
+            "type":"cron",
+            "time":"0 0 1 1 *",
+            "job":{
+                "type":"runjs",
+                "target":"https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/kxddx.js"
+            }
+        },
+        {
+            "name":"【安卓】拼拼猪",
+            "type":"cron",
+            "time":"0 23 * * *",
+            "job":{
+                "type":"runjs",
+                "target":"https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/ppz.js"
+            }
+        },
+        {
+            "name":"【安卓】天天爱养牛",
+            "type":"cron",
+            "time":"0 22 * * *",
+            "job":{
+                "type":"runjs",
+                "target":"https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/ttayn.js"
+            }
+        },
+        {
+            "name":"【安卓】健身猫",
+            "type":"cron",
+            "time":"0 0 1 1 *",
+            "job":{
+                "type":"runjs",
+                "target":"https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/jsm.js"
+            }
+        },
+        {
+            "name":"【安卓】红包多多",
+            "type":"cron",
+            "time":"0 0 1 1 *",
+            "job":{
+                "type":"runjs",
+                "target":"https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/hbdd.js"
+            }
+        },
+        {
+            "name":"【安卓】草根时代",
+            "type":"cron",
+            "time":"0 7 * * *",
+            "job":{
+                "type":"runjs",
+                "target":"https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/cgsd.js"
+            }
+        },
+        {
+            "name":"【安卓】赚多多",
+            "type":"cron",
+            "time":"0 7 * * *",
+            "job":{
+                "type":"runjs",
+                "target":"https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/zdd.js"
+            }
+        },
+        {
+            "name":"【安卓】青椒音乐(ck稍后大佬发)",
+            "type":"cron",
+            "time":"0 12 * * *",
+            "job":{
+                "type":"runjs",
+                "target":"https://ghproxy.com/https://raw.githubusercontent.com/xl2101200/-/main/qjyy.js"
+            }
+        }
+    ]
 }
